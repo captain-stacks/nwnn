@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "next dev --turbopack"
+  },
+  "dependencies": {
+    "next": "^15.5.4",
+    "rss": "^1.2.2"
+  }
+}
