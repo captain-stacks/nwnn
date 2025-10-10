@@ -69,6 +69,11 @@ export default async function handler(req, res) {
 
       // If this is a Telegram-sourced item, ensure the image is an absolute URL
       let description = link.description || ''
+
+      // If this is an item from x.com, prefer the messageText field for the article text
+      if (link.domain === 'x.com' && link.messageText) {
+        description = link.messageText
+      }
       if (link.domain === 'telegram' && link.image) {
         const fullImage = makeAbsoluteImage(link.image)
         const mime = guessImageMime(fullImage)
