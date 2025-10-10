@@ -68,7 +68,8 @@ export default async function handler(req, res) {
       }
 
       // If this is a Telegram-sourced item, ensure the image is an absolute URL
-      let description = link.description || ''
+      // Use messageText when description is explicitly null; otherwise prefer description or empty string
+      let description = (link.description === null && link.messageText) ? link.messageText : (link.description || '')
 
       // If this is an item from x.com, prefer the messageText field for the article text
       if (link.domain === 'x.com' && link.messageText) {
