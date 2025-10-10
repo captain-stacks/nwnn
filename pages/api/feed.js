@@ -36,6 +36,28 @@ export default async function handler(req, res) {
       return 'image/*'
     }
 
+    const makeAbsoluteImage = (img) => {
+      if (!img) return undefined
+      try {
+        // If img is already absolute, this returns it unchanged; if it's relative, this resolves against the site
+        return new URL(img, 'https://nwnn.l484.com').toString()
+      } catch (e) {
+        // Fallback string concat
+        if (img.startsWith('/')) return `https://nwnn.l484.com${img}`
+        return `https://nwnn.l484.com/${img}`
+      }
+    }
+
+    const escapeHtml = (str) => {
+      if (!str) return ''
+      return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;')
+    }
+
     for (const link of data.links) {
       const item = {
         title: link.title || 'Untitled',
@@ -45,7 +67,35 @@ export default async function handler(req, res) {
         date: link.createdAt ? new Date(link.createdAt) : new Date()
       }
 
-      if (link.image) {
+      // If this is a Telegram-sourced item, ensure the image is an absolute URL
+      let description = link.description || ''
+      if (link.domain === 'telegram' && link.image) {
+        const fullImage = makeAbsoluteImage(link.image)
+        const mime = guessImageMime(fullImage)
+
+        // Embed image in the description (article text)
+        const alt = escapeHtml(link.title || 'image')
+        const imgHtml = `<p><img src="${fullImage}" alt="${alt}" /></p>`
+        // Append the image so it appears at the end of the article text
+        if (description) {
+          description = description + '\n' + imgHtml
+        } else {
+          description = imgHtml
+        }
+
+        // Add media:content using the absolute image URL
+        const attrs = { url: fullImage, medium: 'image' }
+        if (mime) attrs.type = mime
+
+        item.custom_elements = [
+          {
+            'media:content': [
+              { _attr: attrs }
+            ]
+          }
+        ]
+      } else if (link.image) {
+        // Non-telegram images: keep existing behavior
         const mime = guessImageMime(link.image)
         const attrs = { url: link.image, medium: 'image' }
         if (mime) attrs.type = mime
@@ -58,6 +108,9 @@ export default async function handler(req, res) {
           }
         ]
       }
+
+      // Assign description after possibly modifying it above
+      item.description = description
 
       feed.item(item)
     }
