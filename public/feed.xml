@@ -4,9 +4,9 @@
         <description><![CDATA[Latest links from NWNN]]></description>
         <link>https://nwnn.l484.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 02 Nov 2025 15:35:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Nov 2025 21:35:37 GMT</lastBuildDate>
         <atom:link href="https://nwnn.l484.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 02 Nov 2025 15:35:39 GMT</pubDate>
+        <pubDate>Sun, 02 Nov 2025 21:35:37 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[God Is Decentralized: Health, Crypto & the Path to Real Freedom (ft. Polycarp Nakamoto)]]></title>
@@ -215,6 +215,15 @@ This side-quest project is a Bitcoin Satellite Command Console to interface with
             <link>telegram://message/6466</link>
             <guid isPermaLink="false">230</guid>
             <pubDate>Sun, 02 Nov 2025 15:10:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Linux gamers on Steam finally cross over the 3% mark]]></title>
+            <description><![CDATA[It finally happened. Linux gamers on Steam as of the Steam Hardware & Software Survey for October 2025 have crossed over the elusive 3% mark.]]></description>
+            <link>https://www.gamingonlinux.com/2025/11/linux-gamers-on-steam-finally-cross-over-the-3-mark/</link>
+            <guid isPermaLink="false">231</guid>
+            <pubDate>Sun, 02 Nov 2025 20:25:30 GMT</pubDate>
+            <media:content url="https://www.gamingonlinux.com/uploads/tagline_gallery/steamos-2025.jpg" medium="image" type="image/jpeg">
+            </media:content>
         </item>
     </channel>
 </rss>
