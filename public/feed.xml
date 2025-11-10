@@ -4,9 +4,9 @@
         <description><![CDATA[Latest links from NWNN]]></description>
         <link>https://nwnn.l484.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 06 Nov 2025 18:35:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Nov 2025 18:37:44 GMT</lastBuildDate>
         <atom:link href="https://nwnn.l484.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 06 Nov 2025 18:35:44 GMT</pubDate>
+        <pubDate>Mon, 10 Nov 2025 18:37:44 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[God Is Decentralized: Health, Crypto & the Path to Real Freedom (ft. Polycarp Nakamoto)]]></title>
@@ -235,6 +235,54 @@ This side-quest project is a Bitcoin Satellite Command Console to interface with
             <guid isPermaLink="false">233</guid>
             <pubDate>Thu, 06 Nov 2025 18:11:12 GMT</pubDate>
             <media:content url="https://nwnn.l484.com/api/media/photos/1762453981387_photo_6469.jpg" medium="image" type="image/jpeg">
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Take Back Our Tech | Substack]]></title>
+            <description><![CDATA[Let's use technology that doesn't use us. We are an educational movement & community. Together we'll learn about friendly technology and how to use it effectively across many areas. Desktop, web, mobile, hardware, communications, and much more! Click to read Take Back Our Tech, a Substack publication with thousands of subscribers.]]></description>
+            <link>https://tbot.substack.com/</link>
+            <guid isPermaLink="false">240</guid>
+            <pubDate>Mon, 10 Nov 2025 17:01:27 GMT</pubDate>
+            <media:content url="https://substackcdn.com/image/fetch/$s_!zjSo!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Ftbot.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1780610583%26version%3D9" medium="image" type="image/*">
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[XMPP, A Comeback Story: A 20 Year Old Messaging Protocol For Robust, Private and Decentralized Communications]]></title>
+            <description><![CDATA[Everyone loves a comeback story.
+
+Can a 20 year old overlooked technology make a comeback as a completely decentralized, free, and scalable technology for the growing masses of people who value freedom and privacy?]]></description>
+            <link>https://takebackourtech.org/xmpp-comeback/</link>
+            <guid isPermaLink="false">239</guid>
+            <pubDate>Mon, 10 Nov 2025 17:01:27 GMT</pubDate>
+            <media:content url="https://takebackourtech.org/content/images/2021/11/XMPP-20-Year-Old-Header.jpg" medium="image" type="image/jpeg">
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Untitled]]></title>
+            <description><![CDATA[Google’s Secret Location Database Exposed: How “Sensorvault” Tracks Billions
+
+Just published a new piece in Druthers — “Google’s Secret Location Tracking Database.”
+
+In this article, I uncover how Sensorvault, Google’s hidden geolocation system, records billions of movements around the world and fuels the growing surveillance infrastructure behind Digital ID and law enforcement tracking.
+
+It’s a deep dive into how our everyday devices are being weaponized against our privacy — and what we can do to take back control.
+
+📘 Read the full article on Druthers
+
+—
+🫶 @takebackourtech
+📩 WEBSITE & NEWSLETTER | 🎥 VIDEOS| XMPP | SUBSTACK]]></description>
+            <link>https://news.takebackourtech.org/subscription/form</link>
+            <guid isPermaLink="false">237</guid>
+            <pubDate>Mon, 10 Nov 2025 17:01:27 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Take Back Our Tech]]></title>
+            <description><![CDATA[Let's use technology that doesn't use us. We publish regular in-depth series about friendly & effective technology, and how it could change our lives.]]></description>
+            <link>https://takebackourtech.org/#/portal/signup</link>
+            <guid isPermaLink="false">236</guid>
+            <pubDate>Mon, 10 Nov 2025 17:01:27 GMT</pubDate>
+            <media:content url="https://takebackourtech.org/content/images/2025/08/TBOT-IDX.jpg" medium="image" type="image/jpeg">
             </media:content>
         </item>
     </channel>
