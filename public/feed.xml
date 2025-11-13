@@ -4,9 +4,9 @@
         <description><![CDATA[Latest links from NWNN]]></description>
         <link>https://nwnn.l484.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 10 Nov 2025 18:37:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Nov 2025 03:13:00 GMT</lastBuildDate>
         <atom:link href="https://nwnn.l484.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 10 Nov 2025 18:37:44 GMT</pubDate>
+        <pubDate>Thu, 13 Nov 2025 03:13:00 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[God Is Decentralized: Health, Crypto & the Path to Real Freedom (ft. Polycarp Nakamoto)]]></title>
@@ -283,6 +283,15 @@ It’s a deep dive into how our everyday devices are being weaponized against ou
             <guid isPermaLink="false">236</guid>
             <pubDate>Mon, 10 Nov 2025 17:01:27 GMT</pubDate>
             <media:content url="https://takebackourtech.org/content/images/2025/08/TBOT-IDX.jpg" medium="image" type="image/jpeg">
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[Android developer verification: Early access starts now as we continue to build with your feedback]]></title>
+            <description><![CDATA[News and insights on the Android platform, developer tools, and events.]]></description>
+            <link>https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html</link>
+            <guid isPermaLink="false">243</guid>
+            <pubDate>Thu, 13 Nov 2025 01:49:45 GMT</pubDate>
+            <media:content url="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_0oYZrhyCqNBO9anwBOP-3yGqbxf_mGoKMcsLxVixlVftYnSfg1H6W235avMonfD62Yw8M4wOwHxcNoJDCw3hTooUpQr6aZAGdej9cMygcg4-SMMYFchbo8x5-6lLLodUgVGhoN-SdkPGiRYxFV825y6Drdr0SwmwUtwtBRdiydT3s48ACNvKS1GI2aM/s1600/V3%20-%20Opt%20B%20Meta_1.png" medium="image" type="image/png">
             </media:content>
         </item>
     </channel>
