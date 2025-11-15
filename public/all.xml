@@ -1,0 +1,721 @@
+<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" >
+	<channel>
+		<title> | FreshRSS</title>
+		<link>http://192.168.1.206/FreshRSS/p</link>
+		<description>RSS feed of  | FreshRSS</description>
+		<pubDate>Sat, 15 Nov 2025 13:18:38 +0000</pubDate>
+		<lastBuildDate>Sat, 15 Nov 2025 13:18:38 GMT</lastBuildDate>
+		<atom:link href="/i/?a=rss&amp;user=default&amp;token=token&amp;hours=168" rel="self" type="application/rss+xml" />
+				<item>
+			<title>Link Dump – Recently Read Articles</title>
+			<link>https://brokenstar.blog/2025/09/01/link-dump-recently-read-articles-3/</link>
+						<dc:creator>vida</dc:creator>
+			<category>Bookmarks</category>
+			<category>ai</category>
+			<category>bbs</category>
+			<category>books</category>
+			<category>history</category>
+			<category>internet</category>
+			<category>privacy</category>
+			<category>security</category>
+			<category>work</category>
+			<description><![CDATA[<div data-sanitized-class="bookmarks-intro">
+<p>Here are some articles aI am reading and found interesting:</p>
+</div>
+<ul data-sanitized-class="bookmarks-list">
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://digiday.com/media/why-publishers-are-preparing-to-federate-their-sites/">Why publishers are preparing to federate their sites</a></div>
+<div data-sanitized-class="bookmark-domain"><em>digiday.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>The Verge and 404 Media are exploring the fediverse as a way to take more control over their referral traffic and onsite audience engagement.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> internet</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://www.woodtv.com/news/nexstar-media-wire/people-swear-this-adorable-new-app-helped-break-their-phone-addiction/">People swear this adorable new app helped break their phone addiction</a></div>
+<div data-sanitized-class="bookmark-domain"><em>woodtv.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>I’m intrigued by this app but somehow the article failed to mention the name of the app <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f644.png" alt="🙄" data-sanitized-class="wp-smiley"></p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://amiga.vision/">AmigaVision</a></div>
+<div data-sanitized-class="bookmark-domain"><em>amiga.vision</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>I didn’t have an Amiga, but I always thought the stuff that came out of the demo scene was neat. Glad to see this stuff being archived and made accessible.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> internet, bbs</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://bobdahacker.com/blog/monster-energy">I Hacked Monster Energy and You Won't Believe What They Think You Look Like</a></div>
+<div data-sanitized-class="bookmark-domain"><em>bobdahacker.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>Monster Energy’s corporate infrastructure exposed: employee training, customer stereotypes, Beast Bux rewards, and a file system API that’s STILL wide open.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> security</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://www.currentaffairs.org/news/why-the-internet-is-turning-to-shit">Why the Internet is Turning to Shit</a></div>
+<div data-sanitized-class="bookmark-domain"><em>currentaffairs.org</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>A good indictment of the current state of the Internet.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> internet</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://www.secretsofprivacy.com/p/how-one-password-destroyed-a-158-year-old-business">How one password destroyed a 158-year-old business</a></div>
+<div data-sanitized-class="bookmark-domain"><em>secretsofprivacy.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>This is an extreme example, but it shows how dangerous it can be to rely on weak passwords.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> security</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://www.newyorker.com/business/currency/the-open-office-trap">The Open-Office Trap</a></div>
+<div data-sanitized-class="bookmark-domain"><em>newyorker.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>This was an interesting examination of the “open offices” that have come to dominate workplaces in the U.S.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> work</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://www.404media.co/podcast-the-inside-story-of-tea/">Podcast: The Inside Story of Tea</a></div>
+<div data-sanitized-class="bookmark-domain"><em>404media.co</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>This podcast about Tea (the recently hacked viral app) is wild. What a sketchy company.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> internet, privacy</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/chatgpt-5-power-consumption-could-be-as-much-as-eight-times-higher-than-gpt-4-research-institute-estimates-medium-sized-gpt-5-response-can-consume-up-to-40-watt-hours-of-electricity">ChatGPT 5 power consumption could be as much as eight times higher than GPT 4 — research institute estimates medium-sized GPT-5 response can consume up to 40 watt-hours of electricity</a></div>
+<div data-sanitized-class="bookmark-domain"><em>tomshardware.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>But the figures rely on hardware and usage assumptions that may be inaccurate.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> ai</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://aftermath.site/guides-writers">From Nintendo Power Hotline To Now, Human Labor Has Always Been The Soul Of Video Game Guides – Aftermath</a></div>
+<div data-sanitized-class="bookmark-domain"><em>aftermath.site</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>Despite its boosters’ claims, AI will never be able to replace a human guides writer</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://www.bloodinthemachine.com/p/how-ai-is-killing-jobs-in-the-tech-f39">AI Killed My Job: Tech workers</a></div>
+<div data-sanitized-class="bookmark-domain"><em>bloodinthemachine.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>Brian Merchant put together this collection of stories from tech workers displaced by AI.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> ai</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://themarkup.org/privacy/2025/08/12/we-caught-companies-making-it-harder-to-delete-your-data">We caught companies making it harder to delete your personal data online – The Markup</a></div>
+<div data-sanitized-class="bookmark-domain"><em>themarkup.org</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>Not at all surprising. The data broker world is a black hole of bad practices.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> privacy</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://americanindiansinchildrensliterature.blogspot.com/2007/05/kenneth-thomasmas-books-casting-call-is.html">Kenneth Thomasma's books</a></div>
+<div data-sanitized-class="bookmark-domain"><em>americanindiansinchildrensliterature.blogspot.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>I was curious about the portrayal of Native Americans in a book from my youth and this blog post does a good job of covering all the problematic aspects.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> books</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://www.reuters.com/lifestyle/bootcamp-bust-how-ai-is-upending-software-development-industry-2025-08-09/">From bootcamp to bust: How AI is upending the software development industry</a></div>
+<div data-sanitized-class="bookmark-domain"><em>reuters.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>Bootcamps always sold inflated promises, but I’d imagine it’s much worse now.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> ai, internet</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://growtika.com/chatgpt-shared-chats-seo-indexing-privacy-leak/">ChatGPT Shared Chats Were Indexed: SEO Visibility Gone Wrong</a></div>
+<div data-sanitized-class="bookmark-domain"><em>growtika.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>Over 100,000 ChatGPT chats were shared publicly. Some were indexed, many archived. What went wrong, what it means for SEO &amp; what happens next.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> ai, privacy</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://apple.news/AQNxevUrpRhWh3Sp0roWWVg">Smithsonian removes Trump from impeachment exhibit in American History Museum</a></div>
+<div data-sanitized-class="bookmark-domain"><em>apple.news</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>What is truth? What is history?</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> history</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://apple.news/A4nOMfUJnTE6VQAQfDCDIKQ">First Came Tea. Then Came the Male Rage.</a></div>
+<div data-sanitized-class="bookmark-domain"><em>apple.news</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>“What Tea has accomplished, though, is showing what women are up against. The men so hell-bent on revenge against Tea’s users are illustrating that hatred of women is alive and well.”</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> internet</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://ethanding.substack.com/p/ai-subscriptions-get-short-squeezed">tokens are getting more expensive</a></div>
+<div data-sanitized-class="bookmark-domain"><em>ethanding.substack.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>An interesting look at pricing for AI usage and how costs scale.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> ai</p>
+</div>
+</li>
+</ul>
+<div data-sanitized-class="bookmarks-meta">
+<p><em>Synced from Raindrop.io on September 1, 2025 10:57 am</em></p>
+</div>]]></description>
+			<pubDate>Mon, 01 Sep 2025 14:58:45 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557515</guid>
+		</item>
+		<item>
+			<title>Rare Sounds: Vangelis – Fais Que Ton Rêve Soit Plus Long Que La Nuit</title>
+			<link>https://brokenstar.blog/2025/09/01/rare-sounds-vangelis-fais-que-ton-reve-soit-plus-long-que-la-nuit/</link>
+						<dc:creator>vida</dc:creator>
+			<category>Music</category>
+			<category>music</category>
+			<category>rare sounds</category>
+			<category>vangelis</category>
+			<media:content url="https://archive.org/details/01-fais-que-ton-reve-soit-plus-long-que-la-nuit/02+Fais+Que+Ton+Reve+Soit+Plus+Long+Que+La+Nuit.mp3" type="audio/mpeg"></media:content>
+			<description><![CDATA[<p>Long before the composer Vangelis became famous for the sweeping scores of <em>Chariots of Fire </em>and <em>Blade Runner</em>, he recorded one of his strangest and most elusive works: a 1971 album titled <a href="https://en.wikipedia.org/wiki/Fais_que_ton_r%C3%AAve_soit_plus_long_que_la_nuit">Fais que ton rêve soit plus long que la nuit</a>. Part protest document, part symphonic poem, it was born out of the turmoil of <a href="https://en.wikipedia.org/wiki/May_68">France’s May 1968 rebellion</a>. I stumbled across it years ago in the form of a scratchy MP3 rip, and what began as casual curiosity soon turned into a quiet obsession. The record has remained obscure—never reissued, rarely mentioned, and impossible to find on streaming platforms—yet it continues to haunt me.</p>
+
+
+
+<p>Its obscurity has bred rumors. Some say Vangelis was embarrassed by it and rejected the ideas it contained; others point to <a href="https://vangelis.online/music/1970s/faisquetonrevesoitpluslongquelanuit">a very limited release</a> in France and Greece. In the current era of streaming, it isn’t available. I’ve never been able to track down a physical copy. I still listen to my old MP3s, but I’ve since found <a href="https://archive.org/details/01-fais-que-ton-reve-soit-plus-long-que-la-nuit/02+Fais+Que+Ton+Reve+Soit+Plus+Long+Que+La+Nuit.mp3">a better recording on archive.org</a>.</p>
+
+
+
+<p>But beyond its scarcity, what makes the record remarkable is how it blends art and politics into a single sonic experiment. <em>Fais Que Ton Rêve Soit Plus Long Que La Nuit</em> mixes Vangelis’ compositions with sounds he recorded on the barricades in May 1968. The record sleeve describes it as a “’Poème symphonique” or “symphonic poem” which is an accurate description. I’ve always found the album to be quite compelling. Musically, it is rather chaotic with a background of sounds of street battles (tear gas containers, sirens, shouting, etc) with fragments of spoken dialog alongside rather haunting lyrics chanting the slogans of the day. It captures the excitement of the era, the euphoria of believing that the protests have won, and then ends with the somber announcement that French President Charles DeGaulle is re-taking control of Paris and that the occupied university, the Sorbonne, at the heart of the rebellion had been retaken by government forces. <a href="https://www.vangelislyrics.com/vangelis-fais-que-ton-reve-soit-plus-long-que-la-nuit-english-translation-lyrics.htm">The lyrics</a> highlight the revolutionary ideas of the time, drawing heavily from <a href="https://www.theparisreview.org/blog/2018/05/01/may-68-posters-of-the-revolution/">the posters that lined the streets</a>.</p>
+
+
+
+<p>More than fifty years later, this strange “symphonic poem” still feels alive—half revolutionary echo, half forgotten artifact. It captures a moment of euphoria, defiance, and eventual disillusion, etched into sound. If you can track it down, even in a dusty corner of the Internet, it’s worth the listen.</p>]]></description>
+			<pubDate>Mon, 01 Sep 2025 14:46:30 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557514</guid>
+		</item>
+		<item>
+			<title>Yakuza: Like a Dragon Review – Heartfelt RPG Experience</title>
+			<link>https://brokenstar.blog/2025/08/23/yakuza-like-a-dragon-review-heartfelt-rpg-experience/</link>
+						<dc:creator>vida</dc:creator>
+			<category>Video Games</category>
+			<category>blaugust2025</category>
+			<category>jrpg</category>
+			<category>rpgs</category>
+			<category>video games</category>
+			<description><![CDATA[<p>Few RPGs have ever made me laugh and tear up in equal measure, but Yakuza: Like a Dragon pulled it off.I recently finished <a href="https://en.wikipedia.org/wiki/Yakuza:_Like_a_Dragon">Yakuza: Like a Dragon</a> and wasn’t surprised to see it land among my favorite games of all time. I had heard it get a lot of praise as being an interesting story with a unexpected amount of heart, so I wasn’t entirely surprised to have enjoyed it so much.</p>
+
+
+
+<p><em>Yakuza: Like a Dragon</em> follows Ichiban Kasuga, a low-ranking yakuza member who takes the fall for a crime he didn’t commit. After serving 18 years in prison, he’s betrayed by his former boss and left for dead in Yokohama. Determined to uncover the truth and rebuild his life, Ichiban gathers a band of misfits and fights to expose corruption while chasing his dream of becoming a hero. What surprised me most was how earnest Ichiban is—he’s a goofy, big-hearted mess of a character, and that’s exactly what makes him so lovable. Most of the side quests and the main story largely consists of Ichiban trying to help people. </p>
+
+
+
+<p>The game is a turn-based RPG, which was a shift for the <em>Yakuza</em> series. I haven’t played any of the previous games, so I can’t comment on the how it compares to the beat-em-up games that preceded it, but I found the turn-based combat to be pretty enjoyable. It’s relatively basic RPG fare with the usual buffs/de-buffs, special skills, and upgradable weapons. The job system, which lets characters switch between quirky roles like chef or breakdancer, adds personality—even if I mostly stuck to defaults.</p>
+
+
+
+<p>The overall story could be broadly described as a redemption arc that sees Ichiban left-for-dead in a homeless camp and sees him uncover the mystery around how he ended up there. It intersects with his life story and he learns a lot about who he is and where he came from. It feels a bit like a soap opera with lots of twists and turns, but for the most part, it’s engaging and I was invested in it. </p>
+
+
+
+<p>The biggest drawback for me was the difficulty spikes—they dragged the pacing down and forced me into hours of grinding I didn’t enjoy. In Chapter 12, the game basically prompts you to start grinding levels via the 30-story Sotenbori Battle Arena. You get some good gear, but it feels like padding. There are other similar dungeons — Yokohama Underground and Kamurocho Underground — that exist primarily for grinding. They are dull and felt very tedious. Near the end of the game, I basically had to spend several hours grinding to level up my character for the rather difficult final section. I generally don’t mind grinding when it’s something I decide to do, but this felt mandatory.</p>
+
+
+
+<p>Grinding aside, <em>Yakuza: Like a Dragon</em> reminded me why I love games that balance heart with humor. If <em>Infinite Wealth </em>builds on this foundation, I can’t wait to see where Ichiban’s journey goes next.</p>]]></description>
+			<pubDate>Sat, 23 Aug 2025 19:08:58 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557513</guid>
+		</item>
+		<item>
+			<title>WitchSpring R Review: A Cozy RPG Adventure</title>
+			<link>https://brokenstar.blog/2025/08/15/witchspring-r-review-a-cozy-rpg-adventure/</link>
+						<dc:creator>vida</dc:creator>
+			<category>Video Games</category>
+			<category>blaugust2025</category>
+			<category>jrpg</category>
+			<category>rpgs</category>
+			<category>video games</category>
+			<description><![CDATA[<p>I recently finished <strong><em>WitchSpring R</em></strong>, and it turned out to be a short, breezy RPG that I enjoyed from beginning to end.</p>
+
+
+
+<p>Originally a mobile game from 2015, <em>WitchSpring</em> has been reimagined here as a full remake. While developed by a South Korean studio, it shares plenty of DNA with classic JRPGs—turn-based combat, dungeon crawling, quirky characters, and the familiar sense of leveling and progression.</p>
+
+
+
+<p>You play as Pieberry, a young witch living in exile deep in a forest, cut off from the outside world where witches are hunted. The narrative gradually unfolds as you explore, uncover more about the world, and learn where Pieberry fits within it. The story isn’t groundbreaking, but it’s told in a charming way that kept me engaged.</p>
+
+
+
+<p>Combat is relatively straightforward turn-based fare, but it introduces some neat wrinkles—like <strong>turn bonuses</strong>, which reward you with extra actions for defeating enemies with physical attacks. The game also discourages grinding by limiting experience gains to an enemy’s first defeat. Instead, progress comes from training Pieberry’s skills through mini-games, collecting pets that can fight alongside you, and dabbling in some light crafting. (I didn’t spend much time on crafting and still managed fine.)</p>
+
+
+
+<p>On the presentation side, the game shines. Its art direction is colorful and whimsical, and it looked great running on my PlayStation 5.</p>
+
+
+
+<p><strong>Overall:</strong> <em>WitchSpring R</em> is a cozy, compact RPG that doesn’t overstay its welcome. If you’re looking for something light, charming, and relatively short, I’d recommend giving it a try.</p>]]></description>
+			<pubDate>Sat, 16 Aug 2025 02:25:19 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557512</guid>
+		</item>
+		<item>
+			<title>Jailbreaking my Kindle Paperwhite</title>
+			<link>https://brokenstar.blog/2025/08/13/jailbreaking-kindle-paperwhite/</link>
+						<dc:creator>vida</dc:creator>
+			<category>Books</category>
+			<category>blaugust2025</category>
+			<category>books</category>
+			<category>kindle</category>
+			<category>privacy</category>
+			<description><![CDATA[<p>Early this year, I heard that it was <a href="https://www.androidpolice.com/kindle-winterbreak-tutorial/">possible to jailbreak most Amazon Kindle devices</a>. I was interested, but ultimately decided against it. The deal-breaker for me was <a href="https://libbyapp.com/">Libby</a>. If jailbreaking meant losing access to library books, I was out. I couldn’t find a good answer to this initially, so I held off. Since the height of the COVID pandemic, I’ve switched reading almost exclusively on my second-hand Amazon Kindle Paperwhite (7th Generation), so I didn’t want to disrupt my reading.</p>
+
+
+
+<p>Last week, the topic of jailbreaking ereaders came up on <a href="https://maximumfun.org/episodes/reading-glasses/ep-423-is-jailbreaking-your-ereader-worth-it/">the Reading Glasses podcast</a> and it reminded me that it was something I was considering. Best of all, they gave a nice, non-technical overview of why one might want to do it. The increased flexibility was enough to get me interested again, and they confirmed that it still works with Libby. They also shared a helpful video overview:</p>
+
+
+
+<figure data-sanitized-class="wp-block-boldblocks-youtube-block"><div data-video-id="Qtk7ERwlIAk" data-title="Play" data-sanitized-id="yb-video-Qtk7ERwlIAk" data-sanitized-class="yb-player"><button data-sanitized-class="yb-btn-play"><span data-sanitized-class="visually-hidden">Play</span></button></div><figcaption data-sanitized-class="yb-caption"><br><br>I’ve rooted a few Android devices in the past and the process for jailbreaking the Amazon Kindle was very easy and well-documented. A great website provides <a href="https://kindlemodding.org/jailbreaking/">step-by-step directions</a>. I set aside about half an hour and was able to complete it without encountering any issues.<br><br><br>Once the jailbreak was done, there are additional steps to take to disable over-the-air updates from Amazon (these could potentially remove the jailbreak) and install a custom reader. I followed the guide and installed <a href="https://koreader.rocks/">KOReader</a>, which is a popular reader for e-ink devices. It gives you the ability to read a wider range of file formats (for example, ePub) as well as more customization options, faster PDF handling, and custom fonts. It also doesn’t send analytics to Amazon, which the privacy nerd in me enjoys. I struggled a bit with understanding the UI, but skimming <a href="https://koreader.rocks/user_guide/">the User Guide</a> helped and after a few minutes, I had a nice optimized layout.<br><br>A good part of why I wanted to do the jailbreak was to hopefully get the Amazon ads removed from the lock screen. I haven’t figured out that part yet, but hopefully soon. Overall, it feels good to loosen Amazon’s grip — even if their ads are still clinging to my lock screen for now.</figcaption></figure>]]></description>
+			<pubDate>Thu, 14 Aug 2025 02:22:22 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557511</guid>
+		</item>
+		<item>
+			<title>Book Review: Review: Incredible Doom, Volumes 1 and 2</title>
+			<link>https://brokenstar.blog/2025/08/08/book-review-review-incredible-doom-volumes-1-and-2/</link>
+						<dc:creator>vida</dc:creator>
+			<category>Internet</category>
+			<category>blaugust2025</category>
+			<category>books</category>
+			<category>nostalgia</category>
+			<description><![CDATA[<p>Before the Internet, there were BBSes — hidden communities you had to know how to find. <em>Incredible Doom</em> (by Matthew Bogart, illustrated by Jesse Holden) drops you into that world, where teenage misfits built entire universes one message at a time.</p>
+
+
+
+<p>I don’t remember how I came across the book, but it’s been on my mind since I read <a href="https://bookshop.org/p/books/incredible-doom-jesse-holden/15915826?ean=9780063064935&amp;next=t">the first volume </a>a few years ago. It’s a graphic novel that tells the intertwined story of a group of teenagers growing up in the 1990s who discover the world of online computer bulletin board systems (BBSes). The kids all come from different but challenging backgrounds and find refuge in the world of the mysterious “Evol BBS”.</p>
+
+
+
+<p>I was able to relate quite a bit to the stories in the book. In the 1990s, finding out about computer BBSes felt like a lifeline. Much like the characters in the book, BBSes provided me with a group of friends with shared interests (so hard to find in the real world). It was invigorating to find a digital community of folks who were interested in computers, underground music, and teenage rebellion.Some of my BBS friends would become my punk rock friends. Like the characters in <em>Incredible Doom</em>, I often found the lines between the digital and offline worlds blurring.</p>
+
+
+
+<p>Aesthetically, the book is a joy to look at with a stark black, blue, and white color palette for its illustrations. The pages in between the sections feature ascii and ansi characters, which is quite evocative of the era. The art is a perfect accompaniment to the bittersweet story that it tells. </p>
+
+
+
+<p>I recently read <a href="https://bookshop.org/p/books/incredible-doom-volume-2-jesse-holden/17964328?ean=9780063064966&amp;next=t">volume two</a> and found it just as engaging as the first volume. It focused more on the fissures in the community that folks were building around Evol BBS and their collective living situation, which was a nice progression. Often these seeming teen utopias had their own internal challenges, so it’s nice to see the characters struggle with them, even if it did occasionally feel rather bleak. It also introduced a touring band and underground music shows, which again mirrored my experience.</p>
+
+
+
+<p>I’d definitely recommend <em>Incredible Doom</em> to anyone with nostalgia for the 1990s and the (mostly) pre-Internet era. If you grew up in that period with similar experiences, it will no doubt prompt a lot of reflection.</p>]]></description>
+			<pubDate>Fri, 08 Aug 2025 12:56:59 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557510</guid>
+		</item>
+		<item>
+			<title>Blaugust 2025</title>
+			<link>https://brokenstar.blog/2025/08/03/blaugust-2025/</link>
+						<dc:creator>vida</dc:creator>
+			<category>Internet</category>
+			<category>indieweb</category>
+			<description><![CDATA[<p>I learned about a neat project today: <a href="https://nerdgirlthoughts.game.blog/2025/07/10/blaugust-2025-is-coming/" data-type="link" data-id="https://nerdgirlthoughts.game.blog/2025/07/10/blaugust-2025-is-coming/">Blaugust 2025</a>.</p>
+
+
+
+<p>Basically, it’s a month-long blogging event encouraging community building and creativity. For me, I’m hoping it’s a nice way to find other blogs to follow and to give me a push to post more often.</p>
+
+
+
+<p>Here’s a summary from the intro post:</p>
+
+
+
+<blockquote data-sanitized-class="wp-block-quote is-layout-flow wp-block-quote-is-layout-flow">
+<h2 data-sanitized-class="wp-block-heading">What is Blaugust?</h2>
+
+
+
+<p>For anyone arriving here for the very first time Blaugust is a month-long event that takes place each August which focuses on blogging primarily and has started to include other forms of serialized content over the last several years. The goal is to stoke the fires of creativity and allow bloggers and other content creators to mingle in a shared community while pushing each other to post more regularly. Above all the goal of Blaugust has always been to prove to folks that they can in fact sit down every day and create something fresh and then share it with the world. Posting regularly builds a community and in this era of AI-slop content, our voices are needed even more than we ever have been at any point in the past. Our hope is to create a nurturing environment where Veteran bloggers can help those just getting started and the cross-pollination of ideas can create something truly spectacular. Your blog gives you a permanent foothold on the Internet that you own and have complete control of, and that is a really good feeling in the midst of shifting trends.</p>
+</blockquote>
+
+
+
+<p>I signed up and look forward to participating! </p>]]></description>
+			<pubDate>Sun, 03 Aug 2025 14:17:08 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557509</guid>
+		</item>
+		<item>
+			<title>Link Dump – Recently Read Articles</title>
+			<link>https://brokenstar.blog/2025/08/02/link-dump-recently-read-articles-2/</link>
+						<dc:creator>vida</dc:creator>
+			<category>Bookmarks</category>
+			<category>ai</category>
+			<category>privacy</category>
+			<description><![CDATA[<p></p>
+
+
+<div data-sanitized-class="bookmarks-intro">
+<p>Here are some articles I have read recently and found interesting:</p>
+</div>
+<ul data-sanitized-class="bookmarks-list">
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://www.nytimes.com/2025/07/31/technology/ai-researchers-nba-stars.html">A.I. Researchers Are Negotiating $250 Million Pay Packages. Just Like NBA Stars.</a></div>
+<div data-sanitized-class="bookmark-domain"><em>nytimes.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>This is just absurd.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> ai</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://macleans.ca/society/confessions-of-the-working-poor/">Confessions of the Working Poor – Macleans.ca</a></div>
+<div data-sanitized-class="bookmark-domain"><em>macleans.ca</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>I work hard, buy quality clothes and fake my way through dinner-party conversations. I’m also part of a fast-growing Canadian underclass.</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://www.technologyreview.com/2025/07/18/1120466/a-major-ai-training-data-set-contains-millions-of-examples-of-personal-data/">A major AI training data set contains millions of examples of personal data</a></div>
+<div data-sanitized-class="bookmark-domain"><em>technologyreview.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>Personally identifiable information has been found in DataComp CommonPool, one of the largest open-source data sets used to train image generation models.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> ai, privacy</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://www.404media.co/googles-ai-is-destroying-search-the-internet-and-your-brain/">Google’s AI Is Destroying Search, the Internet, and Your Brain</a></div>
+<div data-sanitized-class="bookmark-domain"><em>404media.co</em></div>
+<div data-sanitized-class="bookmark-description">
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f622.png" alt="😢" data-sanitized-class="wp-smiley">Not surprisingly, folks are clicking less on individual links in search results and are instead relying on Google’s AI Overviews.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> internet, ai</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://alltimebangers.com/the-ancient-land-of-ys/">The Ancient Land of Ys</a></div>
+<div data-sanitized-class="bookmark-domain"><em>alltimebangers.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>Released: Jun 21, 1987Version played: Ys I Chronicles+ (2013)</p>
+<p>There is an invisible third pillar in the development of the first decade of RPG video games. The first pillar is of course Wizardry and Ultima, the two titans that emerged as the commerical successors to the early hobbyist RPG scene o</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://www.theverge.com/news/706855/grok-mechahitler-xai-defense-department-contract">US government announces $200 million Grok contract a week after ‘MechaHitler’ incident</a></div>
+<div data-sanitized-class="bookmark-domain"><em>theverge.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p><img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f614.png" alt="😔" data-sanitized-class="wp-smiley"></p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> ai</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://www.theverge.com/news/706569/apple-ios-iphone-alternative-browser-webkit-owa">Where are the iPhone’s WebKit-less browsers?</a></div>
+<div data-sanitized-class="bookmark-domain"><em>theverge.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>Will we ever see a non-WebKit browser on iOS?</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> internet</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://www.theguardian.com/technology/2025/jul/14/scientists-reportedly-hiding-ai-text-prompts-in-academic-papers-to-receive-positive-peer-reviews">Scientists reportedly hiding AI text prompts in academic papers to receive positive peer reviews</a></div>
+<div data-sanitized-class="bookmark-domain"><em>theguardian.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>Good grief <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f644.png" alt="🙄" data-sanitized-class="wp-smiley"></p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> ai</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://blog.decryption.net.au/posts/macpaint.html">MacPaint Art From The Mid-80s Still Looks Great Today</a></div>
+<div data-sanitized-class="bookmark-domain"><em>blog.decryption.net.au</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>40 years later and the art people painstaking made in MacPaint on their little Macs still amazes me.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> internet</p>
+</div>
+</li>
+</ul>
+<div data-sanitized-class="bookmarks-meta">
+<p><em>Synced from Raindrop.io on August 2, 2025 12:33 pm</em></p>
+</div>]]></description>
+			<pubDate>Sat, 02 Aug 2025 16:39:20 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557508</guid>
+		</item>
+		<item>
+			<title>Media Diet #2</title>
+			<link>https://brokenstar.blog/2025/07/13/media-diet-2/</link>
+						<dc:creator>vida</dc:creator>
+			<category>Media Diet</category>
+			<description><![CDATA[<p></p>
+
+
+
+<h2 data-sanitized-class="wp-block-heading">Books <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f4da.png" alt="📚" data-sanitized-class="wp-smiley"></h2>
+
+
+
+<p><a href="https://bookshop.org/p/books/careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism/22213433?ean=9781250391230&amp;next=t"><em>Careless People: A story of where I used to work</em></a>– In this book, Sarah Wynn-Williams chronicles her time at Facebook where she worked from 2011-2017 as a director of global policy. The narrative mostly focuses on her experiences and Facebook’s decline (I’m less optimistic that it was ever good) as the company embraced a goal of growth at any costs. She describes the disturbing internal culture as well as Facebook’s disregard for privacy, democracy, and public safety. I didn’t feel like there was anything particularly new here, but it was a good overview.</p>
+
+
+
+<p><a href="https://bookshop.org/p/books/get-your-sh-t-together-journal-practical-ways-to-cut-the-bullsh-t-and-win-at-life-sarah-knight/113422?ean=9780316505079&amp;next=t"><em>Get Your Sh*t Together</em></a>– I sometimes enjoy a basic self-help / productivity book and this was as good as most others. Nothing groundbreaking, but I got a few tips from it on being more intentional about how I spend my time, energy, and money. As someone who makes a lot of money ”to-do lists”, I like the idea of “must-do lists” presented by the author.</p>
+
+
+
+<p><a href="https://bookshop.org/p/books/story-of-my-life-standard-edition-lucy-score/21989579?ean=9781464250385&amp;next=t"><em>Story of my Life</em></a>– This was a decent small town romance story. It was full of familiar tropes: big city author loses job and moves to small town, small town rivalry with nearby town, “fake dating” for “practice”, flawed main characters, etc. I like small towns and easy-to-read romances with happy endings, so this was a great summer read.</p>
+
+
+
+<h2 data-sanitized-class="wp-block-heading">Movies <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f3a5.png" alt="🎥" data-sanitized-class="wp-smiley"></h2>
+
+
+
+<p><a href="https://www.imdb.com/title/tt3468380/"><em>Which Brings Me To You</em></a> – This was a decent romantic melodrama story about two folks who meet at a wedding and up spending 24 hours together. It reminded me a bit of the <em>Before</em> series of movies (albeit not nearly as well-written) with a lot of dialogue. </p>
+
+
+
+<p><a href="https://www.imdb.com/title/tt10314040/"><em>Unplugging</em></a> – A married couple in their 40s realizes that they are too dependent on their devices and heads to small-town Indiana for a digital detox. I thought the premise was good, but the movie was a bit uneven. </p>
+
+
+
+<p><a href="https://www.imdb.com/title/tt15671028/"><em>No Hard Feelings</em></a> – The premise is pretty improbable: concerned parents hire a struggling early-30s woman to date their 18 year old son. Predictably, both the woman and the son develop feelings for each other throughout the course of the film. It was enjoyable at times but ended up being mostly forgettable.</p>
+
+
+
+<h2 data-sanitized-class="wp-block-heading">Games <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f3ae.png" alt="🎮" data-sanitized-class="wp-smiley"></h2>
+
+
+
+<p><a href="https://www.mariowiki.com/Super_Mario_World_2:_Yoshi's_Island"><em>Super Mario World 2: Yoshi’s Island</em></a> – The other day I woke up wanting to play this game for some reason, despite last playing it some 22 years ago. I remembered it being very good at the time I played. However, this time around I wasn’t as into it. I found the mechanic where when Yoshi gets hit Mario floats around in a bubble crying to be incredibly frustrating. I don’t know how I forgot it. It really brings the game down, especially when one gets hit as often as I do.</p>
+
+
+
+<p><a href="https://witch-spring.fandom.com/wiki/WitchSpring_R"><em>Witch Spring R</em></a> – This is a very cute RPG starring a witch named Pieberry. I’m about halfway through the game and have found it to be pretty enjoyable. The story seems to be picking up and it’s developing some darker undertones as I learn more about the world and the persecution of witches.</p>]]></description>
+			<pubDate>Sun, 13 Jul 2025 13:50:12 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557507</guid>
+		</item>
+		<item>
+			<title>Link Dump – Recently Read Articles</title>
+			<link>https://brokenstar.blog/2025/07/12/link-dump-recently-read-articles/</link>
+						<dc:creator>vida</dc:creator>
+			<category>Bookmarks</category>
+			<category>ai</category>
+			<category>indieweb</category>
+			<category>privacy</category>
+			<description><![CDATA[<p></p>
+
+
+<div data-sanitized-class="bookmarks-intro">
+<p>Here are some articles I recently read and found interesting:</p>
+</div>
+<ul data-sanitized-class="bookmarks-list">
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://theintercept.com/2025/07/11/grok-antisemitic-ai-chatbot/">Grok Is the Latest in a Long Line of Chatbots To Go Full Nazi</a></div>
+<div data-sanitized-class="bookmark-domain"><em>theintercept.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>Grok’s recent antisemitic turn is not an aberration, but part of a pattern of AI chatbots churning out hateful drivel.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> ai</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://www.theverge.com/news/705015/grok-ai-uses-elon-musks-opinions-for-controversial-questions">Grok searches for Elon Musk’s opinion before answering tough questions</a></div>
+<div data-sanitized-class="bookmark-domain"><em>theverge.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>A mouthpiece for its master.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> ai</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://www.theguardian.com/us-news/2025/jul/08/court-click-to-cancel-ruling">US court strikes down ‘click-to-cancel’ rule designed to make unsubscribing easier</a></div>
+<div data-sanitized-class="bookmark-domain"><em>theguardian.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>Of course they’d stop this rule <img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f625.png" alt="😥" data-sanitized-class="wp-smiley"></p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://ian.sh/mcdonalds">Would you like an IDOR with that? Leaking 64 million McDonald’s job applications</a></div>
+<div data-sanitized-class="bookmark-domain"><em>ian.sh</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>This is a pretty wild vulnerability</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> privacy</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://www.404media.co/researchers-jailbreak-ai-by-flooding-it-with-bullshit-jargon/">Researchers Jailbreak AI by Flooding It With Bullshit Jargon</a></div>
+<div data-sanitized-class="bookmark-domain"><em>404media.co</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>LLMs don’t read the danger in requests if you use enough big words.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> ai</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://www.404media.co/the-open-source-software-saving-the-internet-from-ai-bot-scrapers/">The Open-Source Software Saving the Internet From AI Bot Scrapers</a></div>
+<div data-sanitized-class="bookmark-domain"><em>404media.co</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>This sounds like a neat tool.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> ai</p>
+</div>
+</li>
+<li>
+<div data-sanitized-class="bookmark-title"><a href="https://htmlforpeople.com/">HTML for People</a></div>
+<div data-sanitized-class="bookmark-domain"><em>htmlforpeople.com</em></div>
+<div data-sanitized-class="bookmark-description">
+<p>This is a neat resource for folks making their personal website.</p>
+</div>
+<div data-sanitized-class="bookmark-tags">
+<p><strong>Tagged:</strong> indieweb</p>
+</div>
+</li>
+</ul>
+<div data-sanitized-class="bookmarks-meta">
+<p><em>Synced from Raindrop.io on July 12, 2025 12:34 pm</em></p>
+</div>]]></description>
+			<pubDate>Sat, 12 Jul 2025 16:40:33 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557506</guid>
+		</item>
+		<item>
+			<title>Monet</title>
+			<link>https://jamesg.blog/2025/11/13/monet/</link>
+						<dc:creator>James' Coffee Blog</dc:creator>
+			<description><![CDATA[<p>On the ground floor of the Musee de l’Orangerie in Paris – a long building by the river banks of the Seine, and at the start of the Jardin des Tuileries – there is an exhibit of eight Monet paintings. The <a href="https://www.musee-orangerie.fr/en/node/197502">museum website introduces the paintings</a> like so:</p><blockquote>Offered to the French State by the painter Claude Monet on the day that followed the Armistice of November 11, 1918 as a symbol for peace, the Water Lilies are installed according to plan at the Orangerie Museum in 1927, a few months after his death.</blockquote><p>The exhibit spans two rooms: each an oval. The two ovals connect together in a figure-of-eight. The walls of the rooms are white, each adorned with a wide-canvas Monet painting. When you are in either of the oval rooms, you are surrounded by colour: reds and yellows and blues and purples. You get a feeling that there is more detail than you can possibly comprehend, but you do your best to take in the works. From up close and afar, you study, appreciating the colours, the gradients, the trees, the reflections.</p><p>The painting on the left as you enter shows a gradient as if the sun is rising or setting – you don’t yet have a perfect grasp of how to distinguish between the two moments of day in art, and so you see both: a beginning and an end. You proceed further and see blue skies and white clouds reflected on the pond – blue a theme of several of paintings, you will later realise. <em>What does it mean to appreciate a work?</em>, you consider. Do I need to understand every detail? The answer to this question reveals itself as a smile adorns your face for reasons that you cannot quite put into words. Maybe the colour is brightening your mood. Or maybe the realisation that the more you look, the more you see satisfies a certain part of your mind that loves details.</p><p>You walk around the two rooms once and then realise you want to keep going. You keep walking. You look at all of the works with a new perspective – the perspective of having seen all that comes before and after each individual painting. You wonder if there are themes between the works, and you start to think more about whether the painting to the left as you entered was of a sunrise or a sunset.</p><p>In the back of your mind, you think about how the structure of the rooms – the two ovals – encourages you to keep going. You are in a place that encourages you to walk in circles. You learned from the plaque on your way in that this was designed: that the place is intentionally a figure-of-eight, the symbol of infinity.</p><p>At one point, after spending some time looking at a painting, you realise that there is a colour you didn’t notice before. You realise that there is an infinite amount to appreciate, and that you don’t feel an obligation to understand everything for the colours and the vastness of the paintings and the context in which they were offered – as a symbol for piece – take your breath away.</p><p>You realise that you don’t need to understand all the details of the works for them to have an impact, to leave you with some feeling.</p><p>I left with a sense of wonder. I came back the next day.</p>]]></description>
+			<pubDate>Thu, 13 Nov 2025 11:57:20 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557505</guid>
+		</item>
+		<item>
+			<title>What’s in my inventory?</title>
+			<link>https://jamesg.blog/2025/11/12/whats-in-my-inventory/</link>
+						<dc:creator>James' Coffee Blog</dc:creator>
+			<description><![CDATA[<p>Wherever I go, I usually bring my backpack. In it, I always keep a few things. First, I try to always bring a book with me. I usually pack a book to read before I leave the house, for the book I am reading is either at my bedside or next to my chair. Right now, I am reading <em>the art of explanation</em> by Ron Atkins, a book about how to communicate clearly written by a senior reporter at the BBC. If I am out and about, I might read in a cafe, on the train, or really anywhere that I can sit down and relax.</p><p>I bring my AirPods wherever I go, as well as my phone (I wish my phone were lighter though). I can’t read in noisy environments; the AirPods noise isolation feature is thus useful. I also enjoy listening to music where I go – songs by Taylor Swift, Lorde, Florence and the Machine, Oh Wonder, MisterWives, and several other artists are among those I listen to the most. I love podcasts, too.</p><p>I also bring a notebook in which to write. This is essential. Sometimes I need to write something down or sketch it out. My notebook is where I will write down a few ideas that I want to explore on paper rather than jotting down on my phone. I draw wireframes for web pages. I write stories. My notebook has a sticker of my blog mascot on the front, a little bit of personalisation.</p><p>I bring a few pencils. I don’t think I bring a pen anywhere; I prefer to write with pencil in notebooks. I like to use Blackwing pencils, which have a rubber – is “rubber” widely understood outside the UK? An alternate term is an “eraser” – on the end. I bring a pencil sharpener, too – all stationery is kept in my pencil case.</p><p>I bring some stickers where I go, in case I run into friends to whom I want to give stickers. I bring hand sanitiser – absolutely essential.</p><p>I bring various charging cables, some that I use and others that I keep in case someone needs them. (I once went on a trip abroad and forgot a charger converter. A friend kindly lent me a spare they had. Ever since then I try to keep a few cables.)</p><p>I also bring all of myself where I go – my thoughts, my hopes, my dreams, my anxieties, my ideas.</p><p><em>This is my submission for the </em><a href="https://blog.absurdpirate.com/bear-blog-carnival-november-whats-in-my-inventory/"><em>Bear Blog Carnival this month</em></a><em>, hosted by Absurd Pirate on the topic “What’s in my inventory?”.</em></p>]]></description>
+			<pubDate>Wed, 12 Nov 2025 13:51:33 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557504</guid>
+		</item>
+		<item>
+			<title>I’m going to study art history</title>
+			<link>https://jamesg.blog/2025/11/12/studying-art-history/</link>
+						<dc:creator>James' Coffee Blog</dc:creator>
+			<description><![CDATA[<p>Over the last few months, I have been taking a part-time online course with the V&amp;A focused on the history of art. The course has taken me through eras from Classical art and sculpture all the way to Impressionism, Cubism, and Surrealism. With every lecture, I feel like my mind is being opened, both by the pieces of art I study and the context around the art – the cultural commentary that arose from pivotal art works, how technology changed art, and more.</p><p>With that said, I have an announcement to make: Starting in January next year, I am going to be studying for a bachelor’s degree in History of Art. I’ll be studying with the Open University, a university based in the UK that specialises in distance and online learning.</p><p>It’s a big change for me: for the last six years, I have been a technical writer, focused on documentation and tutorials of all kinds. I moved straight from secondary school to work. I had an eagerness to start my career, and, looking back, I feel I made the right decision by not starting with university.</p><p>But this year in particular, I felt like I was no longer growing as much as I wanted to. I was yearning for a new challenge. I started thinking about new things to do, and, looking back on what brought me the most joy this year, my time in art galleries was close to the top of the list. <em>I could study art history</em>, I thought.</p><p>When I am in galleries, I love trying to understand an artwork. I love looking for details. I love the moment where you realise a new detail after studying an artwork closely for ten minutes. I love noticing patterns between different paintings – whether themes or icons or common objects. Over the last year, I have found myself being able to understand paintings more as a result of spending more time in galleries, but there is so much more I want to learn – a realisation that fills me with great excitement.</p><p>Last week, in my part-time course, I learned how to interpret a Cubist painting, which has helped me appreciate that period to a much greater extent. I learned that Cubists strive to paint a picture of a space by showing you only the minimum details you need to build your own image of the space. An occluded part of a musical instrument and a glass may indicate the scene is in a bar, for example. An hour of learning helped open my eyes to a form of art I found interesting but was unable to appreciate to a great extent. Cubist paintings make me consider the questions <em>What is essential to create an image? And how do I know?</em></p><p>After many months of thought, the idea of studying turned into a reality. My blog home page now reads <em>I'm a soon-to-be art history student.</em>, a statement I added fuelled by the excitement I feel for the coming months.</p><p>Despite this big change – from full-time work to full-time study – one thing is for sure: I will continue to be here blogging as normal – indeed, writing, like analysing art, excites me to an extent that may take a lifetime to encapsulate in words.</p>]]></description>
+			<pubDate>Wed, 12 Nov 2025 09:08:00 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557503</guid>
+		</item>
+		<item>
+			<title>No work is ever wasted</title>
+			<link>https://jamesg.blog/2025/10/31/no-work-is-ever-wasted/</link>
+						<dc:creator>James' Coffee Blog</dc:creator>
+			<description><![CDATA[<p>This morning, I ended up on chsmc.org’s “<a href="https://chsmc.org/2013/03/pixar-storytelling/">Applying Pixar’s rules of storytelling to writing</a>” post. At the bottom, he quotes:</p><blockquote>No work is ever wasted. If it’s not working, let go and move on – it’ll come back around to be useful later.</blockquote><p>I knew I had to come back to this point. <em>No work is ever wasted.</em></p><p>These words have multiple meanings to me, but among them is the pressure I sometimes feel for my writing to be destined for this blog. This is in contrast to writing something like a journal entry which is only for me. I would never say that any of my writing is “wasted”. But I do know how difficult it feels to think that what I write should be here on this blog.</p><p>With the ease of publishing on the web, I have felt and feel pressure to write something that could be a blog post. I haven’t written many journal entries, in part because I know they are not something I want to publish. <em>I could be using that writing time to do something for my blog</em>, I reason. Except inspiration doesn’t work that way, I am learning.</p><p>I haven’t felt much inspiration to write blog posts recently, for I am in the midst of the excitement and trepidation and anticipation and potential of a change. As such, I have had lots of inspiration to write in my journal, where I can think and process and imagine by myself. Journaling occupies a different space in my life. Journaling is just for me; blog posts, meanwhile, are for everyone.</p><p>In using my typewriter, I have once again been journaling. I <em>love</em> the writing I am doing. I am not trying to stick to the blog post form, with a title in mind and a topic to cover. Sometimes I meander between topics such that every paragraph is something new. Sometimes I stare out the window and have an idea that I don’t have much to say about but that I know I want to write down anyway, and so I do. I have found that when I write one sentence, another seems to follow – what seemed like part of an idea is starting to take shape.</p><p>I have read and, likely, in the past myself have talked about, the idea of “writing as thinking.” I honestly have never been able to internalise these words. <em>Writing, as thinking?</em> Maybe the best summary is what I touched on at the end of the last paragraph: when you put one sentence on the page, you may realise you have another one to write.</p><p>The typewriter feels conducive to writing reflective notes because it occupies a different space in my life. To write on the typewriter, I go to the other room, sit on the floor – for I do not yet have a desk for my typewriter – and start typing. My computers are a room away. When I’m writing, it’s just me and the typewriter.</p><p>Alone by my typewriter, I feel that I can be more vulnerable. I can explore topics where I do not yet have a cohesive enough narrative to be able to write something ready for someone else to read.</p><p> Some of my paragraphs in my journal have mistakes; the flow is off; the punctuation isn’t quite right. Whereas I actively edit my words when I write on my computer – something one of my friends first observed when we wrote a blog post together – this is not possible on my typewriter. So I do what feels right: I embrace the direction I’m going in. Sometimes I reach a dead end, in which case I start a new paragraph and begin again; other times, I realise there is more to a direction than I first realised.</p><p>As I experiment, I get that same feeling when I try to add my own twist to a song I’m playing on the piano: <em>I’m learning</em>. Sometimes I press a note that doesn’t fit and realise that I am further away from the spirit of the song than I want. Other times, I press a note that fits with the chord progression and I end up taking the song in a whole new direction.</p><p>I suppose this is the blog post I could imagine myself wishing I had, the one where I say to myself, with the greatest care: <em>writing for yourself is never wasted. Not everything needs to be a blog post.</em> </p>]]></description>
+			<pubDate>Fri, 31 Oct 2025 13:01:12 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557502</guid>
+		</item>
+		<item>
+			<title>Tabs</title>
+			<link>https://jamesg.blog/2025/10/27/tabs/</link>
+						<dc:creator>James' Coffee Blog</dc:creator>
+			<description><![CDATA[<p>A recording of <em>Alors on danse,</em> news of a new exhibition of Michelangelo’s work, an event on creative writing, and information about art history courses all exist side-by-side in the ever-changing landscape that is my browser tabs. Every one is a train of thought: the tabs on music often recommendations by friends, there are bookmarks for events to which I could go, there are blog posts through which I connect with friends and develop empathy with people I have never met, there are tabs that are the precipice of new futures.</p><p>In one tab, an amateur musician covers a song I want to learn on piano. I love hearing others’ interpretations of a song; sometimes, a cover is so compelling that I go straight to my piano and play along. I revel in appreciating the difference in key and ask – but never seek to answer – why the song is played in a different key, for, until this very moment, as I write, I had never thought to ask “why?” </p><p>Music is so captivating that I often suspend questions until later, instead seeking comfort in the voice of the artist and finding excitement in figuring out in what key a song is played while I aim to play it. There is a thrill to hearing a new song – or a cover of an old one – and asking <em>can I play it?</em> and then at once going to try, by ear, to play the song – in the process of which I make my own version, incomplete and imperfect, for it takes time for me to learn all the intricacies.</p><p>Thus begins a journey, from playing one note correctly to figuring out the scales used in the song – a journey that may take anywhere from a moment to an hour. Some parts of a song are deceptively difficult to learn, leading to those satisfying moments down the line when I realise that I am finally getting closer to figuring out the key and the order in which the notes should be played. Within every song is potential to play, to learn, to think, to help me relax, to rest, to study, to empathise, to connect.</p><p>The opportunity to learn a song I love in a new key is in one tab, next to which rests the outline of a potential future, projects from the past in which I have renewed interest, messages from – and the opportunity to message – friends, and more. Each tab, a story.</p>]]></description>
+			<pubDate>Mon, 27 Oct 2025 17:02:39 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557501</guid>
+		</item>
+		<item>
+			<title>Design, in pink</title>
+			<link>https://jamesg.blog/2025/10/27/design-in-pink/</link>
+						<dc:creator>James' Coffee Blog</dc:creator>
+			<description><![CDATA[<p>Every so often, I open up a blank HTML document and work on a concept design for my website. Sometimes I have a theme, like my <a href="https://playground.jamesg.blog/blueprints/index.html">blueprint-inspired design</a>, whereas other times I play around and see what I can make.</p><p>Today I thought: what would my blog look like if it were pink? I came up with this concept design:</p><img alt="A two-column layout for my website that has a light pink background colour and darker pink text. The typeface is a serif font." src="https://editor.jamesg.blog/content/images/2025/10/pink.png" data-sanitized-class="kg-image"><p>I use the "Transitional" font stack from <a href="https://modernfontstacks.com/">Modern Font Stacks</a>, and a combination of pink and purple colours that I made through trial-and-error with an RGB colour wheel. The background is light pink. The text colours are a darker pink that is somewhat close to red.</p><p>I am unsure whether I will use this design on my blog, but I had fun playing around and exploring this direction for a bit.</p>]]></description>
+			<pubDate>Mon, 27 Oct 2025 12:53:42 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557500</guid>
+		</item>
+		<item>
+			<title>Ten facts about me</title>
+			<link>https://jamesg.blog/2025/10/22/ten-facts-about-me/</link>
+						<dc:creator>James' Coffee Blog</dc:creator>
+			<description><![CDATA[<p>As I write, it is the late evening. I am getting ready to go to bed. The room is illuminated by fairy lights. I have been trying to go to bed at more reasonable hours of late, but I just saw the <a href="https://forkingmad.blog/ten-pointless-facts-about-me/">ten pointless facts about me</a> blogging challenge and felt inspired to write something down before I go to sleep. I have been doing a lot of introspective writing on my typewriter for the last few days. This blogging challenge is a good chance for me to put a few words on my blog.</p><p>Without further ado, below are my answers to the questions in the challenge!</p><p><strong>Tea, coffee, or water?</strong></p><p>All three. I usually drink two cups of coffee a day; occasionally three. I drink coffee before 2pm, then stick to water after that. If I am visiting someone and am offered a cup of tea, I will accept a cup at any hour. I drink water at all times. Water is life. Liquid coffee is almost all water, too.</p><p><strong>Footwear preference?</strong></p><p>I like wearing trainers, but I am yet to find a shoe that is right for me. I am wearing New Balance trainers right now which are most comfortable. The sales representative was really helpful when I went in relatively clueless about what shoe was right (thanks anxiety!).</p><p>When I am visiting a new place, I like to walk as far as I can to explore. Especially in cities. My ideal shoe is one that I can walk ten miles in while feeling comfortable. I love long city walks but I don’t want to wear a heavy-duty shoe all around.</p><p>I don’t have many pairs of shoes because I find it so hard to find a pair that fits well.</p><p><strong>Favourite dessert?</strong></p><p>Tiramisu.</p><p><strong>The first thing you do when you wake up?</strong></p><p>I first turn my phone alarm off. I sometimes then take a drink of water before getting up. I like to say “good morning world” when I wake up. I don’t do this every day, but I feel better when I do.</p><p><strong>Age you'd like to stick to?</strong></p><p>I’m happy to age as I age.</p><p><strong>How many hats do you own?</strong></p><p>Many, although I don’t wear hats too often. Last time I wore a baseball cap here in Scotland it blew off my head and I almost lost it. I love hats though. I recently purchased a cowboy hat. I am looking for a fez.</p><p><strong>Describe the last photo you took.</strong></p><p>The last photo I took was of a <a href="https://jamesg.blog/2025/10/19/growth">blog post I wrote with my typewriter</a>. The page is fully in focus with no background. My previous non-typewriter blog post was a photo of an iced latte I bought in Starbucks.</p><p><strong>Worst TV show.</strong></p><p>I am trying to watch less television. I can’t really think of a worst television show. My favourites are <em>Frasier</em>, <em>Seinfeld</em>, <em>The West Wing</em>, and <em>Leverage</em>.</p><p><strong>Do you floss your teeth?</strong></p><p>I don’t floss my teeth, but I know I should. On the topic of dental health: Given it is presently the late evening at the time I write this blog post, the next thing I plan to do after publishing this post is to brush my teeth!</p><p><strong>As a child, what was your aspiration for adulthood?</strong></p><p>I had many! Before the age of 10, I wanted to be an inventor. I had an idea for a light switch made of paper that, when pressed, would work. I loved the idea of being able to draw something with paper and bring it to life. This invention could now exist with a camera and computer vision or with some degree of circuitry, but I prefer to leave it to the child-like part of my mind to dream more about.</p><p>Also before the age of 10, I wanted to be a scientist – a chemist, ideally. <em>(In high school I learned I am not particularly adept at chemistry and struggled quite a bit. I passed my exam in the subject, but only barely.)</em> Later, I started to enjoy programming more and more, and wanted to do something with computers. I also loved subjects in school that involved a lot of writing – history, politics, English, among others.</p><p>Professionally, I ended up pursuit a career as a technical writer, although that is but one facet of my life. I make websites and love art and play music and try to make people smile and enjoy traveling and so much more. I even invent things too, mainly related to this website. <a href="https://playground.jamesg.blog/blueprints/index.html">My blueprint-inspired website design</a> is a homage to my childhood ambitions to become an inventor.</p><p>As I grew up, I started to think about things more as a <em>career</em>. In my later teenage years, I put a lot of pressure on myself, a time from which I am still healing. Looking back and forward, I know there is so much more to life than work alone. As an adult, I think I would now say that my aspiration for adulthood is, to the extent I can, be happy, keep learning, use my skills to do work I am proud of, and bring joy to others as much as I can.</p><p><em>You may have noticed I didn't include "pointless" in the title of my post even though the original challenge was called "ten pointless facts about me." I didn't include this from the start because I knew that there was probably something fascinating to say about one of the questions even before reading them all. Far from being pointless, I found these questions most delightful to answer!</em></p>]]></description>
+			<pubDate>Wed, 22 Oct 2025 21:19:21 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557499</guid>
+		</item>
+		<item>
+			<title>catraa.neocities.org</title>
+			<link>https://catraa.neocities.org/</link>
+						<description><![CDATA[music, 
+                
+                    personal, 
+                
+                    collections]]></description>
+			<pubDate>Fri, 29 Aug 2025 12:03:40 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557498</guid>
+		</item>
+		<item>
+			<title>Waiting</title>
+			<link>https://jamesg.blog/2025/10/19/waiting/</link>
+						<dc:creator>James' Coffee Blog</dc:creator>
+			<description><![CDATA[<p>I am standing on Princes Street while waiting for the bookshop to open. There is a drizzle or rain falling from the grey sky. Earlier, I noticed the red of the morning autumn horizon peek through the clouds. I have. As I always do, conviction that the sun will come out.</p><p>Edinburgh is beautiful in the rain — the water brings more life to the grey streets. In autumn, the leaves bring more colour to the city — oranges and ambers and browns and greens paint the skyline. The ephermality of Nature and the robustness of stone buildings stand side by side. A church bell chimes two minutes early. I love the heavenly sound of bells; a sound that reverberates far through the open streets in this part of town.</p><p>In one minute, the bookstore will open. I am one of many waiting for opening time, although I stand at a distance from everyone so as to have space and to ease the perpetual anxieties that accompany me (am I standing in the right place? what do people think?).</p><p>The bell chimes sounds to which I could listen forever — like Nature, their sounds are beautiful, fleeting, and grounded in time. The store is open. More people walk past as the city continues to wake up. There are raindrops on my phone, each one appears to me right now as a metaphorical word in the story that I write with every step, observation, and realisation.</p>]]></description>
+			<pubDate>Sun, 19 Oct 2025 16:57:24 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557497</guid>
+		</item>
+		<item>
+			<title>robcrr.com</title>
+			<link>https://robcrr.com/</link>
+						<description><![CDATA[art, 
+                
+                    animation, 
+                
+                    films, 
+                
+                    comics]]></description>
+			<pubDate>Tue, 26 Aug 2025 00:19:06 +0000</pubDate>
+			<guid isPermaLink="false">1763211359557496</guid>
+		</item>
+
+	</channel>
+</rss>
