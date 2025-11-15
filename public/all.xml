@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" >
 	<channel>
-		<title> | FreshRSS</title>
-		<link>http://192.168.1.206/FreshRSS/p</link>
-		<description>RSS feed of  | FreshRSS</description>
-		<pubDate>Sat, 15 Nov 2025 13:18:38 +0000</pubDate>
-		<lastBuildDate>Sat, 15 Nov 2025 13:18:38 GMT</lastBuildDate>
-		<atom:link href="/i/?a=rss&amp;user=default&amp;token=token&amp;hours=168" rel="self" type="application/rss+xml" />
+		<title>Query n°1</title>
+		<link>http://192.168.1.206/FreshRSS/p/api/query.php?user=default&amp;t=d6e05c11296c4c238eeb4504ce3a3c2a&amp;f=html</link>
+		<description>RSS feed of Query n°1</description>
+		<pubDate>Sat, 15 Nov 2025 13:38:04 +0000</pubDate>
+		<lastBuildDate>Sat, 15 Nov 2025 13:38:04 GMT</lastBuildDate>
+		<atom:link href="http://192.168.1.206/FreshRSS/p/api/query.php?user=default&amp;t=d6e05c11296c4c238eeb4504ce3a3c2a&amp;f=rss" rel="self" type="application/rss+xml" />
 				<item>
 			<title>Link Dump – Recently Read Articles</title>
 			<link>https://brokenstar.blog/2025/09/01/link-dump-recently-read-articles-3/</link>
