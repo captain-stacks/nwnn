@@ -3,10 +3,51 @@
 		<title> | FreshRSS</title>
 		<link>http://192.168.1.206/FreshRSS/p</link>
 		<description>RSS feed of  | FreshRSS</description>
-		<pubDate>Sun, 16 Nov 2025 15:34:32 -0700</pubDate>
-		<lastBuildDate>Sun, 16 Nov 2025 22:34:32 GMT</lastBuildDate>
+		<pubDate>Sun, 16 Nov 2025 15:47:27 -0700</pubDate>
+		<lastBuildDate>Sun, 16 Nov 2025 22:47:27 GMT</lastBuildDate>
 		<atom:link href="/i/?a=rss" rel="self" type="application/rss+xml" />
 				<item>
+			<title>condensation</title>
+			<link>https://anglesmorts.org/20251116/</link>
+						<dc:creator>anglesmorts</dc:creator>
+			<description><![CDATA[<pre><span data-sanitized-class="ispan">the rain stills
+teasing frost 
+by every way through
+
+ablutions for reynaud
+dexterity taker
+of some ways through
+
+think of the parsnips
+heat and honey
+bulbs over winter
+still work to be done
+
+drawn out 
+about inflection
+maturation 
+induced by frost
+and risk of rot
+in sodden clay
+
+a little more growth 
+before the freeze
+</span></pre>
+<h3>other things said</h3>
+<span data-sanitized-class="ots">
+<ol>
+<li><pre><span data-sanitized-class="ots">two strings
+no longer under tension</span></pre>
+</li>
+</ol>
+</span>
+<h4>
+</h4><p><a href="https://anglesmorts.org/20251115">Yesterday</a> :: Sunday, 16th November 2025</p>
+]]></description>
+			<pubDate>Sun, 16 Nov 2025 15:18:00 -0700</pubDate>
+			<guid isPermaLink="false">1763332949095909</guid>
+		</item>
+		<item>
 			<title>Thinking About Going Dark on Social Media</title>
 			<link>https://iam.skoo.bz/thinking-about-going-dark-on-social-media/</link>
 						<dc:creator>S. L.</dc:creator>
@@ -637,59 +678,6 @@ Azul to somber, breath becomes tight.<br>
   magazine; read about them <a href="https://blog.augustebaum.com/posts/2025-11-09-11-on-the-works-in-progress-magazine">here</a>.</p>]]></description>
 			<pubDate>Fri, 07 Nov 2025 17:00:00 -0700</pubDate>
 			<guid isPermaLink="false">1763321802423679</guid>
-		</item>
-		<item>
-			<title>Split a jj revision based on its history</title>
-			<link>https://blog.augustebaum.com/posts/2025-11-07-09-jj-split-rev</link>
-						<dc:creator>Auguste Baum</dc:creator>
-			<description><![CDATA[<header data-sanitized-id="title-block-header">
-    <h1 data-sanitized-class="title">Split a jj revision based on its history</h1>
-                <div>
-      <time>2025-11-07</time>
-    </div>
-          </header>
-    
-  <p>Has this ever happened to you?</p>
-  <p>You’re working on a change:</p>
-  <div data-sanitized-id="cb1" data-sanitized-class="sourceCode"><pre data-sanitized-class="sourceCode txt"><code data-sanitized-class="sourceCode default"><span data-sanitized-id="cb1-1"><a href="https://blog.augustebaum.com/posts/2025-11-07-09-jj-split-rev#cb1-1" aria-hidden="true"></a># hello.md</span>
-<span data-sanitized-id="cb1-2"><a href="https://blog.augustebaum.com/posts/2025-11-07-09-jj-split-rev#cb1-2" aria-hidden="true"></a>aaa</span></code></pre></div>
-  <p>You make a new change:</p>
-  <div data-sanitized-id="cb2" data-sanitized-class="sourceCode"><pre data-sanitized-class="sourceCode txt"><code data-sanitized-class="sourceCode default"><span data-sanitized-id="cb2-1"><a href="https://blog.augustebaum.com/posts/2025-11-07-09-jj-split-rev#cb2-1" aria-hidden="true"></a># hello.md</span>
-<span data-sanitized-id="cb2-2"><a href="https://blog.augustebaum.com/posts/2025-11-07-09-jj-split-rev#cb2-2" aria-hidden="true"></a>aaabbb</span></code></pre></div>
-  <p>But you forgot to <code>jj new</code>! Thus, you find yourself with
-  a change that is really two changes.</p>
-  <p>If the two changes touched separate lines you could get away with
-  <code>jj split</code>, but in this case that won’t work.</p>
-  <p>However, you did run some <code>jj</code> commands between the two
-  edits, so <code>jj</code> has them stored as intermediate commits
-  which you can see with <code>jj evolog</code>:</p>
-  <pre><code>$ jj evolog
-@  skwmqsxo 9fac1a23
-│  (no description set)
-○  skwmqsxo d9eea6a7
-│  (no description set)
-○  skwmqsxo 682f749a
-   (empty) (no description set)</code></pre>
-  <p>Suppose that adding <code>bbb</code> was done in commit
-  <code>9fac1a23</code>. Then what we’d like is to split the revision
-  <code>skwmqsxo</code> into a revision containing every commit before
-  that (i.e. up to and including <code>d9eea6a7</code>) and a revision
-  containing the rest.</p>
-  <p>This can be done with the following revolutionary script (add it to
-  the <code>aliases</code> section in your
-  <code>config.toml</code>):</p>
-  <div data-sanitized-id="cb4" data-sanitized-class="sourceCode"><pre data-sanitized-class="sourceCode toml"><code data-sanitized-class="sourceCode toml"><span data-sanitized-id="cb4-1"><a href="https://blog.augustebaum.com/posts/2025-11-07-09-jj-split-rev#cb4-1" aria-hidden="true"></a><span data-sanitized-class="dt">split-rev</span> <span data-sanitized-class="op">=</span> <span data-sanitized-class="op">[</span><span data-sanitized-class="st">"util"</span><span data-sanitized-class="op">,</span> <span data-sanitized-class="st">"exec"</span><span data-sanitized-class="op">,</span> <span data-sanitized-class="st">"--"</span><span data-sanitized-class="op">,</span> <span data-sanitized-class="st">"bash"</span><span data-sanitized-class="op">,</span> <span data-sanitized-class="st">"-c"</span><span data-sanitized-class="op">,</span> <span data-sanitized-class="st">"""</span></span>
-<span data-sanitized-id="cb4-2"><a href="https://blog.augustebaum.com/posts/2025-11-07-09-jj-split-rev#cb4-2" aria-hidden="true"></a><span data-sanitized-class="st">set -euo pipefail</span></span>
-<span data-sanitized-id="cb4-3"><a href="https://blog.augustebaum.com/posts/2025-11-07-09-jj-split-rev#cb4-3" aria-hidden="true"></a><span data-sanitized-class="st">jj new --after @</span></span>
-<span data-sanitized-id="cb4-4"><a href="https://blog.augustebaum.com/posts/2025-11-07-09-jj-split-rev#cb4-4" aria-hidden="true"></a><span data-sanitized-class="st">jj restore --from $1 --to @- --restore-descendants</span></span>
-<span data-sanitized-id="cb4-5"><a href="https://blog.augustebaum.com/posts/2025-11-07-09-jj-split-rev#cb4-5" aria-hidden="true"></a><span data-sanitized-class="st">"""</span><span data-sanitized-class="op">,</span> <span data-sanitized-class="st">""</span></span>
-<span data-sanitized-id="cb4-6"><a href="https://blog.augustebaum.com/posts/2025-11-07-09-jj-split-rev#cb4-6" aria-hidden="true"></a><span data-sanitized-class="op">]</span></span></code></pre></div>
-  <p>which you should use as follows:</p>
-  <div data-sanitized-id="cb5" data-sanitized-class="sourceCode"><pre data-sanitized-class="sourceCode sh"><code data-sanitized-class="sourceCode bash"><span data-sanitized-id="cb5-1"><a href="https://blog.augustebaum.com/posts/2025-11-07-09-jj-split-rev#cb5-1" aria-hidden="true"></a><span data-sanitized-class="ex">$</span> jj edit skwmqsxo</span>
-<span data-sanitized-id="cb5-2"><a href="https://blog.augustebaum.com/posts/2025-11-07-09-jj-split-rev#cb5-2" aria-hidden="true"></a><span data-sanitized-class="ex">$</span> jj split-rev d9eea6a7</span></code></pre></div>
-  <p>That’s all folks!</p>]]></description>
-			<pubDate>Thu, 06 Nov 2025 17:00:00 -0700</pubDate>
-			<guid isPermaLink="false">1763321802423678</guid>
 		</item>
 
 	</channel>
