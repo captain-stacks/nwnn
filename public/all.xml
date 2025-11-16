@@ -3,577 +3,393 @@
 		<title> | FreshRSS</title>
 		<link>http://192.168.1.206/FreshRSS/p</link>
 		<description>RSS feed of  | FreshRSS</description>
-		<pubDate>Sat, 15 Nov 2025 13:53:16 +0000</pubDate>
-		<lastBuildDate>Sat, 15 Nov 2025 13:53:16 GMT</lastBuildDate>
-		<atom:link href="/i/?a=rss&amp;rid=691885ad66420&amp;sort=date&amp;order=DESC" rel="self" type="application/rss+xml" />
+		<pubDate>Sun, 16 Nov 2025 04:33:56 -0700</pubDate>
+		<lastBuildDate>Sun, 16 Nov 2025 11:33:56 GMT</lastBuildDate>
+		<atom:link href="/i/?a=rss&amp;sort=date&amp;order=DESC&amp;state=2" rel="self" type="application/rss+xml" />
 				<item>
-			<title>REVIEW: Hotel Transylvania 3</title>
-			<link>https://blueberrylemonade.pika.page/posts/review-hotel-transylvania-3</link>
-						<description><![CDATA[<div data-sanitized-class="trix-content">
-  <p>I think I watched the first one when it came out and now I skipped to the 3rd one on a whim for no reason.</p>
-<p>There is something so strange about this franchise. The strangeness is something that's expressed in the visuals and the writing in equal measure: it oscillates so rapidly between what it wants to be.</p>
-<p>In one second, it's trying to be a Pixar/Dreamworks-esque movie with emotion and weight and willing to live in the pauses. Then, after doing that for half a second, it oscillates to being the cartooniest cartoon to ever bounce across the screen.</p>
-
-<hr>
-<p>Visually, that means poses where the characters look grounded, weighted, and with close to "naturalistic" postures and facial expressions............then rapidly flipped to cartooning meant to match flat 2D styles you'd see in Flintstones, Dexter's Laboratory, Powerpuff Girls, Ren &amp; Stimpy, etc.</p>
-<p>In terms of writing, it means brief moments where characters are trying to connect with each other or stop and think........then rapidly flipped to rapid gag-after-gag-after-gag where characters are unshackled by having to act "in-character" or "like real people."</p>
-<p>I'm generally a fan of the Pixar/Dreamworks approach to making movies, but in a case like this...why even bother still clinging to any of that if that's not what you really want to do? It feels abundantly clear to me when watching that the storyboarders and animators want to do the really cartoony Dexter's Laboratory type thing, so why not just embrace that?</p>
-<p>It feels like the more "traditional" approach to 3D animation is just holding the movie back. To give an example: it feels like some characters have like two different "eye shapes." One is slightly more almond shaped, more naturalistically like an eye. The other is just doing circles and ovals like a cartoon. It feels like they do the oval eyes like 80% of the time, which makes the 20% of the time that they swap back to natural eyes feel so weird and out-of-place???</p>
-<p>Anyway, there's some good gags in here. And if you're a fan of the cartooniest cartooniness, there are shots in this film that you could argue have some of the "best" 3D animation ever put up on the big screen.</p>
-<p>The actual "plot" does very little for me, but it's serviceable.</p>
-<p>This is probably the least I've liked a movie that I've bothered to do a review for on <a href="https://letterboxd.com/kylelabriola/reviews/">Letterboxd</a>, but it ain't bad!</p>
-<p>Btw why doesn't Mavis get to act as cartoony as everyone else...?</p>
-</div>]]></description>
-			<pubDate>Sat, 15 Nov 2025 07:08:47 +0000</pubDate>
-			<guid isPermaLink="false">1763211359546256</guid>
+			<title>Algorithmically, I thought I should know Peel Dream Magazine by now. Their…</title>
+			<link>https://www.nicksimson.com//notes/2025-11-16-peel-dream-magazine.html</link>
+						<description><![CDATA[<p>Algorithmically, I thought I should know <a href="https://peeldreammagazine.bandcamp.com/">Peel Dream Magazine</a> by now. Their music has been compared to some of my personal favorites Broadcast, Stereolab, and Yo La Tengo. The “Peel” in their name is a dedication to the late BBC Radio1 deejay <a href="https://en.wikipedia.org/wiki/John_Peel">John Peel</a>. I’m just old enough that the phrase “Peel Session” means something to me. They are on a favorite label, <a href="https://www.topshelfrecords.com/">Top Shelf Records</a> (I’m in the Discord).</p>
+<p>Ah well. I found my way to this music via the <a href="https://simplebits.com/notebook/studio-notes-58/">SimpleBits Studio Notes</a> newsletter. Dan writes he heard them on SiriusXM. Long live the radio and the personal recommendation.</p>
+<p><a href="https://peeldreammagazine.bandcamp.com/album/rose-main-reading-room"><i>Rose Main Reading Room</i></a> is a great name for a concept album about New York City and its landmarks. This is a “headphones record”; baroque pop meets Y2K dream pop sounds. I love everything I’ve heard so far, and my ears are hungry for more.</p>
+<p><small>Also <a href="https://app.crucialtracks.org/profile/nsmsn/20251116">posted to Crucial Tracks</a>.</small></p>]]></description>
+			<pubDate>Sun, 16 Nov 2025 02:11:20 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203175</guid>
 		</item>
 		<item>
-			<title>november 14 etc</title>
-			<link>https://combatdavey.net/november-14-etc/</link>
-						<dc:creator>combatdavey</dc:creator>
-			<category>dmail</category>
-			<category>etc</category>
-			<category>newsletter</category>
-			<category>tbbs</category>
-			<description><![CDATA[<p>So I've been toying with an idea for about a month and it's been sticky enough that I feel like sharing it here.</p>
-<p>The short version is that I am thinking of keeping my main blog here at Bear but altering the (week)daily post to be more bloggy and less linksy. The linksy stuff will move to a email newsletter thinger (i.e. DMail 2.0, but with a different name) that I'll probably build out at Ghost or maybe Buttondown. For the sports, trivia, and sports trivia fans out there, I haven't written <a href="https://oddball.blog/blog/">Oddball</a> for a few weeks for this exact reason, and that would probably also end up at Ghost or Buttondown.</p>
-<p>On <a href="https://combatdavey.net/october-22-etc/">October 22</a> I wrote this:</p>
-<blockquote>
-<p>The only thing I really want to do as a job is get paid a normal, non-obscene amount of money to write and/or blog and/or make videos about the handful of things I really like and know a lot about. I suppose this is called being a cOnTeNt CrEaToR, but I'll be damned before I call myself that. The twin pressures of late stage capitalism x algorithmic culture may have reduced all acts of human media creation to "content" in the eyes of billions, but not this guy.</p>
-</blockquote>
-<p>The next day:</p>
-<blockquote>
-<p>Something that's held me back from making digital things (blogs, videos, ebooks, etc) for a living was and is how uncomfortable I am asking people to pay for things I make. This is a holdover from the bad old days where I barely considered myself worthy of kindness, let alone love and support.</p>
-</blockquote>
-<p>The prolific run that I'm on —— a blog post <a href="https://combatdavey.net/blog">every weekday since August 11</a> —— has shown me that I have a kind of discipline that I didn't before. It's also helped me enjoy the internet again after a few years where all I could see was the noise and not the signal. Add in that I think the tide is turning against the folks hellbent on destroying or otherwise weaponizing the internet and I think conditions may well be optimal for me to actually make some headway into things I want to make.</p>
-<p>More to come, obv, but for now I will leave you with <a href="https://combatdavey.net/matt-gaetz-screening-process/">this</a> and my sincere thanks for reading my dumb blog (and maybe, in the future, the other things).</p>
-<p>🌲 gonna <br>
-🌼 go <br>
-🌱 <del>touch</del> to<br>
-🌳 <del>grass</del> bed<br>
-🌷 now</p>
-<p>Be good to yourself.</p>
-<p><mark>If you enjoyed this post, click the little up arrow chevron thinger below the tags to help it rank in Bear's <a href="https://bearblog.dev/discover/">Discovery feed</a> and maybe consider sharing it with a friend or on your socials.</mark></p>]]></description>
-			<pubDate>Sat, 15 Nov 2025 04:31:00 +0000</pubDate>
-			<guid isPermaLink="false">1763211359557264</guid>
+			<title>Why I Don't Need a Steam Machine</title>
+			<link>https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/</link>
+						<dc:creator>Wouter Groeneveld</dc:creator>
+			<category>steam</category>
+			<category>games</category>
+			<description><![CDATA[<p>For those of you who are living under a rock, Valve announced <a href="https://store.steampowered.com/sale/steammachine">three new hardware devices</a> joining their Steam Deck line-up: a new controller, a VR headset, and the GameCube—no wait, GabeCube—no wait, Steam Machine. The shiny little cube is undoubtedly Valve’s (second) attempt to break into the console market. This time, it might just work.</p>
+<p>The hardware is ready to arrive in at your living room spring next year. The biggest question is: will it arrive at <em>our</em> living room? Reading all the hype has certainly enthused me (e.g. Brendon’s <a href="https://wavelengths.online/posts/the-steam-machine-is-the-future">The Steam Machine is the Future</a>, PC Gamer’s <a href="https://www.pcgamer.com/hardware/vr-hardware/steamos-launching-for-arm-fex-translation-layer/">Valve is all over ARM</a>, Eurogamer’s <a href="https://www.eurogamer.net/tech-steam-machine-preview-a-powerful-customisable-mini-pc-for-couch-gaming">Steam Machine preview</a>, ResetEra’s <a href="https://www.resetera.com/threads/the-steam-hardware-family-officially-expands-in-early-2026-steam-controller-steam-machine-steam-frame.1351453/">Steam Hardware thread</a>); especially the part where the Machine is just a PC that happens to be tailored towards console gaming. According to Valve, you can install anything you want on it—it’s just SteamOS just like your trusty Deck, meaning you can boot into KDE and totally do your thing. Except that this shiny little cube is six times as powerful. I’m sure Digital Foundry will validate that next year.</p>
+<p>
+<figure><a href="https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/steam-machine.jpg" data-sanitized-class="lbox">
+		<img src="https://brainbaking.com/post/2025/11/why-i-dont-need-a-steam-machine/steam-machine.jpg" title="Valve's newly announced Steam Machine: a mysterious looking sleek black box." data-pagefind-index-attrs="title">
+	</a>
+	
+		<figcaption>Valve's newly announced Steam Machine: a mysterious looking sleek black box.</figcaption></figure>
+</p>
+<p>However, this post isn’t about specs, expectations, or dreams: it’s about tempering my own enthusiasm. I’d like to tell myself why I don’t really need a Steam Machine. The following list will hopefully make it easier to say no when the buy buttons become available.</p>
+<ul>
+<li><em>You’re a retro gamer.</em> <br>You don’t need the power of six Steam Decks. To do what, run DOSBox?</li>
+<li><em>Your TV doesn’t support 4K</em>.<br>Again, no need for those 4K 60 FPS.</li>
+<li><em>You generally dislike AAA games.</em> <br>With The Steam Machine, you might be able to finally properly run <em>DOOM Eternal</em> and all of the <em>Assassin’s Creed</em> games. That you don’t like playing.</li>
+<li><em>You don’t have time to play games anyway.</em><br>Ouch, that hurts but it’s not untrue.</li>
+<li><em>The TV will be occupied anyway.</em><br>The Steam Machine is not a Switch: you can’t switch to handheld mode. When are you going to play on the Machine if the TV is being used to watch your wife’s favourite shows?</li>
+<li><em>You already have too many gaming related hardware pieces.</em><br>That’ll mean you’ll have to divide your time by an even bigger number to devote an equal amount to playing them.</li>
+<li><em>There’s no room for yet another nondescript box under the TV.</em><br>See above: why don’t you first try to do something with that SNES Mini and PlayStation Mini besides letting it collect dust?</li>
+<li><em>You’re a physical gamer.</em><br>This is Steam. There will be no insertion of cartridges, no blowing of carts, and no staring at game collections on a shelf.</li>
+<li><em>It’s Steam, not Good Old Games.</em><br>Sure it can run GOG games but the Machine is primarily designed to run Steam. You avoid purchasing from Steam like the plague, yet you’re willing to buy a Machine dedicated to it? Are you crazy?</li>
+<li><em>The last time you booted Steam was over a year ago.</em><br>Don’t tell me you’re suddenly interested in running the platform on a dedicated machine.</li>
+<li><em>You don’t have time to fiddle with configuration.</em><br>Button and trackpad mappings to get the controls just right enough to play strategy games designed to be played with keyboard and mouse will only leave you frustrated.</li>
+<li><em>Your MacBook can emulate Windows games just fine.</em><br>You recently bought CrossOver and played <em>Wizordum</em> and older Windows 98/XP stuff on it. It even runs <em>Against The Storm</em> flawlessly. No need for Proton or whatever.</li>
+<li><em>In two years, you’ll upgrade your M1 to an M4+: there’s the power upgrade.</em><br>If CrossOver is struggling to run that particular game you so badly want to play, it’ll be buttery smooth in a few years. You’re going to do the laptop upgrade anyway regardless of the Steam Machine.</li>
+<li><em>You already have a huge gaming backlog.</em><br>Thanks to your buddy Joel you bought too many physical Switch games that are still waiting to be touched. Are you really ready to open up another can of worms?</li>
+<li><em>You dislike a digital backlog.</em><br>It’s easy to have hundreds of games on there: see your GOG purchases. Why don’t you try to count the ones that you actually played, let alone finished.</li>
+<li><em>You’re not going to use the Machine to run office software.</em><br>Your laptop and other retro machines are good enough at handling that task. What are you really going to do with this cube besides gaming?</li>
+<li><em>Those cool looking indie games will be released for Switch in due time anyway.</em><br>Remember <em>Pizza Tower</em>? It’s out on Switch now. Remember to buy the cart on Fangamer, together with the <em>Anton Blast</em> one.</li>
+<li><em>It’s rumoured to cost more than</em> <code>€600</code>.<br>Save that money for a Switch 2 if the games are starting to become interesting to justify that upgrade, as currently, they’re not. Also, see the backlog point above.</li>
+<li><em>All HDMI ports both on the TV and your external monitors are occupied</em>.<br>Unless you’re willing to constantly switch cables, you’ll need to invest in a HDMI switch. Another <code>€100+</code>.</li>
+<li><em>You can’t buy this without buying the Steam Controller.</em><br>That’s easily another <code>€80+</code> you already spent buying the Mobapad controller for your Switch as a replacement for the semi-broken Joy Cons.</li>
+<li><em>You can’t buy this as an expense on the company.</em><br>You’re closing down the company, remember. (More on that later)</li>
+<li><em>The cool looking LED and programmable front display don’t justify an expensive purchase.</em><br>After the initial excitement wears off, the LED will become annoying and you’ll simply turn it off.</li>
+</ul>
+<p>So you see, I don’t really need a Steam Machine…</p>
+<p>Fuck it, I’m getting one.</p>
+
+
+          
+          <p>
+            Related topics: /
+                  <a href="https://brainbaking.com/tags/steam">steam</a> /
+                  <a href="https://brainbaking.com/tags/games">games</a> /
+          </p>
+          
+          <p>
+            By <a href="https://brainbaking.com/about">Wouter Groeneveld</a> on 16 November 2025. 
+            <a href="mailto:hifromrss@brainbaking.com?subject=Re:%20Why%20I%20Don%27t%20Need%20a%20Steam%20Machine">Reply via email</a>.
+          </p>]]></description>
+			<pubDate>Sun, 16 Nov 2025 00:30:00 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203179</guid>
 		</item>
 		<item>
-			<title>Weeknotes: Nov. 8-14, 2025</title>
-			<link>https://tracydurnell.com/2025/11/14/weeknotes-nov-8-14-2025/</link>
-						<dc:creator>Tracy Durnell</dc:creator>
-			<category>Weeknotes</category>
-			<category>personal</category>
-			<description><![CDATA[<p><strong>Win of the week: </strong>got a tubular skylight installed over the dark stairway in the center of the house ☀️</p>
-<p><strong>Looking forward to: </strong>reading <em>Sunward</em> by William Alexander 🤖🚀</p>
-<h2>Stuff I did:</h2>
-<ul>
-<li>8.5 hours consulting</li>
-<li>took Tuesday off for Veteran’s Day (I aim to give myself Federal holidays off — my clients all have them off anyway!) (I will never call it Victory Day)</li>
-<li>finally bit the bullet and sold half of the random green energy mutual fund I bought when I started investing in 2009 because it seemed like a nice thing to do but that doesn’t really jive with my asset allocation… spreading it out over this year and next to lessen the tax blow hopefully</li>
-<li>wrote up three proposals for neighborhood safety projects: a crosswalk, a painted intersection, and a bike lane (my city sets aside funds each year that neighborhoods can use for small safety projects) — turns out the crosswalk project is already in the works and the other two aren’t suitable for the grant 🤷‍♀️</li>
-<li>actually planned out meals for the week 🦾 going to try wasting less food, which means planning ahead so I don’t buy too much</li>
-<li>spent two hours applying acoustic caulk to two windows… all the YouTube videos made it look easy 😿 not sure whether or not it made any difference but there was at least one seam that didn’t have any caulk to begin with</li>
-<li>drove my friend to their first colonoscopy and back, which somehow took 4+ hours, and then I was exhausted despite doing basically nothing all day 😂 mm</li>
-<li>walked with another friend after work and it was a good thing I brought headlamps for both of us! 🔦🔦 We started at 3:50 and it was basically black out when we got back to the parking lot at 5:10pm, stupid time change</li>
-<li>went to Homebrew Website Club</li>
-</ul>
-<p><span data-sanitized-id="more-31522"></span></p>
-<h3>Dinners:</h3>
-<ul>
-<li>veggie sausage + mushroom gravy + <a href="https://www.thekitchn.com/how-to-make-cream-biscuits-109151">cream biscuits</a> (turned out kinda denser than I recalled, maybe I kneaded too much, maybe they needed more cream)</li>
-<li>baked feta with tomatoes and pasta (added 2/3 can of chickpeas after 20 minutes because we were a bit light on tomatoes — good)</li>
-<li>tilapia wraps with <a href="https://www.mexicoinmykitchen.com/mexican-rice-recipe-authentic/#recipe">Mexican rice</a>, sauteed peppers, and black beans</li>
-<li><a href="https://tracydurnell.com/recipes/paneer-bhurji/">Paneer Bhurji</a> + naan + orange juice smoothie</li>
-<li>fake chicken burgers + curly fries</li>
-<li><a href="https://fooddaydreaming.com/quick-brothy-chickpeas-with-rainbow-chard-and-lemon/#recipe">brothy chickpeas</a> (broth was good but chickpeas were bland and firm… would probably be better simmered for 30+ minutes instead of 15) + take and bake rosemary focaccia</li>
-<li><a href="https://www.pccmarkets.com/recipe/pcc-smoked-mozzarella-pasta-salad/">smoked mozzarella pasta salad</a> (the plan was to have this with sausage dogs but it somehow took me an hour to make and I got hangry)</li>
-</ul>
-<h2>Reading:</h2>
-<ul>
-<li>Read <em>One Fell Sweep</em> by Ilona Andrews and <em>Shenanigans</em> by Sarina Bowen</li>
-<li>Finished reading <em>Clean Sweep</em> by Ilona Andrews</li>
-<li>Started reading <em>Listen: On Music, Sound and Us</em> by Michel Faber and <em>Art in the After-Culture</em> by Ben Davis</li>
-<li>DNF’d <em>A Spell for Midwinter’s Heart</em> by Morgan Lockhart, <em>Guardian Angel</em> by Aurora Ascher, and <em>And Then There Was the One</em> by Martha Waters</li>
-<li>Received <em>There is No Antimemetics Division</em> by qntm (ooh la la they went all out on this dust jacket), <em>Understanding Comics</em> by Scott McCloud, <em>9.5 Theses on Art and Class</em> by Ben Davis, and <em>The Problem with Pleasure: Modernism and Its Discontents</em> by Laura Frost</li>
-</ul>
-<h3>Choice phrases:</h3>
-<blockquote><p>“I’ll be walking through a shopping center, plagued by universally loved pop ‘classics’ that I do not love, and Bob Seger and the Silver Bullet Band will come on the public address system, and Bob will be telling me that he likes the kind of music that just suits the soul and makes him reminisce about the days of old, and I will want to tie Bob to a chair at the bottom of the Grand Canyon and toss eight squillion rock ‘n’ roll records down upon him until the canyon is full.” — Michel Faber, <em>Listen: On Music, Sound and Us</em></p></blockquote>
-<h2>New music I listened to:</h2>
-<p><iframe title="ROSALÍA - Berghain (Official Video) feat. Björk &amp; Yves Tumor" src="https://www.youtube-nocookie.com/embed/htQBS2Ikz6c?feature=oembed" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></p>
-<p><iframe title="Polyphia - Ego Death feat. Steve Vai (Official Music Video)" src="https://www.youtube-nocookie.com/embed/1JNmz17gnMw?feature=oembed" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe></p>
-<p>(<a href="https://curtismchale.ca/2025/11/14/polyphia-is-excellent/">via</a>)</p>
-<ul>
-<li>The Barr Brothers – <a href="https://album.link/s/4OVKItCszlDzVX0g1hgGYQ">Let It Hiss</a> (<a href="https://chrisglass.com/2025/10/20/a-stop-in-durham/">via</a>)</li>
-<li>Packaging – <a href="https://packaging.bandcamp.com/track/in-your-pocket">In Your Pocket</a> (<a href="https://www.thestranger.com/music/2025/11/07/80309355/new-music-you-shouldnt-miss">via</a>)</li>
-<li>Animal Collective – <a href="https://album.link/s/6BRq5g6CWiFgN3NrjLGAYq">Summertime Clothes</a> (<a href="https://chrisglass.com/2025/10/25/hillwood-estate/">via</a>) 👍</li>
-</ul>
-<h2>Nature notes:</h2>
-<ul>
-<li>heard a frog croaking in the backyard and the hummingbird in the front yard</li>
-<li>all the figs and all the fig leaves fell off overnight — hope some critters ate well!</li>
-</ul>]]></description>
-			<pubDate>Sat, 15 Nov 2025 04:13:14 +0000</pubDate>
-			<guid isPermaLink="false">1763211359548665</guid>
-		</item>
-		<item>
-			<title>VHS Memories</title>
-			<link>https://dallincrump.com/vhs-memories?pk_campaign=rss-feed</link>
-						<description><![CDATA[<p>We had a decent VHS tape collection in my family when I was a kid. Some were store-bought. Some were recorded from TV, like episodes of <em>Star Trek: The Next Generation</em> or Disney Sunday Movies. </p>
-
-<p>Sometimes, when we were in the mood to watch a tape, one of us would stand or sit in front of the VHS shelves and read off titles until there was a consensus among everyone present on something to watch.</p>
-
-<p>Every so often we'd go to a video rental store like Blockbuster or Hollywood Video and bring home a few movies to watch – that was always a treat.</p>
-
-<p>For a while, we lived in a house with a neighbor who had the biggest VHS collection I've ever seen. They gladly lent out tapes to their neighbors – they even had a sign-out sheet and log to keep track of who had checked out which tapes.</p>
-
-<p>I still have a VCR and a very small VHS collection which includes just a few of the tapes from my family's old collection. I even have a tape rewinder. Occasionally I'll bring home a tape from the thrift store to add to my collection.</p>
-
-<p>The picture and sound quality of VHS tapes can't compare to DVDs, of course. But it's not about the quality, it's about the nostalgia. It's about the intentional experience of watching a movie on physical media. It's about the memories, the feelings of peace, comfort, and safety I had in my youth watching movies at home my family.</p>
-
-<p>As convenient as it is today to watch video on-demand, I miss those days when we were limited to watching what being broadcast over the airwaves and what was in the collections of family and friends and video rental stores – and we were happy all the same.</p>
-
-<p><a href="https://remark.as/p/dallincrump.com/vhs-memories">Discuss...</a></p>
-
-<p><a href="https://dallincrump.com/tag:100DaysToOffload" data-sanitized-class="hashtag"><span>#</span><span data-sanitized-class="p-category">100DaysToOffload</span></a> (No. 103) <a href="https://dallincrump.com/tag:nostalgia" data-sanitized-class="hashtag"><span>#</span><span data-sanitized-class="p-category">nostalgia</span></a> <a href="https://dallincrump.com/tag:TV" data-sanitized-class="hashtag"><span>#</span><span data-sanitized-class="p-category">TV</span></a> <a href="https://dallincrump.com/tag:movies" data-sanitized-class="hashtag"><span>#</span><span data-sanitized-class="p-category">movies</span></a> <a href="https://dallincrump.com/tag:retro" data-sanitized-class="hashtag"><span>#</span><span data-sanitized-class="p-category">retro</span></a></p>]]></description>
-			<pubDate>Sat, 15 Nov 2025 04:00:02 +0000</pubDate>
-			<guid isPermaLink="false">1763211359557276</guid>
-		</item>
-		<item>
-			<title>Great post about Q-UP from James Lantz</title>
-			<link>https://blog.lauramichet.com/great-post-about-q-up-from-james-lantz/</link>
+			<title>Another video of Canadian youths biking unwisely</title>
+			<link>https://blog.lauramichet.com/another-video-of-canadian-youths-biking-unwisely/</link>
 						<dc:creator>lauram</dc:creator>
-			<description><![CDATA[<p>I loved <a href="https://stiknork.substack.com/p/qing-up-in-the-age-of-tilt">this great post about designing Q-UP</a> from James Lantz. He goes over how some (very familiar to me) experiences inside League of Legends' multiplayer systems inspired the game.</p>
-<p>I'm still playing it. I really enjoyed all the highly specific stuff it had to say about that game in particular and I really do recommend it to anyone who's had even glancing contact with these types of systems in games. I don't even like playing ranked multiplayer in online games, but I found Q-UP to be a fantastic meditation on That Whole Kind Of Thing!</p>]]></description>
-			<pubDate>Sat, 15 Nov 2025 03:20:00 +0000</pubDate>
-			<guid isPermaLink="false">1763211359545152</guid>
+			<category>bicycles</category>
+			<category>youtube</category>
+			<description><![CDATA[<p>I posted another video from this channel previously - a video where two Canadians (possibly college students??) made a bikepacking rig out of stuff they bought and taped together from the hardware store. I appreciated their deranged commitment to the low-cost bit.</p>
+<p>I have to also recommend this video of them going bikepacking without any food... and eating out of trash cans and animals they grab out of the ocean with their hands.</p>
+<p>You will have to watch the video to learn which animal they eat out of the ocean:</p>
+<iframe src="https://www.youtube.com/embed/kLSMJBRyV_k?si=2rAZFsBLzCu7cjX-" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" sandbox="allow-scripts allow-same-origin"></iframe>]]></description>
+			<pubDate>Sat, 15 Nov 2025 23:41:00 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203197</guid>
 		</item>
 		<item>
-			<title>some melancholy</title>
-			<link>https://artlung.com/blog/2025/11/14/some-melancholy/</link>
-						<dc:creator>Joe Crawford</dc:creator>
-			<category>general</category>
-			<category>swim2025</category>
-			<description><![CDATA[<figure><img src="https://cdn.artlung.com/blog/wp-content/uploads/2025/11/IMG_2683-scaled.jpg" alt="" width="2560" height="2560" data-sanitized-class="alignleft size-full wp-image-131699"><figcaption>angry skies, glassy conditions</figcaption></figure>
-<figure><img src="https://cdn.artlung.com/blog/wp-content/uploads/2025/11/IMG_2684-scaled.jpeg" alt="" width="2560" height="2560" data-sanitized-class="alignleft size-full wp-image-131700"><figcaption>the view from the water</figcaption></figure>
-<figure><img src="https://cdn.artlung.com/blog/wp-content/uploads/2025/11/IMG_2687.jpeg" alt="" width="2190" height="2190" data-sanitized-class="alignleft size-full wp-image-131701"><figcaption>and this is me</figcaption></figure>
-<p>I went to Ocean Beach Today. A storm, and rain, coming to San Diego.</p>
-<p>I am more adept at riding a breaking wave with my body than ever. </p>
-<p>The waves were good today. And I had fun.</p>
-<p>I feel sad there will be rain as it may keep me out of the ocean as freshwater drains pollutants down to the sea. I am sure I will cope, and in a few days the rain will clear.</p>
-<p>I also feel sad that the group show–WOCA–in Orange County I was going to exhibit at this weekend was cancelled due to rain. I look forward to the chance to exhibit in February.</p>
-<p>The world is harder than ever to cope with, but cope I will. And you will too.</p>
-<p>Onward.</p>
-<hr><p data-sanitized-class="feed-reply-footer"><a href="https://artlung.com/guestbook/">Sign my Guestbook</a> | <a href="https://artlung.com/contact/">Contact Me</a> | <a href="https://calendly.com/artlung/30min">Book office hours</a> | <a href="https://shareopenly.org/share/?url=https://artlung.com/blog/2025/11/14/some-melancholy/">Share</a></p>]]></description>
-			<pubDate>Sat, 15 Nov 2025 03:05:15 +0000</pubDate>
-			<guid isPermaLink="false">1763214718111958</guid>
-		</item>
-		<item>
-			<title>I'm A Playlist Kind Of Guy</title>
-			<link>https://mtwb.blog/posts/2025/im-a-playlist-kind-of-guy/</link>
-						<category>music</category>
-			<description><![CDATA[<p>So, I’m in the process of rebuilding my music library so I can finally get away from music subscription services. One of the things that I’ve noticed is that I download albums, but I don’t really listen to albums. I used to, obviously. Back in the CD days (and before that cassette tapes), you listened to one artist at a time, and usually you did so one album at a time. Unless you made mix tapes, which was fun. Mix tapes were the first playlists.</p>
-<p>I’m much more of a playlist guy these days. I have a Favorites playlist that I’ve been cultivating across streaming services since before there were streaming services. In fact it originated in iTunes back in 2004 when I started at MSU. It has had different iterations since then, but the base is the same.</p>
-<p>I have other playlists as well, with more curated experiences and aimed at different genres. It works really well for me.</p>
-<p>The issue I’m going to have now that I’m moving away from streaming is that I’m going to have to be my own algorithm. Most of my music discovery will have to be from the music I own, instead of whatever Tidal or Apple Music want me to play next. I think this means I should listen to more albums. I’ll be exposed to more music that way, at least I think so.</p>
-<p>I will have to work on a way to discover other music. The song I posted about <a href="https://mtwb.blog/videos/2025/im-obsessed-with-this-song/">the other day</a> is one I wouldn’t have found if not for it being suggested in Tidal as I was listening along. I don’t know how I’ll be able to replicate that experience yet when I officially move to my self hosted library. I know that LastFM will help a bit, supposedly they give suggestions based on what you’ve listened to in the past. I do not know if ListenBrainz does the same thing or not. I hope so, because I’m not sure LastFM is long for this world.</p>
-<p>For those of you who self host, how do you discover new music?</p>]]></description>
-			<pubDate>Sat, 15 Nov 2025 02:58:21 +0000</pubDate>
-			<guid isPermaLink="false">1763211359548164</guid>
-		</item>
-		<item>
-			<title>convergent</title>
-			<link>https://anglesmorts.org/20251114/</link>
-						<dc:creator>anglesmorts</dc:creator>
-			<description><![CDATA[<pre><span data-sanitized-class="ispan">hot shower 
-cold day
-i'm onion skinned 
-friend of garlic 
-and i think of rhymes
-like coffee and tea
-and artist kayfabe
-except 
-it's mostly just me
-and you
-and the season
-but more exactly so
-convergent infinity
-
-so
-i heard it said
-on one occasion 
-this morning in the kitchen
-with implements assembled 
-relayed
-
-duality stops 
-halfway out the window
-water drops 
-on leading whiskers
-looks past the point
-wonders
-do you have to see it first? 
-
-and i often don't
-it's too diffuse like
-a single point?
-one relation
-predicate object
-it's more or less but
-and
-different plant
-apposite
-also inverse
-converse
-suspension infusion
-a rejecting
-affirmation
-i can stress any part of a word
-like boiling water poured on a teabag
-in the dark
-steeped in mu-how
-and when to stop?
-
-turns back
-but keeps the window open
-to try again
-and hear the rain fall</span></pre>
-<h3>other things said</h3>
-<span data-sanitized-class="ots">
-<ol>
-<li><pre><span data-sanitized-class="ots">3b sharpened
-past my knuckle
-soon you'll be with the soap
-my friend
-but we'll always have the marks
-we made together</span></pre>
-</li></ol></span>
-<li><pre><span data-sanitized-class="ots">try a surface
-no ambiguity in the doorframe
-no symbols there
-</span></pre>
-</li>
+			<title>Confessions of a Charm School Dropout</title>
+			<link>https://musingsfromatangledmind.com/2025/11/15/confessions-of-a-charm-school-dropout/</link>
+						<dc:creator>Musings from a Tangled Mind</dc:creator>
+			<category>Everyday Musings</category>
+			<category>life</category>
+			<category>humor</category>
+			<category>making friends</category>
+			<category>social anxiety</category>
+			<category>personality quirks</category>
+			<category>dailyprompt</category>
+			<category>funny blog post</category>
+			<category>dailyprompt-2124</category>
+			<media:content url="https://0.gravatar.com/avatar/31ec7a2e33056eb9b17551f99a60a9ba20d8b41e7681ea12d7fe7911294c5215?s=96&amp;d=identicon&amp;r=G" medium="image"><media:title type="html">surojabu11</media:title></media:content>
+			<description><![CDATA[<p>It’s funny that today’s writing prompt is, <em>“What’s the first impression I want to give people?”</em> Because I swear the universe is messing with me — this exact topic blindsided me yesterday while I was shopping with a friend. I was minding my business, smelling a candle, and she just hits me with, “So… what vibe do you <em>think</em> you give off to strangers?”</p>
 
 
-<h4>
-</h4><p><a href="https://anglesmorts.org/20251113">Yesterday</a> :: Friday, 14th November 2025</p>
-]]></description>
-			<pubDate>Sat, 15 Nov 2025 01:12:00 +0000</pubDate>
-			<guid isPermaLink="false">1763211359550613</guid>
-		</item>
-		<item>
-			<title>Captains Log 1763167004</title>
-			<link>https://bearblog.stevedylan.dev/captains-log-1763167004/</link>
-						<dc:creator>stevedylandev</dc:creator>
-			<description><![CDATA[<p>Updates from the bridge:</p>
-<ul>
-<li><p>Got my portable cassette tape player this week and absolutely love it 🥲 Feels great in the hand and I could spend so much time just sitting and listening to music with this thing. My kids love it too, and there's something awesome about watching a 2 year old put on these dinky headphones and watching the tape run. Analog is magic ✨
-<img src="https://files.stevedylan.dev/cp13.jpeg" alt="fiio cp13"></p>
-</li>
-<li><p>Been contemplating the conundrum I mentioned in <a href="https://bearblog.stevedylan.dev/free-speech-blogs-and-p2p-infra/">Free Speech, Blogs, and P2P Infra</a>, and one thing that has got my gears turning is <a href="https://dev.to/isaachagoel/are-sync-engines-the-future-of-web-applications-1bbi">sync engines</a>. I'm using one in Alcove called <a href="https://evolu.dev/">Evolu</a> which has the added bonus of being end to end encrypted. With the right setup, you could technically have a BearBlog platform running on multiple sync relays, making it much harder to take down since other people could help run and keep the platform in sync. I also had the idea of building a WYSIWYG note app using Evolu as well. Too much to build, not enough time. Anyway, I really think sync engines could help re-distribute the web in a much more open and free model, and I'm excited about them.</p>
-</li>
-<li><p>Can't keep Linux out of my head. I've been a Mac person since highschool and I still do appreciate the system, but my tinkering on my desktop Linux machine has got me wondering if it's time to switch. Generally I can do most things on Linux that I could do on my MacBook, but the one thing holding me back is hardware. I already have a solid M4 MacBook Pro that would make no sense selling it right now. Framework and System76 have my eye but I'm not sure if they'll have the same performance and battery life of my MacBook. However the allure of complete customization and ownership you get with Linux may eventually get me.</p>
-</li>
-</ul>
-<p>Until next time 🫡</p>
-<div data-sanitized-class="reply-button-container">
-  <a href="mailto:contact@stevedylan.dev?subject=Re:%20Captains%20Log%201763167004" data-sanitized-class="reply-button">reply via email</a>
-</div>]]></description>
-			<pubDate>Sat, 15 Nov 2025 00:22:00 +0000</pubDate>
-			<guid isPermaLink="false">1763211359548067</guid>
-		</item>
-		<item>
-			<title>27 Simple Ways to Take Care of Yourself Over the Holidays</title>
-			<link>https://bemorewithless.com/take-care/?adt_ei=%7B%7B%20subscriber.email_address%20%7D%7D</link>
-						<dc:creator>Courtney Carver</dc:creator>
-			<category>Simplify Your Life</category>
-			<description><![CDATA[<p>Holiday self care is often neglected. There is so much more to do so we sacrifice the very things that help us feel good. We often compromise our sleep and other things that make us feel well...</p>
-<p>The post <a href="https://bemorewithless.com/take-care/">27 Simple Ways to Take Care of Yourself Over the Holidays</a> appeared first on <a href="https://bemorewithless.com/">Be More with Less</a>.</p>]]></description>
-			<pubDate>Fri, 14 Nov 2025 23:28:25 +0000</pubDate>
-			<guid isPermaLink="false">1763211359552496</guid>
-		</item>
-		<item>
-			<title>With Our Heads Held High</title>
-			<link>https://mirroredworld.bearblog.dev/with-our-heads-held-high/</link>
-						<dc:creator>mirroredworld</dc:creator>
-			<category>musings</category>
-			<description><![CDATA[<hr>
-<p>When I was in High School, the ones I respected (and envied) the most were the ones who seemed like they had their dreams figured out. Instead of an infinitely expanding road, the path laid out before them were clear, even if not always straight.</p>
-<p>"I want to be an animator."</p>
-<p>"I want to be a doctor."</p>
-<p>"I'll make a breakthrough in electrical engineering."</p>
-<p>As a jack of all trades who enjoyed a lot of things but had no particular affinity for anything, I can't even begin to fathom condensing my future aspiration other than getting to a point where I could have my own personal library and study, somehow (heh). Even as a child I was not a cute one, my mindset was very practical. Get myself something I could do moderately well, not particularly bothersome, and have a decent pay. It's a mindset that admittedly does serve me well even if it lacks "romance". You see, childhood dreams are full of unreasonable elements.  A doomed industry, an oversaturated field, a faraway goal. But regardless, it's a point to reach for, something these people have worked and would work hard for. It has a shiny edge we can't help but admire, I believe. It's the same reason shonen manga is so compelling: to see people struggle, overcoming hurdles come what may, for the sake of this singular goal, no matter how ridiculous. Life happens. The dreams live on.</p>
-<p>But in the decade of intervening years, I've come to respect different kinds of people too: people who quietly put old dreams to rest, people chasing after new dreams, people who reignite the dreams they've once buried. It takes tremendous amount of courage to stop. I don't believe it's cowardly at all. To take that in stride, to continue living despite, and to discover what future has to hold has their own shine. Afterall, as long as you're alive, you can always try again.</p>
-<p>But how about the rest of us with no dreams to hold onto?</p>
-<p>As I grow up, I have gained trust of many people. They confide in me all sorts of things, but there's a common thread. They are ashamed of not having dreams, or not having one lofty enough. They are ashamed of meandering through life. They all think everyone else have everything figured out while they are just there, existing. Here's a secret: it can be high school, it can be college, it can be the years ahead, but a lot of people may not actually find their "calling" until later in life, or even at all. Here's another secret: you can still have a pretty fulfilling life without one.</p>
-<p>I used to take living day by day for granted, but when you think about it to continue living on is pretty amazing by itself. I suffer from executive dysfunction and some recurring mental health problems so going through one day to the next, however uneventful, can be a challenge. We get setbacks. We have good days. We have bad days. It's easy to lose sight of tomorrow. To keep showing up, to put one foot after another, takes courage too. It's just easy for us to dismiss that in a world where achievement is all there is.</p>
-<p>Even if there is no singular moment to look forward to, there are many small things to celebrate. The pavement after rain. Your favorite series on a rerun. An old friend coming into town. A fantastic hole-in-the-wall. The sky in the morning. A sibling. It's not always easy to keep yourself going, but as long as we're alive I'm sure we'll end up with many things to cherish. Who knows, you might finally end up having "dreams" of your own eventually. Or not, that's fine.</p>
-<p>Not having a path to walk on makes me feel lost at times, but it also means I can pursue whatever whenever. My resume is so chaotic it's always the centerpiece of any interview I attend. It may be circuitous, but I don't think everything I've done is a waste of time. Life works in a mysterious way. I always think everything I do builds on top of the ones before it, and the people I encounter intertwine in such a way that I know I will eventually get somewhere. I don't have the vaguest idea where "somewhere" is, but the journey, thorny as it might be, is alright.</p>
-<p>For those with dreams, I hope you'll find your way there.</p>
-<p>For those who have to make compromises with their dreams, I hope for the best outcome.</p>
-<p>For those who haven't found their calling, I pray that one day you can find one.</p>
-<p>Even if you don't, just put one foot after another.</p>
-<p>Let's continue living, with our heads held high.</p>]]></description>
-			<pubDate>Fri, 14 Nov 2025 23:03:00 +0000</pubDate>
-			<guid isPermaLink="false">1763211359551563</guid>
-		</item>
-		<item>
-			<title>I spent a good chunk of the morning listening to the Rebuilding soundtrack,…</title>
-			<link>https://www.nicksimson.com//notes/2025-11-14-rebuilding.html</link>
-						<description><![CDATA[<p>I spent a good chunk of the morning listening to <a href="https://james-elkington.bandcamp.com/album/rebuilding">the <em>Rebuilding</em> soundtrack</a>, which came out today and I think will be a part of my “music for getting work done” rotation. Music by Jake Xerxes Fussell and James Elkington with Nick Macri (upright bass) and Anna Jacobson (brass and strings).</p>
-<p>A good soundtrack should give you the feel of the story’s time and place and characters. The album artwork by <a href="https://www.yssrs.com/about">Julienne Alexander</a> is quite resonant too. I’m very interested in watching <a href="https://www.imdb.com/title/tt29361963/">the film</a>. </p>
-<p><small>Also <a href="https://app.crucialtracks.org/profile/nsmsn/20251114">posted to Crucial Tracks</a>.</small></p>]]></description>
-			<pubDate>Fri, 14 Nov 2025 20:38:47 +0000</pubDate>
-			<guid isPermaLink="false">1763211359557214</guid>
-		</item>
-		<item>
-			<title>I'd like to build a quiet life amongst the flowers</title>
-			<link>https://willhopkins.dev/id-like-to-build-a-quiet-life-amongst-the-flowers/</link>
-						<dc:creator>Will Hopkins</dc:creator>
-			<category>politics</category>
-			<description><![CDATA[<p>At this moment, I'm feeling exhausted. I've had a cold or something for last 15 days and am now on some antibiotics to try to clear up any bacterial infection. I've been making a sizable dent in a Costco-sized bottle of generic Mucinex DM.</p>
-<p>The last couple weeks have been rough, even if you don't work in government. (And if you do, my heart goes out to you.) Then someone at work brought this to my attention: the Trump admin is floating the idea that they can just revoke passports because they feel like it.<sup data-sanitized-class="footnote-ref"><a href="https://willhopkins.dev/id-like-to-build-a-quiet-life-amongst-the-flowers/#fn1" data-sanitized-id="fnref1">[1]</a></sup> Revoking passports and the freedom of movement that comes with them is a standard authoritarian move. If your scapegoat can't escape, it's a lot easier to brutalize them. I may not be trans, but I won't stand by and watch them be attacked any more than the immigrants in my community.</p>
-<p>At work, I'm working on a giant data pipeline to move terabytes across the wire. We're standing up new platforms and trying to expand our business. It's stressful.</p>
-<p>All of that brings me to this. I want nothing more than a quiet life with people I love. I want to read books, take photos, take walks, play games, laugh, and live a gentle life. That's all any of the immigrants they've kidnapped have wanted. That's all the drag queen dancing for tips wants. On the balance, people just want to live.<sup data-sanitized-class="footnote-ref"><a href="https://willhopkins.dev/id-like-to-build-a-quiet-life-amongst-the-flowers/#fn2" data-sanitized-id="fnref2">[2]</a></sup></p>
-<p>Anyway, that's all. I can envision a really gentle and loving life that makes the world around me a little bit better. I can imagine living in harmony with others, and that sounds really nice.</p>
-<p>When I wax poetic about this quiet life, a lot of folks have told me, "What's stopping you? Just do it!" The answer, dear reader, is that I give a shit about other people. I can't retire to a quiet life because none of us are free until all of us are free.</p>
-<hr data-sanitized-class="footnotes-sep">
-<section data-sanitized-class="footnotes">
-<ol data-sanitized-class="footnotes-list">
-<li data-sanitized-id="fn1" data-sanitized-class="footnote-item"><p><a href="https://archive.ph/mer5n">Ungated</a>, because fuck Substack (sorry Erin). <a href="https://willhopkins.dev/id-like-to-build-a-quiet-life-amongst-the-flowers/#fnref1" data-sanitized-class="footnote-backref">↩︎</a></p>
-</li>
-<li data-sanitized-id="fn2" data-sanitized-class="footnote-item"><p>Of course there are exceptions but they're so rare they're not worth mentioning, and a rare exception isn't a reason to abuse a group of people. <a href="https://willhopkins.dev/id-like-to-build-a-quiet-life-amongst-the-flowers/#fnref2" data-sanitized-class="footnote-backref">↩︎</a></p>
-</li>
-</ol>
-</section>]]></description>
-			<pubDate>Fri, 14 Nov 2025 20:08:20 +0000</pubDate>
-			<guid isPermaLink="false">1763211359546829</guid>
-		</item>
-		<item>
-			<title>parakeet-mlx</title>
-			<link>https://simonwillison.net/2025/Nov/14/parakeet-mlx/#atom-everything</link>
-						<dc:creator>Simon Willison</dc:creator>
-			<category>python</category>
-			<category>ai</category>
-			<category>nvidia</category>
-			<category>uv</category>
-			<category>mlx</category>
-			<category>speech-to-text</category>
-			<description><![CDATA[<p><strong><a href="https://github.com/senstella/parakeet-mlx">parakeet-mlx</a></strong></p>
-Neat MLX project by Senstella bringing NVIDIA's <a href="https://huggingface.co/nvidia/parakeet-tdt-0.6b-v2">Parakeet</a> ASR (Automatic Speech Recognition, like Whisper) model to to Apple's MLX framework.
-<p>It's packaged as a Python CLI tool, so you can run it like this:</p>
-<pre><code>uvx parakeet-mlx default_tc.mp3
-</code></pre>
-<p>The first time I ran this it downloaded a 2.5GB model file.</p>
-<p>Once that was fetched it took 53 seconds to transcribe a 65MB 1hr 1m 28s podcast episode (<a href="https://accessibility-and-gen-ai.simplecast.com/episodes/ep-6-simon-willison-datasette">this one</a>) and produced <a href="https://gist.github.com/simonw/ea1dc73029bf080676839289e705a2a2">this default_tc.srt file</a> with a timestamped transcript of the audio I fed into it. The quality appears to be very high.
+
+<p>I just stared at her. I mean… <em>what</em>? Why are we doing interview questions in Aisle 3? I thought we were just trying to find the bathroom in Target.</p>
 
 
-    </p><p>Tags: <a href="https://simonwillison.net/tags/python">python</a>, <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/nvidia">nvidia</a>, <a href="https://simonwillison.net/tags/uv">uv</a>, <a href="https://simonwillison.net/tags/mlx">mlx</a>, <a href="https://simonwillison.net/tags/speech-to-text">speech-to-text</a></p>]]></description>
-			<pubDate>Fri, 14 Nov 2025 20:00:32 +0000</pubDate>
-			<guid isPermaLink="false">1763211359545213</guid>
-		</item>
-		<item>
-			<title>matt gaetz's screening process</title>
-			<link>https://combatdavey.net/matt-gaetz-screening-process/</link>
-						<dc:creator>combatdavey</dc:creator>
-			<category>matt gaetz</category>
-			<description><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/combatdavey/do_you_have_18.webp" alt="do_you_have_18"></p>
-<p>🌲🌼🌱🌳🌷 gonna go touch grass now byeeeeeee</p>
-<p><mark>If you enjoyed this post, click the little up arrow chevron thinger below the tags to help it rank in Bear's <a href="https://bearblog.dev/discover/">Discovery feed</a> and maybe consider sharing it with a friend or on your socials.</mark></p>]]></description>
-			<pubDate>Fri, 14 Nov 2025 19:52:00 +0000</pubDate>
-			<guid isPermaLink="false">1763211359557263</guid>
-		</item>
-		<item>
-			<title>Occasional Weeknote #17</title>
-			<link>https://laze.net/2025/11/14/occasional-weeknote.html</link>
-						<description><![CDATA[<p>We’ve been dealing with a sick bunny around the house this past week. Rabbits have fragile systems and can go from “OK” to “really bad news” quickly, so it’s important (and, at times, exhausting) to stay on top of things when they come up. He’s doing alright, on antibiotics to deal with a bacterial infection and a few others to help prevent GI stasis, the thing that strikes fear in anyone caring for rabbits.</p>
-<p>Unfortunately, I’m not one of those people that deals with overwhelm and worry by getting extra creative or productive. Instead, I tend to quietly slow down (if not shut down) to deal with what’s in front of me.</p>
-<p>All this to say, that’s why I feel like I haven’t really done much this week worthy of sharing. And that’s OK.</p>
-<p>I did get out to dinner with a former co-worker I hadn’t seen in almost ten years. That was fun.</p>
-<h2 data-sanitized-id="some-links-worth-sharing">Some Links Worth Sharing</h2>
-<ul>
-<li><a href="https://boiledpotatoesblog.wordpress.com/2025/11/11/my-pit-bull-is-a-diva/">My Pit Bull is a Diva</a>: “Pit bulls are prissy creatures that need extra blankets, hate the cold, and love to snuggle.”</li>
-<li><a href="https://datalifeboat.flickr.org/">Flickr’s Data Lifeboat</a>: A new 100-year photo collection preservation effort. They’re taking a really interesting approach that allows you to use your own photos <em>or</em> others' (with permission) to build these collections with context. I’m looking forward to trying this out and seeing where it goes.</li>
-<li><a href="https://idiomdrottning.org/doomscrolling">The Doom That Came to Scrolling</a>: ““Doomscrolling” originally specifically meant scrolling through bad news and only later was generalized to all compulsive scrolling, all kinds of scrolling where you afterwards, when to the sessions of sweet silent thought, summon up remembrance of things past and wonder why the heck you spent your precious hours on the dreck you just waded through.”</li>
-<li><a href="https://thatalexguy.dev/posts/small-web-discovery/">Discovering the Indie Web</a>: Great overview, even if you’ve read a hundred of these types of article sbefore.</li>
-<li><a href="https://scour.ing/">Scour</a>: A nifty new tool that provides a feed of blog posts related to your interests. Via the previous article.</li>
-<li><a href="https://www.npr.org/2025/11/13/nx-s1-5607112/healthcare-costs-could-soon-skyrocket-for-millions-we-talk-to-some-of-them">Healthcare costs could soon skyrocket for millions. We talk to some of them</a>: And one of “them” is my buddy <a href="https://odonnellweb.com/">Chris</a>.</li>
-</ul>
-<h2 data-sanitized-id="media-notes">Media Notes</h2>
-<h3 data-sanitized-id="reading">Reading</h3>
-<ul>
-<li>Finished <em>Ryokan Interpreted</em> by Shōhaku Okumura and Tonen O’Connor. Really nice addition to my Ryokan collection that ties together Dogen’s teachings with Ryokan’s own lived experiences.</li>
-<li>Finished Maria Popova’s beautiful little book, <em>A Universe in Verse: 15 Portals to Wonder Through Science &amp; Poetry</em>.</li>
-</ul>
-<h3 data-sanitized-id="music">Music</h3>
-<ul>
-<li>Makaya McCraven released <a href="https://www.nonesuch.com/journal/four-new-makaya-mccraven-eps-out-now-also-compiled-two-lp-record-2025-10-31">four EPs</a> recently. I used <a href="https://open.spotify.com/playlist/2m3KTnzKk6iyDk5A8M68J8">this playlist</a> that collects them all together into one 90-minute session (sorry, could only find on Spotify). I loved all four albums and you may as well if you like some modern jazz with an edge (“Built from live recordings [of pure improvisation], the music is later reshaped by McCraven via extensive editing, overdubs, and post-production at his home studio in Chicago."). Makaya’s father was a legendary jazz drummer in his own right. (Makaya <a href="https://www.youtube.com/watch?v=QsT1fGsjZPQ">played a release party</a> that’s on YouTube, but I haven’t watched it yet.)</li>
-<li>Next week is the new De La Soul album! The first two singles are great, so I have high hopes.</li>
-</ul>
-<h3 data-sanitized-id="some-good-videos">Some good videos</h3>
-<ul>
-<li><a href="https://youtu.be/7C53MfgyxDY">1970: Mindset of a Marathon Man</a> - 16-minute BBC documentary from 55 years ago about a marathoner, from back when running 26.2 miles wasn’t so normal. Look at those shoes! It’s no wonder this guy is so ambivalent about both training <em>and</em> racing. I would be, too, if I were putting in 100+ miles a week on those things. <a href="https://en.wikipedia.org/wiki/Jim_Alder">Jim Alder</a>, the featured runner, is 85 now and carried the Olympic torch in 2012. I haven’t been able to find how long he continued to run.</li>
-<li><a href="https://youtu.be/wlfRP2jzwVw">1978: The Ancient Sport of Road Bowling</a> - Another one from the BBC Archive that makes me think I’m going to work my way through the entire “Niche Sports” collection.</li>
-<li><a href="https://youtu.be/2Mqa4zfJdx4">The Dream of Finishing One’s To-Do List | “Retirement Plan” | The New Yorker</a> - Poetic and deeply meaningful reminder that we will die with many, many things on our to-do list.</li>
-<li><a href="https://youtu.be/ZNBB6ROFlyY">‘Honk House’ near Salida still loud after all these years</a> - A house in Colorado that people honk “hello” to day and night all because of its former resident, who died in the 1970s.</li>
-</ul>
-<h2 data-sanitized-id="sites-notes">Site(s) Notes</h2>
-<p>Nothing this week except for a few minor <a href="https://laze.net/garden/">digital garden</a> updates, but I’ve got multiple posts in draft mode that just need a little more nudging to finish up. Next week, perhaps!</p>]]></description>
-			<pubDate>Fri, 14 Nov 2025 19:06:20 +0000</pubDate>
-			<guid isPermaLink="false">1763211359547460</guid>
-		</item>
-		<item>
-			<title>Took a longer bike ride this morning up to Hillside Spot Cafe for breakfast…</title>
-			<link>https://rsjon.es/2025/11/14/took-a-longer-bike-ride/</link>
-						<description><![CDATA[<p>Took a longer bike ride this morning up to Hillside Spot Cafe for breakfast and a coffee for <a href="https://rsjon.es/coffeeneuring">ride 7 of #coffeeneuring2025</a>.</p>
-<p>This technically completes the coffeeneuring challenge (yay!!), though we’re planning on doing another ride or two anyway.</p>
-<p><img src="https://cdn.uploads.micro.blog/7480/2025/baf2a0ca1d.jpg" width="600" height="450" alt="Two bikes are parked in front of a café with a beige exterior and several advertisements on the windows."><img src="https://cdn.uploads.micro.blog/7480/2025/9d018b1724.jpg" width="450" height="600" alt="A ceramic mug with pumpkin designs is on a table, with a person sitting and smiling in the background."></p>]]></description>
-			<pubDate>Fri, 14 Nov 2025 18:37:48 +0000</pubDate>
-			<guid isPermaLink="false">1763211359552712</guid>
-		</item>
-		<item>
-			<title>3 books with Samuel Arbesman</title>
-			<link>https://interconnected.org/home/2025/11/14/arbesman</link>
-						<description><![CDATA[<div>
-<p>I had a look to see when I first mentioned Samuel Arbesman here. It was 2011: <a href="https://interconnected.org/home/2011/03/17/finding_baby_sciences_and_new_moons">the average size of scientific discoveries is getting smaller</a>.</p>
-<p>Anyway I’ve been reading his new book, <a href="https://themagicofcode.com/">The Magic of Code</a> (official site).</p>
-<p>There’s computing history, magic, the simulation hypothesis, and  a friendly unpacking of everything from procedural generation to Unix.</p>
-<p>And through it all, an enthusiastic appeal to look again at <em>computation,</em> as if to say, <em>look, isn’t it WEIRD! Isn’t it COOL!</em> Because we’ve forgotten that code and computation deserves our wonder. And although this book isn’t an apology for technology (<em>"computing is meant to be for the humans"</em>, says Arbesman), it is a reminder - demonstrated chapter by chapter - that wonder, delight and curiosity are there to be found.</p>
-<p>(And if we look at computation afresh then we’ll have new ideas about what to do with it.)</p>
-<p>Now I’m decently well-read in this kind of stuff.</p>
-<p>Yet <em>The Magic of Code</em> is bringing me new-to-me computing lore, which I’m loving.</p>
-<p>So, in the spirit of a virtual book tour - an old idea from the internet where book authors would tour blogs instead of book stores, <a href="https://interconnected.org/home/2022/10/18/shopping">as previously mentioned</a> - I asked Samuel Arbesman for a reading list: <strong>3 books from the Magic of Code bibliography.</strong></p>
-<p>(I’ve collected <a href="https://interconnected.org/home/tagged/3-books">a couple dozen 3 Books reading lists</a> over the years.)</p>
-<p>I’ll ask him to introduce himself first…</p>
-<hr>
-<p><strong>Samuel! Tell us about yourself?</strong></p>
-<blockquote>
-<p>I’m a <a href="https://arbesman.net/">scientist and writer</a> playing in the world of venture capital as <a href="https://www.luxcapital.com/">Lux Capital</a>‘s Scientist in Residence, where I help Lux explore the ever-changing landscape of science and technology, and also host a podcast called <a href="https://www.theorthogonalbet.com/">The Orthogonal Bet</a> where I get to speak with some of the most interesting thinkers and authors I can find. I also write books about science and tech, most recently <a href="https://themagicofcode.com/">The Magic of Code</a>, as well as <em>The Half-Life of Facts</em> and <em>Overcomplicated.</em> The themes in my work are often related to radical interdisciplinarity, intellectual humility in the face of complex technologies and our changing knowledge, and how to use tech to allow us to be the best version of ourselves.</p>
-<p>The best way to follow me and what I’m thinking about is my newsletter: <a href="https://arbesman.substack.com/">Cabinet of Wonders</a>.</p>
-</blockquote>
-<p>I asked for three fave books the bibliography…</p>
-<h3>#1. Ideas That Created the Future: Classic Papers of Computer Science, edited by Harry R. Lewis</h3>
-<blockquote>
-<p>I love the history of computing. It’s weird and full of strange turns and dead ends, things worth rediscovering and understanding. But it’s far too easy to forget the historically contingent reasons why we have the technologies that we have (or simply know the paths not taken), and understanding this history-including the history of the ideas that undergird this world-is vital. More broadly, I want everyone in tech to have a “historical sense” and this book is a good place to start: it’s a handbook to seminal ideas and developments in computing, from the ELIZA chatbot and Licklider’s vision of “man-computer symbiosis” to Dijkstra’s hatred of the “go to” command. Because the ideas we are currently grappling with are not necessarily new and they have a deep intellectual pedigree. Want to know the grand mages of computing history and what they thought about? Read this book.</p>
-</blockquote>
-<p>Ideas That Created the Future: Classic Papers of Computer Science: <a href="https://www.amazon.com/Ideas-That-Created-Future-Computer/dp/0262045303">Amazon</a></p>
-<h3>#2. In the Beginning… Was the Command Line, Neal Stephenson</h3>
-<blockquote>
-<p>I’m pretty sure that I first read this entire book–it’s short–in a single sitting at the library after stumbling upon it. It’s ornery and opinionated about so many computing ideas, from Linux and GUIs to open source and even the Be operating system (it was written in the 1990’s and is very much of its time). Want to think about these ideas in the context of bizarre metaphors or a comparison to the Epic of Gilgamesh? Stephenson is your guy. This expanded my mind as to what computing is and what it can mean (the image of a demiurge using a command line to generate our universe has long stuck with me).</p>
-</blockquote>
-<p>In the Beginning… Was the Command Line: <a href="https://www.amazon.com/Beginning-Was-Command-Line/dp/0380815931">Amazon</a> / <a href="https://en.wikipedia.org/wiki/In_the_Beginning..._Was_the_Command_Line">Wikipedia</a></p>
-<h3>#3. Building SimCity: How to Put the World in a Machine, Chaim Gingold</h3>
-<blockquote>
-<p>Chaim Gingold worked with Will Wright while at Maxis and has thought a lot about the history of SimCity. And when I mean history, I don’t just mean the way that Maxis came about and how SimCity was created and published, though there’s that too; I mean the winding intellectual origins of SimCity: cellular automata, system dynamics, and more. SimCity and its foundation is a window into the smashing-together of so many ideas–analog computers, toys, the nature of simulation–that is indicative of the proper way to view computing: computers are weirder and far more interdisciplinary than we give them credit for and we all need to know that. Computing is a liberal art and this book takes this idea seriously.</p>
-</blockquote>
-<p>Building SimCity: How to Put the World in a Machine: <a href="https://www.amazon.com/Building-SimCity-World-Machine-Histories/dp/0262547481/">Amazon</a></p>
-<hr>
-<p>Amazing.</p>
-<p>Hey here’s a deep cut ref for you: in 2010 <a href="https://archive.boston.com/bostonglobe/ideas/articles/2010/02/28/warning_your_reality_is_out_of_date/">Arbesman coined the term mesofact</a>, <em>"facts which we tend to view as fixed, but which shift over the course of a lifetime,"</em> or too slowly for us to notice. I think we all carry around a bunch of outdated priors and that means we often don’t see what’s right in-front of us. I use this term a whole bunch in trying to think about and identity what I’m not seeing but should be.</p>
-<p>Thank you Sam!</p>
 
-  <hr>
+<p>And she clearly expected me to say something inspirational like, “I hope people see my inner glow,” or “I try to radiate compassion.” No. I don’t glow. I don’t radiate. At best, I mildly hum, but more in a “she’s getting ready to explode” kind of a way… you know, like <em>Perfection</em> right before it detonates.</p>
 
 
-	<p><small>More posts tagged:
-	
-	<a href="https://interconnected.org/home/tagged/3-books">3-books</a>
-	(34).
-	
-	</small></p>
+
+<p>Then, before I can even stop spluttering long enough to formulate a socially acceptable answer, she shrugged and went, “Welp… whatever the answer is, that’s <em>not</em> the face you’re giving off.” What the hell, Brenda?</p>
 
 
-  <p><small>Auto-detected kinda similar posts:</small></p>
-  <ul>
-  
-  <li><small><a href="https://interconnected.org/home/2020/06/23/3_books">3 books from Chris Noessel</a>
-  (23 Jun 2020)</small></li>
-  
-  <li><small><a href="https://interconnected.org/home/2022/12/30/reading">What I’ve been reading in 2022</a>
-  (30 Dec 2022)</small></li>
-  
-  <li><small><a href="https://interconnected.org/home/2025/04/03/september">Between early computing and modern computing: some cultural histories</a>
-  (3 Apr 2025)</small></li>
-  
-  <li><small><a href="https://interconnected.org/home/2021/12/31/books">What I’ve been reading in 2021</a>
-  (31 Dec 2021)</small></li>
-  
-  <li><small><a href="https://interconnected.org/home/2016/07/29/3_books">3 Books Weekly #22: Featuring Nat Hunter from Machines Room</a>
-  (29 Jul 2016)</small></li>
-  
-  </ul>
 
-</div>]]></description>
-			<pubDate>Fri, 14 Nov 2025 17:16:00 +0000</pubDate>
-			<guid isPermaLink="false">1763211359552494</guid>
+<p>Then I narrowed my eyes and asked, “Does this have anything to do with that old man in the seasonal section? He startled me. You saw it. There were gourds, Brenda.”</p>
+
+
+
+<p>Look, I know I should probably make a better first impression. But I’m also self-aware enough to know that I absolutely don’t. At best, I give off a general aura of, “Hey, I’m sure you’re lovely, but maybe… don’t talk to me?”</p>
+
+
+
+<p>The thing is, I don’t have <em>resting</em> bitch face. This is literally just my face. This is the factory default. This is what it looks like when I’m standing still.</p>
+
+
+
+<p>People assume I’m mad, but no. I’m probably thinking about pasta. Or trying to remember whether I left laundry in the washer in 2014. I’ve got a whole inner world happening here that has absolutely nothing to do with anyone around me, and it’s hard to convey that without making things worse.</p>
+
+
+
+<p>And then there’s the smiling thing. I forget to do it. Unless I’m laughing at something in my own head (because I’m a delight) or there’s a baby or an animal involved, it just doesn’t occur to me.</p>
+
+
+
+<p>There is always — ALWAYS — some overly cheerful human who hits me with the “You should smile more!” Ma’am. Sir. Please. If you saw my intentional smile, you would take that back immediately. </p>
+
+
+
+<p>You know how a dog looks when someone teaches it to “smile?” That stiff, awkward teethy “I’m doing this for a treat and I hate every moment” grimace? That’s exactly what I look like when I force a smile. Nobody needs that energy aimed at them in a grocery store. It’s very “I swear I’m normal, please don’t call security.”</p>
+
+
+
+<p>The point is, while other people are out here trying to give off approachable, bubbly, sunshine-on-a-stick energy, I am… not. I’m aiming more for “friendly raccoon that might run away if you make eye contact.” But also, I might bite. It’s hard to say.</p>
+
+
+
+<p>I’m not unfriendly. I’m just… cautious. Socially allergic. Pick your adjective. I don’t care what you call me so long as you don’t call me.</p>
+
+
+
+<p>So what first impression do I WANT to give? I want to look like someone who is perfectly nice once you know me but maybe doesn’t need to be spoken to immediately upon entry. I want to give off “Give me a minute” energy. Sometimes several minutes. Sometimes days. It depends on how early in the morning it is.</p>
+
+
+
+<p>In short, I would very much like to be left alone.<br>Respectfully.<br>Gently.<br>The way you’d leave a sleeping cat alone even though it looks cute and you want to pet it.</p>
+
+
+
+<p>And if you catch me looking like I’m judging you, I promise I’m not. My face is just buffering. But also… don’t feel pressured to talk to me while it loads.</p>
+
+
+
+<p data-sanitized-class="has-white-color has-text-color has-link-color wp-elements-7e4ac651328708ea719ac0894fa30934">.</p>
+
+
+
+<p></p>]]></description>
+			<pubDate>Sat, 15 Nov 2025 21:43:47 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203181</guid>
 		</item>
 		<item>
-			<title>Do The Right Thing Because That's The Only Way</title>
-			<link>https://nikhil.bearblog.dev/do-the-right-thing-because-thats-the-only-way/</link>
-						<dc:creator>nikhil</dc:creator>
-			<description><![CDATA[<p>Why do you do the right thing? Because it's the right thing to do. The purpose lies in the deed itself.</p>
-<p>I've heard the argument countless times: there's no point in doing the right thing unless the whole world follows the same moral compass. But this is a fundamentally flawed way to think about morality.</p>
-<p>First, we need to understand what it means to do the right thing. It changes and evolves according to context. If a friend asks you to take part in a horrible crime, your answer should be no. Helping a friend is usually the right thing to do, but we understand context. No matter how many people pressure you into helping that friend, you won't—because you know the situation. Or you might choose to help, knowing that saving your friend is worth it.</p>
-<p>If you require a reason to do the good thing, the right thing, then you are morally bankrupt and looking for justification for your corruption. You do the right thing for its own sake—not for recognition or to sound clever. How many times have we cheated our company by filing incorrect expenses? Cheated the government by breaking a law? Cheated on partners? These are countless instances where we choose what's beneficial over what's right.</p>
-<p>Every time you pick convenience over ethical living, you add decay to your character. Add enough, and soon your core will be rotten. No clever argument can save your soul then. The world can go to hell six ways to Sunday—don't think about that. Think about what you are doing. How you choose to live your life will determine how your future generation lives theirs. Why would they believe in your ethics when they never saw you follow them?</p>
-<p>I understand there are exceptional cases, but I'm speaking in broader terms. Eighty percent of the time, one must do what is right, not what's convenient. Don't cheat. Don't lie to your friends and family. Be an honourable man. Be proud of yourself. These are clichés, yes, but these things make us human. They separate us from acting like animals—slaves to impulses and what's beneficial in the current moment.</p>
-<p>The world is filled with good people too; otherwise, it would have collapsed. Add to the goodness of the world. Do the right thing because that's the only way to live.</p>]]></description>
-			<pubDate>Fri, 14 Nov 2025 14:42:00 +0000</pubDate>
-			<guid isPermaLink="false">1763211359551573</guid>
-		</item>
-		<item>
-			<title>If everyone read everywhere</title>
-			<link>https://joelchrono.xyz/blog/if-everyone-read-everywhere/</link>
-						<dc:creator>joelchrono</dc:creator>
+			<title>How Many Posts Is Too Many?</title>
+			<link>https://mtwb.blog/posts/2025/how-many-posts-is-too-many/</link>
+						<category>blogging</category>
 			<category>writing</category>
-			<category>reading</category>
-			<category>ramble</category>
-			<category>storytime</category>
-			<description><![CDATA[<p>As I got to the bus back home a couple days ago, paid my ticket and got in, I couldn’t help but notice a girl at the second to last seat at the back of the bus. She was reading a book.</p>
-
-<p>It was a long one, I couldn’t really read the title of it from where I was. All seats occupied, I was standing five or so seats away and the title was written in a cursive font that was not legible from afar.</p>
-
-<p>She was reading the last twenty or so pages, by the art style of the cover, I assume it was some sort of romance YA novel, she seemed to be rather emotional about whatever was going on. I noticed the back and forth of her eyes as she was flying through every line, paragraph, and page.</p>
-
-<p>After a couple minutes a seat freed up right in front of her, I glanced at her general direction, although she was so glued to the book to notice, although I wasn’t being obvious, I think. I still couldn’t make up what the title was, so I gave it up, sat down, rested my backpack on my lap, took my Kobo reader out, and continued my sci-fi novel.</p>
-
-<p>I didn’t notice when she got down from the bus.</p>
-
-<p>Sorry if you expected some sort of romantic twist, or any kind of interaction at all, <em>oh well.</em></p>
-
-<p>Anyway, that little event really made me think about books read in public.</p>
-
-<p>Today, most people are <a href="https://joelchrono.xyz/blog/kids-use-their-phones-way-too-much/">looking at their phones</a>, tiny screens, each person using different apps, social media platforms, or ad-ridden mobile games, and all of it is for the same thing, feeding from quick entertainment, slop and domapine, in the best case maybe having a chat with someone, although it’s usually a bubble—yes, Facebook Messenger here rules 🤢—left on a corner, replying when needed as one continues to <em>consume</em>.</p>
-
-<p>So, I wonder how it would be if we just carried a book around instead?</p>
-
-<hr>
-
-<p>Wouldn’t it be a sight to behold? Every person sitting at the bus, with a book on hand, or in ther pockets, reading something and engaging in a whole unique world for themselves. Some guy would be carrying one of those pocket-sized editions of some timeless classic, holding it at their eye level, another wouldn’t mind the full-sized 900 pages long romance novel, half-way hidden by the open bag its leaning on. Some other person would be standing, one hand firm on handle, the book held with the other in an awkward position, flipping a page with their some weird maneuver, the next guy just tapping on an e-ink device enjoying some sports manga.</p>
-
-<p>Imagine, a never-ending book club, during lunch breaks, after the gym, or on a video-call, conversations sparking when two people notice they are reading the same one, heated discussions when the finale of a long-running series comes out at last. Best-sellers only lasting a few days as the fans catch up on them and the rest just borrow from their friends or libraries, which are fully functional buildings providing easy access to everyone in town, as ids aren’t needed, just pick what you want and leave it anytime, nobody really worries because there is plenty of supply for the demand.</p>
-
-<p>Who needs “BookTok”, when your circle of friends will have suggestions and a backlog to share? when everyone is out there displaying their book cover as they read something?—<del>instead of watching reels with monotone AI voices at full volume.</del> Approaching people and making friends with shared interests would be much easier too!</p>
-
-<p>I wonder if historians know of a period like this, a time where this was a common thing. I must admit I am completely unaware of a period where this was the case.</p>
-
-<p>Did books ever get widely popular, as to be read in public or be carried around in pockets? I feel most people were too busy trying to get by with whatever working conditions there were at the time, and of course, knowing how to write or read was a privilege that not many people got to have for centuries.</p>
-
-<p>If there’s something that I know, is that today we are more “connected” than ever before, and we have more access to information than any previous age, and more books widely available in both physical and digital format, and yet, it seems like books remain a niche, something rarely talked about in public, because you are seen as a snob or a geek when you mention it to someone, somehow.</p>
-
-<p>In any case, just imagine that picture again, that bus, filled with people, wobbling their heads with their books on hand as the driver avoids the potholes on the roadway. The only noise inside? the fluttering of pages turning over, such a pleasant breeze.</p>
-
-<p>Now that I think about it, some people can’t handle reading while on the move. I guess that’s how you can tell it’s just a dream.</p>
-
-<p>It would be nice though.</p>
+			<description><![CDATA[<p>I have been publishing a new post every day since mid September. I’ve had a good time doing it, and I’m going to continue on into next year unless something happens. But I do have to wonder, does publishing too much bug those of you who subscribe to my RSS feed? Do the people who post four or five times a day, usually short posts, come across as spammy? Is there such a thing as too many posts?</p>
+<p>The other day, I published three in one day. Now it was a link and a video along with a regular post, but there was still a voice in the back of my head that asked if it was too much. I subscribe to a few bloggers who use their blogs as more of a daily note type thing, which means they post many times a day. It doesn’t really bother me, but I don’t read all of their posts. Maybe that’s the expectation, so nothing is really wrong here. But it is something I think about as I continue to work towards my 200th post this year.</p>]]></description>
+			<pubDate>Sat, 15 Nov 2025 19:28:24 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203180</guid>
+		</item>
+		<item>
+			<title>Walk with me: On my soapbox</title>
+			<link>https://gabe.rocks/health/wwm-filler-episode/</link>
+						<media:content url="https://gabe.rocks//audio/2025-11-15.opus"></media:content>
+			<description><![CDATA[<p>I hope you’ll enjoy this stream-of-consciousness reflection on the last crazy year as I prepare for 2026.
+Apologies for the lack of a write-up, I am crunched for time at the moment.
+I hope this before and after makes up for it!</p>
+<div data-sanitized-class="image-container">
+    
+<img src="https://gabe.rocks/images/nov24-25.avif">
 
 
-            
-		<p>
-	<a href="mailto:me@joelchrono.xyz?subject=If%20everyone%20read%20everywhere">Reply to this post via email</a> | 
-	<a href="https://fosstodon.org/@joel/115548538667777082">Reply on Fediverse</a>
-</p>]]></description>
-			<pubDate>Fri, 14 Nov 2025 14:20:00 +0000</pubDate>
-			<guid isPermaLink="false">1763211359548645</guid>
+
+</div>
+<p>Thank you for reading this through RSS 📡</p>
+        <p>Your thoughts and feedback are both very important to me.<br><a href="https://gabe.rocks//get-in-touch">Get in touch!</a></p>]]></description>
+			<pubDate>Sat, 15 Nov 2025 14:08:44 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203176</guid>
+		</item>
+		<item>
+			<title>Ron Seems Sentient</title>
+			<link>https://ronseemssentient.blogspot.com/?m=0</link>
+						<dc:creator>hello@manuelmoreale.com (Manuel Moreale)</dc:creator>
+			<description><![CDATA[<ul>
+                    <li><strong>Title:<strong> Ron Seems Sentient</strong></strong></li>
+                    <li><strong>Website:<strong> <a href="https://ronseemssentient.blogspot.com/?m=0">ronseemssentient.blogspot.com</a></strong></strong></li>
+                                    </ul>
+                <hr>
+                <p>Absurd humor and surreal office tales that spiral into the existential.</p>                <hr>
+                <p>RSS users are my people 🫶 If you appreciate what I'm doing <a href="https://ko-fi.com/manuelmoreale">consider becoming a supporter for 1$ a month</a></p>]]></description>
+			<pubDate>Sun, 07 Sep 2025 19:50:00 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203187</guid>
+		</item>
+		<item>
+			<title>Maique</title>
+			<link>https://maique.eu/</link>
+						<dc:creator>hello@manuelmoreale.com (Manuel Moreale)</dc:creator>
+			<description><![CDATA[<ul>
+                    <li><strong>Title:<strong> Maique</strong></strong></li>
+                    <li><strong>Website:<strong> <a href="https://maique.eu/">maique.eu</a></strong></strong></li>
+                    <li><strong>RSS Feed:<strong> <a href="https://maique.eu/">maique.eu/feed</a></strong></strong></li>                </ul>
+                <hr>
+                <p>Hey there, my name is maique. I’m a geeky photographer, who toots.</p>                <hr>
+                <p>RSS users are my people 🫶 If you appreciate what I'm doing <a href="https://ko-fi.com/manuelmoreale">consider becoming a supporter for 1$ a month</a></p>]]></description>
+			<pubDate>Thu, 24 Jul 2025 23:35:00 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203183</guid>
+		</item>
+		<item>
+			<title>Garry Newman</title>
+			<link>https://garry.net/</link>
+						<dc:creator>hello@manuelmoreale.com (Manuel Moreale)</dc:creator>
+			<description><![CDATA[<ul>
+                    <li><strong>Title:<strong> Garry Newman</strong></strong></li>
+                    <li><strong>Website:<strong> <a href="https://garry.net/">garry.net</a></strong></strong></li>
+                    <li><strong>RSS Feed:<strong> <a href="https://garry.net/">garry.net/posts/rss</a></strong></strong></li>                </ul>
+                <hr>
+                <p>Hello I'm Garry. I'm a video game developer and owner of facepunch.</p>                <hr>
+                <p>RSS users are my people 🫶 If you appreciate what I'm doing <a href="https://ko-fi.com/manuelmoreale">consider becoming a supporter for 1$ a month</a></p>]]></description>
+			<pubDate>Thu, 17 Jul 2025 23:30:00 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203188</guid>
+		</item>
+		<item>
+			<title>raincastle.blog</title>
+			<link>https://raincastle.blog/</link>
+						<dc:creator>hello@manuelmoreale.com (Manuel Moreale)</dc:creator>
+			<description><![CDATA[<ul>
+                    <li><strong>Title:<strong> raincastle.blog</strong></strong></li>
+                    <li><strong>Website:<strong> <a href="https://raincastle.blog/">raincastle.blog</a></strong></strong></li>
+                    <li><strong>RSS Feed:<strong> <a href="https://raincastle.blog/">raincastle.blog/blog.rss</a></strong></strong></li>                </ul>
+                <hr>
+                <p>Laufen in Straubing und im Bayerischen Wald.</p>                <hr>
+                <p>RSS users are my people 🫶 If you appreciate what I'm doing <a href="https://ko-fi.com/manuelmoreale">consider becoming a supporter for 1$ a month</a></p>]]></description>
+			<pubDate>Wed, 02 Jul 2025 01:55:00 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203185</guid>
+		</item>
+		<item>
+			<title>Linda Ma</title>
+			<link>https://midnightpond.com/</link>
+						<dc:creator>hello@manuelmoreale.com (Manuel Moreale)</dc:creator>
+			<description><![CDATA[<ul>
+                    <li><strong>Title:<strong> Linda Ma</strong></strong></li>
+                    <li><strong>Website:<strong> <a href="https://midnightpond.com/">midnightpond.com</a></strong></strong></li>
+                    <li><strong>RSS Feed:<strong> <a href="https://midnightpond.com/">midnightpond.com/rss.xml</a></strong></strong></li>                </ul>
+                <hr>
+                <p>Linda Ma writes about self-understanding, people patterns, and other interests.</p>                <hr>
+                <p>RSS users are my people 🫶 If you appreciate what I'm doing <a href="https://ko-fi.com/manuelmoreale">consider becoming a supporter for 1$ a month</a></p>]]></description>
+			<pubDate>Tue, 01 Jul 2025 23:20:00 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203190</guid>
+		</item>
+		<item>
+			<title>Kai Gulliksen</title>
+			<link>https://kaigulliksen.com/</link>
+						<dc:creator>hello@manuelmoreale.com (Manuel Moreale)</dc:creator>
+			<description><![CDATA[<ul>
+                    <li><strong>Title:<strong> Kai Gulliksen</strong></strong></li>
+                    <li><strong>Website:<strong> <a href="https://kaigulliksen.com/">kaigulliksen.com</a></strong></strong></li>
+                    <li><strong>RSS Feed:<strong> <a href="https://kaigulliksen.com/">kaigulliksen.com/feed</a></strong></strong></li>                </ul>
+                <hr>
+                <p>A personal blog where I share my art and write about life, tech and anything else that is on my mind.</p>                <hr>
+                <p>RSS users are my people 🫶 If you appreciate what I'm doing <a href="https://ko-fi.com/manuelmoreale">consider becoming a supporter for 1$ a month</a></p>]]></description>
+			<pubDate>Tue, 01 Jul 2025 08:35:00 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203193</guid>
+		</item>
+		<item>
+			<title>Matt Vestengen-Cox</title>
+			<link>https://coxy.co/</link>
+						<dc:creator>hello@manuelmoreale.com (Manuel Moreale)</dc:creator>
+			<description><![CDATA[<ul>
+                    <li><strong>Title:<strong> Matt Vestengen-Cox</strong></strong></li>
+                    <li><strong>Website:<strong> <a href="https://coxy.co/">coxy.co</a></strong></strong></li>
+                    <li><strong>RSS Feed:<strong> <a href="https://coxy.co/">coxy.co/feed</a></strong></strong></li>                </ul>
+                <hr>
+                <p>A designer at heart, Matt currently shapes the future of AI at Microsoft as part of the core Microsoft 365 Copilot team.</p>                <hr>
+                <p>RSS users are my people 🫶 If you appreciate what I'm doing <a href="https://ko-fi.com/manuelmoreale">consider becoming a supporter for 1$ a month</a></p>]]></description>
+			<pubDate>Sun, 29 Jun 2025 09:35:00 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203196</guid>
+		</item>
+		<item>
+			<title>May 2025</title>
+			<link>https://thu-le.com/now/may-2025</link>
+						<description><![CDATA[Trying a new format for my /Now updates.]]></description>
+			<pubDate>Thu, 29 May 2025 09:40:00 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203177</guid>
+		</item>
+		<item>
+			<title>Gui</title>
+			<link>https://www.glbck.com/</link>
+						<dc:creator>hello@manuelmoreale.com (Manuel Moreale)</dc:creator>
+			<description><![CDATA[<ul>
+                    <li><strong>Title:<strong> Gui</strong></strong></li>
+                    <li><strong>Website:<strong> <a href="https://www.glbck.com/">glbck.com</a></strong></strong></li>
+                    <li><strong>RSS Feed:<strong> <a href="https://www.glbck.com/">glbck.com/feed.rss</a></strong></strong></li>                </ul>
+                <hr>
+                <p>Hi, my name’s Gui and this is my Digital Garden.</p>                <hr>
+                <p>RSS users are my people 🫶 If you appreciate what I'm doing <a href="https://ko-fi.com/manuelmoreale">consider becoming a supporter for 1$ a month</a></p>]]></description>
+			<pubDate>Thu, 10 Apr 2025 02:10:00 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203194</guid>
+		</item>
+		<item>
+			<title>Emmanuel Odongo</title>
+			<link>https://odongo.pl/</link>
+						<dc:creator>hello@manuelmoreale.com (Manuel Moreale)</dc:creator>
+			<description><![CDATA[<ul>
+                    <li><strong>Title:<strong> Emmanuel Odongo</strong></strong></li>
+                    <li><strong>Website:<strong> <a href="https://odongo.pl/">odongo.pl</a></strong></strong></li>
+                                    </ul>
+                <hr>
+                <p>Emmanuel Odongo's personal website.</p>                <hr>
+                <p>RSS users are my people 🫶 If you appreciate what I'm doing <a href="https://ko-fi.com/manuelmoreale">consider becoming a supporter for 1$ a month</a></p>]]></description>
+			<pubDate>Thu, 10 Apr 2025 01:45:00 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203186</guid>
+		</item>
+		<item>
+			<title>Brad Barrish</title>
+			<link>https://bradbarrish.com/</link>
+						<dc:creator>hello@manuelmoreale.com (Manuel Moreale)</dc:creator>
+			<description><![CDATA[<ul>
+                    <li><strong>Title:<strong> Brad Barrish</strong></strong></li>
+                    <li><strong>Website:<strong> <a href="https://bradbarrish.com/">bradbarrish.com</a></strong></strong></li>
+                    <li><strong>RSS Feed:<strong> <a href="https://bradbarrish.com/">bradbarrish.com/feed</a></strong></strong></li>                </ul>
+                <hr>
+                <p>My name is Brad Barrish. I grew up in Overland Park, Kansas and have lived in Los Angeles, California longer than I’ve lived anywhere else. I live with my wife Laura Hess, our daughter, Cassidy and son, Ozzie.</p>                <hr>
+                <p>RSS users are my people 🫶 If you appreciate what I'm doing <a href="https://ko-fi.com/manuelmoreale">consider becoming a supporter for 1$ a month</a></p>]]></description>
+			<pubDate>Tue, 25 Mar 2025 23:40:00 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203195</guid>
+		</item>
+		<item>
+			<title>Chuck Grimmett</title>
+			<link>https://cagrimmett.com/</link>
+						<dc:creator>hello@manuelmoreale.com (Manuel Moreale)</dc:creator>
+			<description><![CDATA[<ul>
+                    <li><strong>Title:<strong> Chuck Grimmett</strong></strong></li>
+                    <li><strong>Website:<strong> <a href="https://cagrimmett.com/">cagrimmett.com</a></strong></strong></li>
+                    <li><strong>RSS Feed:<strong> <a href="https://cagrimmett.com/">cagrimmett.com/feed</a></strong></strong></li>                </ul>
+                <hr>
+                <p>Hi! I’m Chuck Grimmett. My wife Amanda and I have a son named Charlie. We live in Peekskill, NY. I work at Automattic on the Special Projects Team.</p>                <hr>
+                <p>RSS users are my people 🫶 If you appreciate what I'm doing <a href="https://ko-fi.com/manuelmoreale">consider becoming a supporter for 1$ a month</a></p>]]></description>
+			<pubDate>Tue, 25 Mar 2025 23:30:00 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203192</guid>
+		</item>
+		<item>
+			<title>The Arcade Blogger</title>
+			<link>https://arcadeblogger.com/</link>
+						<dc:creator>hello@manuelmoreale.com (Manuel Moreale)</dc:creator>
+			<description><![CDATA[<ul>
+                    <li><strong>Title:<strong> The Arcade Blogger</strong></strong></li>
+                    <li><strong>Website:<strong> <a href="https://arcadeblogger.com/">arcadeblogger.com</a></strong></strong></li>
+                    <li><strong>RSS Feed:<strong> <a href="https://arcadeblogger.com/">arcadeblogger.com/feed</a></strong></strong></li>                </ul>
+                <hr>
+                <p>A blog celebrating the history and preservation of Classic Arcade Video Games from the 70s and 80s.</p>                <hr>
+                <p>RSS users are my people 🫶 If you appreciate what I'm doing <a href="https://ko-fi.com/manuelmoreale">consider becoming a supporter for 1$ a month</a></p>]]></description>
+			<pubDate>Sat, 29 Jul 2023 06:30:00 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203182</guid>
+		</item>
+		<item>
+			<title>Sara Joy</title>
+			<link>https://sarajoy.dev/</link>
+						<dc:creator>hello@manuelmoreale.com (Manuel Moreale)</dc:creator>
+			<description><![CDATA[<ul>
+                    <li><strong>Title:<strong> Sara Joy</strong></strong></li>
+                    <li><strong>Website:<strong> <a href="https://sarajoy.dev/">sarajoy.dev</a></strong></strong></li>
+                    <li><strong>RSS Feed:<strong> <a href="https://sarajoy.dev/">sarajoy.dev/rss.xml</a></strong></strong></li>                </ul>
+                <hr>
+                <p>Personal blog with web-development</p>                <hr>
+                <p>RSS users are my people 🫶 If you appreciate what I'm doing <a href="https://ko-fi.com/manuelmoreale">consider becoming a supporter for 1$ a month</a></p>]]></description>
+			<pubDate>Wed, 21 Jun 2023 00:30:00 -0700</pubDate>
+			<guid isPermaLink="false">1763292791203191</guid>
 		</item>
 
 	</channel>
