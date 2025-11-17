@@ -1,0 +1,782 @@
+<?xml version="1.0" encoding="UTF-8" ?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" >
+	<channel>
+		<title> | FreshRSS</title>
+		<link>http://192.168.1.206/FreshRSS/p</link>
+		<description>RSS feed of  | FreshRSS</description>
+		<pubDate>Sun, 16 Nov 2025 19:19:17 -0700</pubDate>
+		<lastBuildDate>Mon, 17 Nov 2025 02:19:17 GMT</lastBuildDate>
+		<atom:link href="/i/?a=rss" rel="self" type="application/rss+xml" />
+				<item>
+			<title>Bear blog photo gallery</title>
+			<link>https://robertbirming.com/bear-blog-photo-gallery/</link>
+						<dc:creator>birming</dc:creator>
+			<category>blogging</category>
+			<category>photos</category>
+			<description><![CDATA[<p>I’m still in the process of <a href="https://robertbirming.com/headsup-break-reader/">moving my old blog posts</a> over here. I wouldn’t say it’s boring — it’s suuuper booooring.</p>
+<p>So I decided to take a break and do something more fun. From my never-ending “ideas for the future” list, I picked <em>Bear photo gallery</em>. It’s made with my <a href="https://robertbirming.com/bearly/">Bearly theme</a> in mind, but it should work well with plenty of other themes too.</p>
+<p>The gallery itself works without any scripting, so anyone can use it. If you want the lightbox effect, where you can click and browse images in a larger view, you’ll need a Bear subscription since that part relies on a footer script.</p>
+<div data-sanitized-class="bearly-gallery">
+<ul>
+<li><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/robert/img_7941-1.webp" alt="Stockholm"></li>
+<li><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/birming/img_6081.webp" alt="Lidingö"></li>
+<li><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/robert/img_5754.webp" alt="Stockholm"></li>
+<li><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/birming/img_0355.webp" alt="Autumn"></li>
+<li><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/robert/img_5551.webp" alt="Lake"></li>
+<li><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/birming/20190211_131851.webp" alt="Typewriter"></li>
+</ul>
+</div>
+<p>In the demo above, you can navigate the images using your <strong>keyboard</strong> or your <strong>mouse/touch</strong>. If you add the lightbox script to your own blog, it will work the same way there too:</p>
+<ul>
+<li><strong>Click</strong> an image to open it</li>
+<li><strong>Click right side</strong> of the screen to go to the <strong>next</strong> image</li>
+<li><strong>Click left side</strong> to go to the <strong>previous</strong> image</li>
+<li><strong>Arrow keys</strong> also work: <code>←</code> and <code>→</code> (<code>A</code> and <code>D</code> work too)</li>
+<li>Press <strong>Escape</strong> to close the gallery</li>
+</ul>
+<p>You can also adjust the <strong>image ratio</strong> in the CSS if you prefer a different look. Just change the <code>aspect-ratio</code> value, for example:</p>
+<ul>
+<li><code>aspect-ratio: 4 / 3</code> for a classic photo ratio (default)</li>
+<li><code>aspect-ratio: 1 / 1</code> for square photos</li>
+<li><code>aspect-ratio: 3 / 2</code> for a camera-style format</li>
+<li><code>aspect-ratio: 16 / 9</code> for a wider, cinematic feel</li>
+</ul>
+<h2 data-sanitized-id="instructions">Instructions</h2><h3 data-sanitized-id="1-paste-the-script-into-your-bear-footer-directive">1) Paste the script into your Bear footer directive:</h3><div data-sanitized-class="highlight"><pre><span></span><span data-sanitized-class="p">&lt;</span><span data-sanitized-class="nt">script</span><span data-sanitized-class="p">&gt;</span>
+<span data-sanitized-class="nb">document</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">addEventListener</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'DOMContentLoaded'</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kd">function</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">()</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">images</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nb">Array</span><span data-sanitized-class="p">.</span><span data-sanitized-class="kr">from</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nb">document</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">querySelectorAll</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'.bearly-gallery img'</span><span data-sanitized-class="p">))</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="o">!</span><span data-sanitized-class="nx">images</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">length</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">return</span>
+
+<span data-sanitized-class="w">  </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nb">document</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">createElement</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'div'</span><span data-sanitized-class="p">)</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">className</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'bearly-lightbox'</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">setAttribute</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'role'</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'dialog'</span><span data-sanitized-class="p">)</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">setAttribute</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'aria-modal'</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'true'</span><span data-sanitized-class="p">)</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">setAttribute</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'aria-hidden'</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'true'</span><span data-sanitized-class="p">)</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">innerHTML</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="sb">`</span>
+<span data-sanitized-class="sb">    &lt;button class="bearly-lightbox-close" type="button" aria-label="Close image"&gt;Close&lt;/button&gt;</span>
+<span data-sanitized-class="sb">    &lt;img alt=""&gt;</span>
+<span data-sanitized-class="sb">  `</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="nb">document</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">body</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">appendChild</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">)</span>
+
+<span data-sanitized-class="w">  </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">overlayImg</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">querySelector</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'img'</span><span data-sanitized-class="p">)</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">closeBtn</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">querySelector</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'.bearly-lightbox-close'</span><span data-sanitized-class="p">)</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="kd">let</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">currentIndex</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">-</span><span data-sanitized-class="mf">1</span>
+
+<span data-sanitized-class="w">  </span><span data-sanitized-class="kd">function</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">isOpen</span><span data-sanitized-class="p">()</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="k">return</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">classList</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">contains</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'is-visible'</span><span data-sanitized-class="p">)</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="p">}</span>
+
+<span data-sanitized-class="w">  </span><span data-sanitized-class="kd">function</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">openAt</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">index</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">total</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">images</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">length</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">currentIndex</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">((</span><span data-sanitized-class="nx">index</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">%</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">total</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">+</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">total</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">%</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">total</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">img</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">images</span><span data-sanitized-class="p">[</span><span data-sanitized-class="nx">currentIndex</span><span data-sanitized-class="p">]</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">overlayImg</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">src</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">img</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">src</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">overlayImg</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">alt</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">img</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">alt</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">||</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">''</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">classList</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">add</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'is-visible'</span><span data-sanitized-class="p">)</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">setAttribute</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'aria-hidden'</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'false'</span><span data-sanitized-class="p">)</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="p">}</span>
+
+<span data-sanitized-class="w">  </span><span data-sanitized-class="kd">function</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">closeLightbox</span><span data-sanitized-class="p">()</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">classList</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">remove</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'is-visible'</span><span data-sanitized-class="p">)</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">setAttribute</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'aria-hidden'</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'true'</span><span data-sanitized-class="p">)</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">overlayImg</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">src</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">''</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">currentIndex</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">-</span><span data-sanitized-class="mf">1</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="p">}</span>
+
+<span data-sanitized-class="w">  </span><span data-sanitized-class="kd">function</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">showNext</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">step</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">isOpen</span><span data-sanitized-class="p">()</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">&amp;&amp;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">currentIndex</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">!==</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">-</span><span data-sanitized-class="mf">1</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">openAt</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">currentIndex</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">+</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">step</span><span data-sanitized-class="p">)</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="p">}</span>
+
+<span data-sanitized-class="w">  </span><span data-sanitized-class="nx">images</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">forEach</span><span data-sanitized-class="p">(</span><span data-sanitized-class="kd">function</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">img</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">index</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">img</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">addEventListener</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'click'</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kd">function</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">()</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">      </span><span data-sanitized-class="nx">openAt</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">index</span><span data-sanitized-class="p">)</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="p">})</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="p">})</span>
+
+<span data-sanitized-class="w">  </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">addEventListener</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'click'</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kd">function</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">target</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">===</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">closeBtn</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">return</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">closeLightbox</span><span data-sanitized-class="p">()</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">target</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">===</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">      </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">width</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nb">window</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">innerWidth</span>
+<span data-sanitized-class="w">      </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">x</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">clientX</span>
+<span data-sanitized-class="w">      </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">left</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">width</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">*</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.33</span>
+<span data-sanitized-class="w">      </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">right</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">width</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">*</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.67</span>
+<span data-sanitized-class="w">      </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">x</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">&lt;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">left</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">showNext</span><span data-sanitized-class="p">(</span><span data-sanitized-class="o">-</span><span data-sanitized-class="mf">1</span><span data-sanitized-class="p">)</span>
+<span data-sanitized-class="w">      </span><span data-sanitized-class="k">else</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">x</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">&gt;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">right</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">showNext</span><span data-sanitized-class="p">(</span><span data-sanitized-class="mf">1</span><span data-sanitized-class="p">)</span>
+<span data-sanitized-class="w">      </span><span data-sanitized-class="k">else</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">closeLightbox</span><span data-sanitized-class="p">()</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="p">}</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="p">})</span>
+
+<span data-sanitized-class="w">  </span><span data-sanitized-class="nb">document</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">addEventListener</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'keydown'</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kd">function</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="o">!</span><span data-sanitized-class="nx">isOpen</span><span data-sanitized-class="p">())</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">return</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">key</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">===</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'Escape'</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">closeLightbox</span><span data-sanitized-class="p">()</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="k">else</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">key</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">===</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'ArrowRight'</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">||</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">key</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">===</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'d'</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">||</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">key</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">===</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'D'</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">showNext</span><span data-sanitized-class="p">(</span><span data-sanitized-class="mf">1</span><span data-sanitized-class="p">)</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="k">else</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">key</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">===</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'ArrowLeft'</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">||</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">key</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">===</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'a'</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">||</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">key</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">===</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'A'</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">showNext</span><span data-sanitized-class="p">(</span><span data-sanitized-class="o">-</span><span data-sanitized-class="mf">1</span><span data-sanitized-class="p">)</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="p">})</span>
+<span data-sanitized-class="p">})</span>
+<span data-sanitized-class="p">&lt;/</span><span data-sanitized-class="nt">script</span><span data-sanitized-class="p">&gt;</span>
+</pre></div>
+<h3 data-sanitized-id="2-add-the-css-to-your-theme-settings">2) Add the CSS to your theme settings:</h3><div data-sanitized-class="highlight"><pre><span></span><span data-sanitized-class="c">/* --------------------------------</span>
+<span data-sanitized-class="c">   🖼️ Bearly add-on: Photo gallery v. 1.0.0</span>
+<span data-sanitized-class="c">   A simple grid-based image gallery with optional lightbox.</span>
+<span data-sanitized-class="c">   -------------------------------- */</span>
+
+<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-gallery</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">margin-block</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">1.6</span><span data-sanitized-class="kt">em</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">padding</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">border-radius</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">var</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nv">--bearly-radius</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">);</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">border</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">1</span><span data-sanitized-class="kt">px</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">solid</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">color-mix</span><span data-sanitized-class="p">(</span><span data-sanitized-class="n">in</span><span data-sanitized-class="w"> </span><span data-sanitized-class="n">srgb</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">var</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nv">--text-color</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">10</span><span data-sanitized-class="kt">%</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">var</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nv">--background-color</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">90</span><span data-sanitized-class="kt">%</span><span data-sanitized-class="p">);</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">background-color</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">color-mix</span><span data-sanitized-class="p">(</span><span data-sanitized-class="n">in</span><span data-sanitized-class="w"> </span><span data-sanitized-class="n">srgb</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">var</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nv">--background-color</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">96</span><span data-sanitized-class="kt">%</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">var</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nv">--text-color</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">4</span><span data-sanitized-class="kt">%</span><span data-sanitized-class="p">);</span>
+<span data-sanitized-class="p">}</span>
+
+<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-gallery</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">&gt;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">ul</span><span data-sanitized-class="o">,</span>
+<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-gallery</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">&gt;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">ol</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">display</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">grid</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">grid-template-columns</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">repeat</span><span data-sanitized-class="p">(</span><span data-sanitized-class="kc">auto</span><span data-sanitized-class="nv">-fit</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">minmax</span><span data-sanitized-class="p">(</span><span data-sanitized-class="mi">180</span><span data-sanitized-class="kt">px</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">1</span><span data-sanitized-class="n">fr</span><span data-sanitized-class="p">));</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">gap</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.75</span><span data-sanitized-class="kt">rem</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">padding</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.75</span><span data-sanitized-class="kt">rem</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">list-style</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">none</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">margin</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="p">}</span>
+
+<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-gallery</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">li</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">margin</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">padding</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">line-height</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="p">}</span>
+
+<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-gallery</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">img</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">display</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">block</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">width</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">100</span><span data-sanitized-class="kt">%</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">margin</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">aspect-ratio</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">4</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">/</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">3</span><span data-sanitized-class="p">;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="c">/* or 1/1, 3/2, 16/9 */</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">object-fit</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">cover</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">border-radius</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">var</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nv">--bearly-radius</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">);</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">background-color</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">color-mix</span><span data-sanitized-class="p">(</span><span data-sanitized-class="n">in</span><span data-sanitized-class="w"> </span><span data-sanitized-class="n">srgb</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">var</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nv">--background-color</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">94</span><span data-sanitized-class="kt">%</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">var</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nv">--text-color</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">6</span><span data-sanitized-class="kt">%</span><span data-sanitized-class="p">);</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">cursor</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">zoom-in</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">transition</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">transform</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.25</span><span data-sanitized-class="kt">s</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">ease</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">filter</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.25</span><span data-sanitized-class="kt">s</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">ease</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="p">}</span>
+
+<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-gallery</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">img</span><span data-sanitized-class="p">:</span><span data-sanitized-class="nd">hover</span><span data-sanitized-class="o">,</span>
+<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-gallery</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">img</span><span data-sanitized-class="p">:</span><span data-sanitized-class="nd">focus-visible</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">transform</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nb">scale</span><span data-sanitized-class="p">(</span><span data-sanitized-class="mf">1.02</span><span data-sanitized-class="p">);</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">filter</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nb">brightness</span><span data-sanitized-class="p">(</span><span data-sanitized-class="mf">1.03</span><span data-sanitized-class="p">);</span>
+<span data-sanitized-class="p">}</span>
+
+<span data-sanitized-class="c">/* Mobile */</span>
+<span data-sanitized-class="p">@</span><span data-sanitized-class="k">media</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">(</span><span data-sanitized-class="nt">max-width</span><span data-sanitized-class="o">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">480px</span><span data-sanitized-class="o">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-gallery</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">&gt;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">ul</span><span data-sanitized-class="o">,</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-gallery</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">&gt;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">ol</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="k">grid-template-columns</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">1</span><span data-sanitized-class="n">fr</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">1</span><span data-sanitized-class="n">fr</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="k">gap</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.75</span><span data-sanitized-class="kt">rem</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">    </span><span data-sanitized-class="k">padding</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.75</span><span data-sanitized-class="kt">rem</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="p">}</span>
+<span data-sanitized-class="p">}</span>
+
+<span data-sanitized-class="c">/* Lightbox */</span>
+<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-lightbox</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">position</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">fixed</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">inset</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">display</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">flex</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">align-items</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">center</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">justify-content</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">center</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">padding</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">1.5</span><span data-sanitized-class="kt">rem</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">background</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nb">rgba</span><span data-sanitized-class="p">(</span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.85</span><span data-sanitized-class="p">);</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">opacity</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">pointer-events</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">none</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">transition</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">opacity</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.2</span><span data-sanitized-class="kt">s</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">ease</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">z-index</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">9999</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="p">}</span>
+
+<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-lightbox</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nc">is-visible</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">opacity</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">1</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">pointer-events</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">auto</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="p">}</span>
+
+<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-lightbox</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">img</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">max-width</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">100</span><span data-sanitized-class="kt">%</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">max-height</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">100</span><span data-sanitized-class="kt">%</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">border-radius</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">var</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nv">--bearly-radius</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">);</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">box-shadow</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">12</span><span data-sanitized-class="kt">px</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">40</span><span data-sanitized-class="kt">px</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nb">rgba</span><span data-sanitized-class="p">(</span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.45</span><span data-sanitized-class="p">);</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">cursor</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">zoom-out</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="p">}</span>
+
+<span data-sanitized-class="c">/* Close button */</span>
+<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-lightbox-close</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">position</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">absolute</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">top</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">1</span><span data-sanitized-class="kt">rem</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">right</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">1</span><span data-sanitized-class="kt">rem</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">border</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">none</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">background</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nb">rgba</span><span data-sanitized-class="p">(</span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.6</span><span data-sanitized-class="p">);</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">color</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mh">#fff</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">padding</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.2</span><span data-sanitized-class="kt">em</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.6</span><span data-sanitized-class="kt">em</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">border-radius</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">999</span><span data-sanitized-class="kt">px</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">font</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">inherit</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">font-size</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.9</span><span data-sanitized-class="kt">rem</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">line-height</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">1.3</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="w">  </span><span data-sanitized-class="k">cursor</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">pointer</span><span data-sanitized-class="p">;</span>
+<span data-sanitized-class="p">}</span>
+</pre></div>
+<h3 data-sanitized-id="3-wrap-your-photos-in-a-gallery-block-when-posting">3) Wrap your photos in a gallery block when posting:</h3><div data-sanitized-class="highlight"><pre><span></span>&lt;div class="bearly-gallery"&gt;
+
+<span data-sanitized-class="k">-</span><span data-sanitized-class="w"> </span>![<span data-sanitized-class="nt">Writing</span>](<span data-sanitized-class="na">image-url.webp</span>)
+<span data-sanitized-class="k">-</span><span data-sanitized-class="w"> </span>![<span data-sanitized-class="nt">Coffee</span>](<span data-sanitized-class="na">image-url.webp</span>)
+<span data-sanitized-class="k">-</span><span data-sanitized-class="w"> </span>![<span data-sanitized-class="nt">Blogging</span>](<span data-sanitized-class="na">image-url.webp</span>)
+
+&lt;/div&gt;
+</pre></div>
+<p>That’s it. Happy photo blogging!</p>
+<p><em>Alternatives: <a href="https://sylvia-dev.bearblog.dev/polaroid-style-image-gallery/">Polaroid-style image gallery (dynamic)</a> and <a href="https://flyfish.info/a-polaroid-style-image-gallery-rewritten/">A Polaroid Style Image Gallery for Bearblog, Rewritten</a>.</em></p>]]></description>
+			<pubDate>Sun, 16 Nov 2025 13:20:00 -0700</pubDate>
+			<guid isPermaLink="false">1763344674792773</guid>
+		</item>
+		<item>
+			<title>Hyperlink Roundup 09</title>
+			<link>https://basic.bearblog.dev/hyperlink-roundup-09/</link>
+						<dc:creator>basic</dc:creator>
+			<description><![CDATA[<p>It's been a good week for me overall. Now that I turn off my computers after every use, I don't have any desire to stay on the internet. I reach for my notebooks and pen or read on the kindle's.  Still need to jailbreak the kindle's but for now Airplane Mode is turned on.  I listen to music on my iPod with wired headphones and living the analog world a bit more is nice. There were many good posts I bookmarked on Mastodon and a a few blog posts that were an interesting read this past week.  Hope you enjoy them too.</p>
+<h3 data-sanitized-id="terminal-stuff">Terminal Stuff</h3><p><a href="https://github.com/rothgar/awesome-tuis">Awesome TUI's</a> - the best applications for your terminal.</p>
+<p><a href="https://www.youtube.com/watch?v=vPM5NwkATTM">The best way to play YouTube on OpenBSD and FreeBSD (in terminal)</a></p>
+<p><a href="https://terminaltrove.com/podliner/">Podliner</a> - podcasts in any terminal. Fast, clean and offline.</p>
+<p><a href="https://www.adamsdesk.com/posts/duckduckgo-commandline/">How To Use DuckDuckGo From The Command Line</a> - from AdamsDesk</p>
+<h3 data-sanitized-id="interesting-blogs">Interesting Blogs</h3><p><a href="https://srobb.net/">srobb.net </a>- a blog covering various topics including Linux and BSD.</p>
+<p><a href="https://tonsky.me/blog/needy-programs/">Needy Programs</a> - a good read about accounts, notifications and why we don't need it.</p>
+<p><a href="https://poolsuite.net/">Poolsuite</a> - amazing website, you never know which commercial will show up when you click the link. Not sure how to describe this site!  Music with tv commercials and more.</p>
+<p><a href="https://taonaw.com/2025/11/14/handling-project-in-emacs-the.html">Handling project in Emacs</a> - the 2025 version, moving away from iCloud.</p>
+<p><a href="https://brandons-journal.com/my-relationship-with-stuff/">My Relationship with Stuff</a> - from Brandon's Journal sharing his feelings about collecting items.</p>
+<p><a href="https://lwgrs.bearblog.dev/reassess-time-spent-enjoying-luxury/">Reassess time spent enjoying luxury</a> - from An Almost Anonymous Blog sharing his thoughts about catching up on your favourite hobbies when alone.</p>
+<h3 data-sanitized-id="operating-systems-and-resources">Operating Systems and Resources</h3><p><a href="https://marathonos.xyz/">Marathon OS</a> - A gesture-first mobile OS built on Linux taking what made BB10's interaction model brilliant—gesture navigation, The Hub, Active Frames—and reimagining it for modern Linux.</p>
+<p><a href="https://i-bsd.com/">iBSD</a> - Proving that BSD is a great alternative to Linux</p>
+<p><a href="https://www.youtube.com/watch?v=Xshj_xjwVjc">Ubuntu Desktop on Meta Quest 3</a>! 🤯 Full Linux OS in VR (Andronix &amp; Termux Tutorial)</p>
+<p><a href="https://blog.hofstede.it/freebsd-cheat-sheet-for-linux-admins/">FreeBSD Cheat Sheet for Linux Admins</a> - from Larvitz Blog</p>
+<p><a href="https://github.com/samcervantes/bumble-berry-pi?tab=readme-ov-file">Bumble-berry Pi</a> - A cheap &amp; easy to build raspberry pi cyberdeck</p>
+<h3 data-sanitized-id="web-browsers-and-self-hosting">Web browsers and Self-Hosting</h3><p><a href="https://github.com/textbrowser/dooble">Dooble</a> - a minimal, scientific, and stable Web browser. [<a href="https://dansu.org/objects/3b61a493-499d-470f-b4b7-741f1a53b322">Via Mastodon</a>]</p>
+<p><a href="https://itsfoss.com/self-hosting-starting-projects/">The Self-Hosting Starter Pack: 5 Simple Tools I Recommend To Get Started With Your Homelab</a></p>
+<p><a href="https://itsfoss.com/news/digital-content-ownership-illusion/">Ownership of Digital Content Is an Illusion—Unless You Self‑Host</a></p>]]></description>
+			<pubDate>Sun, 16 Nov 2025 09:53:00 -0700</pubDate>
+			<guid isPermaLink="false">1763344674792772</guid>
+		</item>
+		<item>
+			<title>Add Friction Back Into Your Life</title>
+			<link>https://bearblog.stevedylan.dev/add-friction-back-into-your-life/</link>
+						<dc:creator>stevedylandev</dc:creator>
+			<description><![CDATA[<p><img src="https://files.stevedylan.dev/harvest-small.jpg" alt="harvest"></p>
+<p>I’ve recently talked about <a href="https://bearblog.stevedylan.dev/returning-to-analog/">moving back to analog forms of media</a>, and just doing things “the hard way.” In retrospect I think a better term and concept would be “friction.”</p>
+<p>We live in an age of hyper-convenience, where at the snap of a finger you can have almost anything shipped to your door, listen to any song, watch any movie, even create images and code with a single prompt. Daily chores like grocery shopping have been replaced with getting it delivered to your door, and of course we’re building robots to take care of the laundry.</p>
+<p>The unsettling truth is that these points of friction, these mundane things, are actually what give us purpose. My kids and I watched Megamind for our movie night this weekend and early on in the story the super villain to much disbelief conquers his nemesis. He gets everything we wants. Without the friction, the striving towards a goal, he actually doesn’t have anything to live for.</p>
+<p>I’m not going to argue against all forms of convenience or technological advancements. I have many people on my life, including my wife, that would probably not be alive without the progress of medical science. I’m also thankful for technology that promises a more sustainable way of living or a future that helps liberate people under oppression. As with anything in this complicated life, there is nuance.</p>
+<p>However, once I started viewing my life through the lens of friction and convenience, I couldn't go back. Did I really need those groceries delivered, or would have it been better to go outside and interact with people? Do I really need streaming services when it's way more exciting to resurrect an old CD, vinyl, or DVD? Do I really want to prompt Claude to generate a bunch of spaghetti code or would it be more rewarding to write it myself? Do I really need ChatGPT to think critically about something or would it be better to wrestle with the opinion? Do I really want to drive on an interstate for 2 hours instead of a beautiful background for an extra 30 minutes?</p>
+<p>Not all friction is necessary, and convenience can be a great thing, but my fear is that we're giving up all friction without thinking about it. Life is balance, and we need the right kind of friction to give our lives rhythm and purpose.</p>
+<p>Get a record player, write a letter to a friend, and see where it takes you.</p>
+<div data-sanitized-class="reply-button-container">
+  <a href="mailto:contact@stevedylan.dev?subject=Re:%20Add%20Friction%20Back%20Into%20Your%20Life" data-sanitized-class="reply-button">reply via email</a>
+</div>]]></description>
+			<pubDate>Sun, 16 Nov 2025 05:04:00 -0700</pubDate>
+			<guid isPermaLink="false">1763344674792771</guid>
+		</item>
+		<item>
+			<title>PTPL 182 · Why I Keep HTML Email in My Plain Text Life</title>
+			<link>https://ellanew.com/2025/11/17/ptpl-182-why-keep-html-email-not-plain-text</link>
+						<description><![CDATA[<h2 data-sanitized-id="some-information-only-makes-sense-when-formatted">Some information only makes sense when formatted</h2>
+<p><a href="https://ellanew.com/2025/10/06/ptpl-176-simple-obsidian-iphone-shortcuts" title="wikilink">I mostly run my life in plain text</a>, so I was initially excited to hear about plain text email. One email into the experiment, however, I was out!</p>
+<p>As much as I love the idea of a fully plain text life, I’ve decided that naked email is, for me, a step too far. I deal with customers who like pretty links, images, and formatting in the emails I send them. I appreciate images and formatting in (most of) the emails I receive.</p>
+<h3 data-sanitized-id="are-html-emails-dangerous">Are <span data-sanitized-class="small-caps">HTML</span> emails dangerous?</h3>
+<p><span data-sanitized-class="small-caps">HTML</span> emails can contain tracking pixels, and spoofed links.</p>
+<p>The <a href="https://useplaintext.email/">Use Plain Text Email</a> website says—</p>
+<blockquote>
+<p><span data-sanitized-class="small-caps">HTML</span> emails are mainly used for marketing - that is, emails you probably don’t want to see in the first place. The few advantages they offer for end-users, such as links, inline images, and bold or italic text, aren’t worth the trade-off. —<a href="https://useplaintext.email/#why-plaintext">why plain text</a></p>
+</blockquote>
+<p>The <span data-sanitized-class="small-caps">HTML</span> emails I receive are, for the most part, those I’ve signed up to. Their links and images can be helpful. Some are marketing messages I’ve agreed to receive. Others, like the example below, are order confirmations with useful reference information, including images.</p>
+<p>It is true that, in some cases,<span data-sanitized-class="push-double"></span> <span data-sanitized-class="pull-double">“</span><a href="https://useplaintext.email/#why-plaintext:~:text=Privacy%20invasion%20and%20tracking"><span data-sanitized-class="small-caps">HTML</span> emails are good for marketers and bad for you</a><span data-sanitized-class="push-double"></span><span data-sanitized-class="pull-double">”</span>. Receiving emails in plain text would unmask any nefarious links hiding behind convincing graphics. But you would still need to know what you are looking for, in order to recognise links that point to bogus websites. This isn’t something your grandma is necessarily going to know how to do without some guidance.</p>
+<p>Here’s an order confirmation email I received this week, in both <span data-sanitized-class="small-caps">HTML</span> and plain text formats:</p>
+<p><img src="https://cdn.blot.im/blog_177bc256f0ee469c998e912e20ece048/_image_cache/51ad1396-819a-42cc-8a48-36b2389cbbea.png" alt="Two side by side screenshots of a MooGoo order, showing one in rich text and the other in plain text. The rich text version has an Order Confirmation graphic at the top, and a View Order Status button at the bottom. The plain text version has lines of monospaced text, with a partially obscured, extremely long URL beneath the words “View Order Status”." width="2930" height="1624"></p>
+<p>I like seeing thumbnails of the products I’ve purchased (visible when scrolling down the <span data-sanitized-class="small-caps">HTML</span> version), and it’s good to have clear links I can go to in case of a problem with the order. The portion of the text you can see above (right) is just a snippet of a much longer message that contained all sorts of goobledegook. Some <span data-sanitized-class="small-caps">HTML</span> emails viewed as text can be very messy.</p>
+<p>There’s no doubt that the potential security issues of <span data-sanitized-class="small-caps">HTML</span> emails are a real thing. These are the rules I follow in order to mitigate the risks:</p>
+<ul>
+<li>Turn off auto-loading of images</li>
+<li>Actively maintain a suspicious mindset!</li>
+<li>View individual emails as text as needed to verify the source</li>
+<li>Don’t click on <em>any</em> link inside an unverified email</li>
+<li>Never log into a site by clicking on a link within an email; always go directly to the website in the usual manner to login</li>
+</ul>
+<h3 data-sanitized-id="what-now">What now?</h3>
+<p>I will always advocate for your most important information being stored in plain text, no matter what else you do with it. You won’t be able to change my mind on that one.</p>
+<p>Looking into the two main email formats has made it clear that despite its advantages, plain text is not the best choice for every person, in every situation.</p>
+<p>I recommend getting familiar with your email client’s settings, and change as needed. You could send yourself a few emails with the different types of quoted text and see which style you prefer.</p>
+<hr>
+<p>See also <a href="https://ellanew.com/2025/09/08/ptpl-172-from-3-decades-of-email-clutter-to-inbox-peace" title="wikilink">2025-09-08 <span data-sanitized-class="small-caps">PTPL</span> 172 - Three Decades of Email Clutter. Three Folders. One Life Changed.</a></p>
+<hr>
+<p><em><span data-sanitized-class="small-caps">💬</span> I love to hear from readers! <a href="mailto:hello@ellanew.com">email</a> hello at ellanew dot com or message me on <a href="https://pkm.social/@ellane/">Mastodon</a> or <a href="https://bsky.app/profile/ellanew.com">Bluesky</a>.</em></p>
+<p><em>If you get value from my work I invite you to share this post with someone you think will like it and / or contribute to my <a href="https://ko-fi.com/ellane">support jar</a>.  You may also like to check out the free resources on my productivity themed <a href="https://miscellaneplans.gumroad.com/">Gumroad store</a> or the <a href="https://ko-fi.com/ellane/shop/quotesofcomfort">Comfort Quotes</a> I made to help people going through tough times.</em></p>
+<p><em>You can follow my <span data-sanitized-class="small-caps">RSS</span> feed <a href="https://ellanew.com/feed.rss" data-sanitized-class="uri">https://ellanew.com/feed.rss</a>, or <a href="https://ellane-w.ck.page/e4a91ad6be">sign up</a> to receive posts in your inbox</em>  </p>]]></description>
+			<pubDate>Sun, 16 Nov 2025 06:00:00 -0700</pubDate>
+			<guid isPermaLink="false">1763344674792770</guid>
+		</item>
+		<item>
+			<title>about the goldfish pond in the basement</title>
+			<link>https://smallcypress.bearblog.dev/about-the-goldfish-pond-in-the-basement/</link>
+						<dc:creator>smallcypress</dc:creator>
+			<description><![CDATA[<p>It has started to freeze in Baltimore and my goldfish pond needed to come inside. Adjusting to living with seasons after 15 years in Florida has been a lot, and some things weren't really thought through. Fortunately, we have a basement. Before I get to the fish being in the basement, I realized I've never blogged about them before so here's a short recap about my goldfish keeping hobby.</p>
+<p>Here's the pond, first set up on my Florida deck 3 years ago:
+<img src="https://smallcypress.neocities.org/images/IMG_2275.jpeg" alt="img"></p>
+<p>I had wanted them for years since I started keeping tanks again in 2020, but I didn't have the space - they need a ton of space and filtration. I picked up my first friend, a little "oranda" mutt, and my other fish came from a goldfish and koi convention in Orlando.</p>
+<p>Florida raccoons are just built different, and despite some intense netting and screening I lost two beautiful orandas. Eventually I started covering it with wood at night, and the fish grazed down that vallisneria (grass-like plant in the water) while the water lilies grew like crazy.</p>
+<p>When we moved, I had to send the big tank with the pods to Baltimore and my poor fish lived in a trash can with me for a couple weeks of constant water changes. I drove them up in a 3-day electric car sojourn up north, with two nights of sneaking my trash can full of fish into hotels with a filter and bubbler to plug in at night.</p>
+<p><img src="https://smallcypress.neocities.org/images/IMG_5347.jpeg" alt="img"></p>
+<p>We set them up in a pond in the front yard, which kind of stuck out in my neighborhood - we're not in Florida anymore and I felt like I brought a certain trashiness to my block, so I will probably set them up in the back yard in the spring.</p>
+<p><img src="https://smallcypress.neocities.org/images/goldfish3.png" alt="img"></p>
+<p>In the basement, I really didn't want water splashing and moisture/mold, so I moved the pitcher filter into the water and used it as a planter for the peace lily from my father-in-law's funeral. He would have adored this insane setup in my basement, and the wood the tall light is clamped on is from one of his woodworking projects. There is a more powerful filter still cranking with this big ugly hose, which I will probably switch out or try to hide somehow. The fish like to hide behind the plant and under the planter, and when you settle in for a movie (our TV is in the basement) they are always out and about eating algae.</p>
+<p><img src="https://smallcypress.neocities.org/images/Untitled.jpeg" alt="img"></p>
+<p>I am really happy with how I made it look for a temporary setup, and I am at the point in the fishkeeping hobby where I just have extra lights and filters and wood and extension cords and timers and cinderblocks lying around as to not have to spend anything. I was going to get a 125 gallon low-tech tank in this spot permanently, but I am pulling back on new projects to save aggressively for whatever stage of capitalist hell we're in now.</p>
+<p>I have more information about this setup and some links about goldfish on <a href="https://smallcypress.neocities.org/pets">this webpage</a>, which is still under construction.</p>]]></description>
+			<pubDate>Sun, 16 Nov 2025 17:56:00 -0700</pubDate>
+			<guid isPermaLink="false">1763344674792769</guid>
+		</item>
+		<item>
+			<title>Reemerging orality and serf brain</title>
+			<link>https://tracydurnell.com/2025/11/16/reemerging-orality-and-serf-brain/</link>
+						<dc:creator>Tracy Durnell</dc:creator>
+			<category>Learning</category>
+			<category>Society</category>
+			<category>agency</category>
+			<category>AI</category>
+			<category>class</category>
+			<category>feudalism</category>
+			<category>inequality</category>
+			<category>intelligence</category>
+			<category>literacy</category>
+			<category>LLM</category>
+			<category>oligarchy</category>
+			<category>oral culture</category>
+			<category>power dynamics</category>
+			<category>thinking</category>
+			<description><![CDATA[<p><a href="https://thebaffler.com/salvos/we-used-to-read-things-in-this-country-mccormack">We Used to Read Things in This Country</a> by Noah McCormack (The Baffler)</p>
+<blockquote><p>““When people say things like ‘Twitter is filled with fake news’ or ‘TikTok is ruining the attention spans of today’s youth,’” [Joe] Weisenthal writes, “all of that may be correct. But the bigger story, that more and more people are grappling with, is that a return to orality will fundamentally rewire the logic engine of the human brain.””</p></blockquote>
+<p><span data-sanitized-id="more-31569"></span></p>
+<blockquote><p>“For the first time in centuries, the elite no longer feel they need educated workers and soldiers to uphold and reproduce the system. […] The elites are ecstatic about imagining a vast, uneducated, and unproductive population forced to pay companies like OpenAI to access the written word and to approximate thought; with the unemployed illiterate and addicted to screens, they are unlikely to be politicized and join a socialist campaign.”</p></blockquote>
+<p>+</p>
+<p><a href="https://going-medieval.com/2025/10/21/on-ai-and-the-golem/">On AI and the golem</a> by Dr. Eleanor Janega</p>
+<blockquote><p>I am thinking particularly of the ridiculous ass letter written and signed in 2023 by a few hundred AI bullshit artists, I mean, ‘experts’ about how AI poses an ‘existential threat to existence.’… This is essentially the same thing as the golem stories, because what they are attempting to do is position themselves as a sort of priestly class with access to forbidden, arcane knowledge that must be feared, respected, and obeyed.</p></blockquote>
+<p>+</p>
+<p><a href="https://biblioracle.substack.com/p/choose-common-sense-over-conventional">Choose Common Sense Over Conventional Wisdom</a> by John Warner</p>
+<blockquote><p>[C]onventional wisdom can be boiled down to “that’s what they say,” with the ‘“they” being perpetually undefined. Common sense is what you know to be “true.” […] It is very hard to resist conventional wisdom when you are given no sense of where this conventional wisdom comes from and when people with more authority and experience is telling you that this is what should be done.</p></blockquote>
+<p>+</p>
+<blockquote data-sanitized-class="twitter-tweet">
+<p dir="ltr" lang="en">fully conspiracy pilled on this, ai is a psyop to make an entire generation ‘graduate’ from highschools &amp; colleges completely uneducated, to make adults incapable of organizing their workplaces, oligarchs want a servile underclass again so they’re giving you all ✨serf brain✨</p>
+<blockquote data-sanitized-class="twitter-tweet">
+<p dir="ltr" lang="en">yeah chatgpt gotta go bc wdym these kids are reacting like this over having to write one paragraph <a href="https://t.co/Om7K4BW1K1">pic.twitter.com/Om7K4BW1K1</a></p>
+<p>— AARON (@lidolmix) <a href="https://twitter.com/lidolmix/status/1981138178745782344?ref_src=twsrc%5Etfw">October 22, 2025</a></p></blockquote>
+<p>— Megaaaan🍊✨🍉 (@meganimation) <a href="https://twitter.com/meganimation/status/1981547238569427047?ref_src=twsrc%5Etfw">October 24, 2025</a></p></blockquote>
+<p>+</p>
+<p><a href="https://www.thecut.com/article/job-search-unemployment-stories.html">The Job Search Has Become a Humiliation Ritual</a> by Sarah Thankam Mathews (The Cut)</p>
+<blockquote><p>It is fashionable among elites now to frame the majority of people as “NPCs,” or non-player characters, in the parlance of video games: unthinking, sheeplike, atomized automatons. But deny a vast multitude what they need for long enough and you’d be surprised at how many decide to play.</p></blockquote>
+<p> </p>
+<p>I keep thinking that part of the problem of modern American society is that <strong>we have amply demonstrated our intellectual equality but are still denied economic equality</strong>. For now at least, we are well-educated — we know history, we know political theory, we know philosophy, we know economics — so what keeps us serfs <a href="https://tracydurnell.com/2023/06/13/a-society-subservient-to-the-market/">under capitalism</a> is in part simply <a href="https://tracydurnell.com/2024/04/24/access-to-capital-for-change/">lack of capital</a>. Despite the defunding and undermining of public education, we are the elite’s intellectual equals… yet they still think of us as their servants.</p>
+<p>There is no justification for them to think themselves naturally superior; <strong>we have rejected the divine right of kings and predestined social roles… in theory</strong>. In practice, <a href="https://tracydurnell.com/2025/01/19/american-origin-stories/">American elites</a> <a href="https://tracydurnell.com/2023/10/03/tools-for-keeping-power-in-the-upper-class/">have always</a> <a href="https://tracydurnell.com/2024/11/05/the-election-is-just-the-first-step-for-democracy/">restrained our democracy</a> from fulfilling the will of the people.</p>
+<p>The tech elite dreams of themselves as <a href="https://tracydurnell.com/2023/04/09/controlling-the-information-platforms-controlling-the-information/">rightful kings</a> of technofeudalist city-states. They are obsessed with IQ because they believe it demonstrates their superiority, and thus meritocracy justifies their claim to leadership. (They have to believe that <a href="https://tracydurnell.com/2025/04/08/dumbness-is-emotional-not-intellectual/">intelligence is a fixed, quantifiable property</a>, not <a href="https://www.marginalia.nu/log/a_108_feynman_revisited/">learned and developed</a> across domains like any other skill, or they would be forced to admit <a href="https://tracydurnell.com/2024/01/30/the-siren-call-of-llms/">how much of a mistake it is</a> <a href="https://tracydurnell.com/2025/11/01/decisions-are-the-foundation-of-art/">to pass off their thinking to the machine</a>, or that their business acumen does not make up for their <a href="https://x.com/JoyceCarolOates/status/1987269465013428557">stunted emotional intelligence</a>.)</p>
+<p>And then these self-declared geniuses go on LinkedIn and post <a href="https://tracydurnell.com/2025/06/02/generative-ai-and-the-business-borg-aesthetic/">genAI pablum</a> about Plato’s cave allegory and are disappointed when we’re not so impressed with their 101-level intellectual prowess that we <a href="https://tracydurnell.com/2025/10/13/thirsting-after-oligarchs-gone-wild/">fall to our knees</a> and beg them to rule us 🙄 They cannot recognize how derivative their thinking is because they lack intellectual curiosity. But if they destroy our education system, discourage critical thinking, and deskill white-collar careers, maybe the uneducated will think they are smart, and they will finally receive the worship that they crave.</p>
+<p> </p>
+<p>Related reading:</p>
+<p><a href="https://curtismchale.ca/2025/11/15/the-rich-want-you-busy-thoughtless-and-grateful-for-scraps/">The Rich Want You Busy, Thoughtless, and Grateful for Scraps</a> by Curtis McHale</p>
+<p><a href="https://theunwrittenhour.substack.com/p/there-is-no-pyramid-rethinking-maslow">There Is No Pyramid: Rethinking Maslow Through Marx</a> by The Unwritten Hour</p>
+<p> </p>
+<p>See also:</p>
+<p><a href="https://tracydurnell.com/2025/09/14/sovereign-individuals-and-npcs/">Sovereign individuals and NPCs</a></p>
+<p><a href="https://tracydurnell.com/2025/04/17/ceding-the-work-of-interpretation/">Ceding the work of interpretation</a></p>
+<p><a href="https://tracydurnell.com/2023/10/24/disguising-and-reinforcing-the-status-quo-with-tech/">Disguising and reinforcing the status quo with tech</a></p>]]></description>
+			<pubDate>Sun, 16 Nov 2025 16:42:48 -0700</pubDate>
+			<guid isPermaLink="false">1763344674792768</guid>
+		</item>
+		<item>
+			<title>📺 Watched Silo (2023) on AppleTv</title>
+			<link>https://www.michaelponders.com/2025/11/watched-silo-2023-on-appletv.html</link>
+						<dc:creator>Michael</dc:creator>
+			<category>opinion</category>
+			<category>Streaming</category>
+			<category>tv</category>
+			<description><![CDATA[<p>⚠️ <strong>SPOILER WARNING:</strong> NO SPOILERS</p>
+
+<div><img src="https://media.mitchelltribe.xyz/images/2025/11/34fabe03_tmdb_f849d2900cef.jpg" alt="Promotional poster for the series &quot;Silo&quot; featuring a large silhouette of a woman's profile filled with various scenes and characters. The silhouette is set against a vibrant yellow and blue background, with the prominent title &quot;SILO&quot; at the bottom. The scenes inside the silhouette depict a group of people in various dramatic poses, suggesting intense narrative elements." title="Promotional poster for the series 'Silo' featuring a large silhouette of a woman's profile filled with various scenes and characters. The silhouette is set against a vibrant yellow and blue background, with a prominent title 'SILO' at the bottom. The scenes inside the silhouette depict a group of people in various dramatic poses, suggesting intense narrative elements."></div>
+
+<strong>My Rating:</strong> ⭐⭐⭐⭐½ (4.5/5 stars)
+
+<strong>Episodes:</strong> 10
+<hr>
+<h3>Quick Take
+</h3>
+After snagging a free month of Apple TV, I managed to binge-watch the second season of Silo. It was excellent. I'm really looking forward to Season 3 and hope they explore more of the backstory.
+
+<h3>Best Episodes
+</h3>
+The season finale stood out as the best episode. The whole season was truly remarkable.
+- Episode 10: Into the Fire
+<hr>
+<div>
+  <img src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_short-8e7b30f73a4020692ccca9c88bafe5dcb6f8a62a4c6bc55cd9ba82bb2cd95f6c.svg" alt="TMDb">
+  This product uses the TMDb API but is not endorsed or certified by <a href="https://www.themoviedb.org/">TMDb</a>.
+</div>]]></description>
+			<pubDate>Sun, 16 Nov 2025 16:19:00 -0700</pubDate>
+			<guid isPermaLink="false">1763344674792767</guid>
+		</item>
+		<item>
+			<title>stop worrying what everyone thinks</title>
+			<link>https://jeffdelp.bearblog.dev/stop-worrying-what-everyone-thinks/</link>
+						<dc:creator>jeffdelp</dc:creator>
+			<description><![CDATA[<blockquote>
+<p><em>I will not allow anyone to walk in my mind with dirty feet. — Mahatma Gandhi</em></p>
+</blockquote>
+<p>Many of us spend a lot of time worrying about what other people think. I don't have immunity, or a remedy.</p>
+<p>I am, by nature, a people-pleaser. While this isn't inherently bad, it has been the cause of a great deal of stress over the years, allowing others (and sometimes their dirty feet) to occupy space and time in my mind. The line between consideration for others and toxic concern for how they perceive us can be razor thin. I think most people want to be liked and considered with some degree of esteem. However, the reality is that as imperfect people, living in an imperfect world, there is nothing we can do that will keep everyone happy. So, that shouldn't be an aspiration.</p>
+<p>While not completely free from this worry, as I've gotten older, this seems to be less of an issue for me. Maybe wisdom (doubtful). Ignorance (more likely). <em>Or, I've figured out whose opinions matter to me.</em></p>
+<p>I'm not advocating for a flippant disregard for the thoughts and feelings of others. How we treat people -- friends, family members, colleagues, and strangers -- matters. However, it is wise to approach our interactions with reasonable expectations. Focus on what is within our control. The happiness of another person isn't on this list (but, kindness is).</p>
+<p>Assume the best in others. Listen. Be thoughtful. Act with integrity. Accept responsibility for your words and actions. If necessary, apologize.</p>
+<p>Then...move on without worry.</p>
+<p><small>comment by email, or say hello: jeff[dot]bearblog[at]gmail[dot]com</small></p>]]></description>
+			<pubDate>Sun, 16 Nov 2025 17:31:00 -0700</pubDate>
+			<guid isPermaLink="false">1763344674792766</guid>
+		</item>
+		<item>
+			<title>The thing that libs don't realize about means testing</title>
+			<link>https://blog.lauramichet.com/the-thing-that-libs-dont-realize-about-means-testing/</link>
+						<dc:creator>lauram</dc:creator>
+			<description><![CDATA[<p>...is that it is insanely annoying!!</p>
+<p>I am now signed up for unemployment insurance in the state of California. I spent a lot of time on the phone recently trying to submit and the correct my application for it. This is the first time I have been laid off in my life (I had a 15 year streak of dodging layoffs by leaving for a new job immediately before they occurred!) and therefore this is the first time I have been eligible for UI in any part of the US.</p>
+<p>I've been against aggressive means-testing for a long time because it seems stupid, unfair, and a waste of energy to restrict our social safety net programs with massive bureaucratic surveillance programs. I knew from my friends that it is also unbelievably annoying; I now have that experience myself. It is actually more annoying than doing my taxes, which is crazy. (I'd assumed that it would be about <em>exactly</em> as annoying as doing my taxes.)</p>
+<p>The forms are huge, the websites are oddly laid-out, and everything is written in the strangest, densest language possible. The phone trees are word puzzles - every verbal question they pose will have multiple long asides referring to possible exceptions, often listing out specific document names or federal programs. By the time the phone tree completes a question, I sometimes have a hard time remembering how the sentence began.</p>
+<p>I had the experience of being manually marked as "unable or unwilling to work full time", which I needed to call and correct; the guy at the EDD office had no idea why I'd been marked that way and simply manually reversed it. This is when I learned that my ability or willingness to work within the CA unemployment insurance system is not something that I can attest to positively <em>myself,</em> as <em>the worker in question;</em> it's something that a stranger at the back of the EDD tech decides about me and <em>manually inputs</em> after reviewing my material.</p>
+<p>Anyway, I was on the phone solving that and other problems for hours. Amazing!</p>
+<p>That's the whole blog post today: means testing is <em>more</em> annoying than doing your taxes. In my experience, it was about exactly as annoying as getting challenged by health insurance. On a stress level, it is even comparable to the time that airport security tried to take all my diabetes equipment away from me, which was possibly the most terrifying and morally objectionable bureaucratic challenge I've navigated in my life. (I was, I think, sixteen.) That's it! That's the post!!</p>]]></description>
+			<pubDate>Sun, 16 Nov 2025 18:47:00 -0700</pubDate>
+			<guid isPermaLink="false">1763344674792765</guid>
+		</item>
+		<item>
+			<title>condensation</title>
+			<link>https://anglesmorts.org/20251116/</link>
+						<dc:creator>anglesmorts</dc:creator>
+			<description><![CDATA[<pre><span data-sanitized-class="ispan">the rain stills
+teasing frost 
+by every way through
+
+ablutions for reynaud
+dexterity taker
+of some ways through
+
+think of the parsnips
+heat and honey
+bulbs over winter
+still work to be done
+
+drawn out 
+about inflection
+maturation 
+induced by frost
+and risk of rot
+in sodden clay
+
+a little more growth 
+before the freeze
+</span></pre>
+<h3>other things said</h3>
+<span data-sanitized-class="ots">
+<ol>
+<li><pre><span data-sanitized-class="ots">two strings
+no longer under tension</span></pre>
+</li>
+</ol>
+</span>
+<h4>
+</h4><p><a href="https://anglesmorts.org/20251115">Yesterday</a> :: Sunday, 16th November 2025</p>
+]]></description>
+			<pubDate>Sun, 16 Nov 2025 15:18:00 -0700</pubDate>
+			<guid isPermaLink="false">1763332949095909</guid>
+		</item>
+		<item>
+			<title>Thinking About Going Dark on Social Media</title>
+			<link>https://iam.skoo.bz/thinking-about-going-dark-on-social-media/</link>
+						<dc:creator>S. L.</dc:creator>
+			<category>Life</category>
+			<category>Tech</category>
+			<media:content url="https://iam.skoo.bz/content/images/2025/11/photo-1608093310256-d8289063a5e7.jpeg" medium="image"></media:content>
+			<description><![CDATA[<img src="https://iam.skoo.bz/content/images/2025/11/photo-1608093310256-d8289063a5e7.jpeg" alt="Thinking About Going Dark on Social Media"><p>This is just a thought that’s been on my mind the last couple of days. I’ve already kicked social media apps like Facebook and Instagram off my phone around the end of October. The next step would be to kick these apps off of my iPad as well and potentially put a block on them in my browser on my laptop. Beyond that, it’s going dark entirely.</p><p>I’ve already done quite a bit. I’ve limited notifications, turning them off on my devices entirely and limiting what in-app notifications pop up. I’ve filtered the hell out of my Facebook feed, limiting it to close friends only and scrutinizing who I let follow me on these platforms and what they can see if I do let them on.</p><p>Yet, it doesn’t feel like enough. It still feels far too noisy. I still feel the pull to check these things on my devices. I’ve seen a bit of advice that we should try reading, journaling, or simply sitting in silence during the first part of our day, but I find these things even hard to try or maintain with the constant pull of these social networks. Even worse, none of it feels fulfilling. None of this feels like I’m connecting with anyone on them. Definitely not in the same way I would if I were actually having a conversation with them.</p><p>I recently wrote about how I wish I had a <a href="https://iam.skoo.bz/a-feed-of-my-friends/">feed of my friends</a> in my RSS reader I could look forward to instead. Something that felt more intentional and less influenced by the noise of socials. Something that feels deeper and more intimate. I view personal websites as an extension of our homes. This is where I’m the most comfortable telling my stories and speaking my truths and ideas. This platform nurtures this kind of thing. It’s me with a blank canvas to write whatever my fingers can output onto a keyboard. I can pause without getting distracted. I can calculate my next move. It’s serene.</p><p>This makes me think about going dark on socials and only posting here. Honestly, I don’t feel comfortable with the number of coworkers I have following me on Facebook for example. I’m in a leadership position and our company policy states I can only hang out with those who are my peers, or of a same ranking as me. That severely limits who I can interact with in person. Social media gives me the same vibe. I don’t necessarily want some of these folks knowing much about me off the clock. I don’t want to be seen with them. And some, I don’t trust to protect my reputation. If I’m to promote up, then I need to stay off people’s radars in the wrong way.</p><p>Coincidentally, because of Meta’s shitty algorithms, anytime I’ve left posts to my site on my Facebook page, they’ve gotten next to nothing for clicks according to my site’s analytics. So, the chance many of them find my website is slim. I feel very comfortable sticking to my personal site and its federated presence on Mastodon.</p><p>So, what’s next? Apple has some built in blocks within its settings that can block you from certain apps and websites, or at least limit the time spent there. The other part of this is to fill the time I’m on socials with something more fulfilling, like writing, taking a walk, exercising, reading, learning, and so many other things I want to get into. I want to get back in shape and ride my bike more, maybe becoming a bit of a nerd around that. I’d like to check out concerts and sporting events. I also want to get serious about listening to music again, perhaps even trying to buy a vinyl or two every month from the local shops here. All of these are better options than doomscrolling and getting spied on.</p><p>But here’s the other part of the story. I’m going quietly outside of this post. I promise you, no one notices. No one ever does. My brother is an example of this. He has a Facebook profile that he’s never posted to, yet people still wish him happy birthday every year as if he were a regular. Nobody notices when you don’t use the shit.</p><p>I feel like all of this will get me back to having a more still mind. Coincidentally, one if my favorite people Craig Mod <a href="https://craigmod.com/ridgeline/217/?ref=iam.skoo.bz">just wrote about this subject</a>:</p><blockquote>The modern smartphone, laden with the corporate ecosystem pulsing underneath its screen, robs us of this feeling, conspires to keep us from “true” fullness. The swiping, the news cycles, the screaming, the idiocy — if anything destroys a muse, it’s this. If anything keeps you locked into a fetid loop of looking, looking, and looking once more at the train wreck, it’s this. I find it impossible to feel fullness, even in the slightest, after having spent just a bit of a day in the thralls of the algorithms.<br><br>The smartphone eradicates “space” in the mind. With that psychic loss of space, grace becomes impossible. You see the knock-on effects of this rippling out across the world politically.</blockquote><p>He then continues:</p><blockquote>I realize the above might sound like the rant of a crank. But I think the detrimental — psychological and physiological — nature of doomscrolling, of being sucked into the algorithms, is something we all “know,” though — because we’re so cloaked in “onlineness” — often forget. The good thing: It’s easy to experience fullness, to pull your head out of the muck, to be the Goon Antipode, to cleave space from the online sludge in the mind, to hear some kind of “inner voice” once again, and then to act on what inspiration comes from that.</blockquote><p>Seriously, check out <a href="https://craigmod.com/?ref=iam.skoo.bz">Craig’s work</a>, it’s great! But the point is there: we start to think for ourselves more the less we’re doomscrolling and actually living, creating, and learning. I feel like we’re collectively aware of it, but it feels like we’re also collectively waiting for everyone else to make the move away. I’m making that decision for myself now, starting with 30 days and going from there.</p><p>In the meantime, I look forward to living life with my friends and finding inspiration from my experiences. I’d love to follow more personal sites, so if you have one, <a href="mailto:blog@skoo.bz">let me know</a>. And if you are local to me, seek me out. I’m not hard to find. Be good to yourselves.</p>]]></description>
+			<pubDate>Sun, 16 Nov 2025 13:44:36 -0700</pubDate>
+			<guid isPermaLink="false">1763330521919613</guid>
+		</item>
+		<item>
+			<title>#TIL: Intentionally blank page</title>
+			<link>https://thomasrigby.com/posts/til-intentionally-blank-page/</link>
+						<dc:creator>Thomas Rigby</dc:creator>
+			<description><![CDATA[<p>Courtesy of <a href="https://kayserifserif.place/">Katherine</a> via <a href="https://www.nicchan.me/">Nic Chan</a>'s <a href="https://manuelmoreale.com/interview/nic-chan"><em>"People &amp; Blogs"</em></a> interview, I learned about intentionally blank pages.</p>
+<p>Having read a <a href="https://thomasrigby.com/reading/">book or two</a> in my time, I've seen these blank pages; usually a quirk of the way books are bound in bundles of evenly numbered pages that doesn't always align exactly to the number of printed/written pages.</p>
+<p>This is a print-only phenomenon — digital books and websites don't have those printing constraints. But, in memory of those pages being lost to the endless march of technology, the <a href="https://web.archive.org/web/20180224075941/http://this-page-intentionally-left-blank.org/whythat.html">"This Page Left Intentionally Blank" Project</a> is calling on us, the webmasters of personal sites, to add an intentionally blank page to our websites.</p>
+<p>You can find mine at <a href="https://thomasrigby.com/blank/"><code>/blank</code></a>. What a lovely idea.</p>]]></description>
+			<pubDate>Sun, 16 Nov 2025 13:22:59 -0700</pubDate>
+			<guid isPermaLink="false">1763330521919612</guid>
+		</item>
+		<item>
+			<title>Weeknotes: 2025-W46</title>
+			<link>https://thomasrigby.com/posts/2025-w46/</link>
+						<dc:creator>Thomas Rigby</dc:creator>
+			<description><![CDATA[<h2>10th November - 16th November</h2>
+<p>I went for a walk this week; took the dog out early doors, pre-dawn. I thought it was a bit blowy. When I got home my wife informed me there's a yellow weather warning for a named storm coming in.</p>
+<p><a href="https://www.cheshire-live.co.uk/news/chester-cheshire-news/live-updates-cheshire-road-shut-32875545">Storm Claudia took out some trees, cars, and houses</a>. We escaped the worst of it; the bins were thrown around and fence panels dislodged. I had to drag one out of the road at near midnight to prevent accidents.</p>
+<hr>
+<p>Visited the new Havas Village Manchester offices this week. They are currently rather sterile and corporate but, hopefully, some personality will get injected once we're are in and "being creative". The weirdest thing, though, is I can see my old house from my new desk…</p>
+<hr>
+<p>I threw a roll of film through my replacement Minolta SRT303 and posted it to <a href="https://photohippo.co.uk/">Photo Hippo</a> for development and scanning. The mirror return mechanism is a little sticky which wasn't mentioned in the listing! It shouldn't affect the final images though, it just creates a bit of an annoying distraction while shooting. Hopefully, it'll not be an issue until I can get it lubricated.</p>
+<hr>
+<p>I am now pretty convinced there are two tawny owls; one in the big tree by the field at the end of the village and one in the copse by the cemetery. Although, with a top speed of 80kph (50mph) and near-silent flight, one could have easily beaten me.</p>
+<hr>
+<blockquote>
+<p><q>The hour is come but not the man</q><br>
+<cite>Susan Cooper, <em>"Greenwitch"</em></cite></p>
+</blockquote>
+<hr>
+<h2>Links of Interest™</h2>
+<ul>
+<li><a href="https://fmjansen.com/posts/started-phd/">PhD on applications for identity wallets</a></li>
+<li><a href="https://joelchrono.xyz/blog/52-weenotes-later/">52 Week Notes later</a></li>
+<li><a href="https://anniemueller.com/posts/outside-sad-is-better-than-inside-sad">Outside sad is better than inside sad</a></li>
+<li><a href="https://pxlnv.com/linklog/lastfm-2002/">In 2002, Last.fm Was the Cutting Edge of the Social Web</a></li>
+</ul>]]></description>
+			<pubDate>Sun, 16 Nov 2025 12:45:24 -0700</pubDate>
+			<guid isPermaLink="false">1763330521919611</guid>
+		</item>
+		<item>
+			<title>Clepsydra</title>
+			<link>https://tacitexposure.bearblog.dev/clepsydra/</link>
+						<dc:creator>tacitexposure</dc:creator>
+			<category>poetry</category>
+			<category>thoughtful</category>
+			<description><![CDATA[<p>The year must sing.<br>
+<a href="https://www.youtube.com/watch?v=08HcdIM3qSs">Its' time yet nigh, shall be anew.</a><br>
+Number, one more.</p>
+<p>The stream measures.<br>
+The lake collects.<br>
+The fall ensures the cloud accepts.</p>
+<p>Drops coalesce, come into rest.<br>
+Into the dirt where they fit best.<br>
+Azul to somber, breath becomes tight.<br>
+<a href="https://www.youtube.com/watch?v=IvUU8joBb1Q">Rapid, unending. To day, through night</a>.</p>
+<p>Years gone by, year to come.<br>
+<a href="https://www.youtube.com/watch?v=uXxTZAiQp2k">Time waxes. Rain, bar none</a>.</p>
+<p><a href="https://tacitexposure.bearblog.dev/feynman" title="Surely You're Joking, Mr. Feynman by Richard Feynman" data-sanitized-class="previous-post">Previous</a> </p>]]></description>
+			<pubDate>Sun, 16 Nov 2025 14:33:00 -0700</pubDate>
+			<guid isPermaLink="false">1763330521919610</guid>
+		</item>
+		<item>
+			<title>2025-w46</title>
+			<link>https://hlomen.bearblog.dev/2025-w46/</link>
+						<dc:creator>hlomen</dc:creator>
+			<category>weeknotes</category>
+			<description><![CDATA[<p>The word that sums up this week is: <strong>tired</strong>. A new level of whole-family weariness has set in, with one of my kids in particular hitting the end 🤪 on Friday. The weekend has been great but I fear we are setting forth into a new week having not really recovered. I’ve not bothered to keep up with my journal this week; and unusually, this is written off the cuff instead of based on my hand notes. A sign of the week.</p>
+<p>A top moment for me was finishing a new roof for my mini firewood store 🔨. Something I’m looking forward to next week is getting some film 🎞️for my newly replaced and working SLR 📷.</p>
+<h3 data-sanitized-id="headlines">headlines</h3><p>🧠 <em>Understanding:</em> My team has been to easily giving me the monkey 🙈<sup data-sanitized-id="fnref-1" data-sanitized-class="footnote-ref"><a href="https://hlomen.bearblog.dev/2025-w46/#fn-1">1</a></sup>. Some complicated family dynamics and a challenge to me in parenting to give the kids gentle attention. Not that I won’t have to keep learning the hard and long way!</p>
+<p>🧶 <em>Creating &amp; cultivating:</em> As part of my phone dumbing-down effort (last post) I spent my pocket money on a replacement for my broken 35mm camera. This weekend, making a shelving unit for child #2.</p>
+<p>📺 <em>Consuming:</em> Homemade burgers 🍔, yum! Some mulled wine too 🎄.</p>
+<p>🔆 <em>Connecting:</em> Had some people round for Sunday lunch, which turned out really well (excellent gammon by my lovely wife). Also was great to visit our regional office to see some colleagues in person, including sitting next to one of my team leads, which was a nice bonus!</p>
+<p>✒️ <em>Pen &amp; ink combo:</em> TWSBI 500AL with ⬛️ De Atrementis Vanilla</p>
+<p>🏹 <em>For my future self:</em> [onething::I can’t control or make us succeed, but I can try to set us up for sucess]</p>
+<hr>
+<p>&lt;&lt; <a href="https://hlomen.bearblog.dev/goodbye-whatsapp" title="goodbye whatsapp" data-sanitized-class="previous-post">Previous</a>   &gt;&gt;</p>
+<section data-sanitized-class="footnotes">
+<ol>
+<li data-sanitized-id="fn-1"><p>I.e. the initiative; from a Harvard Business Review article <a href="https://internalmedicinefaculty.wustl.edu/app/uploads/2018/05/Whos-Got-the-Monkey-HBR.pdf">link</a><a href="https://hlomen.bearblog.dev/2025-w46/#fnref-1" data-sanitized-class="footnote">↩</a></p></li>
+</ol>
+</section>]]></description>
+			<pubDate>Sat, 15 Nov 2025 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">1763330521919609</guid>
+		</item>
+		<item>
+			<title>Small Web, Big Voice</title>
+			<link>https://kevquirk.com/blog/small-web-big-voice/</link>
+						<dc:creator>Kev Quirk</dc:creator>
+			<description><![CDATA[<div data-sanitized-class="link">
+    <h2>Small Web, Big Voice</h2>
+    <span>by Andre Franca</span>
+    <p>Andre argues that independent blogging isn’t about scale at all, but about integrity — choosing a place you control, writing in your own voice, and keeping the web human.</p>
+
+    <p><a href="https://afranca.com.br/small-web-big-voice" data-sanitized-class="button">Read Post →</a></p>
+    <hr data-sanitized-class="email-hidden">
+  </div>
+
+
+
+
+<p>I read this post this morning while I was perusing my RSS feeds with a coffee. Firstly, I’m not sharing this because Andre called out my blog (although being bundled with people like <a href="https://rachsmith.com/">Rach</a> and <a href="https://manuelmoreale.com/">Manu</a> is <em>extremely</em> flattering). I’m sharing it because I agree with everything he says in the post.</p>
+
+<p>Having a place on the web that I’m 100% in control of, where I can share my own thoughts, feelings, and opinions is very powerful for me. Over time this blog has evolved from me sharing technical posts most of the time, to a legit personal blog with a technical twist.</p>
+
+<p>Despite what sites like <em>ProBlogger</em> say, I don’t have a niche, and I don’t try to grow my audience (<a href="https://kevquirk.com/blog/revisiting-the-web-analytics-rabbit-hole/">I don’t even know how big my audience is</a>). I just write whatever is on my mind at any given time, and people usually get in touch with me to discuss the topic. It’s fantastic.</p>
+
+<p>If you’re on the fence about starting a blog, I implore you to do so. It’s probably the best thing I’ve ever done with a computer. If you, please drop me an email with the link - I love discovering new blogs!</p>
+
+
+<div data-sanitized-class="email-hidden">
+  <hr>
+  <p>Thanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️</p>
+  <p>
+    <a href="mailto:72ja@qrk.one?subject=Small%20Web,%20Big%20Voice">Reply to this post by email</a>
+  </p>
+</div>]]></description>
+			<pubDate>Sat, 15 Nov 2025 09:22:00 -0700</pubDate>
+			<guid isPermaLink="false">1763321802423692</guid>
+		</item>
+		<item>
+			<title>The art we make as children</title>
+			<link>https://chavanniclass.wordpress.com/2025/11/16/the-art-we-make-as-children/</link>
+						<dc:creator>Ratika Deshpande</dc:creator>
+			<category>diary</category>
+			<category>memoir</category>
+			<category>childhood</category>
+			<category>notebooks</category>
+			<media:content url="https://0.gravatar.com/avatar/3c01cee950e21d4f28b9086b49afb4c05bddf47c69611ed3eaf3e40277707053?s=96&amp;d=identicon&amp;r=G" medium="image"><media:title type="html">ratikadeshpande</media:title></media:content>
+			<description><![CDATA[<p>Since resuming a regular notebook-keeping  habit, I’ve started collecting the “junk” of every day life–tickets, flower, receipts–to have tangible reminders of moments lived. </p>
+
+
+
+<p>Yesterday a friend of mine (the same one who <a href="https://chavanniclass.wordpress.com/2025/11/12/little-surprises/">bought star fruits for me</a> the other day) gave me a little tamarind roll, the wrapper of which I pasted in my notebook. It reminded me of the scrapbook I’d kept as a child, when I was about 10-12 (I may have started it at 9; I don’t really remember). I wish I hadn’t thrown it away. I’d collected dozens of chocolate and toffee wrappers and pasted them in it, along with pretty pictures and illustrations from newspapers and magazines.</p>
+
+
+
+<p>I also wish I hadn’t thrown away the diary with a golden cover in which I’d written my first poems, as well as a slim blue notebook in which I’d composed poems as well as short stories, written in neat, print handwriting as if I were actually making a <em>book. </em>I can recall that the very first poem in it was one I’d written about my relationship with the girl I used to call my Best Friend Forever (BFF) but with whom I lost all touch five years later. </p>
+
+
+
+<p>I can’t recall the other poems but I do remember a couple of short stories. There was one about a Christmas party gone wrong and another that was about a group of friends having creepy experiences in a haunted house that turns out to be a movie set (or something like that). I was in my <em>Goosebumps </em>fan girl phase and so all the stories I wrote were not so much as “influenced” by those books as they were attempts at writing my own <em>Goosebumps </em>stories. I was so confident in my self-perceived ability to write horror back then! Right now, our book club is running a horror comedy writing contest and I feel utterly incapable of writing anything that won’t be, to use some internet vocabulary, a cringefest.</p>
+
+
+
+<p>Anyways, the main takeaway from this, which I can’t do anything about but you maybe can, dear reader, is this: no matter what else you purge from your life, <em>never </em>throw away the art you made as a child. I’m going to try to keep this in mind for my own children.</p>]]></description>
+			<pubDate>Sun, 16 Nov 2025 10:03:00 -0700</pubDate>
+			<guid isPermaLink="false">1763321802423691</guid>
+		</item>
+		<item>
+			<title>i am not my liver</title>
+			<link>https://spectre.bearblog.dev/i-am-not-my-liver/</link>
+						<dc:creator>spectre</dc:creator>
+			<description><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/spectre/painintheworldnotinthisroom.webp" alt="painintheworldnotinthisroom"></p>
+<p>never have i ever been clubbing. never have i ever downloaded bumblebff. never have i ever agreed to spend halloween with a stranger. tonight all three fingers go down.</p>
+<p>i try to envision a club. lights? probably. music? top 40s, its a latin club so lots of spanish. people? drunk, hot, stupid. people who know how to dance. people who don't have to think about knowing how to dance. i imagine there is no coat check. that these perfect stupid people who know how to dance dont need jackets or boots or bags. vodka jackets are in style at the club of my naïve imagination.</p>
+<p>among these perfect, dancing people, i am jacketed, heeled, and in makeup befitting a 12 year old who just got her first issue of vogue teen. among these perfect, stupid, dancing people i stumble and stagger and reach and move, perhaps with them in color and myself in black and white.</p>
+<p>my first step toward becoming stupid hot and dancing is leaving my glasses at home. they ruin the outfit. what do i need to see?</p>
+<p>i sat outside the club for 40 minutes. its maybe 3 degrees, my feet hurt, and i just passed a packed small bar with a live MCR coverband. i want to turn around.</p>
+<p>my new friend approaches the club, also jacketed. i feel relieved. she says she thought i was a catfish. to tell you the truth, i say, i thought i was a catfish.</p>
+<p>we go inside. the bouncer doesnt make small talk. i make a comment to her about it and she looks at me like im kinda dumb. the club is downstairs. the coat check only takes cash because of course they do. she covers me. its 10:40pm and the dance floor is empty aside from a twink dressed like a roman emperor surrounded by 5 incredibly attractive scantily clad women.</p>
+<p>may i be reincarnated as a twink during my next trip through samsara.</p>
+<p>my friend grabs my hand and drags me to the bar. "what do you want" "i want the chocolate martini" two shots of tequila were ordered. it goes down like water. ive never had tequila before. like water. theres a lime and i dont know what to do with it. she sucks on it after. theres a smooth burn down my throat but i dont really feel it.</p>
+<p>she grabs my hand and drags me to the dance floor. we dance. i say i cant dance and we dance. she can dance. some fat tall guy decides he wants to dance. i freeze. she pulls me away. she decides she needs another. more tequila. two shots of tequila. its like water. i think of my friend who swore of tequila after two shots made her vomit. i think ill tell her. it's just like water.</p>
+<p>i feel drunk but in control. im on the dance floor and im moving but im really watching. im feeling. i look at her sometimes but not too much. shes looking at me. the room is bright then dark. strobe to disorient. the floor is concrete, not yet filthy, and theres a thick concrete beam in the middle of the floor. i move my feet, two step, four step, left, right. i do the same 3 things with my hands. im trying not to think about it. im trying to make myself one with the room.</p>
+<p>i cant help but recall the 8th grade dance. flashing lights, concrete floor, believe it or not roughly the same music. but familiar faces and no booze. i think thats the only difference that matters. i think of myself awkwardly shuffling against my date, moving myself to the music with my friends, swaying awkwardly, uncertain when some criteria like music or people or noise is off.</p>
+<p>i am the room. she grabs me and dances with me. stupid hot sexy dancers dont have pockets, they hold their phones all night. she can't grab my right hand thanks to phone so i shove it in my arm pit, we shuffle, i smile, she smiles, we move to the music. she leads but i can't tell if im following. she twirls me and i twirl, i twirl her and she almost falls.</p>
+<p>i am the room. two shots. and i thought i was a lightweight.</p>
+<p>i set her upright and keep dancing. facing her but separate. i dont think she liked my body language, looking back on it. she turns arounds and grinds on me, i have no idea what to do so i hold her, she stops and goes back to dancing.</p>
+<p>they're playing pitbull. they're playing shakira. they're playing tokyo drift. i am the room.</p>
+<p>we drift through the room, being pushed and pulled as the dance pit fills. more men. this is a gay club, i think. that doesn't stop them. most of the drifting is trying to avoid them. like werewolves on a full moon halloween has brought them out, i think. i dont freeze anymore, i dont make eye contact.</p>
+<p>i think back to white girl dancing. when pitbull tells me to put my hands in the air i do. and i bring them back down, patting the air, like jlo on just dance.</p>
+<p>they play rihanna. where have you been. i know this one. just dance. muscle memory overtakes me. i do a space appropriate version. the dj stops it midway through. my feet hurt but i am the room.</p>
+<p>in the real club there are tables. booths tucked away in corners and high tops surrounding the dancing pit. watching the dancers. all reserved on the face of it, but when my friend notices my feet hurt she doesn't seem to mind that when she brings me over to one and we sit down. we dont say much.</p>
+<p>somehow, this is fine. the lights are fine, the music is fine, the people are fine. i am the room. the vibe is palpable, though not necessarily pleasing to the sober, and humid through my brain. through my eyes, ears, nose, mouth. like a thin wash of color.</p>
+<p>three tequila shots.</p>
+<p>she goes to take a picture. i hit a flinch. on instinct, i run through my options, cost. i run through my why and how and when and what. the camera goes on and i see myself and in an instant the calculation has completed. i tilt my head and look at the camera. i smile at her command.</p>
+<p>i am the room.</p>
+<p>we keep dancing, people keep pouring in, a performance is called. a drag queen emerges from the crowd. her heels are higher than mine. i immediately feel sorry for her. her and her two male scantily clad henchmen dance and prance around the circle. lady gaga style. tippers come to the center and she goes to them, grinding and show kissing before sending them off.</p>
+<p>she does a show to bad romance. i am 7 years old. below light pine washed stairs, hands on my keyboard and eyes on the youtube search bar. "bad romance". i watch lady gaga move. dance. my moms upset. i dont get it. i watch it in black and white and then color.</p>
+<p>i am the room.</p>
+<p>another drag queen emerges from the crowd, this one the typical club hostess. she does a routine to britney spears. both talented, both showy, both quoted dolly parton.</p>
+<p>the queens finish and the crowd returns to the center. it is full. im pulled to the bar by my friend who seems to have enjoyed the show.</p>
+<p>4 tequila shots.</p>
+<p>this one burns. i dont know what changed. maybe a different kind of tequila. im not asking questions. i try sucking on the lemon. it helps. it feels like i just vomitted in reverse.</p>
+<p>this time i pull my friend to the floor. its so crowded theres hardly space. she grinds on me this time and this time i pretend that i know what to do. in schrodingers club i know exactly what to do. they play bad bunny. they play more pitbull. they play more spanish music i dont know.she seems less enthusiastic. my feet are starting to really kill.</p>
+<p>we go to the washroom. i sit in a stall. i can see the girl in the stall right of me poke her foot into my stall. i think about the contortions required to do that. i wonder if im too drunk.</p>
+<p>1:17. i leave. shes taking pictures. calculation complete. drunk woman (butch - i feel fond) who got thrown up on takes the picture with us. she tells me to smile and i do. im counting the fucking minutes.</p>
+<p>i am the room. i focus on the music. i focus on the lights. i focus on the people. i am the room</p>
+<p>1:39. lets go. coat check easy, walk out easy.</p>
+<p>I ask "are you getting an uber"
+"yeah but not right now"
+"want to go to local shithole divebar"</p>
+<p>shithole bar is as expected - shit. she seems surprised (in spite of the disclaimer) but im not. its 1:55 and several people remind us as we walk in that last call is in 5 - we order before we sit down. tequila and my usual vodka with iced tea.</p>
+<p>4 shots of tequila, 1 shot of vodka</p>
+<p>"so if you're not a catfish, why do you only have two pictures on your profile?"</p>
+<p>they say being drunk makes it impossible to lie. i say you can't lie about what you don't know. in this moment i don't know that my skin used to be covered in disgusting lesions. i don't know that i looked like a 13 and 30 year old man simultaneously for the vast majority of my teenaged life. i don't know all my hipster contrived value statements about how pictures take away from enjoying the moment and how excessive selfies are narcissistic.</p>
+<p>"i just don't really think to take them. to be honest all the pictures i've taken are really from the last week" and its the drunken truth. "why didn't you facetime me if you thought i was a catfish? why would you come an hour and a half to see someone you thought was a catfish?"</p>
+<p>to be honest, i wasn't expecting her to show up at all. if she didn't, i almost certainly would've left. gone right home. past my chemical romance live cover band, past the vomiting middle aged skittle, past the beautiful dancing alcoholics lining up at various clubs.</p>
+<p>she shrugged.</p>
+<p>the bar kept fucking with the music. cutting it out, switching songs midway through. the walls are covered in graffiti - phone numbers, signatures, profanity, stickers. i wonder if it was added organically through the years or if they did it on purpose to add to the general festival restroom converted to a bar atmosphere.</p>
+<p>i am the festival toilet inspired bar.</p>
+<p>she tells me she likes to play games, and hands me her phone to show me her minecraft world. in a gated enclosure, she keeps pigs, cows, sheep. she has 3 dogs she doesn't name.</p>
+<p>she laughs at me when i tell her i name my dogs. i tell her i name everything.</p>
+<p>she tells me im beautiful and should take more pictures. she tells me about a cowboy bar we should go to next time. she cant remember the name of it. she tells me about how the first time she went clubbing, she went alone and made out with a girl who got married right after. she tells me she feels bad about it and doesn't know if she did the right thing.</p>
+<p>i tell her thats kind. i tell her we should try it. i tell her i don't think theres anything she could have done about that.</p>
+<p>i try to understand the set of actions you'd take to go from showing up a club alone to making out with a girl on the dance floor. the right night, the right drinks, the right music, the right dance moves. regardless of the sequence, at club schrondinger i am the tall fat guy, repeatedly dancing toward women who run away from me.</p>
+<p>she tells me she probably wont remember any of this in the morning. she tells me she downloaded bumble bff because none of her friends ever want to go out. she tells me she wants to go out again. she says theres nothing to do north of toronto. she tells me she downloaded hinge last month and that none of the men are her type.</p>
+<p>i tell her i'll remember. i tell her i get it. i tell her im down. i tell her i'll pitch her at hingedeck. she has no idea what that is. i explain its where you go on stage at a bar and pitch the best qualities of your friend to prospective matches. real time matchmaking. she looks at me like i was licking the table.</p>
+<p>she asks me why i tried bumblebff. she asks me if i come here often. she asks me, again, why i dont take more pictures. she asks me if im seeing anyone. she asks me why i dont go out more.</p>
+<p>i tell my drunken truth, memory transcendent.</p>
+<p>3:57am. the bar empties. i can see the waitress glaring at us halfway across the room. they're not even bothering to work the A/V properly at this point - both the TV's and speakers seem to be hooked up to some guys phone, playing shorts. i tell her its time to go and we leave.</p>
+<p>the next streetcar is 10 minutes away. the street is lined with little red riding hoods, convicts, and at least 4 dexter morgans. a joker with a harley quinn on his lap tells his friend over the phone that the ttc was bugging man and that he should have come to the function and that his girl was a strung up bitch.</p>
+<p>as if summoned, the streetcar arrived 5 minutes early.</p>
+<p>she tells me shes glad im not a catfish. she tells me shes tired. the guy next to me tells me he needs to get to broadview station. i tell him to open his phone which is turned on and check his map. he does. he asks me what streetcar he's on. i say 306 - same as the 506 during the day. i tell him hes on his way and that he just needs to get off when his map tells me to. he looks at me, like a child, and says he's really drunk. i tell him to get home safe and that he'll be okay.</p>
+<p>she watches me. a girl dressed as a bumble bee watches me. a homeless man watches me. i am the streetcar. she gets off, planning to lyft home. im just 3 stops down. ive taken my shoes off and i can feel the ttc grime under my feet, at this point too drunk to care.</p>
+<p>i stagger up to my apartment, debating taking my shoes off before i'm even in the building, neither my ankles nor my brain working. somehow my shoes are back on ,as when i get into the elevator, i stand in front of the open doors fixing my heels, completely oblivious to the person inside waiting for me to get in.</p>
+<p>4:47am, drunk but full of energy, i take my heels off for the final fucking time and collapse in my bathroom. i am the room.</p>
+<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/spectre/hedoesntknow.webp" alt="hedoesntknow"></p>]]></description>
+			<pubDate>Sat, 15 Nov 2025 19:02:00 -0700</pubDate>
+			<guid isPermaLink="false">1763321802423690</guid>
+		</item>
+		<item>
+			<title>The Locust at Michigan Fest: A Unique Experience</title>
+			<link>https://brokenstar.blog/2025/11/16/the-locust-at-michigan-fest-a-unique-experience/</link>
+						<dc:creator>vida</dc:creator>
+			<category>Music</category>
+			<category>music</category>
+			<category>nostalgia</category>
+			<category>punk</category>
+			<description><![CDATA[<p>Growing up in the punk and hardcore scene in the 1990s, I was lucky to see a lot of amazing bands and meet incredibly passionate and talented people playing music, putting on shows,<a href="http://www.heartattackarchive.com/"> publishing zines</a>, etc. Those experiences exposed me to foundational ideas in my life (like <a href="https://haenfler.sites.grinnell.edu/straight-edge/">straight edge</a>) and gave me a place of belonging. It taught me that in many ways, culture is something that we can co-create, rather than something handed down from corporations.</p>
+
+
+
+<p>Reflecting on that time, every once in a while, a memory will pop into my head and I’ll recall a band I had the privilege of seeing before they became huge. One such band was The Locust. I remember seeing them at Michigan Fest and it was one of my more memorable experiences in punk. There was a lot of hype around The Locust and the crowd went wild: people had placards, there were some costumes, and everything erupted. I remember the chandelier getting smashed by garbage (<a href="https://youtu.be/EC2zSZWhfe8">captured on video</a>). It was one</p>
+
+
+
+<p>I saw The Locust at least a couple more times in this era, but they weren’t a band I listened to or really sought out. Some years later I remember being surprised to learn from a friend outside of hardcore that The Locust was well-known. I’m sure at the time I probably had some pithy response about how they were better when I saw them. Now, I just cherish the memory. </p>
+
+
+
+<figure data-sanitized-class="wp-block-boldblocks-youtube-block"><div data-video-id="EC2zSZWhfe8" data-title="Play" data-sanitized-id="yb-video-EC2zSZWhfe8" data-sanitized-class="yb-player"><button data-sanitized-class="yb-btn-play"><span data-sanitized-class="visually-hidden">Play</span></button></div><figcaption data-sanitized-class="yb-caption">The Locust – Live at Michigan Fest 3-24-2000 •• Master Tape •• Soundboard Audio</figcaption></figure>]]></description>
+			<pubDate>Sun, 16 Nov 2025 08:40:22 -0700</pubDate>
+			<guid isPermaLink="false">1763321802423689</guid>
+		</item>
+		<item>
+			<title>Sunday Morning Window</title>
+			<link>https://dallincrump.com/sunday-morning-window?pk_campaign=rss-feed</link>
+						<description><![CDATA[<p>I like to sit in the living room every morning while eating breakfast and looking east out the window. Weekday mornings this time of year I don't see much. It's still dark. But on weekends, when I can stay in bed and eat breakfast later, I see more. </p>
+
+<p>Breakfast is almost always a bowl of cereal. The cereal is almost always high-fiber – I'm so middle-age. <em>Cracklin' Oat Bran</em>, <em>Raisin Bran</em>, anything bran. And unsweetened vanilla almond milk. I actually like the taste better than cow's milk but my wife can't stand it.</p>
+
+<p>My cat, Oreo, jumps up on the sectional sofa next to me and lays on or next to my lap. She always hopes I have the kind of milk she likes and that I'll share.</p>
+
+<p>Depending where I sit on the sofa I see different houses. But I'm usually more interested in the trees and mountains behind them.</p>
+
+<p>The houses are boring. We're in a modest neighborhood of homes with vinyl siding and half-brick facades in front, built in the 1990s. They all look similar and are not extravagant or very large, but nice. Yet so...artificial. Our 1,600 square foot house is the smallest on our street – probably the smallest single family home in our neighborhood, as I haven't seen another like it. We wanted it that way. Our family is small, and we don't <em>need</em> anything larger. I'm very thankful to have a place to live and to be in a nice, safe neighborhood in a good location. But the way we build things here just seems out of place.</p>
+
+<p>Today the trees are way past Autumn peak colors. But most of them still have leaves. Muted dark orange and brown now, but still a bit of yellow. I should have raked the yard yesterday when it was unseasonably warm, but I read somewhere that leaving the leaves can actually be good for your lawn and for the environment as long as they aren't completely covering it. Yeah, that sounds like a good excuse.</p>
+
+<p>And then there are the mountains. So majestic. So dependable. So unmovable.</p>
+
+<p>This morning is cloudy. Sunshine illuminates the edges of breaks in the canopy accented by light blue sky.</p>
+
+<p>The mountains quietly observe the march of human “progress” here. The sprawl of strip malls and parking lots and schools and churches and subdivisions full of houses and town homes and apartments in the valley below them. To them, a couple hundred years is the blink of an eye.</p>
+
+<p>The mountains were here first. They'll be here long after we're gone.</p>
+
+<p>The clouds are clearing a bit. Occasional rays of sunshine stream through the window. I feel the warmth on my skin. I can see our windows are dirty and need a good cleaning.</p>
+
+<p>I should take a shower and get ready for church. But I'll wait a bit longer and enjoy my Sunday morning window.</p>
+
+<p><a href="https://remark.as/p/dallincrump.com/sunday-morning-window">Discuss...</a></p>
+
+<p><a href="https://dallincrump.com/tag:100DaysToOffload" data-sanitized-class="hashtag"><span>#</span><span data-sanitized-class="p-category">100DaysToOffload</span></a> (No. 105) <a href="https://dallincrump.com/tag:gratitude" data-sanitized-class="hashtag"><span>#</span><span data-sanitized-class="p-category">gratitude</span></a> <a href="https://dallincrump.com/tag:life" data-sanitized-class="hashtag"><span>#</span><span data-sanitized-class="p-category">life</span></a> <a href="https://dallincrump.com/tag:Utah" data-sanitized-class="hashtag"><span>#</span><span data-sanitized-class="p-category">Utah</span></a></p>]]></description>
+			<pubDate>Sun, 16 Nov 2025 08:18:27 -0700</pubDate>
+			<guid isPermaLink="false">1763321802423688</guid>
+		</item>
+
+	</channel>
+</rss>
