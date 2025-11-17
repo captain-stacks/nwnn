@@ -3,416 +3,247 @@
 		<title> | FreshRSS</title>
 		<link>http://192.168.1.206/FreshRSS/p</link>
 		<description>RSS feed of  | FreshRSS</description>
-		<pubDate>Sun, 16 Nov 2025 19:23:29 -0700</pubDate>
-		<lastBuildDate>Mon, 17 Nov 2025 02:23:29 GMT</lastBuildDate>
+		<pubDate>Mon, 17 Nov 2025 03:44:18 -0700</pubDate>
+		<lastBuildDate>Mon, 17 Nov 2025 10:44:18 GMT</lastBuildDate>
 		<atom:link href="/i/?a=rss&amp;state=2" rel="self" type="application/rss+xml" />
 				<item>
-			<title>Bear blog photo gallery</title>
-			<link>https://robertbirming.com/bear-blog-photo-gallery/</link>
-						<dc:creator>birming</dc:creator>
-			<category>blogging</category>
-			<category>photos</category>
-			<description><![CDATA[<p>I’m still in the process of <a href="https://robertbirming.com/headsup-break-reader/">moving my old blog posts</a> over here. I wouldn’t say it’s boring — it’s suuuper booooring.</p>
-<p>So I decided to take a break and do something more fun. From my never-ending “ideas for the future” list, I picked <em>Bear photo gallery</em>. It’s made with my <a href="https://robertbirming.com/bearly/">Bearly theme</a> in mind, but it should work well with plenty of other themes too.</p>
-<p>The gallery itself works without any scripting, so anyone can use it. If you want the lightbox effect, where you can click and browse images in a larger view, you’ll need a Bear subscription since that part relies on a footer script.</p>
-<div data-sanitized-class="bearly-gallery">
-<ul>
-<li><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/robert/img_7941-1.webp" alt="Stockholm"></li>
-<li><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/birming/img_6081.webp" alt="Lidingö"></li>
-<li><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/robert/img_5754.webp" alt="Stockholm"></li>
-<li><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/birming/img_0355.webp" alt="Autumn"></li>
-<li><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/robert/img_5551.webp" alt="Lake"></li>
-<li><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/birming/20190211_131851.webp" alt="Typewriter"></li>
-</ul>
+			<title>random yappings</title>
+			<link>https://riri.my/view-post.php?slug=random-yappings</link>
+						<dc:creator>Rina</dc:creator>
+			<description><![CDATA[hello everyone! it’s been a bit without any posts, so i guess it’s time to post at least so... <a href="https://riri.my/view-post.php?slug=random-yappings">read more »</a>]]></description>
+			<pubDate>Sun, 16 Nov 2025 20:38:47 -0700</pubDate>
+			<guid isPermaLink="false">1763376235879188</guid>
+		</item>
+		<item>
+			<title>🤭 "Words, once they are printed, have a life of their own." - Carol Burnett</title>
+			<link>https://buttondown.com/cassidoo/archive/words-once-they-are-printed-have-a-life-of-their/</link>
+						<description><![CDATA[<p>Hey friends!</p>
+<p>I hope you had a good week! Mine was fairly busy at work, but all good things. My kiddos are finally not sick for the first time in a minute, and I'm VERY grateful!</p>
+<p>Anyway, let's learn.</p>
+<p><em>Was this forwarded to you? <a href="https://cassidoo.co/newsletter/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">You can subscribe here</a>!</em></p>
+<hr>
+<h2>Web links of the week</h2>
+<p><a href="https://codepen.io/luis-lessrain/pen/dPGqzxP?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Typewriter web component</a> <br>
+<a href="https://www.smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">CSS Gamepad API Visual Debugging With CSS Layers</a> <br>
+<a href="https://piccalil.li/blog/perfecting-baseline/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Perfecting Baseline</a> <br>
+<a href="https://angiejones.tech/how-i-taught-github-copilot-code-review-to-think-like-a-maintainer/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">How I Taught GitHub Copilot Code Review to Think Like a Maintainer</a> <br></p>
+<hr>
+<h2>Something that interested me this week</h2>
+<p>This week was a weird one with Veteran's Day in the U.S. right in the middle of the week, but it was fun too to celebrate my wedding anniversary, see good friends, and hang out with my babies. My toddler is actually starting to play with our 6 month old, which is <em>very</em> exciting, even though it's mostly her pretending to cook while he's sitting there like a blob, but... still!</p>
+<p>I also wrote and coded some stuff that isn't public yet, <em>but</em> if you wanna hang out with me on the internet, <a href="https://twitch.tv/cassidoo?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">I'm streaming again</a> on Thursdays! This past week we triaged and worked on some pull requests <a href="https://github.com/cassidoo/pocketcal?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">in the repository</a> for <a href="https://pocketcal.com/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">PocketCal</a>!</p>
+<hr>
+<h2>Sponsor</h2>
+<p><strong>Angular v21: The Adventure Begins</strong></p>
+<p><strong>Save the Date:</strong> November 20, 2025  </p>
+<p>Ready to shake up how you build apps? Angular v21 is coming in hot with Signal Forms, Angular Aria headless components, and a leveled-up MCP Server. Imagine forms that actually vibe with your code, AI-powered tools that get out of your way, and accessibility upgrades baked in.</p>
+<p><a href="https://angular.dev/events/v21?utm_source=fnf&amp;utm_medium=newsletter&amp;utm_campaign=angular-november&amp;utm_term=cwilliams&amp;utm_content=v21">Learn more and add it to your calendar here!</a></p>
+<hr>
+<h2>Interview question of the week</h2>
+<p>Last week, I had you merge two arrays! Awesome job <a href="https://x.com/neagle/status/1987897065267941692?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Nate</a>, <a href="https://gist.github.com/TheProgramMaster/f4d7f24d1c50bb8a3759b9d5f35bb54a?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Gavin</a>, <a href="https://bsky.app/profile/eaterofpancakes.bsky.social/post/3m5cbvvcnl222?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Micah</a>, <a href="https://bsky.app/profile/vincentnavetat.bsky.social/post/3m5byzkuvlc2s?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Vincent</a>, <a href="https://bsky.app/profile/vincentnavetat.bsky.social/post/3m5byzkuvlc2s?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Ross</a>, <a href="https://bsky.app/profile/davidfitz.dev/post/3m5bwhjua3s22?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">David</a>, <a href="https://bsky.app/profile/miguelrisos.bsky.social/post/3m5bu4b2hv22c?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Miguel</a>, <a href="https://bsky.app/profile/tenzhiyang.com/post/3m5ofkkugcc2t?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Ten</a>, <a href="https://mastodon.social/@sivaraam/115553244162799727?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Kaartic</a>, <a href="https://polymaths.social/@primeapple/statuses/01K9SS2RC5ERK5XZDR508VS51M?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Toni</a>, and <a href="https://gist.github.com/JulianoRodrigues/fd9a9831bf87752445e1888439f05f47?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Juliano</a>,!</p>
+<p>This week's question:<br>
+<strong>Given a positive integer <code>n</code>, write a function that returns an array containing all integers from 1 to <code>n</code>, where each integer <code>i</code> appears exactly <code>i</code> times in the result. For example, 3 should appear 3 times, 5 should appear 5 times, and so on.</strong> The order of the integers in the output array does not matter.
+<br></p>
+<p>Example: <br></p>
+<div data-sanitized-class="codehilite"><pre><span></span><code><span data-sanitized-class="o">&gt;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">repeatedIntegers</span><span data-sanitized-class="p">(</span><span data-sanitized-class="mf">4</span><span data-sanitized-class="p">)</span>
+<span data-sanitized-class="o">&gt;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">[</span><span data-sanitized-class="mf">1</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">2</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">2</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">3</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">3</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">3</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">4</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">4</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">4</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">4</span><span data-sanitized-class="p">]</span>
+</code></pre></div>
+<p>(you can submit your answers by replying to this email with a link to your solution, or share on Bluesky, Twitter, LinkedIn, or Mastodon)</p>
+<hr>
+<h2>Cool things from around the internet</h2>
+<p><a href="https://www.huffpost.com/entry/death-of-the-penny_n_6914d12ae4b0c37fa3d2ae40?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">U.S. Mint In Philadelphia Presses Final Pennies As The 1-Cent Coin Gets Canceled</a> <br>
+<a href="https://ideas.zudiay.me/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">World Map of Human Ideas</a> <br>
+<a href="https://github.com/TMRZ-1/36ribs?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">36ribs keyboard</a> <br>
+<a href="https://apollo-magazine.com/history-door-handle-designs/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Points of contact – a short history of door handles</a> <br></p>
+<hr>
+<h2>Joke</h2>
+<p>Why should you never ever fart in an Apple store? <br>
+Because there are no Windows!</p>
+<hr>
+<p>That's all for now, folks! Have a great week. Be safe, make good choices, and take time to appreciate a cool tree!<br><br>
+Special thanks to <a href="https://bsky.app/profile/ezelldev.bsky.social?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Ezell</a>, <a href="https://www.bencodezen.io/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Ben</a>, <a href="https://kineticlabs.com/?ref=cassidoo&amp;utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Kinetic Labs</a>, <a href="https://www.linkedin.com/in/mgajowczyk/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Marta</a>, and Flora for supporting my <a href="https://www.patreon.com/cassidoo?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Patreon</a> and this newsletter! <br>
+<br>
+cassidoo<br><br>
+<a href="https://cassidoo.co/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">website</a> | <a href="https://cassidoo.co/blog?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">blog</a> | <a href="https://github.com/cassidoo?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">github</a> | <a href="https://bsky.app/profile/cassidoo.co?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">bluesky</a> | <a href="https://twitter.com/cassidoo?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">twitter</a> | <a href="https://www.patreon.com/cassidoo?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">patreon</a> | <a href="https://www.twitch.tv/cassidoo?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">twitch</a> | <a href="https://codepen.io/cassidoo?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">codepen</a> | <a href="https://notacult.social/@cassidoo?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">mastodon</a></p>]]></description>
+			<pubDate>Mon, 17 Nov 2025 01:51:30 -0700</pubDate>
+			<guid isPermaLink="false">1763376235879187</guid>
+		</item>
+		<item>
+			<title>Easy alias for dealing with Python Virtualenvs</title>
+			<link>https://ishan.page/blog/easy-venv-script/</link>
+						<description><![CDATA[<p>There’s something oddly comforting about a shell function that takes care of boring things for you.</p>
+<p>This <code>venv()</code> helper does exactly that.</p>
+<p>It checks whether you’re already in an environment, spins up a fresh one if needed, installs your dependencies, and activates it.</p>
+<p>To use this <code>venv</code> function, you’ll need to add it to your shell’s configuration file. If you’re using zsh, add the following function to your ~/.zshrc file. If you’re using bash, add it to your ~/.bashrc instead.</p>
+<p>Don’t forget to <code>source ~/.zshrc</code> or <code>source ~/.bashrc</code> later!</p>
+<p>This requires <code>uv</code> to work</p>
+<div data-sanitized-class="highlight"><div data-sanitized-class="chroma">
+<table data-sanitized-class="lntable"><tr><td data-sanitized-class="lntd">
+<pre data-sanitized-class="chroma"><code><span data-sanitized-class="lnt"> 1
+</span><span data-sanitized-class="lnt"> 2
+</span><span data-sanitized-class="lnt"> 3
+</span><span data-sanitized-class="lnt"> 4
+</span><span data-sanitized-class="lnt"> 5
+</span><span data-sanitized-class="lnt"> 6
+</span><span data-sanitized-class="lnt"> 7
+</span><span data-sanitized-class="lnt"> 8
+</span><span data-sanitized-class="lnt"> 9
+</span><span data-sanitized-class="lnt">10
+</span><span data-sanitized-class="lnt">11
+</span><span data-sanitized-class="lnt">12
+</span><span data-sanitized-class="lnt">13
+</span><span data-sanitized-class="lnt">14
+</span><span data-sanitized-class="lnt">15
+</span><span data-sanitized-class="lnt">16
+</span><span data-sanitized-class="lnt">17
+</span><span data-sanitized-class="lnt">18
+</span><span data-sanitized-class="lnt">19
+</span><span data-sanitized-class="lnt">20
+</span><span data-sanitized-class="lnt">21
+</span><span data-sanitized-class="lnt">22
+</span><span data-sanitized-class="lnt">23
+</span><span data-sanitized-class="lnt">24
+</span></code></pre></td>
+<td data-sanitized-class="lntd">
+<pre data-sanitized-class="chroma"><code data-lang="bash" data-sanitized-class="language-bash"><span data-sanitized-class="line"><span data-sanitized-class="cl">venv<span data-sanitized-class="o">()</span> <span data-sanitized-class="o">{</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">  <span data-sanitized-class="c1"># Exit early if already in a virtual environment</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">  <span data-sanitized-class="k">if</span> <span data-sanitized-class="o">[[</span> -n <span data-sanitized-class="s2">"</span><span data-sanitized-class="nv">$VIRTUAL_ENV</span><span data-sanitized-class="s2">"</span> <span data-sanitized-class="o">]]</span><span data-sanitized-class="p">;</span> <span data-sanitized-class="k">then</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">    <span data-sanitized-class="nb">echo</span> <span data-sanitized-class="s2">"A virtual environment is already active at: </span><span data-sanitized-class="nv">$VIRTUAL_ENV</span><span data-sanitized-class="s2">"</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">    <span data-sanitized-class="k">return</span> <span data-sanitized-class="m">1</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">  <span data-sanitized-class="k">fi</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">  <span data-sanitized-class="c1"># Create .venv if missing</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">  <span data-sanitized-class="k">if</span> <span data-sanitized-class="o">[[</span> ! -d <span data-sanitized-class="s2">".venv"</span> <span data-sanitized-class="o">]]</span><span data-sanitized-class="p">;</span> <span data-sanitized-class="k">then</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">    <span data-sanitized-class="nb">echo</span> <span data-sanitized-class="s2">"Creating virtual environment..."</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">    uv venv <span data-sanitized-class="o">||</span> <span data-sanitized-class="o">{</span> <span data-sanitized-class="nb">echo</span> <span data-sanitized-class="s2">"Failed to create venv"</span><span data-sanitized-class="p">;</span> <span data-sanitized-class="k">return</span> <span data-sanitized-class="m">1</span> <span data-sanitized-class="o">}</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">    <span data-sanitized-class="c1"># Install dependencies if requirements.txt exists</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">    <span data-sanitized-class="k">if</span> <span data-sanitized-class="o">[[</span> -f <span data-sanitized-class="s2">"requirements.txt"</span> <span data-sanitized-class="o">]]</span><span data-sanitized-class="p">;</span> <span data-sanitized-class="k">then</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">      <span data-sanitized-class="nb">echo</span> <span data-sanitized-class="s2">"Installing dependencies..."</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">      uv pip install -r requirements.txt <span data-sanitized-class="o">||</span> <span data-sanitized-class="o">{</span> <span data-sanitized-class="nb">echo</span> <span data-sanitized-class="s2">"Dependency install failed"</span><span data-sanitized-class="p">;</span> <span data-sanitized-class="k">return</span> <span data-sanitized-class="m">1</span> <span data-sanitized-class="o">}</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">    <span data-sanitized-class="k">else</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">      <span data-sanitized-class="nb">echo</span> <span data-sanitized-class="s2">"No requirements.txt found; skipping installation."</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">    <span data-sanitized-class="k">fi</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">  <span data-sanitized-class="k">fi</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">  <span data-sanitized-class="c1"># Activate the environment</span>
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">  <span data-sanitized-class="nb">source</span> .venv/bin/activate
+</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl"><span data-sanitized-class="o">}</span>
+</span></span></code></pre></td></tr></table>
 </div>
-<p>In the demo above, you can navigate the images using your <strong>keyboard</strong> or your <strong>mouse/touch</strong>. If you add the lightbox script to your own blog, it will work the same way there too:</p>
-<ul>
-<li><strong>Click</strong> an image to open it</li>
-<li><strong>Click right side</strong> of the screen to go to the <strong>next</strong> image</li>
-<li><strong>Click left side</strong> to go to the <strong>previous</strong> image</li>
-<li><strong>Arrow keys</strong> also work: <code>←</code> and <code>→</code> (<code>A</code> and <code>D</code> work too)</li>
-<li>Press <strong>Escape</strong> to close the gallery</li>
-</ul>
-<p>You can also adjust the <strong>image ratio</strong> in the CSS if you prefer a different look. Just change the <code>aspect-ratio</code> value, for example:</p>
-<ul>
-<li><code>aspect-ratio: 4 / 3</code> for a classic photo ratio (default)</li>
-<li><code>aspect-ratio: 1 / 1</code> for square photos</li>
-<li><code>aspect-ratio: 3 / 2</code> for a camera-style format</li>
-<li><code>aspect-ratio: 16 / 9</code> for a wider, cinematic feel</li>
-</ul>
-<h2 data-sanitized-id="instructions">Instructions</h2><h3 data-sanitized-id="1-paste-the-script-into-your-bear-footer-directive">1) Paste the script into your Bear footer directive:</h3><div data-sanitized-class="highlight"><pre><span></span><span data-sanitized-class="p">&lt;</span><span data-sanitized-class="nt">script</span><span data-sanitized-class="p">&gt;</span>
-<span data-sanitized-class="nb">document</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">addEventListener</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'DOMContentLoaded'</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kd">function</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">()</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">images</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nb">Array</span><span data-sanitized-class="p">.</span><span data-sanitized-class="kr">from</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nb">document</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">querySelectorAll</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'.bearly-gallery img'</span><span data-sanitized-class="p">))</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="o">!</span><span data-sanitized-class="nx">images</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">length</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">return</span>
-
-<span data-sanitized-class="w">  </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nb">document</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">createElement</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'div'</span><span data-sanitized-class="p">)</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">className</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'bearly-lightbox'</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">setAttribute</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'role'</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'dialog'</span><span data-sanitized-class="p">)</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">setAttribute</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'aria-modal'</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'true'</span><span data-sanitized-class="p">)</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">setAttribute</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'aria-hidden'</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'true'</span><span data-sanitized-class="p">)</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">innerHTML</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="sb">`</span>
-<span data-sanitized-class="sb">    &lt;button class="bearly-lightbox-close" type="button" aria-label="Close image"&gt;Close&lt;/button&gt;</span>
-<span data-sanitized-class="sb">    &lt;img alt=""&gt;</span>
-<span data-sanitized-class="sb">  `</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="nb">document</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">body</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">appendChild</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">)</span>
-
-<span data-sanitized-class="w">  </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">overlayImg</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">querySelector</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'img'</span><span data-sanitized-class="p">)</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">closeBtn</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">querySelector</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'.bearly-lightbox-close'</span><span data-sanitized-class="p">)</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="kd">let</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">currentIndex</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">-</span><span data-sanitized-class="mf">1</span>
-
-<span data-sanitized-class="w">  </span><span data-sanitized-class="kd">function</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">isOpen</span><span data-sanitized-class="p">()</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="k">return</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">classList</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">contains</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'is-visible'</span><span data-sanitized-class="p">)</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="p">}</span>
-
-<span data-sanitized-class="w">  </span><span data-sanitized-class="kd">function</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">openAt</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">index</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">total</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">images</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">length</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">currentIndex</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">((</span><span data-sanitized-class="nx">index</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">%</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">total</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">+</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">total</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">%</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">total</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">img</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">images</span><span data-sanitized-class="p">[</span><span data-sanitized-class="nx">currentIndex</span><span data-sanitized-class="p">]</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">overlayImg</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">src</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">img</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">src</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">overlayImg</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">alt</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">img</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">alt</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">||</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">''</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">classList</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">add</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'is-visible'</span><span data-sanitized-class="p">)</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">setAttribute</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'aria-hidden'</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'false'</span><span data-sanitized-class="p">)</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="p">}</span>
-
-<span data-sanitized-class="w">  </span><span data-sanitized-class="kd">function</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">closeLightbox</span><span data-sanitized-class="p">()</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">classList</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">remove</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'is-visible'</span><span data-sanitized-class="p">)</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">setAttribute</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'aria-hidden'</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'true'</span><span data-sanitized-class="p">)</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">overlayImg</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">src</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">''</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">currentIndex</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">-</span><span data-sanitized-class="mf">1</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="p">}</span>
-
-<span data-sanitized-class="w">  </span><span data-sanitized-class="kd">function</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">showNext</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">step</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">isOpen</span><span data-sanitized-class="p">()</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">&amp;&amp;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">currentIndex</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">!==</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">-</span><span data-sanitized-class="mf">1</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">openAt</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">currentIndex</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">+</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">step</span><span data-sanitized-class="p">)</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="p">}</span>
-
-<span data-sanitized-class="w">  </span><span data-sanitized-class="nx">images</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">forEach</span><span data-sanitized-class="p">(</span><span data-sanitized-class="kd">function</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">img</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">index</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="nx">img</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">addEventListener</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'click'</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kd">function</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">()</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">      </span><span data-sanitized-class="nx">openAt</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">index</span><span data-sanitized-class="p">)</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="p">})</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="p">})</span>
-
-<span data-sanitized-class="w">  </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">addEventListener</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'click'</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kd">function</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">target</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">===</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">closeBtn</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">return</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">closeLightbox</span><span data-sanitized-class="p">()</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">target</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">===</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">overlay</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">      </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">width</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nb">window</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">innerWidth</span>
-<span data-sanitized-class="w">      </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">x</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">clientX</span>
-<span data-sanitized-class="w">      </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">left</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">width</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">*</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.33</span>
-<span data-sanitized-class="w">      </span><span data-sanitized-class="kd">const</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">right</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">=</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">width</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">*</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.67</span>
-<span data-sanitized-class="w">      </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">x</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">&lt;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">left</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">showNext</span><span data-sanitized-class="p">(</span><span data-sanitized-class="o">-</span><span data-sanitized-class="mf">1</span><span data-sanitized-class="p">)</span>
-<span data-sanitized-class="w">      </span><span data-sanitized-class="k">else</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">x</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">&gt;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">right</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">showNext</span><span data-sanitized-class="p">(</span><span data-sanitized-class="mf">1</span><span data-sanitized-class="p">)</span>
-<span data-sanitized-class="w">      </span><span data-sanitized-class="k">else</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">closeLightbox</span><span data-sanitized-class="p">()</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="p">}</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="p">})</span>
-
-<span data-sanitized-class="w">  </span><span data-sanitized-class="nb">document</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">addEventListener</span><span data-sanitized-class="p">(</span><span data-sanitized-class="s1">'keydown'</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kd">function</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="o">!</span><span data-sanitized-class="nx">isOpen</span><span data-sanitized-class="p">())</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">return</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">key</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">===</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'Escape'</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">closeLightbox</span><span data-sanitized-class="p">()</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="k">else</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">key</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">===</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'ArrowRight'</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">||</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">key</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">===</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'d'</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">||</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">key</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">===</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'D'</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">showNext</span><span data-sanitized-class="p">(</span><span data-sanitized-class="mf">1</span><span data-sanitized-class="p">)</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="k">else</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">if</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">(</span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">key</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">===</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'ArrowLeft'</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">||</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">key</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">===</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'a'</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">||</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">event</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nx">key</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">===</span><span data-sanitized-class="w"> </span><span data-sanitized-class="s1">'A'</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">showNext</span><span data-sanitized-class="p">(</span><span data-sanitized-class="o">-</span><span data-sanitized-class="mf">1</span><span data-sanitized-class="p">)</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="p">})</span>
-<span data-sanitized-class="p">})</span>
-<span data-sanitized-class="p">&lt;/</span><span data-sanitized-class="nt">script</span><span data-sanitized-class="p">&gt;</span>
-</pre></div>
-<h3 data-sanitized-id="2-add-the-css-to-your-theme-settings">2) Add the CSS to your theme settings:</h3><div data-sanitized-class="highlight"><pre><span></span><span data-sanitized-class="c">/* --------------------------------</span>
-<span data-sanitized-class="c">   🖼️ Bearly add-on: Photo gallery v. 1.0.0</span>
-<span data-sanitized-class="c">   A simple grid-based image gallery with optional lightbox.</span>
-<span data-sanitized-class="c">   -------------------------------- */</span>
-
-<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-gallery</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">margin-block</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">1.6</span><span data-sanitized-class="kt">em</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">padding</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">border-radius</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">var</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nv">--bearly-radius</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">);</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">border</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">1</span><span data-sanitized-class="kt">px</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">solid</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">color-mix</span><span data-sanitized-class="p">(</span><span data-sanitized-class="n">in</span><span data-sanitized-class="w"> </span><span data-sanitized-class="n">srgb</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">var</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nv">--text-color</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">10</span><span data-sanitized-class="kt">%</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">var</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nv">--background-color</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">90</span><span data-sanitized-class="kt">%</span><span data-sanitized-class="p">);</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">background-color</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">color-mix</span><span data-sanitized-class="p">(</span><span data-sanitized-class="n">in</span><span data-sanitized-class="w"> </span><span data-sanitized-class="n">srgb</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">var</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nv">--background-color</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">96</span><span data-sanitized-class="kt">%</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">var</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nv">--text-color</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">4</span><span data-sanitized-class="kt">%</span><span data-sanitized-class="p">);</span>
-<span data-sanitized-class="p">}</span>
-
-<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-gallery</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">&gt;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">ul</span><span data-sanitized-class="o">,</span>
-<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-gallery</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">&gt;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">ol</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">display</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">grid</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">grid-template-columns</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">repeat</span><span data-sanitized-class="p">(</span><span data-sanitized-class="kc">auto</span><span data-sanitized-class="nv">-fit</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">minmax</span><span data-sanitized-class="p">(</span><span data-sanitized-class="mi">180</span><span data-sanitized-class="kt">px</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">1</span><span data-sanitized-class="n">fr</span><span data-sanitized-class="p">));</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">gap</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.75</span><span data-sanitized-class="kt">rem</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">padding</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.75</span><span data-sanitized-class="kt">rem</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">list-style</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">none</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">margin</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="p">}</span>
-
-<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-gallery</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">li</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">margin</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">padding</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">line-height</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="p">}</span>
-
-<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-gallery</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">img</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">display</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">block</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">width</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">100</span><span data-sanitized-class="kt">%</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">margin</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">aspect-ratio</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">4</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">/</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">3</span><span data-sanitized-class="p">;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="c">/* or 1/1, 3/2, 16/9 */</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">object-fit</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">cover</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">border-radius</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">var</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nv">--bearly-radius</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">);</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">background-color</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">color-mix</span><span data-sanitized-class="p">(</span><span data-sanitized-class="n">in</span><span data-sanitized-class="w"> </span><span data-sanitized-class="n">srgb</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">var</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nv">--background-color</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">94</span><span data-sanitized-class="kt">%</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">var</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nv">--text-color</span><span data-sanitized-class="p">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">6</span><span data-sanitized-class="kt">%</span><span data-sanitized-class="p">);</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">cursor</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">zoom-in</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">transition</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">transform</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.25</span><span data-sanitized-class="kt">s</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">ease</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">filter</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.25</span><span data-sanitized-class="kt">s</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">ease</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="p">}</span>
-
-<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-gallery</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">img</span><span data-sanitized-class="p">:</span><span data-sanitized-class="nd">hover</span><span data-sanitized-class="o">,</span>
-<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-gallery</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">img</span><span data-sanitized-class="p">:</span><span data-sanitized-class="nd">focus-visible</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">transform</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nb">scale</span><span data-sanitized-class="p">(</span><span data-sanitized-class="mf">1.02</span><span data-sanitized-class="p">);</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">filter</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nb">brightness</span><span data-sanitized-class="p">(</span><span data-sanitized-class="mf">1.03</span><span data-sanitized-class="p">);</span>
-<span data-sanitized-class="p">}</span>
-
-<span data-sanitized-class="c">/* Mobile */</span>
-<span data-sanitized-class="p">@</span><span data-sanitized-class="k">media</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">(</span><span data-sanitized-class="nt">max-width</span><span data-sanitized-class="o">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">480px</span><span data-sanitized-class="o">)</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-gallery</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">&gt;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">ul</span><span data-sanitized-class="o">,</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-gallery</span><span data-sanitized-class="w"> </span><span data-sanitized-class="o">&gt;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">ol</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="k">grid-template-columns</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">1</span><span data-sanitized-class="n">fr</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">1</span><span data-sanitized-class="n">fr</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="k">gap</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.75</span><span data-sanitized-class="kt">rem</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">    </span><span data-sanitized-class="k">padding</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.75</span><span data-sanitized-class="kt">rem</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="p">}</span>
-<span data-sanitized-class="p">}</span>
-
-<span data-sanitized-class="c">/* Lightbox */</span>
-<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-lightbox</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">position</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">fixed</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">inset</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">display</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">flex</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">align-items</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">center</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">justify-content</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">center</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">padding</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">1.5</span><span data-sanitized-class="kt">rem</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">background</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nb">rgba</span><span data-sanitized-class="p">(</span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.85</span><span data-sanitized-class="p">);</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">opacity</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">pointer-events</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">none</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">transition</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="k">opacity</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.2</span><span data-sanitized-class="kt">s</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">ease</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">z-index</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">9999</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="p">}</span>
-
-<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-lightbox</span><span data-sanitized-class="p">.</span><span data-sanitized-class="nc">is-visible</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">opacity</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">1</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">pointer-events</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">auto</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="p">}</span>
-
-<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-lightbox</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nt">img</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">max-width</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">100</span><span data-sanitized-class="kt">%</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">max-height</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">100</span><span data-sanitized-class="kt">%</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">border-radius</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nf">var</span><span data-sanitized-class="p">(</span><span data-sanitized-class="nv">--bearly-radius</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">);</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">box-shadow</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">12</span><span data-sanitized-class="kt">px</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">40</span><span data-sanitized-class="kt">px</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nb">rgba</span><span data-sanitized-class="p">(</span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.45</span><span data-sanitized-class="p">);</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">cursor</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">zoom-out</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="p">}</span>
-
-<span data-sanitized-class="c">/* Close button */</span>
-<span data-sanitized-class="p">.</span><span data-sanitized-class="nc">bearly-lightbox-close</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">{</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">position</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">absolute</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">top</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">1</span><span data-sanitized-class="kt">rem</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">right</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">1</span><span data-sanitized-class="kt">rem</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">border</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">none</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">background</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nb">rgba</span><span data-sanitized-class="p">(</span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">0</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.6</span><span data-sanitized-class="p">);</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">color</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mh">#fff</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">padding</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.2</span><span data-sanitized-class="kt">em</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.6</span><span data-sanitized-class="kt">em</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">border-radius</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mi">999</span><span data-sanitized-class="kt">px</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">font</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">inherit</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">font-size</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">0.9</span><span data-sanitized-class="kt">rem</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">line-height</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">1.3</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="w">  </span><span data-sanitized-class="k">cursor</span><span data-sanitized-class="p">:</span><span data-sanitized-class="w"> </span><span data-sanitized-class="kc">pointer</span><span data-sanitized-class="p">;</span>
-<span data-sanitized-class="p">}</span>
-</pre></div>
-<h3 data-sanitized-id="3-wrap-your-photos-in-a-gallery-block-when-posting">3) Wrap your photos in a gallery block when posting:</h3><div data-sanitized-class="highlight"><pre><span></span>&lt;div class="bearly-gallery"&gt;
-
-<span data-sanitized-class="k">-</span><span data-sanitized-class="w"> </span>![<span data-sanitized-class="nt">Writing</span>](<span data-sanitized-class="na">image-url.webp</span>)
-<span data-sanitized-class="k">-</span><span data-sanitized-class="w"> </span>![<span data-sanitized-class="nt">Coffee</span>](<span data-sanitized-class="na">image-url.webp</span>)
-<span data-sanitized-class="k">-</span><span data-sanitized-class="w"> </span>![<span data-sanitized-class="nt">Blogging</span>](<span data-sanitized-class="na">image-url.webp</span>)
-
-&lt;/div&gt;
-</pre></div>
-<p>That’s it. Happy photo blogging!</p>
-<p><em>Alternatives: <a href="https://sylvia-dev.bearblog.dev/polaroid-style-image-gallery/">Polaroid-style image gallery (dynamic)</a> and <a href="https://flyfish.info/a-polaroid-style-image-gallery-rewritten/">A Polaroid Style Image Gallery for Bearblog, Rewritten</a>.</em></p>]]></description>
-			<pubDate>Sun, 16 Nov 2025 13:20:00 -0700</pubDate>
-			<guid isPermaLink="false">1763344674792773</guid>
+</div><p>Of course, if you use <code>uv run</code> for running things anyway, then you don’t need this!</p>]]></description>
+			<pubDate>Sun, 16 Nov 2025 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">1763376235879186</guid>
 		</item>
 		<item>
-			<title>Hyperlink Roundup 09</title>
-			<link>https://basic.bearblog.dev/hyperlink-roundup-09/</link>
-						<dc:creator>basic</dc:creator>
-			<description><![CDATA[<p>It's been a good week for me overall. Now that I turn off my computers after every use, I don't have any desire to stay on the internet. I reach for my notebooks and pen or read on the kindle's.  Still need to jailbreak the kindle's but for now Airplane Mode is turned on.  I listen to music on my iPod with wired headphones and living the analog world a bit more is nice. There were many good posts I bookmarked on Mastodon and a a few blog posts that were an interesting read this past week.  Hope you enjoy them too.</p>
-<h3 data-sanitized-id="terminal-stuff">Terminal Stuff</h3><p><a href="https://github.com/rothgar/awesome-tuis">Awesome TUI's</a> - the best applications for your terminal.</p>
-<p><a href="https://www.youtube.com/watch?v=vPM5NwkATTM">The best way to play YouTube on OpenBSD and FreeBSD (in terminal)</a></p>
-<p><a href="https://terminaltrove.com/podliner/">Podliner</a> - podcasts in any terminal. Fast, clean and offline.</p>
-<p><a href="https://www.adamsdesk.com/posts/duckduckgo-commandline/">How To Use DuckDuckGo From The Command Line</a> - from AdamsDesk</p>
-<h3 data-sanitized-id="interesting-blogs">Interesting Blogs</h3><p><a href="https://srobb.net/">srobb.net </a>- a blog covering various topics including Linux and BSD.</p>
-<p><a href="https://tonsky.me/blog/needy-programs/">Needy Programs</a> - a good read about accounts, notifications and why we don't need it.</p>
-<p><a href="https://poolsuite.net/">Poolsuite</a> - amazing website, you never know which commercial will show up when you click the link. Not sure how to describe this site!  Music with tv commercials and more.</p>
-<p><a href="https://taonaw.com/2025/11/14/handling-project-in-emacs-the.html">Handling project in Emacs</a> - the 2025 version, moving away from iCloud.</p>
-<p><a href="https://brandons-journal.com/my-relationship-with-stuff/">My Relationship with Stuff</a> - from Brandon's Journal sharing his feelings about collecting items.</p>
-<p><a href="https://lwgrs.bearblog.dev/reassess-time-spent-enjoying-luxury/">Reassess time spent enjoying luxury</a> - from An Almost Anonymous Blog sharing his thoughts about catching up on your favourite hobbies when alone.</p>
-<h3 data-sanitized-id="operating-systems-and-resources">Operating Systems and Resources</h3><p><a href="https://marathonos.xyz/">Marathon OS</a> - A gesture-first mobile OS built on Linux taking what made BB10's interaction model brilliant—gesture navigation, The Hub, Active Frames—and reimagining it for modern Linux.</p>
-<p><a href="https://i-bsd.com/">iBSD</a> - Proving that BSD is a great alternative to Linux</p>
-<p><a href="https://www.youtube.com/watch?v=Xshj_xjwVjc">Ubuntu Desktop on Meta Quest 3</a>! 🤯 Full Linux OS in VR (Andronix &amp; Termux Tutorial)</p>
-<p><a href="https://blog.hofstede.it/freebsd-cheat-sheet-for-linux-admins/">FreeBSD Cheat Sheet for Linux Admins</a> - from Larvitz Blog</p>
-<p><a href="https://github.com/samcervantes/bumble-berry-pi?tab=readme-ov-file">Bumble-berry Pi</a> - A cheap &amp; easy to build raspberry pi cyberdeck</p>
-<h3 data-sanitized-id="web-browsers-and-self-hosting">Web browsers and Self-Hosting</h3><p><a href="https://github.com/textbrowser/dooble">Dooble</a> - a minimal, scientific, and stable Web browser. [<a href="https://dansu.org/objects/3b61a493-499d-470f-b4b7-741f1a53b322">Via Mastodon</a>]</p>
-<p><a href="https://itsfoss.com/self-hosting-starting-projects/">The Self-Hosting Starter Pack: 5 Simple Tools I Recommend To Get Started With Your Homelab</a></p>
-<p><a href="https://itsfoss.com/news/digital-content-ownership-illusion/">Ownership of Digital Content Is an Illusion—Unless You Self‑Host</a></p>]]></description>
-			<pubDate>Sun, 16 Nov 2025 09:53:00 -0700</pubDate>
-			<guid isPermaLink="false">1763344674792772</guid>
+			<title>TFW when the biggest achievement of your life becomes your biggest curse</title>
+			<link>https://chaosworks.org/2025/career-update/</link>
+						<dc:creator>adastra</dc:creator>
+			<category>Academia</category>
+			<category>General</category>
+			<category>academia</category>
+			<category>career</category>
+			<category>cursed</category>
+			<category>data science</category>
+			<category>data scientist</category>
+			<category>job hunting</category>
+			<category>job search</category>
+			<category>phd</category>
+			<category>volunteering</category>
+			<description><![CDATA[<p>Conversations with recruiters usually tend to go more or less like this:<br>
+“Are you looking for data scientists?”<br>
+“Indeed we are! Do you have a degree in data science?”<br>
+“I have an equivalent degree and over 8 years of experience in data science.”<br>
+“So what kind of degree do you have?”<br>
+“I have a PhD in English linguistics, but methodically I worked with data during that time.”<br>
+[at this point the recruiter’s face usually assumes a puzzled look] “…That… doesn’t really sound like what we need… we’re not looking for humanities scholars.”<br>
+“While linguistics is indeed often grouped among the humanities, it’s also the natural science among humanities. Methodically, I worked as a data scientist during my PhD, collecting, processing, analyzing and visualizing data (language data) for over 6 years. I worked with advanced statistical models and have expert knowledge of R.”<br>
+[puzzled looks intensify]</p>
+<p>Perhaps you can feel my pain. I’ve recently been on the lookout for a new job, and I’ve been coming to realize that my PhD, which is supposed to be this great achievement, and which probably truly is one of the hardest things I ever did in my life, seems to be worthless. It is more of a hindrance than a help in trying to find a job, because recruiters see me as both under- and overqualified. They don’t really recognize it as experience in data science (which it definitely is), but at the same time they shy away from hiring someone with a PhD because that seems overqualified and/or intimidating. At least that’s my impression, no recruiter ever actually gave me decent helpful feedback, despite asking.</p>
+<p>This has been going on for a while, and I’ve become fairly disillusioned with the job market in the industry. It’s not only that they don’t seem to know what to do with a PhD, it’s also the whole… soullessness of it. Do you love managing and executing high-impact, cross-functional projects? Do you blossom when you ensure successful deliveries aligned with corporate goals? Does nothing make your heart beat like driving actionable outcomes in a high-pressure environment? In case your sarcasm detector is broken, here’s a PSA: that’s sarcasm. Nothing makes me feel more dead inside like reading those ridiculous buzzwords, full of utterly useless bullshit. It always makes me wonder if people actually believe what they’re saying? How can you be passionate about making the rich richer, and contributing to a ridiculously bloated economy where bullshitters like this earn tons of money, but real, hard work, is underpaid? Economics was always one of my most-hated subjects in school, so I’ll not dwell on that. But after about 2 years in the corporate world and some time of reading job listings, I realized that I don’t identify with all of this. I hate agile, I think KPIs are red herrings to keep your employees occupied, and I don’t see the purpose in half the things some of these job listings demand.</p>
+<p>Coming from <a href="https://chaosworks.org/2023/phd-leavingacademia/">academia</a>, I think the public service is probably much better suited for me than the industry, because at least there I get a sense of doing something for the greater good. I can see a clear purpose in creating graphs and reports on population or crime statistics, and I’d be very interested to do that. But doing data analysis of how many things a company producing stuff sells? Very meh.</p>
+<p>Sometimes I wish I could work in a creative job and make the same amount of money I do now, but alas, that’s not our reality. I would enjoy being a seamstress or carpenter or something along those lines a lot. But I feel at present, it would not be the wisest career choice to start at zero, because that’s basically what I already did when I finished my PhD.</p>
+<p>Needless to say, this whole situation has not been great for my mental health. Getting constant rejections and feeling like my biggest accomplishment is worthless just makes me feel worthless, and it’s hard to remember what I really accomplished. I had a discussion with a friend about this a while ago, who suggested to keep busy by taking a mini-job or volunteering. I looked into that, and I signed up to volunteer at the International English Library here in Düsseldorf, which is a pretty cool and unique library because it’s competently in English (unlike most other libraries), and it’s completely volunteer run.</p>
+<p>I knew this library already since I moved here, because I used to spend a lot of time there studying Swedish about 17ish years ago. Then at some point I stopped going there because of a former relationship, and I also didn’t read as much while I was at university (I had to read too much for uni). Since then, the library moved to a new location, and coincidentally I was also looking for a new place to host a roleplaying-related event that I co-organize. So it seemed like the perfect place and the perfect opportunity to apply to volunteer there.</p>
+<p>I’ve been volunteering there for a few months now, and I finally feel like my diverse and unconventional career path found a purpose. I’ve been doing a few desk shifts at the library, which is their standard procedure, but since then I’ve also been working on creating new print products such as brochures for them, wrapping books in protective cover, doing some data analysis, creating surveys, and altogether helping where I can. I really enjoy volunteering there, and I feel like I can contribute a lot of my skills. I wish I could do a lot more, but some things take time there, due to the nature of it being an entirely volunteer-run organization. Most of the regular volunteers there who do the majority of the work to keep the library running are retired British / Irish / Australian ladies, and I feel like that’s definitely what I would want to do if I retire as well.</p>
+<p>It’s just a great feeling to contribute to this awesome space where people from allover the world can come together, find books to read, or just attend events that are hosted there. It also has the added benefit of being able to read books for free. After having <a href="https://chaosworks.org/2025/reading-slump/">some hiccups</a> in trying to find books I like to read, it’s definitely a relieve that I don’t always have to buy what I want to read anymore. I also already donated a few of my books that I will not read again to the library, making their sci-fi and fantasy collection more diverse. I’m happy I finally found something that make me feel useful, even though it probably won’t help me advance my <em>real</em> career so much…</p>]]></description>
+			<pubDate>Mon, 17 Nov 2025 00:02:56 -0700</pubDate>
+			<guid isPermaLink="false">1763376235879185</guid>
 		</item>
 		<item>
-			<title>PTPL 182 · Why I Keep HTML Email in My Plain Text Life</title>
-			<link>https://ellanew.com/2025/11/17/ptpl-182-why-keep-html-email-not-plain-text</link>
-						<description><![CDATA[<h2 data-sanitized-id="some-information-only-makes-sense-when-formatted">Some information only makes sense when formatted</h2>
-<p><a href="https://ellanew.com/2025/10/06/ptpl-176-simple-obsidian-iphone-shortcuts" title="wikilink">I mostly run my life in plain text</a>, so I was initially excited to hear about plain text email. One email into the experiment, however, I was out!</p>
-<p>As much as I love the idea of a fully plain text life, I’ve decided that naked email is, for me, a step too far. I deal with customers who like pretty links, images, and formatting in the emails I send them. I appreciate images and formatting in (most of) the emails I receive.</p>
-<h3 data-sanitized-id="are-html-emails-dangerous">Are <span data-sanitized-class="small-caps">HTML</span> emails dangerous?</h3>
-<p><span data-sanitized-class="small-caps">HTML</span> emails can contain tracking pixels, and spoofed links.</p>
-<p>The <a href="https://useplaintext.email/">Use Plain Text Email</a> website says—</p>
-<blockquote>
-<p><span data-sanitized-class="small-caps">HTML</span> emails are mainly used for marketing - that is, emails you probably don’t want to see in the first place. The few advantages they offer for end-users, such as links, inline images, and bold or italic text, aren’t worth the trade-off. —<a href="https://useplaintext.email/#why-plaintext">why plain text</a></p>
-</blockquote>
-<p>The <span data-sanitized-class="small-caps">HTML</span> emails I receive are, for the most part, those I’ve signed up to. Their links and images can be helpful. Some are marketing messages I’ve agreed to receive. Others, like the example below, are order confirmations with useful reference information, including images.</p>
-<p>It is true that, in some cases,<span data-sanitized-class="push-double"></span> <span data-sanitized-class="pull-double">“</span><a href="https://useplaintext.email/#why-plaintext:~:text=Privacy%20invasion%20and%20tracking"><span data-sanitized-class="small-caps">HTML</span> emails are good for marketers and bad for you</a><span data-sanitized-class="push-double"></span><span data-sanitized-class="pull-double">”</span>. Receiving emails in plain text would unmask any nefarious links hiding behind convincing graphics. But you would still need to know what you are looking for, in order to recognise links that point to bogus websites. This isn’t something your grandma is necessarily going to know how to do without some guidance.</p>
-<p>Here’s an order confirmation email I received this week, in both <span data-sanitized-class="small-caps">HTML</span> and plain text formats:</p>
-<p><img src="https://cdn.blot.im/blog_177bc256f0ee469c998e912e20ece048/_image_cache/51ad1396-819a-42cc-8a48-36b2389cbbea.png" alt="Two side by side screenshots of a MooGoo order, showing one in rich text and the other in plain text. The rich text version has an Order Confirmation graphic at the top, and a View Order Status button at the bottom. The plain text version has lines of monospaced text, with a partially obscured, extremely long URL beneath the words “View Order Status”." width="2930" height="1624"></p>
-<p>I like seeing thumbnails of the products I’ve purchased (visible when scrolling down the <span data-sanitized-class="small-caps">HTML</span> version), and it’s good to have clear links I can go to in case of a problem with the order. The portion of the text you can see above (right) is just a snippet of a much longer message that contained all sorts of goobledegook. Some <span data-sanitized-class="small-caps">HTML</span> emails viewed as text can be very messy.</p>
-<p>There’s no doubt that the potential security issues of <span data-sanitized-class="small-caps">HTML</span> emails are a real thing. These are the rules I follow in order to mitigate the risks:</p>
-<ul>
-<li>Turn off auto-loading of images</li>
-<li>Actively maintain a suspicious mindset!</li>
-<li>View individual emails as text as needed to verify the source</li>
-<li>Don’t click on <em>any</em> link inside an unverified email</li>
-<li>Never log into a site by clicking on a link within an email; always go directly to the website in the usual manner to login</li>
-</ul>
-<h3 data-sanitized-id="what-now">What now?</h3>
-<p>I will always advocate for your most important information being stored in plain text, no matter what else you do with it. You won’t be able to change my mind on that one.</p>
-<p>Looking into the two main email formats has made it clear that despite its advantages, plain text is not the best choice for every person, in every situation.</p>
-<p>I recommend getting familiar with your email client’s settings, and change as needed. You could send yourself a few emails with the different types of quoted text and see which style you prefer.</p>
-<hr>
-<p>See also <a href="https://ellanew.com/2025/09/08/ptpl-172-from-3-decades-of-email-clutter-to-inbox-peace" title="wikilink">2025-09-08 <span data-sanitized-class="small-caps">PTPL</span> 172 - Three Decades of Email Clutter. Three Folders. One Life Changed.</a></p>
-<hr>
-<p><em><span data-sanitized-class="small-caps">💬</span> I love to hear from readers! <a href="mailto:hello@ellanew.com">email</a> hello at ellanew dot com or message me on <a href="https://pkm.social/@ellane/">Mastodon</a> or <a href="https://bsky.app/profile/ellanew.com">Bluesky</a>.</em></p>
-<p><em>If you get value from my work I invite you to share this post with someone you think will like it and / or contribute to my <a href="https://ko-fi.com/ellane">support jar</a>.  You may also like to check out the free resources on my productivity themed <a href="https://miscellaneplans.gumroad.com/">Gumroad store</a> or the <a href="https://ko-fi.com/ellane/shop/quotesofcomfort">Comfort Quotes</a> I made to help people going through tough times.</em></p>
-<p><em>You can follow my <span data-sanitized-class="small-caps">RSS</span> feed <a href="https://ellanew.com/feed.rss" data-sanitized-class="uri">https://ellanew.com/feed.rss</a>, or <a href="https://ellane-w.ck.page/e4a91ad6be">sign up</a> to receive posts in your inbox</em>  </p>]]></description>
-			<pubDate>Sun, 16 Nov 2025 06:00:00 -0700</pubDate>
-			<guid isPermaLink="false">1763344674792770</guid>
+			<title>Weekly Wrap Up 84</title>
+			<link>https://divergentrays.com/blog/posts/2025-11-16-Weekly-Wrap-Up-84.html</link>
+						<description><![CDATA[My weekly blog post. Links this week include small doors for cats, keeping the lost art of neon signs alive and the mystery of the man in the fedora. I had my semi-annual Crazy Cat Lady Lunch and got some cool 2026 calendars. Plus, as usual, I listened to, read and watched things.]]></description>
+			<pubDate>Sun, 16 Nov 2025 22:00:11 -0700</pubDate>
+			<guid isPermaLink="false">1763376235879184</guid>
 		</item>
 		<item>
-			<title>about the goldfish pond in the basement</title>
-			<link>https://smallcypress.bearblog.dev/about-the-goldfish-pond-in-the-basement/</link>
-						<dc:creator>smallcypress</dc:creator>
-			<description><![CDATA[<p>It has started to freeze in Baltimore and my goldfish pond needed to come inside. Adjusting to living with seasons after 15 years in Florida has been a lot, and some things weren't really thought through. Fortunately, we have a basement. Before I get to the fish being in the basement, I realized I've never blogged about them before so here's a short recap about my goldfish keeping hobby.</p>
-<p>Here's the pond, first set up on my Florida deck 3 years ago:
-<img src="https://smallcypress.neocities.org/images/IMG_2275.jpeg" alt="img"></p>
-<p>I had wanted them for years since I started keeping tanks again in 2020, but I didn't have the space - they need a ton of space and filtration. I picked up my first friend, a little "oranda" mutt, and my other fish came from a goldfish and koi convention in Orlando.</p>
-<p>Florida raccoons are just built different, and despite some intense netting and screening I lost two beautiful orandas. Eventually I started covering it with wood at night, and the fish grazed down that vallisneria (grass-like plant in the water) while the water lilies grew like crazy.</p>
-<p>When we moved, I had to send the big tank with the pods to Baltimore and my poor fish lived in a trash can with me for a couple weeks of constant water changes. I drove them up in a 3-day electric car sojourn up north, with two nights of sneaking my trash can full of fish into hotels with a filter and bubbler to plug in at night.</p>
-<p><img src="https://smallcypress.neocities.org/images/IMG_5347.jpeg" alt="img"></p>
-<p>We set them up in a pond in the front yard, which kind of stuck out in my neighborhood - we're not in Florida anymore and I felt like I brought a certain trashiness to my block, so I will probably set them up in the back yard in the spring.</p>
-<p><img src="https://smallcypress.neocities.org/images/goldfish3.png" alt="img"></p>
-<p>In the basement, I really didn't want water splashing and moisture/mold, so I moved the pitcher filter into the water and used it as a planter for the peace lily from my father-in-law's funeral. He would have adored this insane setup in my basement, and the wood the tall light is clamped on is from one of his woodworking projects. There is a more powerful filter still cranking with this big ugly hose, which I will probably switch out or try to hide somehow. The fish like to hide behind the plant and under the planter, and when you settle in for a movie (our TV is in the basement) they are always out and about eating algae.</p>
-<p><img src="https://smallcypress.neocities.org/images/Untitled.jpeg" alt="img"></p>
-<p>I am really happy with how I made it look for a temporary setup, and I am at the point in the fishkeeping hobby where I just have extra lights and filters and wood and extension cords and timers and cinderblocks lying around as to not have to spend anything. I was going to get a 125 gallon low-tech tank in this spot permanently, but I am pulling back on new projects to save aggressively for whatever stage of capitalist hell we're in now.</p>
-<p>I have more information about this setup and some links about goldfish on <a href="https://smallcypress.neocities.org/pets">this webpage</a>, which is still under construction.</p>]]></description>
-			<pubDate>Sun, 16 Nov 2025 17:56:00 -0700</pubDate>
-			<guid isPermaLink="false">1763344674792769</guid>
+			<title>Google will allow experienced users to install apps from third-party sources on Android</title>
+			<link>https://www.ghacks.net/2025/11/17/google-will-allow-experienced-users-to-install-apps-from-third-party-sources-on-android/</link>
+						<dc:creator>Ashwin</dc:creator>
+			<category>Google</category>
+			<category>Google Android</category>
+			<description><![CDATA[<p>Google has backtracked partially on its anti-third party app store policy. It will allow power users to install Android apps from alternative sources.</p>
+<p>The Mountain View company had recently announced a system for <a href="https://www.ghacks.net/2025/08/26/google-wants-android-app-developers-to-verify-their-identity-this-could-affect-sideloading-apps/" data-wpel-link="internal">Developer Verification</a>, that requires Android app developers who distribute their apps outside the Play Store to verify their identity by registering with Google. While it claimed this would protect users from malware apps, the policy was met with <a href="https://www.ghacks.net/2025/09/29/f-droid-criticizes-googles-anti-sideloading-policy-calls-for-antitrust-scrutiny/" data-wpel-link="internal">widespread criticism</a> from the Android community. <a href="https://www.ghacks.net/2025/10/31/f-droid-says-googles-statement-about-sideloading-is-not-going-away-is-false/" data-wpel-link="internal">F-Droid had warned</a> that this move could kill the openness of Android's ecosystem, bringing it totally under Google's control. And there's also the fact that the <a href="https://www.ghacks.net/2025/11/07/google-play-store-hosted-239-malicious-apps-that-were-downloaded-40-million-times/" data-wpel-link="internal">Play Store has been prone to malware</a> apps.</p>
+<p>After hearing the feedback from users and developers, Google has <a href="https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html" data-wpel-link="external">updated its policy,</a> to announce that it will allow experienced users to install apps from third-party sources. The updated statement mentions that it is "building a new advanced flow that allows experienced users to accept the risks of installing software that isn't verified." This flow is designed to resist coercion, and to prevent users from bypassing safety checks while under pressure from a scammer. It will also involve clear warnings that explain the risks involved.</p>
+<p>This sounds similar to the system that Xiaomi has on its phones in HyperOS, and formerly on MIUI. When you try to install an APK downloaded from the internet, it displays a warning screen that tells you about the security risks, and makes you wait for about 10 seconds, before letting you accept the risks and install the app. It's a bit annoying, but at least it doesn't block the installation.</p>
+<p>While this is good news for power users, chances are Google could come back with a different plan in the future. But there is something else that may allow more freedom for Android users.</p>
+<p>A couple of weeks ago, Epic and Google revealed that they are working on a settlement in their 5-year-long lawsuit. Google had lost the antitrust case which began in 2020, after a court deemed it guilty of building <a href="https://www.ghacks.net/2023/12/12/google-has-illegal-app-store-monopoly-says-jury-in-epic-case/" data-wpel-link="internal">an illegal monopoly on Android</a>, specifically by not allowing third party payment options and app distribution through the Google Play Store. However, the case has dragged on because of a ruling that <a href="https://www.ghacks.net/2024/10/08/court-orders-google-to-lift-restrictions-on-play-store-after-epic-games-antitrust-lawsuit/" data-wpel-link="internal">opened up the Play Store</a> to allow third party payment methods, and also host alternate app marketplaces for three years. These rules were only applicable in the U.S., not worldwide.</p>
+<p>Google had appealed against the changes, but <a href="https://www.ghacks.net/2025/08/01/google-loses-its-appeal-against-epic-games/" data-wpel-link="internal">failed to win the appeal</a>, and was <a href="https://www.ghacks.net/2025/10/31/google-opens-up-play-store-to-allow-third-party-payment-methods-in-the-u-s/" data-wpel-link="internal">forced to make changes to its Play Store policies</a> to comply with the law. Now, Google and Epic have reached an agreement where Google has offered to lower the Play Store service fee from 30% to 9% or 20% based on the transaction, which could mean lower prices for users. Google will also allow alternative marketplaces on the Play Store. These changes are applicable around the world, until June 2032. <a href="https://www.theverge.com/policy/813991/epic-google-proposed-settlement" data-wpel-link="external">The Verge</a> reported that the proposed settlement needs to be approved by U.S. District Court Judge, James Donato.</p>
+<p>The result of this settlement may have a big impact on app distribution by keeping Android as an open ecosystem, as does Google's updated policy.</p>
+<p>Thank you for being a Ghacks reader. The post <a href="https://www.ghacks.net/2025/11/17/google-will-allow-experienced-users-to-install-apps-from-third-party-sources-on-android/" data-wpel-link="internal">Google will allow experienced users to install apps from third-party sources on Android</a> appeared first on <a href="https://www.ghacks.net/" data-wpel-link="internal">gHacks Technology News</a>.</p>]]></description>
+			<pubDate>Mon, 17 Nov 2025 02:50:30 -0700</pubDate>
+			<guid isPermaLink="false">1763376235879183</guid>
 		</item>
 		<item>
-			<title>Reemerging orality and serf brain</title>
-			<link>https://tracydurnell.com/2025/11/16/reemerging-orality-and-serf-brain/</link>
-						<dc:creator>Tracy Durnell</dc:creator>
-			<category>Learning</category>
-			<category>Society</category>
-			<category>agency</category>
-			<category>AI</category>
-			<category>class</category>
-			<category>feudalism</category>
-			<category>inequality</category>
-			<category>intelligence</category>
-			<category>literacy</category>
-			<category>LLM</category>
-			<category>oligarchy</category>
-			<category>oral culture</category>
-			<category>power dynamics</category>
-			<category>thinking</category>
-			<description><![CDATA[<p><a href="https://thebaffler.com/salvos/we-used-to-read-things-in-this-country-mccormack">We Used to Read Things in This Country</a> by Noah McCormack (The Baffler)</p>
-<blockquote><p>““When people say things like ‘Twitter is filled with fake news’ or ‘TikTok is ruining the attention spans of today’s youth,’” [Joe] Weisenthal writes, “all of that may be correct. But the bigger story, that more and more people are grappling with, is that a return to orality will fundamentally rewire the logic engine of the human brain.””</p></blockquote>
-<p><span data-sanitized-id="more-31569"></span></p>
-<blockquote><p>“For the first time in centuries, the elite no longer feel they need educated workers and soldiers to uphold and reproduce the system. […] The elites are ecstatic about imagining a vast, uneducated, and unproductive population forced to pay companies like OpenAI to access the written word and to approximate thought; with the unemployed illiterate and addicted to screens, they are unlikely to be politicized and join a socialist campaign.”</p></blockquote>
-<p>+</p>
-<p><a href="https://going-medieval.com/2025/10/21/on-ai-and-the-golem/">On AI and the golem</a> by Dr. Eleanor Janega</p>
-<blockquote><p>I am thinking particularly of the ridiculous ass letter written and signed in 2023 by a few hundred AI bullshit artists, I mean, ‘experts’ about how AI poses an ‘existential threat to existence.’… This is essentially the same thing as the golem stories, because what they are attempting to do is position themselves as a sort of priestly class with access to forbidden, arcane knowledge that must be feared, respected, and obeyed.</p></blockquote>
-<p>+</p>
-<p><a href="https://biblioracle.substack.com/p/choose-common-sense-over-conventional">Choose Common Sense Over Conventional Wisdom</a> by John Warner</p>
-<blockquote><p>[C]onventional wisdom can be boiled down to “that’s what they say,” with the ‘“they” being perpetually undefined. Common sense is what you know to be “true.” […] It is very hard to resist conventional wisdom when you are given no sense of where this conventional wisdom comes from and when people with more authority and experience is telling you that this is what should be done.</p></blockquote>
-<p>+</p>
-<blockquote data-sanitized-class="twitter-tweet">
-<p dir="ltr" lang="en">fully conspiracy pilled on this, ai is a psyop to make an entire generation ‘graduate’ from highschools &amp; colleges completely uneducated, to make adults incapable of organizing their workplaces, oligarchs want a servile underclass again so they’re giving you all ✨serf brain✨</p>
-<blockquote data-sanitized-class="twitter-tweet">
-<p dir="ltr" lang="en">yeah chatgpt gotta go bc wdym these kids are reacting like this over having to write one paragraph <a href="https://t.co/Om7K4BW1K1">pic.twitter.com/Om7K4BW1K1</a></p>
-<p>— AARON (@lidolmix) <a href="https://twitter.com/lidolmix/status/1981138178745782344?ref_src=twsrc%5Etfw">October 22, 2025</a></p></blockquote>
-<p>— Megaaaan🍊✨🍉 (@meganimation) <a href="https://twitter.com/meganimation/status/1981547238569427047?ref_src=twsrc%5Etfw">October 24, 2025</a></p></blockquote>
-<p>+</p>
-<p><a href="https://www.thecut.com/article/job-search-unemployment-stories.html">The Job Search Has Become a Humiliation Ritual</a> by Sarah Thankam Mathews (The Cut)</p>
-<blockquote><p>It is fashionable among elites now to frame the majority of people as “NPCs,” or non-player characters, in the parlance of video games: unthinking, sheeplike, atomized automatons. But deny a vast multitude what they need for long enough and you’d be surprised at how many decide to play.</p></blockquote>
+			<title>Disney's channels are back on YouTube TV after a 2-week blackout</title>
+			<link>https://www.ghacks.net/2025/11/17/disneys-channels-are-back-on-youtube-tv-after-a-2-week-blackout/</link>
+						<dc:creator>Ashwin</dc:creator>
+			<category>Google</category>
+			<category>Youtube</category>
+			<description><![CDATA[<p>The feud between YouTube TV and Disney has ended. Disney's channels are back on the streaming service after a blackout of over 2 weeks.</p>
+<p><a href="https://www.ghacks.net/2025/11/03/youtube-tv-loses-access-to-disney-espn-and-more/" data-wpel-link="internal">YouTube TV subscribers had lost access to Disney, ESPN, ABC</a>, and more, after a contract between YouTube TV and Disney expired on October 30th. Things got pretty dirty between the two companies, as they engaged in a game of blame publicly, where they claimed the other party was being stubborn. This resulted in over 10 million YouTube TV subscribers losing access to sporting events like Monday Night Football, and other programming.</p>
+<p>YouTube for its part alleged that Disney had threatened to black out its services in a bid to force its hand in a deal that would make the service more expensive for users. In case you don't know, YouTube TV costs $82 per month. On the other hand, Disney claimed that YouTube was trying to abuse its dominant position, to undercut industry standard terms. As the spat between the two continued, a memo signed by three Disney's executives was leaked.</p>
+<p><a href="https://www.nytimes.com/athletic/6787572/2025/11/07/espn-disney-memo-youtubetv-nfl/" data-wpel-link="external">The NY Times</a> reported that The Athletic had read the memo. The document had said that Disney had offered YouTube fair terms that were in line with over 500 distributors, including some that were bigger than YouTube TV. It also said that YouTube TV was unwilling to accept these terms, and insisted on receiving preferential terms. YouTube hit back at this, saying Disney had leaked documents to the press, and was using its network presenters to negotiate in public, and also that it had misrepresented the facts.</p>
+<p>Even as the drama continued last week, <a href="https://www.ghacks.net/2025/11/10/youtube-tv-is-issuing-a-20-credit-to-subscribers-after-losing-access-to-espn-disney/" data-wpel-link="internal">YouTube TV issued a one-time credit of $20</a> that subscribers could avail. But, things have taken a surprising turn. Google and Disney have finally come to an agreement. YouTube has <a href="https://blog.youtube/inside-youtube/disney-youtube-tv/" data-wpel-link="external">updated its statement</a> to say Disney's channels are now back on YouTube TV, and has apologized to subscribers for the disruption. The Walt Disney Company also published <a href="https://thewaltdisneycompany.com/the-walt-disney-company-announces-multi-year-distribution-agreement-with-youtube-tv/" data-wpel-link="external">a statement on its website</a> to say it has reached a multi-year distribution agreement with YouTube TV, and that Disney's channels including ESPN, ABC, Freeform, FX, the National Geographic channels are all available for YouTube TV subscribers.</p>
+<p>Thank you for being a Ghacks reader. The post <a href="https://www.ghacks.net/2025/11/17/disneys-channels-are-back-on-youtube-tv-after-a-2-week-blackout/" data-wpel-link="internal">Disney's channels are back on YouTube TV after a 2-week blackout</a> appeared first on <a href="https://www.ghacks.net/" data-wpel-link="internal">gHacks Technology News</a>.</p>]]></description>
+			<pubDate>Sun, 16 Nov 2025 22:04:12 -0700</pubDate>
+			<guid isPermaLink="false">1763376235879182</guid>
+		</item>
+		<item>
+			<title>I Was Going To Be A Pen Nerd</title>
+			<link>https://mtwb.blog/posts/2025/i-was-going-to-be-a-pen-nerd/</link>
+						<category>pens</category>
+			<category>hobbies</category>
+			<description><![CDATA[<p>So, I wrote in one of my link posts that I had decided to buy a Platinum Preppy fountain pen. I’ve now done that, and I have to say, I love it. I’ll do a full review of it soon, but I am a convert. So much so, that I hopped on Amazon and bought myself some more fountain pens. I found this multi-pack with loads of colors called Eyeye Pen. It has 10 colors for about 15 bucks, I think, and those too are really good.</p>
+<p>So, I have all these fountain pens, and I’m like: “I’m a pen nerd now!”</p>
+<figure>
+<img src="https://mtwb.blog/assets/penaddict.png" alt="Pen Addict Podcast">
+<figcaption>The Pen Addict Podcast</figcaption>
+</figure>
+<p>And what does a real pen nerd do? They listen to an hour long podcast about pens, of course! What else would they do? Thanks to a few of my blogging buddies, I found <a href="https://www.relay.fm/penaddict">The Pen Addict</a>. It’s a great podcast all about pens and paper and stationary. Now that I’m a pen nerd, I feel right at home.</p>
+<p>Or at least, I did for a while. Then they started talking about their favorite pens, and the prices that are attached to them. Hey, did you know that pens can be really cheap, but if you’re a pen nerd, they’re actually REALLY FUCKING EXPENSIVE? Yeah, me neither.</p>
+<p>When they started talking about “mid range” pens being in the $250 range, I was shocked. And then they were talking about $1000 pens, and $25,000 pens. The fuck?</p>
+<p>So, I <em>was going to be</em> a pen nerd. I think I might be a cheap pen nerd. And I mean really cheap. I’ll pay $30 for <strong>a pack of pens</strong>. That doesn’t sound so bad. But they better be good pens, or it’s not a great buy. If I ever write a blog post for you guys where I even <em>talk</em> about spending a lot of money on a pen, somebody please contact the authorities as I’ve obviously had some sort of mental breakdown.</p>]]></description>
+			<pubDate>Sun, 16 Nov 2025 16:55:54 -0700</pubDate>
+			<guid isPermaLink="false">1763376235879181</guid>
+		</item>
+		<item>
+			<title>Bent Out of Shape</title>
+			<link>https://musingsfromatangledmind.com/2025/11/16/bent-out-of-shape/</link>
+						<dc:creator>Musings from a Tangled Mind</dc:creator>
+			<category>Everyday Musings</category>
+			<category>fun</category>
+			<category>humor</category>
+			<category>just for fun</category>
+			<media:content url="https://0.gravatar.com/avatar/31ec7a2e33056eb9b17551f99a60a9ba20d8b41e7681ea12d7fe7911294c5215?s=96&amp;d=identicon&amp;r=G" medium="image"><media:title type="html">surojabu11</media:title></media:content>
+			<description><![CDATA[<p>I threw my back out this weekend, and not even for a good reason. I wasn’t dancing, hauling furniture, or rescuing kittens from a burning building. Or… you know. <em>That</em> might’ve been worth it. No, I was <em>cleaning.</em> Cleaning! Truly the least sexy origin story imaginable.</p>
+<p>A nap would never betray me like this.</p>
+<p>The moral to the story? Always. Choose. Naps.</p>
+<p><span>.</span></p>
 <p> </p>
-<p>I keep thinking that part of the problem of modern American society is that <strong>we have amply demonstrated our intellectual equality but are still denied economic equality</strong>. For now at least, we are well-educated — we know history, we know political theory, we know philosophy, we know economics — so what keeps us serfs <a href="https://tracydurnell.com/2023/06/13/a-society-subservient-to-the-market/">under capitalism</a> is in part simply <a href="https://tracydurnell.com/2024/04/24/access-to-capital-for-change/">lack of capital</a>. Despite the defunding and undermining of public education, we are the elite’s intellectual equals… yet they still think of us as their servants.</p>
-<p>There is no justification for them to think themselves naturally superior; <strong>we have rejected the divine right of kings and predestined social roles… in theory</strong>. In practice, <a href="https://tracydurnell.com/2025/01/19/american-origin-stories/">American elites</a> <a href="https://tracydurnell.com/2023/10/03/tools-for-keeping-power-in-the-upper-class/">have always</a> <a href="https://tracydurnell.com/2024/11/05/the-election-is-just-the-first-step-for-democracy/">restrained our democracy</a> from fulfilling the will of the people.</p>
-<p>The tech elite dreams of themselves as <a href="https://tracydurnell.com/2023/04/09/controlling-the-information-platforms-controlling-the-information/">rightful kings</a> of technofeudalist city-states. They are obsessed with IQ because they believe it demonstrates their superiority, and thus meritocracy justifies their claim to leadership. (They have to believe that <a href="https://tracydurnell.com/2025/04/08/dumbness-is-emotional-not-intellectual/">intelligence is a fixed, quantifiable property</a>, not <a href="https://www.marginalia.nu/log/a_108_feynman_revisited/">learned and developed</a> across domains like any other skill, or they would be forced to admit <a href="https://tracydurnell.com/2024/01/30/the-siren-call-of-llms/">how much of a mistake it is</a> <a href="https://tracydurnell.com/2025/11/01/decisions-are-the-foundation-of-art/">to pass off their thinking to the machine</a>, or that their business acumen does not make up for their <a href="https://x.com/JoyceCarolOates/status/1987269465013428557">stunted emotional intelligence</a>.)</p>
-<p>And then these self-declared geniuses go on LinkedIn and post <a href="https://tracydurnell.com/2025/06/02/generative-ai-and-the-business-borg-aesthetic/">genAI pablum</a> about Plato’s cave allegory and are disappointed when we’re not so impressed with their 101-level intellectual prowess that we <a href="https://tracydurnell.com/2025/10/13/thirsting-after-oligarchs-gone-wild/">fall to our knees</a> and beg them to rule us 🙄 They cannot recognize how derivative their thinking is because they lack intellectual curiosity. But if they destroy our education system, discourage critical thinking, and deskill white-collar careers, maybe the uneducated will think they are smart, and they will finally receive the worship that they crave.</p>
-<p> </p>
-<p>Related reading:</p>
-<p><a href="https://curtismchale.ca/2025/11/15/the-rich-want-you-busy-thoughtless-and-grateful-for-scraps/">The Rich Want You Busy, Thoughtless, and Grateful for Scraps</a> by Curtis McHale</p>
-<p><a href="https://theunwrittenhour.substack.com/p/there-is-no-pyramid-rethinking-maslow">There Is No Pyramid: Rethinking Maslow Through Marx</a> by The Unwritten Hour</p>
-<p> </p>
-<p>See also:</p>
-<p><a href="https://tracydurnell.com/2025/09/14/sovereign-individuals-and-npcs/">Sovereign individuals and NPCs</a></p>
-<p><a href="https://tracydurnell.com/2025/04/17/ceding-the-work-of-interpretation/">Ceding the work of interpretation</a></p>
-<p><a href="https://tracydurnell.com/2023/10/24/disguising-and-reinforcing-the-status-quo-with-tech/">Disguising and reinforcing the status quo with tech</a></p>]]></description>
-			<pubDate>Sun, 16 Nov 2025 16:42:48 -0700</pubDate>
-			<guid isPermaLink="false">1763344674792768</guid>
-		</item>
-		<item>
-			<title>📺 Watched Silo (2023) on AppleTv</title>
-			<link>https://www.michaelponders.com/2025/11/watched-silo-2023-on-appletv.html</link>
-						<dc:creator>Michael</dc:creator>
-			<category>opinion</category>
-			<category>Streaming</category>
-			<category>tv</category>
-			<description><![CDATA[<p>⚠️ <strong>SPOILER WARNING:</strong> NO SPOILERS</p>
-
-<div><img src="https://media.mitchelltribe.xyz/images/2025/11/34fabe03_tmdb_f849d2900cef.jpg" alt="Promotional poster for the series &quot;Silo&quot; featuring a large silhouette of a woman's profile filled with various scenes and characters. The silhouette is set against a vibrant yellow and blue background, with the prominent title &quot;SILO&quot; at the bottom. The scenes inside the silhouette depict a group of people in various dramatic poses, suggesting intense narrative elements." title="Promotional poster for the series 'Silo' featuring a large silhouette of a woman's profile filled with various scenes and characters. The silhouette is set against a vibrant yellow and blue background, with a prominent title 'SILO' at the bottom. The scenes inside the silhouette depict a group of people in various dramatic poses, suggesting intense narrative elements."></div>
-
-<strong>My Rating:</strong> ⭐⭐⭐⭐½ (4.5/5 stars)
-
-<strong>Episodes:</strong> 10
-<hr>
-<h3>Quick Take
-</h3>
-After snagging a free month of Apple TV, I managed to binge-watch the second season of Silo. It was excellent. I'm really looking forward to Season 3 and hope they explore more of the backstory.
-
-<h3>Best Episodes
-</h3>
-The season finale stood out as the best episode. The whole season was truly remarkable.
-- Episode 10: Into the Fire
-<hr>
-<div>
-  <img src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_short-8e7b30f73a4020692ccca9c88bafe5dcb6f8a62a4c6bc55cd9ba82bb2cd95f6c.svg" alt="TMDb">
-  This product uses the TMDb API but is not endorsed or certified by <a href="https://www.themoviedb.org/">TMDb</a>.
-</div>]]></description>
-			<pubDate>Sun, 16 Nov 2025 16:19:00 -0700</pubDate>
-			<guid isPermaLink="false">1763344674792767</guid>
-		</item>
-		<item>
-			<title>stop worrying what everyone thinks</title>
-			<link>https://jeffdelp.bearblog.dev/stop-worrying-what-everyone-thinks/</link>
-						<dc:creator>jeffdelp</dc:creator>
-			<description><![CDATA[<blockquote>
-<p><em>I will not allow anyone to walk in my mind with dirty feet. — Mahatma Gandhi</em></p>
-</blockquote>
-<p>Many of us spend a lot of time worrying about what other people think. I don't have immunity, or a remedy.</p>
-<p>I am, by nature, a people-pleaser. While this isn't inherently bad, it has been the cause of a great deal of stress over the years, allowing others (and sometimes their dirty feet) to occupy space and time in my mind. The line between consideration for others and toxic concern for how they perceive us can be razor thin. I think most people want to be liked and considered with some degree of esteem. However, the reality is that as imperfect people, living in an imperfect world, there is nothing we can do that will keep everyone happy. So, that shouldn't be an aspiration.</p>
-<p>While not completely free from this worry, as I've gotten older, this seems to be less of an issue for me. Maybe wisdom (doubtful). Ignorance (more likely). <em>Or, I've figured out whose opinions matter to me.</em></p>
-<p>I'm not advocating for a flippant disregard for the thoughts and feelings of others. How we treat people -- friends, family members, colleagues, and strangers -- matters. However, it is wise to approach our interactions with reasonable expectations. Focus on what is within our control. The happiness of another person isn't on this list (but, kindness is).</p>
-<p>Assume the best in others. Listen. Be thoughtful. Act with integrity. Accept responsibility for your words and actions. If necessary, apologize.</p>
-<p>Then...move on without worry.</p>
-<p><small>comment by email, or say hello: jeff[dot]bearblog[at]gmail[dot]com</small></p>]]></description>
-			<pubDate>Sun, 16 Nov 2025 17:31:00 -0700</pubDate>
-			<guid isPermaLink="false">1763344674792766</guid>
+<p> </p>]]></description>
+			<pubDate>Sun, 16 Nov 2025 20:29:34 -0700</pubDate>
+			<guid isPermaLink="false">1763376235879180</guid>
 		</item>
 		<item>
 			<title>The thing that libs don't realize about means testing</title>
