@@ -3,261 +3,248 @@
 		<title> | FreshRSS</title>
 		<link>http://192.168.1.206/FreshRSS/p</link>
 		<description>RSS feed of  | FreshRSS</description>
-		<pubDate>Mon, 17 Nov 2025 03:44:18 -0700</pubDate>
-		<lastBuildDate>Mon, 17 Nov 2025 10:44:18 GMT</lastBuildDate>
+		<pubDate>Mon, 17 Nov 2025 16:43:37 -0700</pubDate>
+		<lastBuildDate>Mon, 17 Nov 2025 23:43:37 GMT</lastBuildDate>
 		<atom:link href="/i/?a=rss&amp;state=2" rel="self" type="application/rss+xml" />
 				<item>
-			<title>random yappings</title>
-			<link>https://riri.my/view-post.php?slug=random-yappings</link>
-						<dc:creator>Rina</dc:creator>
-			<description><![CDATA[hello everyone! it’s been a bit without any posts, so i guess it’s time to post at least so... <a href="https://riri.my/view-post.php?slug=random-yappings">read more »</a>]]></description>
-			<pubDate>Sun, 16 Nov 2025 20:38:47 -0700</pubDate>
-			<guid isPermaLink="false">1763376235879188</guid>
+			<title>Homebrew Website Club/Eastern at 6pm EST on Wednesday</title>
+			<link>https://artlung.com/blog/2025/11/17/hwc-eastern-weds/</link>
+						<dc:creator>Joe Crawford</dc:creator>
+			<category>general</category>
+			<category>indienews</category>
+			<category>indieweb</category>
+			<description><![CDATA[<p><a href="https://events.indieweb.org/2025/11/homebrew-website-club-eastern-hK1CzfChwA0D">Homebrew Website Club/Eastern</a> at 6pm EST on Wednesday. We talk websites and such over Zoom, if you have questions about personal websites, webdev stuff and suchlike you’re welcome to join, folks tend to get something useful + chitchat. </p>
+<p>There are a fair number of regulars but I often learn new stuff and when I have questions I get solid answers about tech old and new.</p>
+<p><em>More at <a href="https://events.indieweb.org/">events.indieweb.org</a></em></p>
+<hr><p data-sanitized-class="feed-reply-footer"><a href="https://artlung.com/guestbook/">Sign my Guestbook</a> | <a href="https://artlung.com/contact/">Contact Me</a> | <a href="https://calendly.com/artlung/30min">Book office hours</a> | <a href="https://shareopenly.org/share/?url=https://artlung.com/blog/2025/11/17/hwc-eastern-weds/">Share</a></p>]]></description>
+			<pubDate>Mon, 17 Nov 2025 14:40:52 -0700</pubDate>
+			<guid isPermaLink="false">1763422414691012</guid>
 		</item>
 		<item>
-			<title>🤭 "Words, once they are printed, have a life of their own." - Carol Burnett</title>
-			<link>https://buttondown.com/cassidoo/archive/words-once-they-are-printed-have-a-life-of-their/</link>
-						<description><![CDATA[<p>Hey friends!</p>
-<p>I hope you had a good week! Mine was fairly busy at work, but all good things. My kiddos are finally not sick for the first time in a minute, and I'm VERY grateful!</p>
-<p>Anyway, let's learn.</p>
-<p><em>Was this forwarded to you? <a href="https://cassidoo.co/newsletter/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">You can subscribe here</a>!</em></p>
-<hr>
-<h2>Web links of the week</h2>
-<p><a href="https://codepen.io/luis-lessrain/pen/dPGqzxP?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Typewriter web component</a> <br>
-<a href="https://www.smashingmagazine.com/2025/11/css-gamepad-api-visual-debugging-css-layers/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">CSS Gamepad API Visual Debugging With CSS Layers</a> <br>
-<a href="https://piccalil.li/blog/perfecting-baseline/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Perfecting Baseline</a> <br>
-<a href="https://angiejones.tech/how-i-taught-github-copilot-code-review-to-think-like-a-maintainer/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">How I Taught GitHub Copilot Code Review to Think Like a Maintainer</a> <br></p>
-<hr>
-<h2>Something that interested me this week</h2>
-<p>This week was a weird one with Veteran's Day in the U.S. right in the middle of the week, but it was fun too to celebrate my wedding anniversary, see good friends, and hang out with my babies. My toddler is actually starting to play with our 6 month old, which is <em>very</em> exciting, even though it's mostly her pretending to cook while he's sitting there like a blob, but... still!</p>
-<p>I also wrote and coded some stuff that isn't public yet, <em>but</em> if you wanna hang out with me on the internet, <a href="https://twitch.tv/cassidoo?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">I'm streaming again</a> on Thursdays! This past week we triaged and worked on some pull requests <a href="https://github.com/cassidoo/pocketcal?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">in the repository</a> for <a href="https://pocketcal.com/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">PocketCal</a>!</p>
-<hr>
-<h2>Sponsor</h2>
-<p><strong>Angular v21: The Adventure Begins</strong></p>
-<p><strong>Save the Date:</strong> November 20, 2025  </p>
-<p>Ready to shake up how you build apps? Angular v21 is coming in hot with Signal Forms, Angular Aria headless components, and a leveled-up MCP Server. Imagine forms that actually vibe with your code, AI-powered tools that get out of your way, and accessibility upgrades baked in.</p>
-<p><a href="https://angular.dev/events/v21?utm_source=fnf&amp;utm_medium=newsletter&amp;utm_campaign=angular-november&amp;utm_term=cwilliams&amp;utm_content=v21">Learn more and add it to your calendar here!</a></p>
-<hr>
-<h2>Interview question of the week</h2>
-<p>Last week, I had you merge two arrays! Awesome job <a href="https://x.com/neagle/status/1987897065267941692?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Nate</a>, <a href="https://gist.github.com/TheProgramMaster/f4d7f24d1c50bb8a3759b9d5f35bb54a?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Gavin</a>, <a href="https://bsky.app/profile/eaterofpancakes.bsky.social/post/3m5cbvvcnl222?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Micah</a>, <a href="https://bsky.app/profile/vincentnavetat.bsky.social/post/3m5byzkuvlc2s?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Vincent</a>, <a href="https://bsky.app/profile/vincentnavetat.bsky.social/post/3m5byzkuvlc2s?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Ross</a>, <a href="https://bsky.app/profile/davidfitz.dev/post/3m5bwhjua3s22?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">David</a>, <a href="https://bsky.app/profile/miguelrisos.bsky.social/post/3m5bu4b2hv22c?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Miguel</a>, <a href="https://bsky.app/profile/tenzhiyang.com/post/3m5ofkkugcc2t?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Ten</a>, <a href="https://mastodon.social/@sivaraam/115553244162799727?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Kaartic</a>, <a href="https://polymaths.social/@primeapple/statuses/01K9SS2RC5ERK5XZDR508VS51M?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Toni</a>, and <a href="https://gist.github.com/JulianoRodrigues/fd9a9831bf87752445e1888439f05f47?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Juliano</a>,!</p>
-<p>This week's question:<br>
-<strong>Given a positive integer <code>n</code>, write a function that returns an array containing all integers from 1 to <code>n</code>, where each integer <code>i</code> appears exactly <code>i</code> times in the result. For example, 3 should appear 3 times, 5 should appear 5 times, and so on.</strong> The order of the integers in the output array does not matter.
-<br></p>
-<p>Example: <br></p>
-<div data-sanitized-class="codehilite"><pre><span></span><code><span data-sanitized-class="o">&gt;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="nx">repeatedIntegers</span><span data-sanitized-class="p">(</span><span data-sanitized-class="mf">4</span><span data-sanitized-class="p">)</span>
-<span data-sanitized-class="o">&gt;</span><span data-sanitized-class="w"> </span><span data-sanitized-class="p">[</span><span data-sanitized-class="mf">1</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">2</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">2</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">3</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">3</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">3</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">4</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">4</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">4</span><span data-sanitized-class="p">,</span><span data-sanitized-class="w"> </span><span data-sanitized-class="mf">4</span><span data-sanitized-class="p">]</span>
-</code></pre></div>
-<p>(you can submit your answers by replying to this email with a link to your solution, or share on Bluesky, Twitter, LinkedIn, or Mastodon)</p>
-<hr>
-<h2>Cool things from around the internet</h2>
-<p><a href="https://www.huffpost.com/entry/death-of-the-penny_n_6914d12ae4b0c37fa3d2ae40?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">U.S. Mint In Philadelphia Presses Final Pennies As The 1-Cent Coin Gets Canceled</a> <br>
-<a href="https://ideas.zudiay.me/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">World Map of Human Ideas</a> <br>
-<a href="https://github.com/TMRZ-1/36ribs?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">36ribs keyboard</a> <br>
-<a href="https://apollo-magazine.com/history-door-handle-designs/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Points of contact – a short history of door handles</a> <br></p>
-<hr>
-<h2>Joke</h2>
-<p>Why should you never ever fart in an Apple store? <br>
-Because there are no Windows!</p>
-<hr>
-<p>That's all for now, folks! Have a great week. Be safe, make good choices, and take time to appreciate a cool tree!<br><br>
-Special thanks to <a href="https://bsky.app/profile/ezelldev.bsky.social?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Ezell</a>, <a href="https://www.bencodezen.io/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Ben</a>, <a href="https://kineticlabs.com/?ref=cassidoo&amp;utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Kinetic Labs</a>, <a href="https://www.linkedin.com/in/mgajowczyk/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Marta</a>, and Flora for supporting my <a href="https://www.patreon.com/cassidoo?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">Patreon</a> and this newsletter! <br>
-<br>
-cassidoo<br><br>
-<a href="https://cassidoo.co/?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">website</a> | <a href="https://cassidoo.co/blog?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">blog</a> | <a href="https://github.com/cassidoo?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">github</a> | <a href="https://bsky.app/profile/cassidoo.co?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">bluesky</a> | <a href="https://twitter.com/cassidoo?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">twitter</a> | <a href="https://www.patreon.com/cassidoo?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">patreon</a> | <a href="https://www.twitch.tv/cassidoo?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">twitch</a> | <a href="https://codepen.io/cassidoo?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">codepen</a> | <a href="https://notacult.social/@cassidoo?utm_source=cassidoo&amp;utm_medium=email&amp;utm_campaign=words-once-they-are-printed-have-a-life-of-their">mastodon</a></p>]]></description>
-			<pubDate>Mon, 17 Nov 2025 01:51:30 -0700</pubDate>
-			<guid isPermaLink="false">1763376235879187</guid>
+			<title>Email from YouTube: “Automatic Dubbing”</title>
+			<link>https://artlung.com/blog/2025/11/17/email-from-youtube-automatic-dubbing/</link>
+						<dc:creator>Joe Crawford</dc:creator>
+			<category>general</category>
+			<category>065fd4</category>
+			<category>cssbattle</category>
+			<category>fff</category>
+			<category>reels</category>
+			<category>video</category>
+			<category>youtube</category>
+			<description><![CDATA[<blockquote><p>Hi Joe Crawford,</p>
+<p>We’ll soon enable <strong>automatic dubbing</strong> on your channel. This means that YouTube will automatically generate translated audio tracks in different languages, making your content accessible to more viewers.</p>
+<p><strong>No action is needed</strong> — we’ll enable this on your channel in the coming weeks. Once enabled, when you upload a new video, we’ll automatically add the dubbed audio to your video. Over time, we may also dub previously published videos. In some cases, we may be unable to generate the dubbed audio – you’ll be able to see the status of dubbed audio in YouTube Studio.</p>
+<p>Effective today, <strong>you can turn off automatic dubbing for your entire channel</strong> in your Channel settings &gt; Upload defaults &gt; Advanced settings &gt; Automatic dubbing.</p>
+<p>Once auto dubbing is enabled for your channel, while uploading new videos, you’ll also have the option to <strong>turn off automatic dubbing for that video</strong>. Visit the link below to learn more about how to manage auto dubbing, including how to review dubs before publishing and which languages are currently supported.</p>
+<p><a href="https://support.google.com/youtube/answer/15569972">LEARN MORE</a></p>
+<p>Thanks,<br>
+The YouTube team</p></blockquote>
+<p>I am opting to change my channel to disable automatic dubbing. I don’t mind automated captions. But I would prefer the audio to be my own. I don’t pretend to know what my audience wants, maybe my few viewers will complain. As it is, I get a small but steady stream who watch my <a href="https://artlung.com/cssbattles/">CSS Battle Daily Targets</a> but for my purposes I think that’s okay.</p>
+<p>Speaking of video, I have started uploading some of my <a href="https://artlung.com/reels/">reels</a> to the TikTok account I forgot I have: <a href="https://www.tiktok.com/@artlung">www.tiktok.com/@artlung</a>. I refuse to keep the app installed on my tablet or phone though, that app is far too intrusive.</p>
+<p>And speaking of TikTok, here’s a notification from them I got on doublechecking the link to my account:</p>
+<blockquote><p>Your LIVE content sparks comments. Keep the momentum going! LIVE Studio makes going LIVE from your computer easy: ✓ LIVE Events: Organize your next LIVE and attract more viewers. ✓ Creation freedom: Share from your phone, computer, or console. ✓ Distinctly TikTok: Engage with LIVE tools and monetize with subscriptions &amp; gifting. Start turning your creativity into cash rewards now.</p></blockquote>
+<p>I’ve said I don’t like video, but we live in a video age in many ways. I read recently an essay called <a href="https://www.derekthompson.org/p/why-everything-became-television">Everything is Television</a> by Derek Thompson.</p>
+<blockquote><p>Social media has evolved from text to photo to video to streams of text, photo, and video, and finally, it seems to have reached a kind of settled end state, in which TikTok and Meta are trying to become the same thing: a screen showing hours and hours of video made by people we don’t know. <strong>Social media has turned into television.</strong></p></blockquote>
+<p>In my IndieWeb, reckoning with video, which I don’t like, is an effort to understand the current era. If I understood it I don’t think I’d be doing it.</p>
+<hr><p data-sanitized-class="feed-reply-footer"><a href="https://artlung.com/guestbook/">Sign my Guestbook</a> | <a href="https://artlung.com/contact/">Contact Me</a> | <a href="https://calendly.com/artlung/30min">Book office hours</a> | <a href="https://shareopenly.org/share/?url=https://artlung.com/blog/2025/11/17/email-from-youtube-automatic-dubbing/">Share</a></p>]]></description>
+			<pubDate>Mon, 17 Nov 2025 13:32:41 -0700</pubDate>
+			<guid isPermaLink="false">1763422414691011</guid>
 		</item>
 		<item>
-			<title>Easy alias for dealing with Python Virtualenvs</title>
-			<link>https://ishan.page/blog/easy-venv-script/</link>
-						<description><![CDATA[<p>There’s something oddly comforting about a shell function that takes care of boring things for you.</p>
-<p>This <code>venv()</code> helper does exactly that.</p>
-<p>It checks whether you’re already in an environment, spins up a fresh one if needed, installs your dependencies, and activates it.</p>
-<p>To use this <code>venv</code> function, you’ll need to add it to your shell’s configuration file. If you’re using zsh, add the following function to your ~/.zshrc file. If you’re using bash, add it to your ~/.bashrc instead.</p>
-<p>Don’t forget to <code>source ~/.zshrc</code> or <code>source ~/.bashrc</code> later!</p>
-<p>This requires <code>uv</code> to work</p>
-<div data-sanitized-class="highlight"><div data-sanitized-class="chroma">
-<table data-sanitized-class="lntable"><tr><td data-sanitized-class="lntd">
-<pre data-sanitized-class="chroma"><code><span data-sanitized-class="lnt"> 1
-</span><span data-sanitized-class="lnt"> 2
-</span><span data-sanitized-class="lnt"> 3
-</span><span data-sanitized-class="lnt"> 4
-</span><span data-sanitized-class="lnt"> 5
-</span><span data-sanitized-class="lnt"> 6
-</span><span data-sanitized-class="lnt"> 7
-</span><span data-sanitized-class="lnt"> 8
-</span><span data-sanitized-class="lnt"> 9
-</span><span data-sanitized-class="lnt">10
-</span><span data-sanitized-class="lnt">11
-</span><span data-sanitized-class="lnt">12
-</span><span data-sanitized-class="lnt">13
-</span><span data-sanitized-class="lnt">14
-</span><span data-sanitized-class="lnt">15
-</span><span data-sanitized-class="lnt">16
-</span><span data-sanitized-class="lnt">17
-</span><span data-sanitized-class="lnt">18
-</span><span data-sanitized-class="lnt">19
-</span><span data-sanitized-class="lnt">20
-</span><span data-sanitized-class="lnt">21
-</span><span data-sanitized-class="lnt">22
-</span><span data-sanitized-class="lnt">23
-</span><span data-sanitized-class="lnt">24
-</span></code></pre></td>
-<td data-sanitized-class="lntd">
-<pre data-sanitized-class="chroma"><code data-lang="bash" data-sanitized-class="language-bash"><span data-sanitized-class="line"><span data-sanitized-class="cl">venv<span data-sanitized-class="o">()</span> <span data-sanitized-class="o">{</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">  <span data-sanitized-class="c1"># Exit early if already in a virtual environment</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">  <span data-sanitized-class="k">if</span> <span data-sanitized-class="o">[[</span> -n <span data-sanitized-class="s2">"</span><span data-sanitized-class="nv">$VIRTUAL_ENV</span><span data-sanitized-class="s2">"</span> <span data-sanitized-class="o">]]</span><span data-sanitized-class="p">;</span> <span data-sanitized-class="k">then</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">    <span data-sanitized-class="nb">echo</span> <span data-sanitized-class="s2">"A virtual environment is already active at: </span><span data-sanitized-class="nv">$VIRTUAL_ENV</span><span data-sanitized-class="s2">"</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">    <span data-sanitized-class="k">return</span> <span data-sanitized-class="m">1</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">  <span data-sanitized-class="k">fi</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">  <span data-sanitized-class="c1"># Create .venv if missing</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">  <span data-sanitized-class="k">if</span> <span data-sanitized-class="o">[[</span> ! -d <span data-sanitized-class="s2">".venv"</span> <span data-sanitized-class="o">]]</span><span data-sanitized-class="p">;</span> <span data-sanitized-class="k">then</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">    <span data-sanitized-class="nb">echo</span> <span data-sanitized-class="s2">"Creating virtual environment..."</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">    uv venv <span data-sanitized-class="o">||</span> <span data-sanitized-class="o">{</span> <span data-sanitized-class="nb">echo</span> <span data-sanitized-class="s2">"Failed to create venv"</span><span data-sanitized-class="p">;</span> <span data-sanitized-class="k">return</span> <span data-sanitized-class="m">1</span> <span data-sanitized-class="o">}</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">    <span data-sanitized-class="c1"># Install dependencies if requirements.txt exists</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">    <span data-sanitized-class="k">if</span> <span data-sanitized-class="o">[[</span> -f <span data-sanitized-class="s2">"requirements.txt"</span> <span data-sanitized-class="o">]]</span><span data-sanitized-class="p">;</span> <span data-sanitized-class="k">then</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">      <span data-sanitized-class="nb">echo</span> <span data-sanitized-class="s2">"Installing dependencies..."</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">      uv pip install -r requirements.txt <span data-sanitized-class="o">||</span> <span data-sanitized-class="o">{</span> <span data-sanitized-class="nb">echo</span> <span data-sanitized-class="s2">"Dependency install failed"</span><span data-sanitized-class="p">;</span> <span data-sanitized-class="k">return</span> <span data-sanitized-class="m">1</span> <span data-sanitized-class="o">}</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">    <span data-sanitized-class="k">else</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">      <span data-sanitized-class="nb">echo</span> <span data-sanitized-class="s2">"No requirements.txt found; skipping installation."</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">    <span data-sanitized-class="k">fi</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">  <span data-sanitized-class="k">fi</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">  <span data-sanitized-class="c1"># Activate the environment</span>
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl">  <span data-sanitized-class="nb">source</span> .venv/bin/activate
-</span></span><span data-sanitized-class="line"><span data-sanitized-class="cl"><span data-sanitized-class="o">}</span>
-</span></span></code></pre></td></tr></table>
-</div>
-</div><p>Of course, if you use <code>uv run</code> for running things anyway, then you don’t need this!</p>]]></description>
+			<title>(cycles, fluctuations)</title>
+			<link>https://artlung.com/blog/2025/11/17/cycles-fluctuations/</link>
+						<dc:creator>Joe Crawford</dc:creator>
+			<category>general</category>
+			<category>bodysurfing</category>
+			<category>indieweb-carnival</category>
+			<category>musings</category>
+			<description><![CDATA[<p>Alex said in <a href="https://alexsirac.com/indieweb-carnival-%E2%88%92-cycles-and-fluctuations/">their prompt</a> for IndieWeb Blog Carnival:</p>
+<blockquote><p>
+Let’s talk about <strong>cycles and fluctuations</strong> and give our world just a little more grace.
+</p></blockquote>
+<p>Yes!</p>
+<p>I said the other day in <em><a href="https://artlung.com/blog/2025/11/14/some-melancholy/">some melancholy</a></em>:</p>
+<blockquote><p>I feel sad there will be rain as it may keep me out of the ocean as freshwater drains pollutants down to the sea. I am sure I will cope, and in a few days the rain will clear.</p></blockquote>
+<p>And the rain is nearly cleared. We get little enough rain where I live–San Diego, California. It’s where America meets the Pacific. It’s where (Alta) California, USA meets Baja California, Mexico.</p>
+<p>But we don’t have <em>much</em> weather, normally.</p>
+<p>Summer is a bit warmer.</p>
+<p>Autumn is a bit colder and rainier.</p>
+<p>But not much of a cycle compared to other places.We get no snow. Our “fall colors” are unvivid.</p>
+<p>Despite the mild changes, it does affect how much I’m able to go to the ocean. I have <em>the intention</em> to go to the ocean every day. I want to ride waves as much as possible. The other day I added a page for my <a href="https://artlung.com/interests/">interests</a> and felt compelled to add links my bodysurfing <a href="https://artlung.com/videos/">videos</a>.</p>
+<p>Riding waves in the ocean takes advantage of cycles. Each “wave” is a manifestation of our <em>mostly-covered-with water</em> planet. Water waves transmit energy. When conditions are right I use that energy to skip along or get pushed by that wave. When people think of “surfer” they typically think of somebody standing up on a fiberglass surfboard. But there are many ways to harness that energy. My way is one of many.</p>
+<p>The phase of the moon impacts the gravitational forces on the water on planet earth; the time of the year impacts gravity and season, which impacts weather systems, temperature and wind flows, which are transmitted to the water. And each spot where the wave meets the land is impacted by rock and sand, pier and jetty: EVERYTHING. And all of it contributes to whether a guy who makes web pages has fun in the water.</p>
+<p>But in some ways, even when conditions are not great, it’s fun to go to the ocean. There are times when conditions are “perfect.” And there are of course times where they’re not. But me having a great time or a terrible time is plausible in any conditions. I have to find the definite source for this aphorism, that the only rule for surfing is “be safe, paddle like hell <small>(to take off and catch a wave)</small>, and come out of the water smiling.”</p>
+<p>I think daily reckoning with tide and weather has forced me to think in terms of cycles: highs and lows, highs and lows, highs and lows.</p>
+<p>Fluctuations and cycles.</p>
+<p>As I finish writing this I look at the camera that looks at my current favorite spot. I see surfers out.</p>
+<figure><img src="https://cdn.artlung.com/blog/wp-content/uploads/2025/11/cycles-fluctuations-Medium.jpeg" alt="" width="640" height="600" data-sanitized-class="size-full wp-image-131717"><figcaption>Ocean Beach, San Diego, USA. 17 November 2025. 10:55 Pacific Standard Time</figcaption></figure>
+<p>Maybe I’ll go out today. Maybe not. But I’ll be out there again soonish.</p>
+<p><em>See you out there!</em></p>
+<hr><p data-sanitized-class="feed-reply-footer"><a href="https://artlung.com/guestbook/">Sign my Guestbook</a> | <a href="https://artlung.com/contact/">Contact Me</a> | <a href="https://calendly.com/artlung/30min">Book office hours</a> | <a href="https://shareopenly.org/share/?url=https://artlung.com/blog/2025/11/17/cycles-fluctuations/">Share</a></p>]]></description>
+			<pubDate>Mon, 17 Nov 2025 11:56:43 -0700</pubDate>
+			<guid isPermaLink="false">1763422414691010</guid>
+		</item>
+		<item>
+			<title>Walking to fall in love with a city</title>
+			<link>https://chavanniclass.wordpress.com/2025/11/17/walking-to-fall-in-love-with-a-city/</link>
+						<dc:creator>Ratika Deshpande</dc:creator>
+			<category>diary</category>
+			<category>cities</category>
+			<category>new delhi</category>
+			<category>walking</category>
+			<media:content url="https://0.gravatar.com/avatar/3c01cee950e21d4f28b9086b49afb4c05bddf47c69611ed3eaf3e40277707053?s=96&amp;d=identicon&amp;r=G" medium="image"><media:title type="html">ratikadeshpande</media:title></media:content>
+			<description><![CDATA[<p>No matter how beautiful a village is, I’ll always prefer to make a permanent home in the city. Even though the one I’m currently in is so small we joke that it ends just as it starts and needs to “grow up” a little (we’re all students of Early Childhood Education here) before it can be called a city, I actually really enjoy myself when I walk through its dusty streets and its sparse markets. </p>
+
+
+
+<p>Over the last three days, I’ve strolled for hours through the busiest area of this city, alone or with friends. And this is what I’ve learned: the best way to experience a city–and to start liking a place when your first encounter with it wasn’t so good–is to walk around it. </p>
+
+
+
+<p>I find some sort of strength in walking, in using my own two legs to navigate my way around people and roadside stalls and traffic when crossing a road. I can pause, I can stroll, I can almost run. I can stand still in wonder and take pictures, or just sit on some steps and take in all the activity. A busy, restless city is suffocating, but remove the crowds and it stops being a city. It needs activity, <em>life</em>. New Delhi has that the most out of all the cities I’ve lived in and visited. I miss it a lot; almost every day I imagine myself making a quick weekend trip there, even though it’ll take almost 8 hours each way by train. </p>
+
+
+
+<p>As I walk around this barely-city, I also keep thinking of home. Of how little I’ve walked around it, limiting myself mostly to the daily commute to and from college, and that one neighborhood in the older parts of the city where I often visit my friend’s home. It doesn’t have the same “life” as New Delhi, but then, the latter is the capital of the country and has a longer history. There’s a lot that my home city has to offer. I just need to stroll through it, rather than bemoaning the lack of public transport, the availability of which was a huge factor that let me see–and fall in love with–New Delhi.</p>]]></description>
+			<pubDate>Mon, 17 Nov 2025 09:17:59 -0700</pubDate>
+			<guid isPermaLink="false">1763422414691008</guid>
+		</item>
+		<item>
+			<title>How to save matplotlib figures
+deterministically</title>
+			<link>https://blog.augustebaum.com/posts/2025-11-17-19-how-to-save-matplotlib-figures-deterministically</link>
+						<dc:creator>Auguste Baum</dc:creator>
+			<description><![CDATA[<header data-sanitized-id="title-block-header">
+    <h1 data-sanitized-class="title">How to save matplotlib figures
+deterministically</h1>
+                <div>
+      <time>2025-11-17</time>
+    </div>
+          </header>
+    
+  <p>I have been working on plots at work, and I would really like our
+  test suite to use snapshot testing:</p>
+  <blockquote>
+  <p>[W]riting tests where you compare the output of some function to a
+  previously saved version, and can re-generate that version from
+  scratch any time something changes.</p>
+  <p>From <a href="https://til.simonwillison.net/pytest/syrupy">https://til.simonwillison.net/pytest/syrupy</a></p>
+  </blockquote>
+  <p>The main snapshot testing package I am considering, <a href="https://syrupy-project.github.io/syrupy/">syrupy</a>, does not
+  provide native support for matplotlib Figures, but it does make it
+  possible to write custom serializers for whatever objects you would
+  like. The only constraint is that the serializing process should be
+  deterministic: converting the same plot to an image twice in a row
+  should result in the same file contents.</p>
+  <p>I think saving the figures to SVG will be a good first start, since
+  this format does not describe what the image <em>is</em>
+  (pixel-by-pixel) but rather how to <em>draw</em> it. Since the SVG
+  format is just text (a dialect of XML more precisely), I expect SVG
+  files to be more compact, and also easier to diff (i.e. to see the
+  differences between two files).</p>
+  <p>By default, matplotlib does not produce reproducible SVGs, but <a href="https://github.com/matplotlib/matplotlib/issues/23693">this</a>
+  Github issue surfaces a simple way to get the level of reproducibility
+  that I need:</p>
+  <div data-sanitized-id="cb1" data-sanitized-class="sourceCode"><pre data-sanitized-class="sourceCode python"><code data-sanitized-class="sourceCode python"><span data-sanitized-id="cb1-1"><a href="https://blog.augustebaum.com/posts/2025-11-17-19-how-to-save-matplotlib-figures-deterministically#cb1-1" aria-hidden="true"></a><span data-sanitized-class="cf">with</span> matplotlib.rc_context({<span data-sanitized-class="st">"svg.hashsalt"</span>: <span data-sanitized-class="st">"hello"</span>}):</span>
+<span data-sanitized-id="cb1-2"><a href="https://blog.augustebaum.com/posts/2025-11-17-19-how-to-save-matplotlib-figures-deterministically#cb1-2" aria-hidden="true"></a>    figure.savefig(<span data-sanitized-class="st">"hello.svg"</span>)</span></code></pre></div>
+  <p>There is nothing specific about <code>"hello"</code>, the point is
+  that the same string is used for every call to
+  <code>savefig</code>.</p>
+  <p>In the few small tests I ran this was sufficient; I might also need
+  to set the <code>SOURCE_DATE_EPOCH</code> environment variable, but
+  this has not been a problem yet.</p>]]></description>
 			<pubDate>Sun, 16 Nov 2025 17:00:00 -0700</pubDate>
-			<guid isPermaLink="false">1763376235879186</guid>
+			<guid isPermaLink="false">1763422414691007</guid>
 		</item>
 		<item>
-			<title>TFW when the biggest achievement of your life becomes your biggest curse</title>
-			<link>https://chaosworks.org/2025/career-update/</link>
-						<dc:creator>adastra</dc:creator>
-			<category>Academia</category>
-			<category>General</category>
-			<category>academia</category>
-			<category>career</category>
-			<category>cursed</category>
-			<category>data science</category>
-			<category>data scientist</category>
-			<category>job hunting</category>
-			<category>job search</category>
-			<category>phd</category>
-			<category>volunteering</category>
-			<description><![CDATA[<p>Conversations with recruiters usually tend to go more or less like this:<br>
-“Are you looking for data scientists?”<br>
-“Indeed we are! Do you have a degree in data science?”<br>
-“I have an equivalent degree and over 8 years of experience in data science.”<br>
-“So what kind of degree do you have?”<br>
-“I have a PhD in English linguistics, but methodically I worked with data during that time.”<br>
-[at this point the recruiter’s face usually assumes a puzzled look] “…That… doesn’t really sound like what we need… we’re not looking for humanities scholars.”<br>
-“While linguistics is indeed often grouped among the humanities, it’s also the natural science among humanities. Methodically, I worked as a data scientist during my PhD, collecting, processing, analyzing and visualizing data (language data) for over 6 years. I worked with advanced statistical models and have expert knowledge of R.”<br>
-[puzzled looks intensify]</p>
-<p>Perhaps you can feel my pain. I’ve recently been on the lookout for a new job, and I’ve been coming to realize that my PhD, which is supposed to be this great achievement, and which probably truly is one of the hardest things I ever did in my life, seems to be worthless. It is more of a hindrance than a help in trying to find a job, because recruiters see me as both under- and overqualified. They don’t really recognize it as experience in data science (which it definitely is), but at the same time they shy away from hiring someone with a PhD because that seems overqualified and/or intimidating. At least that’s my impression, no recruiter ever actually gave me decent helpful feedback, despite asking.</p>
-<p>This has been going on for a while, and I’ve become fairly disillusioned with the job market in the industry. It’s not only that they don’t seem to know what to do with a PhD, it’s also the whole… soullessness of it. Do you love managing and executing high-impact, cross-functional projects? Do you blossom when you ensure successful deliveries aligned with corporate goals? Does nothing make your heart beat like driving actionable outcomes in a high-pressure environment? In case your sarcasm detector is broken, here’s a PSA: that’s sarcasm. Nothing makes me feel more dead inside like reading those ridiculous buzzwords, full of utterly useless bullshit. It always makes me wonder if people actually believe what they’re saying? How can you be passionate about making the rich richer, and contributing to a ridiculously bloated economy where bullshitters like this earn tons of money, but real, hard work, is underpaid? Economics was always one of my most-hated subjects in school, so I’ll not dwell on that. But after about 2 years in the corporate world and some time of reading job listings, I realized that I don’t identify with all of this. I hate agile, I think KPIs are red herrings to keep your employees occupied, and I don’t see the purpose in half the things some of these job listings demand.</p>
-<p>Coming from <a href="https://chaosworks.org/2023/phd-leavingacademia/">academia</a>, I think the public service is probably much better suited for me than the industry, because at least there I get a sense of doing something for the greater good. I can see a clear purpose in creating graphs and reports on population or crime statistics, and I’d be very interested to do that. But doing data analysis of how many things a company producing stuff sells? Very meh.</p>
-<p>Sometimes I wish I could work in a creative job and make the same amount of money I do now, but alas, that’s not our reality. I would enjoy being a seamstress or carpenter or something along those lines a lot. But I feel at present, it would not be the wisest career choice to start at zero, because that’s basically what I already did when I finished my PhD.</p>
-<p>Needless to say, this whole situation has not been great for my mental health. Getting constant rejections and feeling like my biggest accomplishment is worthless just makes me feel worthless, and it’s hard to remember what I really accomplished. I had a discussion with a friend about this a while ago, who suggested to keep busy by taking a mini-job or volunteering. I looked into that, and I signed up to volunteer at the International English Library here in Düsseldorf, which is a pretty cool and unique library because it’s competently in English (unlike most other libraries), and it’s completely volunteer run.</p>
-<p>I knew this library already since I moved here, because I used to spend a lot of time there studying Swedish about 17ish years ago. Then at some point I stopped going there because of a former relationship, and I also didn’t read as much while I was at university (I had to read too much for uni). Since then, the library moved to a new location, and coincidentally I was also looking for a new place to host a roleplaying-related event that I co-organize. So it seemed like the perfect place and the perfect opportunity to apply to volunteer there.</p>
-<p>I’ve been volunteering there for a few months now, and I finally feel like my diverse and unconventional career path found a purpose. I’ve been doing a few desk shifts at the library, which is their standard procedure, but since then I’ve also been working on creating new print products such as brochures for them, wrapping books in protective cover, doing some data analysis, creating surveys, and altogether helping where I can. I really enjoy volunteering there, and I feel like I can contribute a lot of my skills. I wish I could do a lot more, but some things take time there, due to the nature of it being an entirely volunteer-run organization. Most of the regular volunteers there who do the majority of the work to keep the library running are retired British / Irish / Australian ladies, and I feel like that’s definitely what I would want to do if I retire as well.</p>
-<p>It’s just a great feeling to contribute to this awesome space where people from allover the world can come together, find books to read, or just attend events that are hosted there. It also has the added benefit of being able to read books for free. After having <a href="https://chaosworks.org/2025/reading-slump/">some hiccups</a> in trying to find books I like to read, it’s definitely a relieve that I don’t always have to buy what I want to read anymore. I also already donated a few of my books that I will not read again to the library, making their sci-fi and fantasy collection more diverse. I’m happy I finally found something that make me feel useful, even though it probably won’t help me advance my <em>real</em> career so much…</p>]]></description>
-			<pubDate>Mon, 17 Nov 2025 00:02:56 -0700</pubDate>
-			<guid isPermaLink="false">1763376235879185</guid>
+			<title>R.I.P. Todd Snider and Alice Wong.</title>
+			<link>https://www.nicksimson.com//notes/2025-11-17-rip-todd-snider-alice-wong.html</link>
+						<description><![CDATA[<p>R.I.P. <a href="https://savingcountrymusic.com/songwriting-legend-todd-snider-has-died/">Todd Snider</a> and <a href="https://thesicktimes.org/2025/11/15/alice-wong-disability-activist-and-luminary-dies-at-51/">Alice Wong</a>.</p>]]></description>
+			<pubDate>Mon, 17 Nov 2025 10:18:33 -0700</pubDate>
+			<guid isPermaLink="false">1763422414691005</guid>
 		</item>
 		<item>
-			<title>Weekly Wrap Up 84</title>
-			<link>https://divergentrays.com/blog/posts/2025-11-16-Weekly-Wrap-Up-84.html</link>
-						<description><![CDATA[My weekly blog post. Links this week include small doors for cats, keeping the lost art of neon signs alive and the mystery of the man in the fedora. I had my semi-annual Crazy Cat Lady Lunch and got some cool 2026 calendars. Plus, as usual, I listened to, read and watched things.]]></description>
-			<pubDate>Sun, 16 Nov 2025 22:00:11 -0700</pubDate>
-			<guid isPermaLink="false">1763376235879184</guid>
+			<title>Christians Used to Kiss Icons. Now We Kiss Our Idols</title>
+			<link>https://kennethbwrites.substack.com/p/christians-used-to-kiss-icons-now</link>
+						<dc:creator>Kenneth B.</dc:creator>
+			<media:content url="https://substackcdn.com/image/fetch/$s_!rt_8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa95139f6-f5ac-4561-9c7e-baa4ddf6abdc_330x320.heic" type="image/jpeg"></media:content>
+			<description><![CDATA[<div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!rt_8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa95139f6-f5ac-4561-9c7e-baa4ddf6abdc_330x320.heic" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2 is-viewable-img"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!rt_8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa95139f6-f5ac-4561-9c7e-baa4ddf6abdc_330x320.heic" width="330" height="320" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/a95139f6-f5ac-4561-9c7e-baa4ddf6abdc_330x320.heic","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":320,"width":330,"resizeWidth":null,"bytes":22518,"alt":null,"title":null,"type":"image/heic","href":null,"belowTheFold":false,"topImage":true,"internalRedirect":"https://kennethbwrites.substack.com/i/179133046?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa95139f6-f5ac-4561-9c7e-baa4ddf6abdc_330x320.heic","isProcessing":false,"align":null,"offset":false}' alt="" data-sanitized-class="sizing-normal"></picture><div data-sanitized-class="image-link-expand"><div data-sanitized-class="pencraft pc-display-flex pc-gap-8 pc-reset"><button data-sanitized-class="pencraft pc-reset pencraft icon-container restack-image"></button><button data-sanitized-class="pencraft pc-reset pencraft icon-container view-image"></button></div></div></div></a></figure></div><p>History, it is said, is written by the winners. The phrase has survived not because it is clever, but because it is painfully and universally true. From the earliest inscriptions carved into stone, kings have told their own stories—and always as triumphantly as possible. An Egyptian pharaoh never merely defeated an enemy; he annihilated him with divine favor shining upon his brow. An Assyrian monarch never simply secured a border; he crushed the nations like pottery shards beneath iron chariots.</p><p>If you were to read these records at face value, you might be forgiven for imagining that these men were superhuman—demigods who strode across the earth with lightning in their fists. Yet any honest historian knows that the most important part of ancient writing is often what is <em>not</em> said. The gaps, the silences, the cultural assumptions, the things so normal they were never worth explaining—these are where the real world of antiquity is found.</p><p>Archaeologists spend lifetimes reading those silences. Historians comb through the dust of centuries not merely for what people claimed, but for the everyday practices that shaped their lives without ever being explicitly recorded. It is not exaggeration to say that the majority of human experience—what people ate, how they slept, how they prayed, what they touched, kissed, held sacred—was so ordinary that ancient writers never bothered to spell it out.</p><p>Much of modern Christianity has never been taught this simple truth. We often approach Scripture as though it were a self-contained manual, a flat and complete description of ancient life. <em>If it isn’t written in the text,</em> many assume, <em>it must not have happened.</em> Yet this is a way of reading the Bible that no first-century Jew would have recognized.</p><p>For example, Scripture never says that people in the time of Jesus observed “first sleep” and “second sleep”—but we now know from abundant Greco-Roman and Jewish sources that biphasic sleep was the universal norm. People went to bed shortly after dusk, rose in the middle of the night to pray, think, or tend the fire, and then returned for a “second sleep” until dawn. Ancient readers did not need this explained; it was simply life. Modern readers, lacking the context, miss the richness.</p><p>The same is true of countless daily acts of piety. The Bible does not pause to explain how Jewish families kissed the mezuzah upon entering or leaving a home. It never stops to spell out how fingers brushed the sacred words of the Shema as doorways were crossed. But archaeology has unearthed mezuzot from the very towns where Jesus walked, and historical sources confirm what every Jewish child in Galilee knew: the mezuzah was touched, kissed, honored—a small, ever-present reminder of God’s covenant.</p><p>This was the world Jesus lived in. This was the world His apostles inhabited. A world where physical acts of reverence—touching, kissing, bowing, crossing thresholds with holy reminders—were as normal and unquestioned as washing one’s hands or lighting a lamp.</p><p>And this is the point:</p><p><strong>The Bible often assumes things that its original audience already knew, practiced, and saw with their own eyes.</strong></p><p>To read Scripture without this world is to miss half the story. And when we recover it—through archaeology, history, and the living memory of the Church—the picture becomes unmistakably clear:</p><p>Jesus grew up in a culture where sacred objects were touched, kissed, reverenced.<br>He Himself would have kissed the mezuzah.<br>The apostles would have done the same.</p><p>This is not speculation. This is history. And it opens the door to a truth many modern Christians have never considered.</p><p>In ways many cultural historians are only now beginning to grasp, the eighteenth-century Enlightenment changed the Western world so profoundly that it severed us from the mental world of the ancients. The Reformation certainly played its part—introducing new debates and anxieties about authority, interpretation, and tradition—but it was the intellectual climate of the Enlightenment that truly reshaped the <em>Christian imagination</em>.</p><p>For nearly two millennia before that moment, Christians had read Scripture within a universe dense with meaning. The ancient mind assumed that the invisible and the visible interpenetrated each other constantly. Angels were not metaphors. Blessings were not moods. Holy objects were not “just symbols,” any more than a wedding ring is “just metal.” A mezuzah sanctified a doorway because God’s word sanctifies everything it touches. This was simply how reality worked, as obvious to a first-century Jew as gravity is to us.</p><p>But the Enlightenment introduced a new set of assumptions—assumptions we swim in today without even noticing. Humanism narrowed man’s horizon to what could be grasped through reason alone. Materialism insisted that the physical world is the <em>only</em> real world, and everything else must be either psychological, sentimental, or poetic. Agnosticism reframed faith as a kind of private optimism rather than a participation in unseen realities.</p><p>These ideas did not merely change political theory or science; they changed the <em>inner posture</em> with which people approached Scripture.</p><p>Where the ancient world saw layers, we now see only surfaces.<br>Where the ancient world assumed mystery, we assume mechanism.<br>Where the ancient world felt holiness in physical things, we expect the physical to be spiritually inert.</p><p>The Enlightenment trained countless Christians—sometimes without their ever realizing it—to read the Bible with the instincts of a laboratory technician. If a practice is not written out explicitly, preferably in step-by-step form, we imagine it did not exist. If the text does not explain a custom, we assume there was no custom to explain. We read the Bible the way a modern engineer reads a user manual: as a closed system with no missing parts.</p><p>But the world of Jesus was not a user manual. It was a lived culture, thick with gestures, customs, reverences, physical reminders, sacred touch-points that anchored daily life in God. The Bible was written <em>within</em> that world, not in isolation from it. Its authors wrote for people who already kissed mezuzot, who already blessed the work of their hands, who already lived in a sacramental universe where the holy saturates the ordinary.</p><p>To recover that world is not to “add” something to Scripture. It is to finally see what Scripture always assumed.</p><p>To borrow an Enlightenment term, the<em><strong> fact </strong></em>of God’s people venerating icons throughout the Biblical record is beyond question. In Deuteronomy 6:9 Moses commands Israel to bind the Shema—the sacred mantra of God’s people—on their arms and foreheads in prayer, and to affix it to the doorposts of their homes. And the archaeological record allows us to see with our eyes what Scripture says in words. Whether it’s the Ketef Hinnom scrolls from the days of King Hezekiah, the tefillin at Qumran, or the grooves worn into ancient Jewish doorposts from centuries of mezuzot, the physical objects used for daily prayer and devotion have been found all throughout the ancient world. These are the very same kinds of objects that would have been attached to the homes of Saints Peter and Paul—objects kissed or touched each time one entered the home.</p><div data-sanitized-class="captioned-image-container"><figure><a href="https://substackcdn.com/image/fetch/%24s_!z77W!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84f05d1c-aae0-40fd-82fd-a09a85957342_1952x1048.heic" data-component-name="Image2ToDOM" data-sanitized-class="image-link image2 is-viewable-img"><div data-sanitized-class="image2-inset"><picture><source type="image/webp"><img src="https://substackcdn.com/image/fetch/%24s_!z77W!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84f05d1c-aae0-40fd-82fd-a09a85957342_1952x1048.heic" width="1456" height="782" data-attrs='{"src":"https://substack-post-media.s3.amazonaws.com/public/images/84f05d1c-aae0-40fd-82fd-a09a85957342_1952x1048.heic","srcNoWatermark":null,"fullscreen":null,"imageSize":null,"height":782,"width":1456,"resizeWidth":null,"bytes":251378,"alt":null,"title":null,"type":"image/heic","href":null,"belowTheFold":true,"topImage":false,"internalRedirect":"https://kennethbwrites.substack.com/i/179133046?img=https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F84f05d1c-aae0-40fd-82fd-a09a85957342_1952x1048.heic","isProcessing":false,"align":null,"offset":false}' alt="" data-sanitized-class="sizing-normal"></picture><div data-sanitized-class="image-link-expand"><div data-sanitized-class="pencraft pc-display-flex pc-gap-8 pc-reset"><button data-sanitized-class="pencraft pc-reset pencraft icon-container restack-image"></button><button data-sanitized-class="pencraft pc-reset pencraft icon-container view-image"></button></div></div></div></a></figure></div><p>We know that Jesus and His apostles would have tied phylacteries—amulets bearing the words of the Law—around their arms and foreheads three times a day when they prayed, just as Daniel did in Persia. And we know from Matthew 23 that Jesus rebuked the Pharisees not for using phylacteries, but for making theirs extra large in order to appear more pious.</p><p>It makes modern portrayals of the Bible—children’s cartoons, Sunday-school illustrations, or films like <em>The Ten Commandments</em>—feel almost comical in hindsight. We often see Jesus and His followers depicted more like 1960s “Hippie Christians” than as first-century Jews who lived a thoroughly sacramental life. Not every modern representation misses the mark, though; in <em>Ben-Hur</em> there is a beautiful scene in which the faithful enter a home and pause to venerate the mezuzah on the doorpost, a gesture that would have been entirely natural to Jesus and the disciples.</p><p>And perhaps, dear reader, you’re wondering: <em>What’s the point? Why meditate on Jesus and the apostles kissing icons? What does that have to do with us in 2025?</em><br>It’s a fair question, and the answer is just as fair: in our post-Enlightenment world, we have demystified religion. We have scrubbed from Christianity the invisible world that gives it life, reducing the faith to something cold, hard, and material.</p><p>This is why the supreme religion of America—of Hollywood—is simply “love,” and more specifically, “falling in love.” Turn on nearly any film from the last seventy-five years and the central drama is not the mystery of the Incarnation, but the mystery of romantic fulfillment. Whether it’s an action blockbuster where the hero defeats thousands or a rom-com where awkwardness turns to bliss, the arc of the story almost always resolves in the same way: the protagonist falls in love and “lives happily ever after.” It is the “first kiss” which has become the greatest act of religious devotion and veneration in our humanistic and agnostic culture. The first kiss between lovers is the great religious form of veneration our society practices. </p><p>You see, in a world where religious icons are no longer venerated, an icon must <em>still</em> be found. God created us as material beings who live beside an invisible and immaterial world. When we venerate the holy—when we kiss that which points beyond itself—our affections rise toward the heavenly. Our souls remember eternity.<br>When we do <em>not</em> venerate the holy, we inevitably find something else to venerate. And in the Western world, the supreme object of affection has become the god of romantic love.</p><p>Ironically, almost no one in the Biblical world would have understood relationships in terms of “falling in love.” Such a concept barely existed in antiquity. Even Solomon, who composed Scripture’s great poem of romance, wrote about one woman in a harem of many. Romantic affection has its place, but we must be honest: it was never the center of the ancient imagination. <br></p><p>The first kiss between lovers was not the supreme act of devotion in the ancient world—not for the people of God. The holiest kiss was reserved for the Torah scroll as it was carried through the synagogue each Sabbath. It was the kiss placed upon the <strong>Shema</strong> affixed to the doorpost of a faithful Jewish home each time one entered or departed. This was the kiss that acknowledged covenant, identity, and the invisible presence of God in the midst of daily life.</p><p>And here, dear reader—if we follow the thread just a little farther—we begin to see why <em>a kiss</em> becomes the charged, symbolic act through which Judas betrays Christ. The gesture meant for reverence is twisted into a weapon. But that, perhaps, is a story for another essay.</p><p>The tragedy of the Enlightenment is not merely that it questioned miracles or encouraged scientific inquiry; it is that it quietly rewired our instincts. It taught us to distrust the very sacramentality through which God has always formed His people. When you strip the world of mystery, the human heart will not suddenly become rational—it will simply attach its longing to lesser mysteries. Remove the veneration of the holy, and we will venerate Hollywood. </p><p>Remove the kiss offered to the unseen God, and we will kiss the idols of our own age—romance, self-creation, success, influence. But the ancient world understood something we have forgotten: what you touch, you become; what you honor, you imitate. Christ never called His disciples to escape matter, but to see it transfigured. And so the real invitation before us is this: to renounce the thin, brittle icons of our age and return to the thick, incarnational faith of the apostles—a faith where the invisible world breaks into the visible, where heaven meets earth, and where our bodies, our prayers, and our loves are all re-oriented toward the One who first loved us.</p><p>~ Kenneth <br></p><p>To all of you who read, share, and subscribe—both paid and unpaid—thank you. I’m continually humbled that anyone takes the time to walk with me through these reflections. I sincerely covet your prayers; they mean far more to me than you may realize. For those who support this work financially, please know that every dollar goes straight into ministry: coffee with inquirers who are curious about Christianity, tea with those wrestling through faith, and quiet conversations with people who simply need someone to sit with them for a while. Your generosity makes those moments possible. Thank you for helping me serve Christ and His people in small but meaningful ways.</p>]]></description>
+			<pubDate>Mon, 17 Nov 2025 05:45:42 -0700</pubDate>
+			<guid isPermaLink="false">1763422414691003</guid>
 		</item>
 		<item>
-			<title>Google will allow experienced users to install apps from third-party sources on Android</title>
-			<link>https://www.ghacks.net/2025/11/17/google-will-allow-experienced-users-to-install-apps-from-third-party-sources-on-android/</link>
-						<dc:creator>Ashwin</dc:creator>
-			<category>Google</category>
-			<category>Google Android</category>
-			<description><![CDATA[<p>Google has backtracked partially on its anti-third party app store policy. It will allow power users to install Android apps from alternative sources.</p>
-<p>The Mountain View company had recently announced a system for <a href="https://www.ghacks.net/2025/08/26/google-wants-android-app-developers-to-verify-their-identity-this-could-affect-sideloading-apps/" data-wpel-link="internal">Developer Verification</a>, that requires Android app developers who distribute their apps outside the Play Store to verify their identity by registering with Google. While it claimed this would protect users from malware apps, the policy was met with <a href="https://www.ghacks.net/2025/09/29/f-droid-criticizes-googles-anti-sideloading-policy-calls-for-antitrust-scrutiny/" data-wpel-link="internal">widespread criticism</a> from the Android community. <a href="https://www.ghacks.net/2025/10/31/f-droid-says-googles-statement-about-sideloading-is-not-going-away-is-false/" data-wpel-link="internal">F-Droid had warned</a> that this move could kill the openness of Android's ecosystem, bringing it totally under Google's control. And there's also the fact that the <a href="https://www.ghacks.net/2025/11/07/google-play-store-hosted-239-malicious-apps-that-were-downloaded-40-million-times/" data-wpel-link="internal">Play Store has been prone to malware</a> apps.</p>
-<p>After hearing the feedback from users and developers, Google has <a href="https://android-developers.googleblog.com/2025/11/android-developer-verification-early.html" data-wpel-link="external">updated its policy,</a> to announce that it will allow experienced users to install apps from third-party sources. The updated statement mentions that it is "building a new advanced flow that allows experienced users to accept the risks of installing software that isn't verified." This flow is designed to resist coercion, and to prevent users from bypassing safety checks while under pressure from a scammer. It will also involve clear warnings that explain the risks involved.</p>
-<p>This sounds similar to the system that Xiaomi has on its phones in HyperOS, and formerly on MIUI. When you try to install an APK downloaded from the internet, it displays a warning screen that tells you about the security risks, and makes you wait for about 10 seconds, before letting you accept the risks and install the app. It's a bit annoying, but at least it doesn't block the installation.</p>
-<p>While this is good news for power users, chances are Google could come back with a different plan in the future. But there is something else that may allow more freedom for Android users.</p>
-<p>A couple of weeks ago, Epic and Google revealed that they are working on a settlement in their 5-year-long lawsuit. Google had lost the antitrust case which began in 2020, after a court deemed it guilty of building <a href="https://www.ghacks.net/2023/12/12/google-has-illegal-app-store-monopoly-says-jury-in-epic-case/" data-wpel-link="internal">an illegal monopoly on Android</a>, specifically by not allowing third party payment options and app distribution through the Google Play Store. However, the case has dragged on because of a ruling that <a href="https://www.ghacks.net/2024/10/08/court-orders-google-to-lift-restrictions-on-play-store-after-epic-games-antitrust-lawsuit/" data-wpel-link="internal">opened up the Play Store</a> to allow third party payment methods, and also host alternate app marketplaces for three years. These rules were only applicable in the U.S., not worldwide.</p>
-<p>Google had appealed against the changes, but <a href="https://www.ghacks.net/2025/08/01/google-loses-its-appeal-against-epic-games/" data-wpel-link="internal">failed to win the appeal</a>, and was <a href="https://www.ghacks.net/2025/10/31/google-opens-up-play-store-to-allow-third-party-payment-methods-in-the-u-s/" data-wpel-link="internal">forced to make changes to its Play Store policies</a> to comply with the law. Now, Google and Epic have reached an agreement where Google has offered to lower the Play Store service fee from 30% to 9% or 20% based on the transaction, which could mean lower prices for users. Google will also allow alternative marketplaces on the Play Store. These changes are applicable around the world, until June 2032. <a href="https://www.theverge.com/policy/813991/epic-google-proposed-settlement" data-wpel-link="external">The Verge</a> reported that the proposed settlement needs to be approved by U.S. District Court Judge, James Donato.</p>
-<p>The result of this settlement may have a big impact on app distribution by keeping Android as an open ecosystem, as does Google's updated policy.</p>
-<p>Thank you for being a Ghacks reader. The post <a href="https://www.ghacks.net/2025/11/17/google-will-allow-experienced-users-to-install-apps-from-third-party-sources-on-android/" data-wpel-link="internal">Google will allow experienced users to install apps from third-party sources on Android</a> appeared first on <a href="https://www.ghacks.net/" data-wpel-link="internal">gHacks Technology News</a>.</p>]]></description>
-			<pubDate>Mon, 17 Nov 2025 02:50:30 -0700</pubDate>
-			<guid isPermaLink="false">1763376235879183</guid>
+			<title>Gundam is just the same as Jane Austen but happens to include giant mech suits</title>
+			<link>https://eli.li/gundam-is-just-the-same-as-jane-austen-but-happens-to-include-giant-mech-suits</link>
+						<description><![CDATA[<p><a href="https://www.joshkimux.com/">A friend</a> recently asked how to get started watching Gundam, and as I tripped all over myself, equal parts excitement and not wanting to sound like a lunatic, I fumbled around for a good answer.</p>
+<p>What I landed at was inelegant and I eventually panicked and found a watch list online. <span data-sanitized-class="small-caps">BUT</span>! <span data-sanitized-class="small-caps">BUT</span>! What is a blog for if not do overs!? Also, what follows has literally no information in it about where to get started watching Gundam, it is all about why I like Gundam…and Jane Austen.</p>
+<hr>
+<blockquote>
+<p><span data-sanitized-class="pull-double">“</span>Okay, so, like, they’re both about tensions between duty, social position, and personal desires.”</p>
+</blockquote>
+<p>I love Gundam for all the same reasons that I love Jane Austen.</p>
+<p>Austen writes drawing room comedies about marriage and property in Regency England. Gundam is a space opera about war, its impacts on the people that make and are victims to it, and giant mech suits…also sometimes magical teens…</p>
+<p>Folks in Austen’s books have to navigate rigid class structures where marriages are strategic alliances and personal feeling has to be balanced against social obligation. Gundam, especially the Universal Century timeline stuff, is filled with characters torn between personal relationships and their positions within military and political hierarchies.</p>
+<p>They also both, mostly, focus on characters who have enough privilege to have choices, but not enough power to escape circumstances. Characters in both aren’t peasants without agency, but they’re also caught in larger systems they can’t opt out of…save for <a href="https://en.wikipedia.org/wiki/Mobile_Suit_Gundam:_Iron-Blooded_Orphans">Iron Blooded Orphans</a>…what I find compelling about both Austen and Gundam is watching the gap between personal desire and institutional logic do stuff.</p>
+<p>Elizabeth Bennet wants to marry for love and respect, but in her world marriage is fundamentally about economic security and social alliance. Her refusal of Collins is personal desire asserting itself. Her family’s panic is institutional logic demanding she comply. The whole novel is the tension between those two forces, and arguably Austen’s project is figuring out if you can thread the needle; if Darcy can be both economically suitable and emotionally right. Having cake. Eating it.</p>
+<p><a href="https://en.wikipedia.org/wiki/Char_Aznable">Char Aznable</a> wants…well, it’s hard to say exactly what Char wants, which is part of what makes him such a compelling mask-wearing disaster. He wants revenge for his father. He wants Amuro to acknowledge him. He wants Lalah back. He wants to be Casval Rem Deikun, or maybe he wants to stop being Casval. He’s committed himself to leading a colonial independence movement, and then to dropping asteroids on Earth. His personal desire, this unresolved stuff with Amuro and the ghost of Lalah, gets channeled through institutional logic in a way that threatens to kill many millions of people.</p>
+<p>Both Elizabeth and Char are presented as the smartest people in most rooms they enter. Both are hyper-conscious of social dynamics and relish in having the ability to wield sometimes devastating wit. Both are shaped by wounds from their past that they can’t move away from: Elizabeth’s wound is social humiliation and economic precarity (this is maybe a stretch, tbh). Char’s is literal patricide and the loss of his birthright. Both are performing roles while pursuing deeper agendas. But, you know, Char’s agenda involves colonial war rather than securing a good marriage, but the emotional architecture is similar.</p>
+<p>Emma Woodhouse and Suletta Mercury also pair well! Emma wants to play matchmaker, but the social institution of matchmaking is actually about managing property and bloodlines. Her meddling with Harriet kinda sorta almost destroys Harriet’s life because Emma is applying personal whim to institutional machinery. She thinks she’s helping. She’s actually just another gear in the system. Badly done.</p>
+<p>Suletta wants to help Miorine to maybe understand what’s happening around her. But she’s a tool in her mother’s (who is also a Char stand in!?) plan, and the arranged marriage she’s been pushed into is institutional logic and corporate alliance dressed up as personal connection. <a href="https://en.wikipedia.org/wiki/Mobile_Suit_Gundam:_The_Witch_from_Mercury">Witch from Mercury</a> kinda beats you over the head with this. Both Suletta and Miorine are heirs to massive corporate power but have almost no control over how that power operates or what’s expected of them.</p>
+<p>The arranged marriage plot is straight out of Austen, and the show mostly kinda knows it, I think. But, whereas Emma eventually learns to see the system clearly and makes choices within it. Suletta has to learn that some systems can’t be reformed from within…and so kinda becomes a killing machine for a wee bit there to burn down the sources of corporate power entrapping her and Miorine and everyone else.</p>
+<p>…and then I cut a lot more rambling examples that reveal me to be waaaaay to deep into this line of thought…</p>
+<p>Smash cut!</p>
+<p>There’s also something Austen-like in how Gundam does drawing room politics. Austen is very very good at showing how personality, wit, and emotional intelligence play out in constrained social settings where everyone is performing their role. The dinner party at Netherfield, the card games at the Musgroves. These are all arenas where characters perform their social identities while maneuvering for advantage or connection.</p>
+<p>Gundam has all those diplomatic dinners, peace negotiations, military briefings where characters are similarly performing their institutional identities while personal tensions try to poke through from underneath. The constant political maneuvering in <a href="https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_Unicorn">Unicorn</a>. Every conversation in the Buch Concern boardrooms in Witch. What you say and what you mean are usually different things, and the camera lingers on faces the same way Austen lingers on small gestures and loaded phrases. But then, also, the giant mech battles are kinda Gundam’s drawing room politics, too, maybe?</p>
+<p>My unhinged ending is that Iron Blooded Orphans is the exception (that I’ve seen…I’m not actually so obsessive as to have watched all of every single Gundam thing ever…yet). Mikazuki and the Tekkadan crew are trying to break into the social structure that other Gundam protagonists are trying to figure out how to navigate or escape. They’re not conflicted aristocrats trying to balance duty and feeling. They’re child soldiers attempting to use violence to gain legitimacy within the system that exploited them, kinda like an inverted Austen story.</p>
+<p>I think that the stories in Gundam that work the best are the ones that understand that the tragedy isn’t just that war is bad, but that institutional logic and personal desire are fundamentally incompatible, and someone has to lose. Meanwhile, Austen’s stories posit that you can thread that needle, at least sometimes, if you are clever and lucky and good. Gundam is less optimistic. Maybe because within Gundam war as an institution is more totalizing than marriage is. There’s no Darcy compromise available when the institutional machinery is designed to kill…which is a very hilariously heavy thing to have written, but then I realized that <a href="https://en.wikipedia.org/wiki/Mobile_Suit_Gundam_GQuuuuuuX">Gundam GQuuuuuuX</a> is out and that is where I suggested my friend start because…like…who doesn’t wanna see what Hideaki Anno does with Gundam?</p>
+<hr>
+<p>Besides thinking too much about Gundam, I’ve been learning more about Gleam and Erlang and playing a lot of both Pokemon X and Pokemon <span data-sanitized-class="small-caps">ZA</span> with my kids. We’re going for the full Lumiose City experience. I’ve also been thinking a bit about the next <a href="https://eli.li/december-adventure">december adventure</a>, because I’ve been making plodding progress on a game, I think I may continue to work on that throughout the close of the year.</p>
+<p>In a sneaky moment, I assumed that the new The Last Dinner Party album would take over my listening, but what has actually taken over my listening and what I’m already ready to call my favorite album of the year is Florence + The Machine’s new album,<span data-sanitized-class="push-double"></span> <span data-sanitized-class="pull-double">“</span>Everybody Scream.”</p>
+<p>Oh! And I<span data-sanitized-class="push-double"></span> <span data-sanitized-class="pull-double">“</span>released” a silly macOS app I made. <a href="https://eli.li/floating-clock">FloatingClock.</a></p>]]></description>
+			<pubDate>Mon, 17 Nov 2025 10:00:00 -0700</pubDate>
+			<guid isPermaLink="false">1763422414691000</guid>
 		</item>
 		<item>
-			<title>Disney's channels are back on YouTube TV after a 2-week blackout</title>
-			<link>https://www.ghacks.net/2025/11/17/disneys-channels-are-back-on-youtube-tv-after-a-2-week-blackout/</link>
-						<dc:creator>Ashwin</dc:creator>
-			<category>Google</category>
-			<category>Youtube</category>
-			<description><![CDATA[<p>The feud between YouTube TV and Disney has ended. Disney's channels are back on the streaming service after a blackout of over 2 weeks.</p>
-<p><a href="https://www.ghacks.net/2025/11/03/youtube-tv-loses-access-to-disney-espn-and-more/" data-wpel-link="internal">YouTube TV subscribers had lost access to Disney, ESPN, ABC</a>, and more, after a contract between YouTube TV and Disney expired on October 30th. Things got pretty dirty between the two companies, as they engaged in a game of blame publicly, where they claimed the other party was being stubborn. This resulted in over 10 million YouTube TV subscribers losing access to sporting events like Monday Night Football, and other programming.</p>
-<p>YouTube for its part alleged that Disney had threatened to black out its services in a bid to force its hand in a deal that would make the service more expensive for users. In case you don't know, YouTube TV costs $82 per month. On the other hand, Disney claimed that YouTube was trying to abuse its dominant position, to undercut industry standard terms. As the spat between the two continued, a memo signed by three Disney's executives was leaked.</p>
-<p><a href="https://www.nytimes.com/athletic/6787572/2025/11/07/espn-disney-memo-youtubetv-nfl/" data-wpel-link="external">The NY Times</a> reported that The Athletic had read the memo. The document had said that Disney had offered YouTube fair terms that were in line with over 500 distributors, including some that were bigger than YouTube TV. It also said that YouTube TV was unwilling to accept these terms, and insisted on receiving preferential terms. YouTube hit back at this, saying Disney had leaked documents to the press, and was using its network presenters to negotiate in public, and also that it had misrepresented the facts.</p>
-<p>Even as the drama continued last week, <a href="https://www.ghacks.net/2025/11/10/youtube-tv-is-issuing-a-20-credit-to-subscribers-after-losing-access-to-espn-disney/" data-wpel-link="internal">YouTube TV issued a one-time credit of $20</a> that subscribers could avail. But, things have taken a surprising turn. Google and Disney have finally come to an agreement. YouTube has <a href="https://blog.youtube/inside-youtube/disney-youtube-tv/" data-wpel-link="external">updated its statement</a> to say Disney's channels are now back on YouTube TV, and has apologized to subscribers for the disruption. The Walt Disney Company also published <a href="https://thewaltdisneycompany.com/the-walt-disney-company-announces-multi-year-distribution-agreement-with-youtube-tv/" data-wpel-link="external">a statement on its website</a> to say it has reached a multi-year distribution agreement with YouTube TV, and that Disney's channels including ESPN, ABC, Freeform, FX, the National Geographic channels are all available for YouTube TV subscribers.</p>
-<p>Thank you for being a Ghacks reader. The post <a href="https://www.ghacks.net/2025/11/17/disneys-channels-are-back-on-youtube-tv-after-a-2-week-blackout/" data-wpel-link="internal">Disney's channels are back on YouTube TV after a 2-week blackout</a> appeared first on <a href="https://www.ghacks.net/" data-wpel-link="internal">gHacks Technology News</a>.</p>]]></description>
-			<pubDate>Sun, 16 Nov 2025 22:04:12 -0700</pubDate>
-			<guid isPermaLink="false">1763376235879182</guid>
+			<title>I replaced all imgur links and self-hosted images instead!</title>
+			<link>https://petrapixel.neocities.org/</link>
+						<description><![CDATA[]]></description>
+			<pubDate>Sun, 16 Nov 2025 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">1763422414690999</guid>
 		</item>
 		<item>
-			<title>I Was Going To Be A Pen Nerd</title>
-			<link>https://mtwb.blog/posts/2025/i-was-going-to-be-a-pen-nerd/</link>
-						<category>pens</category>
-			<category>hobbies</category>
-			<description><![CDATA[<p>So, I wrote in one of my link posts that I had decided to buy a Platinum Preppy fountain pen. I’ve now done that, and I have to say, I love it. I’ll do a full review of it soon, but I am a convert. So much so, that I hopped on Amazon and bought myself some more fountain pens. I found this multi-pack with loads of colors called Eyeye Pen. It has 10 colors for about 15 bucks, I think, and those too are really good.</p>
-<p>So, I have all these fountain pens, and I’m like: “I’m a pen nerd now!”</p>
-<figure>
-<img src="https://mtwb.blog/assets/penaddict.png" alt="Pen Addict Podcast">
-<figcaption>The Pen Addict Podcast</figcaption>
-</figure>
-<p>And what does a real pen nerd do? They listen to an hour long podcast about pens, of course! What else would they do? Thanks to a few of my blogging buddies, I found <a href="https://www.relay.fm/penaddict">The Pen Addict</a>. It’s a great podcast all about pens and paper and stationary. Now that I’m a pen nerd, I feel right at home.</p>
-<p>Or at least, I did for a while. Then they started talking about their favorite pens, and the prices that are attached to them. Hey, did you know that pens can be really cheap, but if you’re a pen nerd, they’re actually REALLY FUCKING EXPENSIVE? Yeah, me neither.</p>
-<p>When they started talking about “mid range” pens being in the $250 range, I was shocked. And then they were talking about $1000 pens, and $25,000 pens. The fuck?</p>
-<p>So, I <em>was going to be</em> a pen nerd. I think I might be a cheap pen nerd. And I mean really cheap. I’ll pay $30 for <strong>a pack of pens</strong>. That doesn’t sound so bad. But they better be good pens, or it’s not a great buy. If I ever write a blog post for you guys where I even <em>talk</em> about spending a lot of money on a pen, somebody please contact the authorities as I’ve obviously had some sort of mental breakdown.</p>]]></description>
-			<pubDate>Sun, 16 Nov 2025 16:55:54 -0700</pubDate>
-			<guid isPermaLink="false">1763376235879181</guid>
-		</item>
-		<item>
-			<title>Bent Out of Shape</title>
-			<link>https://musingsfromatangledmind.com/2025/11/16/bent-out-of-shape/</link>
-						<dc:creator>Musings from a Tangled Mind</dc:creator>
-			<category>Everyday Musings</category>
-			<category>fun</category>
-			<category>humor</category>
-			<category>just for fun</category>
-			<media:content url="https://0.gravatar.com/avatar/31ec7a2e33056eb9b17551f99a60a9ba20d8b41e7681ea12d7fe7911294c5215?s=96&amp;d=identicon&amp;r=G" medium="image"><media:title type="html">surojabu11</media:title></media:content>
-			<description><![CDATA[<p>I threw my back out this weekend, and not even for a good reason. I wasn’t dancing, hauling furniture, or rescuing kittens from a burning building. Or… you know. <em>That</em> might’ve been worth it. No, I was <em>cleaning.</em> Cleaning! Truly the least sexy origin story imaginable.</p>
-<p>A nap would never betray me like this.</p>
-<p>The moral to the story? Always. Choose. Naps.</p>
-<p><span>.</span></p>
-<p> </p>
-<p> </p>]]></description>
-			<pubDate>Sun, 16 Nov 2025 20:29:34 -0700</pubDate>
-			<guid isPermaLink="false">1763376235879180</guid>
-		</item>
-		<item>
-			<title>The thing that libs don't realize about means testing</title>
-			<link>https://blog.lauramichet.com/the-thing-that-libs-dont-realize-about-means-testing/</link>
-						<dc:creator>lauram</dc:creator>
-			<description><![CDATA[<p>...is that it is insanely annoying!!</p>
-<p>I am now signed up for unemployment insurance in the state of California. I spent a lot of time on the phone recently trying to submit and the correct my application for it. This is the first time I have been laid off in my life (I had a 15 year streak of dodging layoffs by leaving for a new job immediately before they occurred!) and therefore this is the first time I have been eligible for UI in any part of the US.</p>
-<p>I've been against aggressive means-testing for a long time because it seems stupid, unfair, and a waste of energy to restrict our social safety net programs with massive bureaucratic surveillance programs. I knew from my friends that it is also unbelievably annoying; I now have that experience myself. It is actually more annoying than doing my taxes, which is crazy. (I'd assumed that it would be about <em>exactly</em> as annoying as doing my taxes.)</p>
-<p>The forms are huge, the websites are oddly laid-out, and everything is written in the strangest, densest language possible. The phone trees are word puzzles - every verbal question they pose will have multiple long asides referring to possible exceptions, often listing out specific document names or federal programs. By the time the phone tree completes a question, I sometimes have a hard time remembering how the sentence began.</p>
-<p>I had the experience of being manually marked as "unable or unwilling to work full time", which I needed to call and correct; the guy at the EDD office had no idea why I'd been marked that way and simply manually reversed it. This is when I learned that my ability or willingness to work within the CA unemployment insurance system is not something that I can attest to positively <em>myself,</em> as <em>the worker in question;</em> it's something that a stranger at the back of the EDD tech decides about me and <em>manually inputs</em> after reviewing my material.</p>
-<p>Anyway, I was on the phone solving that and other problems for hours. Amazing!</p>
-<p>That's the whole blog post today: means testing is <em>more</em> annoying than doing your taxes. In my experience, it was about exactly as annoying as getting challenged by health insurance. On a stress level, it is even comparable to the time that airport security tried to take all my diabetes equipment away from me, which was possibly the most terrifying and morally objectionable bureaucratic challenge I've navigated in my life. (I was, I think, sixteen.) That's it! That's the post!!</p>]]></description>
-			<pubDate>Sun, 16 Nov 2025 18:47:00 -0700</pubDate>
-			<guid isPermaLink="false">1763344674792765</guid>
+			<title>Doing the Monster Mash</title>
+			<link>http://www.unfogged.com/archives/week_2025_11_16.html#019060</link>
+						<dc:creator>Heebie-Geebie</dc:creator>
+			<description><![CDATA[<p>First off, are net nannies still a thing? The linked post has a lot of f*cks.  (I'll go ahead and at least self-censor here.)</p>
+
+<p>Charley Carp sends in: <a href="https://sitarasgarden.substack.com/p/can-we-handle-a-truly-monstrous-girl">Nobody wants a monster girl. Why, even in our own fantasies, do we insist that only the male monsters get to f*ck?</a></p>
+
+<p>It's a fun read! First she makes the case that lots of women want to f*ck monsters:</p>
+
+<blockquote>Andrews argues that women don't fantasise about male monsters because they're masculine but rather because they're not men. Monsters are, by definition, the other. They, too, know what it's like to be gawked at, objectified and misunderstood. Because he's not human, your monster boyfriend is exempt from the patriarchal hierarchy. His power feels (super)natural, not political.</blockquote>
+
+<blockquote>It's the man-vs-bear thing. By hooking up with a monster, you get all the manliness and none of the man. Someone with big biceps but no creepy search history. A sexual <em>predator</em> not a <em>sexual</em> predator.</blockquote>
+
+<p>I can kind of get that.</p>
+
+<p>Whereas:</p>
+
+<blockquote>Rare cases of men wanting to f*ck true female beasts were either comedic1 or the beasts in question were really just anime girls with tails. But I'm less interested in why men dislike beastly women than why women creators do too. Even in our own fantasies, why do only the male monsters get to f*ck?</blockquote>
+
+<p>and</p>
+
+<blockquote>If female monsters don't conform to beauty standards, they aren't afforded love. At best, she's a supermodel with horns. At worst, her "monstrousness" has to be scrubbed away before the male love interest can stomach a kiss. Why, in stories made by women, is female beauty still the price of love?
+</blockquote>
+
+<p>She does acknowledge that this is a straight-coded issue:</p>
+
+<blockquote>For the record, things seem a little more mixed in the lesbian monster-f*cker community. While a lot of sapphic beasts fall into the "conventionally hot woman with horns" category, you can also find dragons, gargoyles, trolls and the Xenomorph.
+</blockquote>
+
+<p>I do think that the basic question is interesting. There are a lot of love narratives where Person A was not initially attracted to Person B, until Person B's other sexy qualities became so irresistible that Person A revised their initial attraction.  In stories, what counts as sufficiently sexy good qualities to override an initial impression?  Is it just that Monsters code male in general?<br>
+</p>]]></description>
+			<pubDate>Mon, 17 Nov 2025 07:39:09 -0700</pubDate>
+			<guid isPermaLink="false">1763422414690937</guid>
 		</item>
 
 	</channel>
