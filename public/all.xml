@@ -3,40 +3,386 @@
 		<title> | FreshRSS</title>
 		<link>http://192.168.1.206/FreshRSS/p</link>
 		<description>RSS feed of  | FreshRSS</description>
-		<pubDate>Tue, 18 Nov 2025 17:24:40 -0700</pubDate>
-		<lastBuildDate>Wed, 19 Nov 2025 00:24:40 GMT</lastBuildDate>
+		<pubDate>Wed, 19 Nov 2025 04:42:49 -0700</pubDate>
+		<lastBuildDate>Wed, 19 Nov 2025 11:42:49 GMT</lastBuildDate>
 		<atom:link href="/i/?a=rss&amp;state=2" rel="self" type="application/rss+xml" />
 				<item>
-			<title>I grew mint from from scratch</title>
-			<link>https://riri.my/view-post.php?slug=i-grew-mint-from-from-scratch</link>
-						<dc:creator>Rina</dc:creator>
-			<description><![CDATA[<!-- FULLCONTENT start //--><section data-sanitized-id="post" data-sanitized-class="mt-8 widget">
-                    <h3 data-sanitized-class="widget-subtitle">september 18, 2025 @ 07:16 pm | est. reading time: 1 - 2 mins | word count 187</h3><br>
-                     <h2 data-sanitized-class="widget-title">I grew mint from from scratch</h2>
-                    <p data-sanitized-class="mb-4"> hi everyone! long time no see! i just want to provide a small update! :)<br>
-i've been trying to grow out mint at home! ٩(ˊᗜˋ*)و ♡<br>
-<br>
-about a week ago, I was on a walk, and found wild mint growing from the ground, and so I've decided to take a sproutling for myself, to try and grow it out at home, because, why not? am i right?<br>
-it took about 11 days for roots to get long enough for me to be able to plant it! not too long, right!<br>
-<br>
-after 3 days of her being home with me, i had baby roots!<br>
-<img src="https://riri.my/img/IMG_20250910_170810.jpg" alt="3 days later"><br>
-weren't they so cute!?<br>
-<br>
-now after two more days, we had bigger roots ^___^<br>
-<img src="https://riri.my/img/IMG_20250912_174047.jpg" alt="2 days later"><br>
-and after five more days I had a got full root system with even a baby plant next to it! (this was yesterday)<br>
-<img src="https://riri.my/img/IMG_20250917_133317.jpg" alt="5 days later"><br>
-i've decided to give it another day in the water cup so it can spread its roots a tad bit more, and today I've decided to plant it :)<br>
-<img src="https://riri.my/img/IMG_20250918_185602.jpg" alt="A mint plant"><br>
-isn't she cute?? ◝(ᵔᗜᵔ)◜<br>
-<br>
-while i'm not a tea drinker (usually) i just wanted a small plant to take care of! i hope she grows biiiiiiiiiig.<br>
+			<title>Thoughts about interfaces acting like people</title>
+			<link>https://blog.lauramichet.com/thoughts-about-interfaces-acting-like-people/</link>
+						<dc:creator>lauram</dc:creator>
+			<description><![CDATA[<p>Here's a photo of a tipped-over <a href="https://en.wikipedia.org/wiki/Bird_Global">Bird scooter:</a></p>
+<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/lauram/img_0912.webp" alt="IMG_0912"></p>
+<p>"Please help me up!" it says on the underside of the scooter's main platform.</p>
+<p>I've been thinking a lot about the ambiguity of human oversight and control in the "delivery robot" industry in west LA, where a lot of those devices are being tested. Living near delivery robots - or, rather, <a href="https://blog.lauramichet.com/living-in-the-robot-zone/">live human labor</a> that is being marketed as autonomous and robot-like - is new for me. Usually, I deal with <em>objects pretending to be people</em>. They pretend either superficially, like the scooter above, or robustly and insidiously, like voice chat assistants.</p>
+<p>Companies depicting their live-ops services as if they are people is, I think, the most harmful form of "pretend person." Voice UIs in particular hijack the human instinct to understand words as thought, and to treat thinking beings with sympathy and trust. After spending a lot of time making a two small Alexa games at a pair of game jams years and years ago, I grew to understand that even a relatively simple human-like voice UI can be extraordinarily manipulative.</p>
+<p>Now that people can "speak to" an LLM, I think the issue is a lot more urgent. My strongest crank conviction is that we should regulate the use of software 'personalities' as disruptively as possible. I believe that it should be compulsory to disclose directly to the user - live, during a user session - when a voice assistant or audio UI is not a real person. After the seemingly-endless series of stories we got this past summer and fall about LLM-related deaths, I believe that text personalities like LLM chatbots also deserve extremely disruptive warnings, disclosures, and reminders.</p>
+<p>We're very, very unlikely to ever get that kind of regulation. I'll probably always remain convinced that we needed it, though. Anything that can break the social spell of a conversational interface is beneficial to the humans who use it.</p>
+<p>The other side of this earnestly-held crank opinion is that I don't have a problem when people are extremely rude to voice assistants. I think that when you have the full context on what they are, who made them, why, and <em>for whom,</em> you must grow to think of them as essentially tech company owners and investor boards wearing a little mask. Alexa is Jeff Bezos wearing a mask. You shouldn't feel the need to be polite to his little mask.</p>
+<p>The trick is that I do reserve the right to judge people on the why and how of their rudeness. I don't think you should call the Alexa voice UI a cunt. I <em>do</em> think you should feel free to snap "Shut the fuck up, Jeff," at any Alexa product you're annoyed with. (There are certainly people who are rude to female voice assistants because they fantasize that they are able to berate, control, and demand service from a woman.) It would be self-protective for us all to be more distrustful of, and ruder to, tech company voice UIs. It should feel preposterous to extend Jeff's little mask the same courtesy you extend a real person.</p>
+<p>And finally, to return to the delivery "robots" I wrote about yesterday: in a world where we need to protect one another from tech products harmfully pretending to be people, and where aggression and rudeness to voice UIs can be a perfectly good way of training yourself to distrust them... well, in that situation, it's even more insidious for companies to pretend their people are "robots". I believe that we have no hope of government regulation here, and that unions are probably going to be the last line along which human transparency might be defended. If your <em>live human services</em> are being sold to a customer as "autonomous", and if you can organize, I think you should demand that the company make your presence known to its customers.</p>
+<p>The difficulty of unionizing teleoperation services at companies with more money than <em>some nations</em> is its own can of worms... but alongside an effort to break these companies up some more, I think it could have an impact. (I gotta keep telling myself that, anyway, because the alternative is extremely depressing!!)</p>
+<hr>
+<p>These days, when I watch movies with voice interfaces or "AI" assistants in them, I find myself pretty surprised by how many fictional worlds seem to be full of people who never experience any ambiguity about whether they're talking to a person or to software. Everyone in a sci-fi setting has usually fully internalized the rules about what is or isn't "real" in their conversational world, and they usually all have a social script for how they're "supposed" to treat AI voice assistants.</p>
+<p>Characters in modern film and TV are almost never rude or cruel to voice assistants except in scenes where they're being misunderstood by voice recognition. People in stories like these rarely ever get confused about whether something is a human or an AI unless that's, like, the entire point of the story. But in real life, we're constantly forced to interact with an unwanted voice UI, or a phone scammer voice that's pretending to be real. I have found myself really missing moments like these in movies, where humans express any material awareness of the false voices they interact with. Who <em>made</em> their voice assistant? How do they feel about that company or person? Are they ever tricked by a voice that is false when they expected it to be a real, live human?</p>
+<p>I've also found myself increasingly frustrated by movies which use AI as a metaphor for real live human marginalization. The future is here, and "AI" is Sam Altman wearing a little mask; it is not a marginalized person. (It's possible that your delivery "robot" is actually a marginalized person, though!)</p>
+<p>The reason I wrote this post at all was because I saw the new Running Man movie last week, and it contained a scene where the protagonist behaved toward an AI interface in a shockingly neutral way. It is so neutral that I was surprised, in the moment, that the script hadn't used this interaction to do a little more storytelling about the protagonist or about AI assistants in the world he lives in.</p>
+<p>We all learned the forms of our classic stories <em>too well</em> over the last few decades. There is still too much urgency to understand all voice UI as either a <em>person,</em> as a Data or a Pinoochio. Or we understand it as as Mabel Roddenberry's voice on the Enterprise - a voice with no obvious material or social history, just existing to lubricate a scene or a plot.</p>
+<p>I still haven't seen much media that reflects the way I actually feel about conversational interfaces in the real world - frustrated, tricked, manipulated, and inconvenienced. And I haven't seen any media at all recently about the equally insidious trend of real human labor being marketed as if it is an autonomous system.</p>
+<p>I hope we don't have to wait <em>too</em> long to see some fiction that reflects the future-as-it-actually-arrived!</p>]]></description>
+			<pubDate>Tue, 18 Nov 2025 13:43:00 -0700</pubDate>
+			<guid isPermaLink="false">1763552185926674</guid>
+		</item>
+		<item>
+			<title>I love fall</title>
+			<link>https://toska.bearblog.dev/i-love-fall/</link>
+						<dc:creator>toska</dc:creator>
+			<description><![CDATA[<p>I wish it could be fall forever.</p>
+<p><img src="https://pomf2.lain.la/f/36htd38f.jpg" alt="1"></p>
+<p><img src="https://pomf2.lain.la/f/u1e6u8ab.jpg" alt="2"></p>
+<p><img src="https://pomf2.lain.la/f/9ohv3dc.jpg" alt="3"></p>
+<p>I don't have much else to say because all my energy for writing is currently being sapped by my dissertation. So, that's all.</p>]]></description>
+			<pubDate>Sat, 15 Nov 2025 20:49:26 -0700</pubDate>
+			<guid isPermaLink="false">1763552185926673</guid>
+		</item>
+		<item>
+			<title>Living in the &quot;robot&quot; zone</title>
+			<link>https://blog.lauramichet.com/living-in-the-robot-zone/</link>
+						<dc:creator>lauram</dc:creator>
+			<description><![CDATA[<p>I have spent the last few weeks living in Westwood. Near UCLA, you tend to see a lot of "delivery robots" - tiny square delivery vehicles which are ambiguously driven by people? <em>not</em> by people? through this part of the city to make food deliveries.</p>
+<p>Here are some parked on the street. You will see that the one closest to the camera is also an advertisement for the TV show "Welcome To Derry."</p>
+<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/lauram/img_0860.webp" alt="IMG_0860"></p>
+<p>Like a lot of companies, <a href="https://www.cocodelivery.com/coco">Coco,</a> the company that operates most of these machines, keeps it vague on whether these robots are joysticked directly by humans, and how often, and in what circumstances. Most of the people I know believe that these "robots" are joysticked from afar, directly by humans, nearly all of the time. I can't say that's for sure, but the marketing copy on the website is evasive enough that it's possible:</p>
+<blockquote>
+<p>End-to-End Neural Networks</p>
+<p>Coco Robotics navigates dense urban environments by combining precision mapping, end-to-end neural networks, and human oversight. Its delivery vehicles are built to handle unpredictable terrain—like crowded sidewalks, uneven surfaces, and low-light conditions—common in cities like Los Angeles. With onboard cameras, LiDAR, and GPS, Coco’s robots can safely maneuver through complex pathways, delivering goods quickly and reliably while adapting to ever-changing street-level dynamics.</p>
+</blockquote>
+<p>Later on, it implies that human intervention is needed infrequently, without really ever saying <em>for sure</em> how frequently or infrequently it's needed.</p>
+<blockquote>
+<p>When human intervention is needed, the Pilot Terminal instantly delivers all relevant context—ETA, turn-by-turn navigation, obstruction alerts, a troubleshooting guide, and map annotation tools—for fast, informed decision-making.</p>
+</blockquote>
+<p>This kind of marketing language should be pretty familiar to you by now. It's the kind of language that very carefully avoids saying exactly what contribution humans are making, probably so that - if you desire - you can imagine that these robots are more autonomous than they really are. (Waymo has the same problem - those "self-driving" cars also have pretty heavy "human oversight.")</p>
+<p>I am personally leaning towards "nearly continuously joysticked." They tend to navigate moving obstacles - humans, strollers, dogs, etc - in an aware, hesitant, almost <em>social</em> way that suggests to me there's a human consciousness "in" there, choosing how to share space with me on the sidewalk. I suppose it's possible that they drive themselves autonomously when no moving obstacles like humans are around, but in the places I see them most often, human interaction can be very nearly <em>continuous.</em> So I see these things nearly continuously negotiating with me for space on the sidewalk. In the presence of humans, they don't seem to have interpretable, manipulable heuristics of movement, or <em>repeated habits,</em> or anything that marks their movement as particularly "autonomous". They're just kind of navigating around me, differently every time, the way a person might roll an RC car around me.</p>
+<p>But: this is just <em>my guess.</em> I have no proof to back up my belief that the ones I see around me in 2025 are continuously joysticked. There's something very interesting in the way the company's evasiveness about human oversight allows everyone who encounters these things to fill in the unexplained space with their own techno-optimism or cynicism. I'm certainly a cynic.</p>
+<p>A few years ago, they were less evasive. <a href="https://www.marketplace.org/story/2023/06/27/robot-food-delivery-autonomy">This article from June 2023</a> says that they were human-driven at that time, and that the company had engineers <em>trying</em> to make them autonomous.</p>
+<blockquote>
+<p>Human drivers are part of the Coco business model. Employees working from home pilot them through dense urban areas remotely, using Xbox controllers.</p>
+<p>“We like people who are good at video games,” Rash said. “So our interview is a video game, we do training in simulators and video games. So it’s a lot of young gamers, and that’s a great demographic to tap into.”</p>
+</blockquote>
+<p>A second company has somewhat larger and more expensive-looking delivery boxes in the neighborhood as well - <a href="https://www.serverobotics.com/">Serve Robotics.</a> These are more anthropomorphized, and they have a little screen on top which states their "name." This company's stance toward autonomy is even fuzzier - they say even fewer specific things - but their site links to <a href="https://www.voysys.se/">a completely different site</a> for a Swedish "teleoperation" company. So I feel even more confident in believing that these are joysticked.</p>
+<p>Fundamentally, the streetscape is made for cars, and then for humans. Joysticked or autonomous boxes on the street are in a distant third. They are not able to interact with beg buttons at crosswalks. A few weeks ago, I had a strange encounter with one that actually "noticed" me, did a k-turn to <em>face</em> me, then "asked" me to press the crosswalk button for it:</p>
+<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/lauram/img_0808.webp" alt="IMG_0808"></p>
+<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/lauram/pushcrosswalk2.webp" alt="pushcrosswalk2"></p>
+<p>That's a little screen saying "Push crosswalk button for me?"</p>
+<p>I pushed it. The only reason I did is because I was so certain that a real human somewhere - someone with an absolutely abysmal teleoperation job delivering snacks to American college students in a tiny rolling box - needed me to make their day easier. If I believed it was an autonomous robot operated by a tech company, I think I would have tried to find a way to leave it completely fucking stranded.</p>]]></description>
+			<pubDate>Mon, 17 Nov 2025 21:52:00 -0700</pubDate>
+			<guid isPermaLink="false">1763552185926672</guid>
+		</item>
+		<item>
+			<title>Facebook is totally fine with literal Nazi propaganda</title>
+			<link>https://kkc.bearblog.dev/facebook-is-totally-fine-with-literal-nazi-propaganda/</link>
+						<dc:creator>kkc</dc:creator>
+			<description><![CDATA[<p>For reasons I am forced to interact with Facebook on a daily basis, and the algorithm is pushing literal white supremacist and Nazi stuff onto my feed.
+It is not just lefty me calling stuff Nazi, here are two examples:</p>
+<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/kkc/merged-image-9.webp" alt="merged-image (9)"></p>
+<p>I regularly report stuff like this out of curiosity and the result is always the same: "We have reviewed the content and determined that it does not violate our Community Guidelines."</p>
+<p>It has been clear for a while that Facebook is no longer moderated by humans, but come on, even the most primitive AI could detect that this is Nazi propaganda.</p>
+<p>So there are two possibilities:
+a) The report button is placebo, it does nothing, just waits a couple of days and sends you the rejection message.
+b) The Community Guidelines allow this content, which is pretty surely illegal in most EU countries. (Don't know about the US).</p>
+<p>Or both ¯_(ツ)_/¯</p>]]></description>
+			<pubDate>Wed, 19 Nov 2025 03:09:52 -0700</pubDate>
+			<guid isPermaLink="false">1763552185926671</guid>
+		</item>
+		<item>
+			<title>Routines</title>
+			<link>https://jamesg.blog/2025/11/19/routines/</link>
+						<dc:creator>James' Coffee Blog</dc:creator>
+			<description><![CDATA[<p>Over the last few weeks I have been working on rebuilding my morning routine.</p><p>I used to be regimented in my morning routine – everything scheduled down to the minute. I then ebbed the opposite way: my routines became unstructured, my mind every morning exerting itself to remember everything I need to do to start the day. With the experience of both of these extremes – regimentation and structurelessness – I feel like what would serve me best is a middle path: something in between.</p><p>I started by asking myself how I would like to start the morning. I decided that I wanted to do a bit of reading, even 15 minutes worth, before starting the day. Reading helps me ease into my day. I am reading <em>Best Wishes from the Full Moon Coffee Shop</em> right now.  Because it is winter, the mornings are relatively dark so I light up my room with my fairy lights – my day starts and ends with reading under the fairy lights. At least as much as possible, for within routines there are fluctuations.</p><p>I then make coffee. To make coffee, I start by putting water in the kettle and turning the kettle on. I put a filter paper in my coffee brewer. I weigh 15 grams of coffee. I grind the coffee with my hand grinder. I put the coffee in the filter paper, then the coffee brewer on top of my cup. I put my cup on the scale, reset the scale to 0g, and then start brewing coffee. I pour water at 50g of water starting at 0s, 100g of water starting at 40s, and a further 100g of water starting at 1m15s. I try to be as consistent as I can, striving to pour exactly 250g of water in total. I celebrate a little bit every time I pour precisely; my accuracy fluctuates.</p><p>I love making coffee. All the steps may be the same, and I may have made coffee hundreds of times, but it doesn't make the process of making coffee any less special. I always look forward to making coffee.</p><p>With coffee – and breakfast – ready, I finish the rest of my routine of all the other things you need to do to get ready. Then I start my day.</p><p>Getting to the point of having a morning routine was hard. <em>If I wake up early enough that I will have time to read, will I not be tired? How will I stop myself from snoozing the alarm?</em></p><p>Despite all the looming questions on my mind, I kept reminding myself of how much it matters to take care of the essentials – getting good sleep, reading stories, and starting the day right with a good breakfast. I’m going to bed earlier too, so I feel more well rested (although coffee is still an essential in helping me find the energy to start the day!). You don't realise how true and important the advice "take care" is until you realise that you are tired all the time.</p><p>I am not regimented about having a morning routine at certain times any more – if I read a bit more or less, that’s okay. If I start breakfast a bit later than normal, that’s okay, too. I am also not sleeping in, either.</p><p>It gets easier to wake up on time because I know I have a bit of time to read my book before I have to start the day. Occasionally – like this morning – there are fluctuations where I have something scheduled that means I have to be up earlier, but no routine is the same twice anyway. I have a different routine for weekends. With that said, as long as I am going in the right direction, I am content.</p><p>With the desire to have a bit more of a routine, I’m even building a little night time routine too – when it gets to about nine o’clock, I try to read some manga or continue reading whatever fiction book I am reading.</p><p>After time with both regimented routines and ones with less structure and schedule, I find the necessity both in having a bit of structure but also not being too rigid. Embracing something in between has made me happier.</p><p><em>This is my submission for this month's </em><a href="https://alexsirac.com/indieweb-carnival-%E2%88%92-cycles-and-fluctuations/"><em>IndieWeb Carnival on "Cycles and fluctuations", hosted by Alex</em></a><em>.</em> </p>]]></description>
+			<pubDate>Wed, 19 Nov 2025 04:14:25 -0700</pubDate>
+			<guid isPermaLink="false">1763552185926670</guid>
+		</item>
+		<item>
+			<title>Snow</title>
+			<link>https://jamesg.blog/2025/11/19/snow/</link>
+						<dc:creator>James' Coffee Blog</dc:creator>
+			<description><![CDATA[<p><em>The snow looks like drops of moonlight</em> I thought to myself as the cool light from the street lamps illuminated the falling snow. <em>It’s beautiful. I have never seen anything like it.</em></p><p>Earlier this week I saw light rain fall that looked almost like it was snow – the light reflected off the falling rain in a way closer to snow than water. Although I am not sure if what I saw was exactly snow, my hopes were raised that it may snow properly this week. The air has been getting cooler; the outdoors feels evermore like winter. Yesterday evening, at around 9 o’clock, my hope for snow came to reality. I looked out the window after reading a book for an hour and noticed the heavy clouds and the white drops of snow.</p><p>The last time I saw snow was more than a year ago. Despite my hope that it would snow – one I shared excitedly with people in conversation this week – it took me a moment to internalise that it was now snowing. Then, my mind turned to the beauty of the snow fall – the way that the light breeze blew the snow over the grasses illuminated only by streetlight.</p><p>Time froze. I was eager to take in as much of the snow as possible, knowing that, like all seasons and weathers, snow is fleeting. Would the snow be here in the morning? I wasn’t sure, but I knew the snow was there, in the present moment, right in front of me. All that matters is it is snowing now – drops of moonlight fall from the heavens onto the frosting countryside grass.</p><p>My gaze was focused on the areas under the streetlights, which illuminated the snow and, over time, showed how the snow was accumulating. <em>This isn’t the kind of snow that will lay there until morning,</em> I knew from having seen many snows growing up; maybe there would be a dusting on the next day.</p><p>This morning, I woke up and saw on the horizon a white skyline, above which was the increasingly light blue that comes at 7am in November here in Scotland. Under the white skyline, there were hills dusted in snow. The coat of snow on the hills – enveloping a few almost like a cold blanket – brought to mind last night at which I stood by the window and, for how long I do not know, gazed out and watched the snow paint the countryside with brushstrokes of white whose full beauty would appear in the morning.</p>]]></description>
+			<pubDate>Wed, 19 Nov 2025 02:54:55 -0700</pubDate>
+			<guid isPermaLink="false">1763552185926669</guid>
+		</item>
+		<item>
+			<title>horsekeeping like horse</title>
+			<link>https://combatdavey.net/horsekeeping-like-horse/</link>
+						<dc:creator>combatdavey</dc:creator>
+			<category>etc</category>
+			<category>horsekeeping</category>
+			<description><![CDATA[<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/combatdavey/shotva-horsekeeping-like-horse.webp" alt="shotva-horsekeeping like horse"></p>
+<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/combatdavey/shotva-horsekeeping-like-horse-2.webp" alt="shotva-horsekeeping like horse 2"></p>
+<h2 data-sanitized-id="i-am-very-fun-to-be-friends-with-br">I am very fun to be friends with! <br></h2><h2 data-sanitized-id="i-am-very-fun-to-be-friends-with-br">I am very fun to be friends with! <br></h2><h2 data-sanitized-id="i-am-very-fun-to-be-friends-with-br">I am very fun to be friends with! <br></h2><h2 data-sanitized-id="i-am-very-fun-to-be-friends-with-br">I am very fun to be friends with! <br></h2><h2 data-sanitized-id="i-am-very-fun-to-be-friends-with-br">I am very fun to be friends with! <br></h2><h2 data-sanitized-id="i-am-very-fun-to-be-friends-with-br">I am very fun to be friends with! <br></h2><h2 data-sanitized-id="i-am-very-fun-to-be-friends-with-br">I am very fun to be friends with! <br></h2><h2 data-sanitized-id="i-am-very-fun-to-be-friends-with-br">I am very fun to be friends with! <br></h2><h2 data-sanitized-id="i-am-very-fun-to-be-friends-with-br">I am very fun to be friends with! <br></h2><h2 data-sanitized-id="i-am-very-fun-to-be-friends-with-br">I am very fun to be friends with! <br></h2><h2 data-sanitized-id="i-am-very-fun-to-be-friends-with-br">I am very fun to be friends with! <br></h2><h2 data-sanitized-id="i-am-very-fun-to-be-friends-with-br">I am very fun to be friends with! <br></h2><h2 data-sanitized-id="i-am-very-fun-to-be-friends-with-br">I am very fun to be friends with! <br></h2><p>🌲🌼🌱🌳🌷 gonna go <del>touch grass</del> to sleep now byeeeeeee</p>
+<p><mark>If you enjoyed this post, click the little up arrow chevron thinger below the tags to help it rank in Bear's <a href="https://bearblog.dev/discover/">Discovery feed</a> and maybe consider sharing it with a friend or on your socials.</mark></p>]]></description>
+			<pubDate>Tue, 18 Nov 2025 22:38:00 -0700</pubDate>
+			<guid isPermaLink="false">1763552185926668</guid>
+		</item>
+		<item>
+			<title>november 18 etc (horsekeeping)</title>
+			<link>https://combatdavey.net/november-18-etc/</link>
+						<dc:creator>combatdavey</dc:creator>
+			<category>dmail</category>
+			<category>etc</category>
+			<category>horse</category>
+			<category>horsekeeping</category>
+			<category>tbbs</category>
+			<category>writing</category>
+			<description><![CDATA[<p>This is a housekeeping post (<a href="https://combatdavey.net/blog/?q=horsekeeping">a.k.a. a "horsekeeping" post</a>), something I do from time to time to keep things clear in my own head and also to use the word "horse" which is the funniest word in the English language in a Dada kind of way.</p>
+<p>ICYMI these were last week's posts:</p>
+<p>✍🏽🔥 <a href="https://combatdavey.net/november-10-etc/">November 10</a> <br>
+✍🏽🔥 <a href="https://combatdavey.net/november-11-etc/">November 11</a> <br>
+✍🏽🔥 <a href="https://combatdavey.net/november-12-etc/">November 12</a> <br>
+✍🏽🔥 <a href="https://combatdavey.net/november-13-etc/">November 13</a> <br>
+✍🏽🔥 <a href="https://combatdavey.net/november-14-etc/">November 14</a> <br></p>
+<p>November 14's post is the most interesting of the of the bunch, I think. In it I vaguely outlined the return of DMail (or something like DMail) and spat out a few thousand dollars worth of therapy. For the uninitiated, I used to have a newsletter full of weird/fun links and I think I would like to start doing it again because I think delivering one massive links post once a week would be a very satisfying thing for me to do and for people to receive.</p>
+<p>That said, November 10's post is pretty rad too. It's one of those ones where, when I reread it, I'm back there on that cold floor.</p>
+<p><mark><strong>Also:</strong></mark></p>
+<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/combatdavey/tumblr_swatch.webp" alt="tumblr_swatch"></p>
+<p><a href="https://combatdavey.tumblr.com/">I am still on tumblr</a> (let me live) and I repost like a lonely teenager from the 1980s who gets crossfaded on speed and blotter acid. If you are also very cool and hang out there, you know what to do.</p>
+<p><mark><strong>Also also:</strong></mark></p>
+<p>Got some useful feedback and enthusiasm (a word I cannot write or say without thinking about Robert De Niro playing Al Capone) in re: <a href="https://combatdavey.net/november-6-etc/">the selection from Call and Response</a>, I posted. Appreciate you guys.</p>
+<p>I'm currently working on the scene around that scene at present. As for the story itself, I'm aiming for ~100 messy/whatever pages by January 1, 2026.</p>
+<p><mark><strong>Also also also:</strong></mark></p>
+<p>🐴🌭 I thought <a href="https://x.com/horseimage/status/1988629495620702562">those were hotdogs</a> and so did <a href="https://x.com/bufeci_/status/1988636751615697157">this guy</a>. (Twitter)</p>
+<p>🎹🌭 Immediately after watching that, my brain played "Daddy Would You Like Some Sausage" and I had to go <a href="https://www.youtube.com/watch?v=TsZ8Fs3BOvo">watch this again</a>. (YouTube)</p>
+<p>🐴🐴 There's <a href="https://www.tumblr.com/jakobhetzer/800464676865687552">also this</a>. (Tumblr)</p>
+<p>🌭🌭 And <a href="https://us.macmillan.com/books/9781250847751/rawdog/">this</a>, which I started reading again the other day. (Macmillan)</p>
+<p>🐴🐴 And <a href="https://www.instagram.com/reel/DQbX_3ykUNu">this</a>. (Instagram)</p>
+<p>🏀🍿 And <a href="https://x.com/NBA/status/1990452357298376892">this great kid</a>. (Twitter)</p>
+<p>🌲 <del>gonna</del> sleepy<br>
+🌼 <del>go</del> sleeeepy <br>
+🌱 <del>touch</del> eepy <br>
+🌳 <del>grass</del> eeeeeeeeeep <br>
+🌷 <del>now</del> zzzzzzzzz</p>
+<p>Be good to yourself.</p>
+<p><mark>If you enjoyed this post, click the little up arrow chevron thinger below the tags to help it rank in Bear's <a href="https://bearblog.dev/discover/">Discovery feed</a> and maybe consider sharing it with a friend or on your socials.</mark></p>]]></description>
+			<pubDate>Tue, 18 Nov 2025 21:34:00 -0700</pubDate>
+			<guid isPermaLink="false">1763552185926667</guid>
+		</item>
+		<item>
+			<title>Quality = Engineered + Experienced - explained with fountain pens.</title>
+			<link>https://www.maaikebrinkhof.nl/quality-is-engineered-and-experienced/</link>
+						<dc:creator>Maaike Brinkhof</dc:creator>
+			<category>IT</category>
+			<category>fountain pen</category>
+			<media:content url="https://www.maaikebrinkhof.nl/content/images/2025/11/IMG_7191.jpeg" medium="image"></media:content>
+			<description><![CDATA[<img src="https://www.maaikebrinkhof.nl/content/images/2025/11/IMG_7191.jpeg" alt="Quality = Engineered + Experienced - explained with fountain pens."><p>I'm about to make a huge mistake by publishing this post, as today's topic is: quality.</p><p>Is there a concept, a word, that's more divisive in the software testing community than <em>quality</em>? I have to admit, I have considered writing a book about it. That would have been an even bigger mistake than publishing this post. Glad to report that I didn't even try, and this blog will hopefully be the last thing I'm writing about this topic. </p><p>Let me propose a thinking model for quality. </p><p>Quality = Engineered + Experienced. </p><p>Last week, I posted a controversial take on LinkedIn, namely that I do not believe quality engineering is possible. This post is my attempt to explain my stance in more detail. Feel free to disagree, but at least hear me out. </p><p>Here's how I understand "quality engineering", with the help of a fountain pen.</p><p>Here's the architecture of a fountain pen:</p><figure data-sanitized-class="kg-card kg-image-card kg-card-hascaption"><img src="https://www.maaikebrinkhof.nl/content/images/2025/11/fountainpen-architecture.jpg" alt="Quality = Engineered + Experienced - explained with fountain pens." width="2000" height="824" data-sanitized-class="kg-image"><figcaption><span>The parts that make up a fountain pen</span></figcaption></figure><p>Every part of the fountain pen should be engineered correctly, or the pen as a whole might not work. There are more crucial aspects to it, for example, if the nib is broken that would render the whole pen useless. Whereas, with a slightly cracked cap, you could still write normally. </p><p>This is what I think the people who call themselves quality engineers are focussing on. They're trying to make sure that every bit in the architecture of their software functions well enough, and they also look at the whole. <em>They</em> are then confident enough to declare that their software has good quality. All because <em>they</em> looked at all the quality attributes <em>they</em> consider relevant and took measures to "quality-engineer" those to <em>their</em> satisfaction.</p><p>Sure, they'll take user satisfaction into consideration, but apparently, that doesn't stop them from being convinced that they can engineer quality. </p><p>I could never. To me, this <em>feels</em> wrong. I could never work on software and declare that the quality is good enough. There's just too much we don't know about our own product to ever make that claim. </p><p>Software as a whole just sucks too much. The tech industry does NOT have a good enough track record to be able to claim that we can engineer quality.</p><figure data-sanitized-class="kg-card kg-bookmark-card"><a href="https://www.maaikebrinkhof.nl/neutral-quality-is-too-much-to-ask-for/" data-sanitized-class="kg-bookmark-container"><div data-sanitized-class="kg-bookmark-content"><div data-sanitized-class="kg-bookmark-title">Neutral Quality is too much to ask for, shitty software is the norm.</div><div data-sanitized-class="kg-bookmark-description">As a testing community, we have failed to make software better. And let me be clear, developers have also failed. We are in the same boat here. I firmly believe that most people working in software development teams are trying their best to create a better software product, write readable</div><div data-sanitized-class="kg-bookmark-metadata"><img src="https://www.maaikebrinkhof.nl/content/images/icon/Maaike--100-x-100-px--3--23.png" alt="Quality = Engineered + Experienced - explained with fountain pens." data-sanitized-class="kg-bookmark-icon"><span data-sanitized-class="kg-bookmark-author">Maaike Brinkhof's blog</span><span data-sanitized-class="kg-bookmark-publisher">Maaike Brinkhof</span></div></div><div data-sanitized-class="kg-bookmark-thumbnail"><img src="https://www.maaikebrinkhof.nl/content/images/thumbnail/Neutral_Quality-1-3.png" alt="Quality = Engineered + Experienced - explained with fountain pens."></div></a></figure><h3 data-sanitized-id="experienced">Experienced</h3><p>Speaking of feelings, that leads me to the next part of my model. Quality is experienced. </p><p>To go back to the fountain pen example, you can craft a pen with perfect technical quality, and it will still be hated by some people. That's because using a fountain pen is a highly subjective experience. What pen you would like to use depends on your mood, your overall preferences and your other experiences with the brand. </p><p>I have a Japanese pen (Sailor Pro Gear) that has a scratchy nib. This is a divisive feature in a fountain pen. Some days I like it, other days I don't. Some people don't like scratchy nibs at all, and for them, most Japanese pens would feel like there's something wrong with them. </p><p>Some people avoid certain brands completely because they made weird marketing choices (Lamy chose to create Harry Potter branded pens, leading to some people never buying from them again). To those folks, it doesn't matter that Lamy engineers quality pens, to them the brand is anti-quality (because quality can also concern not supporting a company that does business with a woman who fights trans rights). </p><p>Dear reader, you are either on my side at this part of the argument, or you are not. </p><p>I'm quite sure that some of you will scoff at the notion that quality is experienced and that you can't engineer this bit, thinking: what does this matter if it's beyond our control? But to me this is the more important part of the equation! </p><p>I wouldn't go as far as to say that a pen that is technically well engineered but doesn't fit my mood at an exact moment in time is of "bad quality", I'm only saying that it is part of the quality story AND that you cannot engineer this bit. And that it matters. </p><p>And that is, in more words than fit a short rage-baity LinkedIn post, my issue with quality engineering. </p><h3 data-sanitized-id="testing-focus">Testing focus</h3><p>I'm okay with the fact that the quality experience is largely out of my hands. I don't feel a need to control everything.</p><p>As a tester, I focus on finding problems that threaten the value of the product. A lot of the work I do could be classified as "quality engineering", but I just don't choose that branding. </p><p>There's nothing wrong with testing as a role, as a profession. Too many of us have simply bought into the notion that testing isn't enough, and that's a shame. Well, I'm going to buck that trend.</p><h3 data-sanitized-id="quality-nirvana">Quality nirvana</h3><p>To close off, here's a Venn diagram I made with this quality model.</p><p>What would you call it, if a product manages to be well engineered and pleasantly experienced? Quality nirvana? </p><p>Does it ever happen? Have you ever experienced it with software? </p><figure data-sanitized-class="kg-card kg-image-card kg-card-hascaption"><img src="https://www.maaikebrinkhof.nl/content/images/2025/11/1.png" alt="Quality = Engineered + Experienced - explained with fountain pens." width="1024" height="768" data-sanitized-class="kg-image"><figcaption><span>quality = engineered + experienced. What if both these things come together?!</span></figcaption></figure><p>Alternatively, here's my proposed realistic situation:</p><figure data-sanitized-class="kg-card kg-image-card kg-card-hascaption"><img src="https://www.maaikebrinkhof.nl/content/images/2025/11/2.png" alt="Quality = Engineered + Experienced - explained with fountain pens." width="1024" height="768" data-sanitized-class="kg-image"><figcaption><span>most software SUCKS, however.</span></figcaption></figure><p>Most software sucks. Even if testers, or quality engineers (or whatever the fuck you want to call yourselves), are involved. </p><figure data-sanitized-class="kg-card kg-bookmark-card"><a href="https://www.maaikebrinkhof.nl/neutral-quality-is-too-much-to-ask-for/" data-sanitized-class="kg-bookmark-container"><div data-sanitized-class="kg-bookmark-content"><div data-sanitized-class="kg-bookmark-title">Neutral Quality is too much to ask for, shitty software is the norm.</div><div data-sanitized-class="kg-bookmark-description">As a testing community, we have failed to make software better. And let me be clear, developers have also failed. We are in the same boat here. I firmly believe that most people working in software development teams are trying their best to create a better software product, write readable</div><div data-sanitized-class="kg-bookmark-metadata"><img src="https://www.maaikebrinkhof.nl/content/images/icon/Maaike--100-x-100-px--3--24.png" alt="Quality = Engineered + Experienced - explained with fountain pens." data-sanitized-class="kg-bookmark-icon"><span data-sanitized-class="kg-bookmark-author">Maaike Brinkhof's blog</span><span data-sanitized-class="kg-bookmark-publisher">Maaike Brinkhof</span></div></div><div data-sanitized-class="kg-bookmark-thumbnail"><img src="https://www.maaikebrinkhof.nl/content/images/thumbnail/Neutral_Quality-1-4.png" alt="Quality = Engineered + Experienced - explained with fountain pens."></div></a></figure><p>Instead of talking about quality, which I will now stop yapping about, we'd be better off taking a good hard look in the mirror. We have to figure out how we, as a tech industry, failed our users. </p><p>Quality isn't engineered, my god, there's barely any quality at all. It's not even a focus for most companies. Oh sure, they <em>say</em> that they care, but actions speak louder. They only care about money, and focus on extracting as much of it as they can in the short term. </p><p>There's not much quality engineering happening in a late stage capitalist world, I'm afraid. Just a minority of people who keep trying to do the good work in a world that largely doesn't care any more. So no, if you call yourself a Quality Engineer, I'm not <em>mad</em> at you or something. I just think you are slightly delusional. </p><p>Alright, that was this week's post. I'm going to go back to writing with my fountain pens, which surely puts me in quality nirvana. Cheers. </p>]]></description>
+			<pubDate>Wed, 19 Nov 2025 03:37:08 -0700</pubDate>
+			<guid isPermaLink="false">1763552185926666</guid>
+		</item>
+		<item>
+			<title>Cloudflare says the outage on Tuesday was due to a bug in its bot detection system</title>
+			<link>https://www.ghacks.net/2025/11/19/cloudflare-says-the-outage-on-tuesday-was-due-to-a-bug-in-its-bot-detection-system/</link>
+						<dc:creator>Ashwin</dc:creator>
+			<category>Internet</category>
+			<description><![CDATA[<p>Cloudflare suffered its worst outage since 2019. The incident was caused by a bug in the company's Bot Management system.</p>
+<p>Matthew Prince, Cloudflare co-founder and CEO, has published <a href="https://blog.cloudflare.com/18-november-2025-outage/" data-wpel-link="external">a detailed article</a> on the company's blog to explain what went wrong.</p>
+<p>The outage, which <a href="https://www.cloudflarestatus.com/" data-wpel-link="external">occurred on 18 November 2025</a> at 11:20 UTC, had a global impact as several websites went offline. Price clarified that Cloudflare was not hacked by a DDoS attack, as had been initially suspected. That's important to clarify, because people may have been worried whether it was taken down by malware. Once the issue had been identified, Cloudflare replaced a backup of the feature file to sort out the issue. The company says that its Core traffic was normal by 14:30, about three hours after the issue began. Cloudflare managed to restore all systems by 17:06.</p>
+<p>Cloudflare described the issue as follows "A change in our underlying ClickHouse query behavior (explained below) that generates this file caused it to have a large number of duplicate “feature” rows. This changed the size of the previously fixed-size feature configuration file, causing the bots module to trigger an error."</p>
+<p>Here's a simpler explanation. Cloudflare had made a change to one of its database systems' permissions, and this had caused the database to output multiple entries into a “feature file” used the company's Bot Management system. The feature file in question is used to keep the Bot Management system up to date to handle threats. This system has many modules, including a machine learning model that is used to generate bot scores. Every network request has a bot score, and Cloudflare's customers, i.e. websites, services, use the bot scores to determine which bots can access their site, or block them accordingly.</p>
+<p>The "feature file" I mentioned earlier is used as a configuration file for the model, to check whether requests were automated. It is used by Cloudflare's servers to route traffic across its network. But, due to the bug this file had doubled in size, causing the software to fail, and this propagated to the entire network. Websites that had deployed rules to block bots saw a large number of false positives, and hence, unreachable.</p>
+<p>Cloudflare says it will harden its system against failures like this by making these changes:</p>
+<ul>
+<li>Hardening ingestion of Cloudflare-generated configuration files in the same way we would for user-generated input</li>
+<li>Enabling more global kill switches for features</li>
+<li>Eliminating the ability for core dumps or other error reports to overwhelm system resources</li>
+<li>Reviewing failure modes for error conditions across all core proxy modules</li>
+</ul>
+<p>You may have noticed that yesterday Ghacks was down for a while too, and we couldn't access the admin website either, it kept throwing up internal server errors. While it wasn't as disruptive as the last year's <a href="https://www.ghacks.net/2024/07/22/crowdstrike-in-a-nutshell-how-a-faulty-software-update-took-down-millions-of-windows-pcs/" data-wpel-link="internal">CrowdStrike outage</a>, Cloudflare took down a large chunk of the internet down. It didn't just affect websites, several online services were unusable including <a href="https://www.ghacks.net/2025/10/24/openai-is-working-on-several-features-for-improving-chatgpt-atlas-browser/" data-wpel-link="internal">ChatGPT</a>, X, Spotify, Downdetector. Cloudflare’s status page, which lets you check if the service is experiencing any disruptions, was unreachable.</p>
+
+<p>The company says that the status page runs off of its network, and when it went down, it suspected that this was an attack. However, it was able to single out the issue as a bug, and fix it. It's kind of scary to think about how many websites depend on Cloudflare's network. In case you are wondering, about 20% of the internet depends on Cloudflare. I have to admit, I thought that number would be way higher.</p>
+<p>Amazon Web Services (AWS) suffered an outage on October 20, and Microsoft Azure experienced an outage on October 29.</p>
+<p>Thank you for being a Ghacks reader. The post <a href="https://www.ghacks.net/2025/11/19/cloudflare-says-the-outage-on-tuesday-was-due-to-a-bug-in-its-bot-detection-system/" data-wpel-link="internal">Cloudflare says the outage on Tuesday was due to a bug in its bot detection system</a> appeared first on <a href="https://www.ghacks.net/" data-wpel-link="internal">gHacks Technology News</a>.</p>]]></description>
+			<pubDate>Wed, 19 Nov 2025 02:48:04 -0700</pubDate>
+			<guid isPermaLink="false">1763552185926665</guid>
+		</item>
+		<item>
+			<title>2025 Holiday Gift Guide</title>
+			<link>https://brainbaking.com/post/2025/11/2025-holiday-gift-guide/</link>
+						<dc:creator>Wouter Groeneveld</dc:creator>
+			<category>Christmas</category>
+			<description><![CDATA[<p>This post is inspired by Johnny Webber’s <a href="https://johnnywebber.com/2024-holiday-gift-guide/">2024 Holiday Gift Guide</a> that serves as a great starting point if you don’t know what to get for your friends &amp; family. Johnny’s list is broad and includes suggestions from tech to food, arts, gaming, books, and even writing material.</p>
+<p>Making Christmas wish lists seems to become harder and harder as I get older and already have way too much stuff. When we are young, without access to a disposable income, the holiday period somehow felt more exciting. Flipping through toy store ad leaflets, whipping out scissors to cut and paste the things that drew our attention onto a separate colourful piece of paper for Santa to take a good look at. I want <em>this one</em>, and don’t you dare to buy me that cheap alternative! We try to cut our way through the few ads that still land in our mailbox but it doesn’t feel the same any more—a part of the genuine childlike excitement is gone for good.</p>
+<p>It took me a while to come up with six items that made it to my list. Like Johnny, I’m only recommending things I like. Here’s a collage representing that list:</p>
+<p>
+<figure><a href="https://brainbaking.com/post/2025/11/2025-holiday-gift-guide/collage.jpg" data-sanitized-class="lbox">
+		<img src="https://brainbaking.com/post/2025/11/2025-holiday-gift-guide/collage.jpg" title="The 2025 Holiday Gift Guide: six suggestions." data-pagefind-index-attrs="title">
+	</a>
+	
+		<figcaption>The 2025 Holiday Gift Guide: six suggestions.</figcaption></figure>
 </p>
-                    <p data-sanitized-class="mb-4"><a href="https://riri.my/blog">⟵ back to blog</a></p><hr>got comments, thoughts or feedback about this post? email me at <a href="mailto:comments@riri.my">comments@riri.my</a> •ᴗ•
-                </section><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Thu, 18 Sep 2025 12:16:00 -0700</pubDate>
-			<guid isPermaLink="false">1763211359557446</guid>
+<p>First, the <em>UFO 50</em> Nintendo Switch game—specifically the physical version published by <a href="https://www.fangamer.eu/">Fangamer.eu</a>, obviously. There’s still a lot on my wish list, so any of the following is great as well: <em>Streets of Rage 4 Anniversary Edition</em>, <em>Unicorn Overlord</em>, <em>The Legend of Zelda: Echoes of Wisdom</em>, <em>Monster Boy &amp; The Cursed Kingdom</em>. If you happen to come across a copy of <em>Powerslave Exhumed</em> by Limited Run Games that’s been out of print for a while, that would be very nice too. If you have no idea but want to make sure it’s a good game, check out my <a href="https://brainbaking.com/post/2024/11/i-made-my-own-top-100-page/">Top 100 suggestions</a>.</p>
+<p>Second, a gift coupon to spent at our local book store <a href="https://boekhandelgrim-webshop.be/">GRIM</a>. Although my wife reminded me that we still have two coupons lying around that need to be used. I tried to come up with a concrete book title but my wanted list is a mess and I just bought six books that I haven’t touched yet. Feel free to add your own favourite entry.</p>
+<p>Third, Sailor’s <em>Manyo Ume</em> fountain pen ink: a dark red/brown colour with a unique sheen (see the <a href="https://mountainofink.com/blog/sailor-manyo-ume">Mountain of Ink review</a>). Or add a tint of Pilot Irushizuku ink, but I’ve never tried Sailor’s before and don’t have a colour that matches this range. Hopefully this will entice me to get back into writing on paper more which is a hobby I’ve been neglecting too much lately.</p>
+<p>Fourth, the <em>Lord of the Rings: Fate of the Fellowship</em> board game. I mentioned in the <a href="https://brainbaking.com/post/2025/10/spiel-essen-2025/">SPIEL Essen post</a> that I wanted to grab a copy but ultimately left it for the Christmas list, so here it is. Two equally chunky alternatives might be <em>Tea Garden</em> or <em>Creature Caravan</em>. If you’re looking for a lighter game, perhaps check out my <a href="https://brainbaking.com/post/2025/09/modern-trick-taking-games-beyond-whist/">modern trick taking suggestions</a> instead.</p>
+<p>Fifth, Manet’s <em>Bundle Of Asparagus</em>. The original one, please. Enlist the Ocean’s Eleven crew and send them to the Wallraf-Richartz Museum in Cologne, Germany. Or, if they happen to be busy, order a high quality reproduction, through for example <a href="https://wahooart.com/en/art/edouard-manet-bundle-of-asparagus-5ZKCAG-en/">Wahoo Art</a>. I’m unsure about the working conditions and ethical beliefs of that system as I just stumbled on it, but if that’s not an option, just a nice print will do. We’ll have a resin coating added later that makes it look like the real thing. Ever since reading about the painting in Alain de Botton’s <em>Art As Therapy</em>, I’ve wanted to hang a copy in the kitchen. Plus, we’re very fond of asparagus.</p>
+<p>Lastly, a heavy duty dough mixer, or more specifically, the Italian made <a href="https://tomishop.de/famag-grilletta-im5s-knetmaschine">Famag Grilletta IM5S</a>. These spiral mixers are not cheap and come in at around <code>€800</code> so just a donation towards it will suffice. I’ve been kneading by hand for twelve years but with the kids and our increased bread consumption rate it’s getting harder to keep up. Plus, the Grilletta that kneads any dough to windowpane without blinking twice will finally enable me to make smooth buttery dough and up the hydration in the more rustic recipes. The IM5S—contrary to the IM5 model without the S—can be tilted to remove the bowl and more easily clean it.</p>
+<p>Still unsure? My archives tell me the following things made it to previous Christmas wish lists:</p>
+<ul>
+<li>WoodWick candles</li>
+<li>Random Magic: The Gathering boosters</li>
+<li>An Apple Magic Keyboard I never got and eventually bought myself</li>
+<li>An authentic Belgian waffle iron (you can’t live without this if you’re living in Belgium)</li>
+<li>The book <em>Sourdough</em> by Robin Sloan</li>
+<li>The cookbook <em>Marie Plukt De Dag</em></li>
+<li>More Switch games like <em>The Witcher 3</em>, <em>Dragon Quest XI</em>, and <em>Metroid Dread</em></li>
+<li>A GameCube HDMI adapter</li>
+<li>A lovely pen roll to protect your precious fountain pens on the go</li>
+<li>A soldering iron</li>
+</ul>
+<p>Happy holidays!</p>
+
+
+          
+          <p>
+            Related topics: /
+                  <a href="https://brainbaking.com/tags/christmas">Christmas</a> /
+          </p>
+          
+          <p>
+            By <a href="https://brainbaking.com/about">Wouter Groeneveld</a> on 19 November 2025. 
+            <a href="mailto:hifromrss@brainbaking.com?subject=Re:%202025%20Holiday%20Gift%20Guide">Reply via email</a>.
+          </p>]]></description>
+			<pubDate>Tue, 18 Nov 2025 23:50:00 -0700</pubDate>
+			<guid isPermaLink="false">1763552185926664</guid>
+		</item>
+		<item>
+			<title>Music Journal 1</title>
+			<link>https://mtwb.blog/posts/2025/musicjournal/music-journal-1/</link>
+						<category>Music</category>
+			<description><![CDATA[<p>I’m going to start sharing some of the music I’m listening to. I’ve finally moved away from streaming music services and I’ve found it very nice to listen to my own music for once. I talked a few days ago about <a href="https://mtwb.blog/posts/2025/im-a-playlist-kind-of-guy/">albums vs playlists</a>, but I’ve actually found myself listening to a few albums. It’s been very nice.</p>
+<h4 data-sanitized-id="leave-this-town-by-daughtry">Leave This Town by Daughtry</h4>
+<p>I love this entire album, but <em>Life After You</em> is by far my favorite track. I love Daughtry’s voice, I think he’s probably one of the most iconic singing voices of my generation.</p>
+<h4 data-sanitized-id="elect-the-dead-by-serj-tankien">Elect the Dead by Serj Tankien</h4>
+<p><strong>System of a Down</strong> is perhaps my favorite band ever. If not the favorite, they’re definitely in the top 5. When they broke up and Serj went solo, I was dubious, but he can really sing. I’m not as big a fan of his later work, but his album <em>Elect the Dead</em> is one of the rare albums that hits on every single song.</p>
+<h4 data-sanitized-id="licensed-to-ill-by-beastie-boys">Licensed to Ill by Beastie Boys</h4>
+<p>I can’t believe this is a bleeding <strong>classic</strong> now, but it is. There are so many great tunes on this one: <em>Brass Monkey</em>, <em>No Sleep Till Brooklyn</em>, <em>Paul Revere</em>, and of course <em>Fight for Your Right</em>. That last one may have been the anthem of my middle school years.</p>
+<hr>
+<p>I’ve been scrobbling my <a href="https://mtwb.blog/music/">music</a> for a bit now, so it will be easy for me to occasionally make some small posts about what I’m enjoying.</p>]]></description>
+			<pubDate>Mon, 17 Nov 2025 23:16:55 -0700</pubDate>
+			<guid isPermaLink="false">1763552185926663</guid>
+		</item>
+		<item>
+			<title>Battambang day 1</title>
+			<link>https://mikesthoughts.blog/blog/Battambang%20day%201/</link>
+						<dc:creator>Michael Perry</dc:creator>
+			<description><![CDATA[<p>Welcome to two days rolled into one with no particular reason. So read on if you’re curious. Or just skip completely. Your call.</p>
+<h2 data-sanitized-id="preparation-day-or-whatever">Preparation day or whatever</h2>
+<p>Starting tomorrow, or today, whatever in blog time, we will go.each day gets its own post</p>
+<p>This is more of a preparation or lack of day. Like we pack a bag that is too big for three days. I remember going for a month and packing a smaller bag. So anyways, tomorrow at 930am we will get on a local bus service that will transport us the three hours to our temporary place. Been more than a few times so the writing here will be the same mix of personal crap with some travel things tossed in.</p>
+<p>The trip report here will be on separate days. Each day, I plan on really doing nothing particular. It makes things more interesting when we do something. I'll see about making this live tomorrow after our first day. Then new blogposts I think for the following days. I will also be putting a little bit on my fediverse account right about <a href="https://cupoftea.social/deck/@mpmilestogo">here</a>.  Look for some toot action there over the next days. Since I am only bringing my iPhone, I'll be using the wonderful Working Copy app to post things on the blog.</p>
+<p>So that's it. It's all random and it all just happens or not. Like tomorrow going at 930am. Three hours and a few stops on what we think is the best bus service here. <a href="https://larrytabus.com/">LarryTA</a> always seems to offer the safest and speediest options and my wife loves to try to make the driver talk to her. She will find others if the driver does not :-).</p>
+<h2 data-sanitized-id="battambang-day-one-minivan-trip-and-getting-there">Battambang Day one - Minivan trip and getting there</h2>
+<p>Its 730am. Like usual neither of us sleep well. We will leave at 9am for the minivan service. Luckily for us, it’s right down the street from where we live so a passapp gets us there quickly. Then 930 we pull out from here and go there.</p>
+<p>The trip is 3 hours. One stop for restroom. Talking optional. We got in at about 1pm. Decided on this walk because I hate missing a day. It’s this rectangle along the riverfront and down to a major street. Then down to another and another. End up at big turn around and walk back street 2 and our hotel. Saw this on my way. There are beautiful temples all around the town.</p>
+<p><picture><source type="image/avif"><source type="image/webp"><img src="https://mikesthoughts.blog/blog/Battambang%20day%201/nFMAK3YafR-3024.jpeg" alt="temple" width="3024" height="4032"></picture></p>
+<p>Ended up doing the one dinner my wife wants here. <a href="https://maps.app.goo.gl/bwi8jmjeB1sF4fsA8?g_st=ipc">Flavors of India</a> here. For some reason probably because it’s so good we always just want the food. Sometimes feel like we could just come for the day and do the food and leave.</p>
+<p>That’s about it. I’ll be just doing another blog post for tomorrow. Stay tuned for absolutely the same stuff as usual. Just in a different city.</p>]]></description>
+			<pubDate>Tue, 18 Nov 2025 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">1763552185926662</guid>
+		</item>
+		<item>
+			<title>Quoting Matthew Prince</title>
+			<link>https://simonwillison.net/2025/Nov/19/matthew-prince/#atom-everything</link>
+						<dc:creator>Simon Willison</dc:creator>
+			<category>scaling</category>
+			<category>postmortem</category>
+			<category>cloudflare</category>
+			<category>rust</category>
+			<description><![CDATA[<blockquote cite="https://blog.cloudflare.com/18-november-2025-outage/"><p>Cloudflare's network began experiencing significant failures to deliver core network traffic [...] triggered by a change to one of our database systems' permissions which caused the database to output multiple entries into a “feature file” used by our Bot Management system. That feature file, in turn, doubled in size. The larger-than-expected feature file was then propagated to all the machines that make up our network. [...] The software had a limit on the size of the feature file that was below its doubled size. That caused the software to fail. [...]</p>
+<p>This resulted in the following panic which in turn resulted in a 5xx error:</p>
+<p><code>thread fl2_worker_thread panicked: called Result::unwrap() on an Err value</code></p></blockquote>
+<p data-sanitized-class="cite">— <a href="https://blog.cloudflare.com/18-november-2025-outage/">Matthew Prince</a>, Cloudflare outage on November 18, 2025</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/scaling">scaling</a>, <a href="https://simonwillison.net/tags/postmortem">postmortem</a>, <a href="https://simonwillison.net/tags/cloudflare">cloudflare</a>, <a href="https://simonwillison.net/tags/rust">rust</a></p>]]></description>
+			<pubDate>Wed, 19 Nov 2025 01:02:36 -0700</pubDate>
+			<guid isPermaLink="false">1763552185926661</guid>
+		</item>
+		<item>
+			<title>Eulogy to my old laptop</title>
+			<link>https://hamatti.org/posts/eulogy-to-my-old-laptop/</link>
+						<dc:creator>Juha-Matti Santala</dc:creator>
+			<description><![CDATA[<p>
+  I recently purchased a new laptop and it’s been a joy. This means I’m letting
+  my old laptop retire after 7.5 years — out of which the last 4 years or so it
+  was already broken af.
+</p>
+
+<p>
+  My previous laptop was a late-2017 Macbook Pro. We started our shared journey
+  at my job and after it was time to update the work laptop, I was able to
+  purchase the old laptop for personal use, replacing my then ~7 year old
+  laptop.
+</p>
+
+<p>
+  There’s this push in tech to be constantly replacing your devices. We are to
+  think that after 3 years or so, an old device is useless and you should
+  upgrade to a newer version. I think that’s absurd. While my devices haven’t
+  quite survived to celebrate a 10 year anniversary, I’m rather happy I’ve
+  managed to use both of them for over 7 years.
+</p>
+
+<p>
+  At the moment of retirement, my laptop was in a rough condition. I had lost
+  many keys from the keyboard and even many of those still hanging on had
+  started to have issues where they’d register multiple presses so it was
+  completely unusable. The touch bar (remember those, thank heavens they decided
+  to stop adding them) was in perpetual disco mode: it keeps flashing like a
+  strobe light at a rave and I wasn’t able to find a way to turn it off. The
+  battery lasted around 10 seconds at best. And it had gotten really slow.
+</p>
+
+<p>
+  It essentially spent its last years as a docked laptop at my desk and I was
+  forced to use
+  <a href="https://notes.hamatti.org/technology/ipad-and-raspberry-pi-setup" data-sanitized-class="notion-text-href">my iPad with a Raspberry Pi as my mobile workstation</a>. It wasn’t the optimal thing but it was the financially responsible one.
+</p>
+
+<p>
+  But despite its rough last moments, we had a lot of great moments together. We
+  traveled across Europe to speak in developer conferences and meetups. We
+  traveled in Finland, to Sweden, Denmark, Estonia, Germany, The Netherlands and
+  Czechia to show my presentations to many lovely software developers.
+</p>
+
+<p>
+  I wrote hundreds of blog posts and built dozens of hobby projects on this
+  laptop.
+</p>
+<img src="https://hamatti.org/assets/img/posts/eulogy-to-my-old-laptop/1.png.webp" alt="A Macbook cover with a ton of stickers ">
+<p>
+  I love laptop stickers and looking back at my old laptops, they remind me of
+  <a href="https://hamatti.org/posts/stickers-tell-stories/" data-sanitized-class="notion-text-href">so many stories and memories</a>. Most of my stickers are from events, communities and organisations that
+  matter to me. Some I’ve worked on and others I’ve been either speaking in or
+  participating and enjoying.
+</p>
+
+<p></p>]]></description>
+			<pubDate>Tue, 18 Nov 2025 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">1763552185926660</guid>
+		</item>
+		<item>
+			<title>Pushing things along</title>
+			<link>http://www.bjoreman.com/diary/2025/2025-11-19.html</link>
+						<description><![CDATA[<p>Over on Mastodon, <a href="https://stevebarnes.org/">Steve Barnes</a> wrote <a href="https://mastodon.social/@Starfia/115572775837124659">some excellent comments</a> related to <a href="https://bjoreman.com/diary/2025/2025-11-18.html">my post yesterday</a>.</p>
+<p>He made me realize there is something very central to my post that I completely failed to make clear:</p>
+<p>Why do I make it sound like Meta created the Quest when it was Oculus who did so much of the essential technical work before Meta bought them?</p>
+<p>The answer is that I do not think a headset like the Quest 2 I own would be here on the sofa with me had there not been a Meta to buy Oculus and push the technology out to people.</p>
+<p>Oculus was definitely much more essential for the the VR tech we have today than Meta is, but without spreading it wide, getting devices made, and plugging away at polishing the software it would not have become a neat wireless package I could pick up in a store, set up in minutes (modulo Meta accounts), and buy games for without being technical.</p>
+<p>I wonder if the ability to push things along for a while is not a bit under-rated in tech today? Many things do not need radical changes every year (or every six minutes), they just need to settle, gradually spread, and get polished and well maintained.</p>
+<p>Google or Microsoft - to just pick some major companies out of thin air - have released and dropped more products than I can count in the time the Quest line has been around, several of them VR adjacent. They could have scaled and manufactured and distributed for a while, but they and their mindset could not have brought the Quest 2 to me and kept it updated.</p>
+<p>The one company I could think of as a possible alternative would be Valve. They can definitely do things over long periods of time. Hey, they even make hardware, some of which is for VR! And they are well known enough to me that I could concievably have bought a wireless headset from them had it existed.</p>
+<p>Somehow, I feel like Valve would have been a bit too leisurly to get it done though. Would they have pushed enough? Is their share of the current VR market a sign that they are not hungry enough to build a Quest-sized presence?</p>
+<p>Perhaps. But on the other hand I would never in a million years have guessed Meta would be this good to VR had it not happened.</p>
+<p>Kudos to everyone who is pushing something along even though it is not the hype of the moment. Almost everything is not.</p>]]></description>
+			<pubDate>Tue, 18 Nov 2025 16:00:00 -0700</pubDate>
+			<guid isPermaLink="false">1763552185926659</guid>
 		</item>
 
 	</channel>
