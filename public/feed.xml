@@ -4,9 +4,9 @@
         <description><![CDATA[Latest links from NWNN]]></description>
         <link>https://nwnn.l484.com</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 22 Nov 2025 17:32:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Nov 2025 18:31:55 GMT</lastBuildDate>
         <atom:link href="https://nwnn.l484.com/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Nov 2025 17:32:07 GMT</pubDate>
+        <pubDate>Mon, 24 Nov 2025 18:31:55 GMT</pubDate>
         <language><![CDATA[en]]></language>
         <item>
             <title><![CDATA[God Is Decentralized: Health, Crypto & the Path to Real Freedom (ft. Polycarp Nakamoto)]]></title>
@@ -326,6 +326,19 @@ Read more: https://www.disclose.tv/id/o8djud7zoc/
             <guid isPermaLink="false">250</guid>
             <pubDate>Sat, 22 Nov 2025 17:00:01 GMT</pubDate>
             <media:content url="https://nwnn.l484.com/api/media/photos/1763832013908_photo_6480.jpg" medium="image" type="image/jpeg">
+            </media:content>
+        </item>
+        <item>
+            <title><![CDATA[La Quadrature du Net (@LaQuadrature@mamot.fr)]]></title>
+            <description><![CDATA[Attached: 1 image
+
+Deux articles du Parisien hier, suivis aujourd'hui d'un article du Figaro, ont lancé une offensive honteuse contre GrapheneOS, un système d'exploitation open-source pour téléphones, gratuit et accessible à toutes et tous. À La Quadrature, c'est un des outils que nous privilégions et recommandons régulièrement pour se protéger du tracking publicitaire ou des spywares. 
+
+https://archive.is/20251119082524/https://www.leparisien.fr/faits-divers/google-pixel-et-grapheneos-la-botte-secrete-des-narcotrafiquants-pour-proteger-leurs-donnees-de-la-police-19-11-2025-NTGPQE4JCNGEHLF7XGIQ3CCA2I.php]]></description>
+            <link>https://mamot.fr/@LaQuadrature/115581775965025042</link>
+            <guid isPermaLink="false">254</guid>
+            <pubDate>Mon, 24 Nov 2025 17:49:49 GMT</pubDate>
+            <media:content url="https://static.mamot.fr/media_attachments/files/115/581/775/877/215/045/original/378107f93bdc9156.png" medium="image" type="image/png">
             </media:content>
         </item>
     </channel>
