@@ -1,9 +1,14 @@
 {
   "scripts": {
-    "dev": "next dev --turbopack"
+    "dev": "next dev --turbopack",
+    "process": "node background-processor.js"
   },
+  "type": "module",
   "dependencies": {
-    "next": "^15.5.4",
+    "dotenv": "^17.2.3",
+    "next": "^15.5.7",
+    "node-fetch": "^3.3.2",
+    "openai": "^6.7.0",
     "rss": "^1.2.2"
   }
 }
