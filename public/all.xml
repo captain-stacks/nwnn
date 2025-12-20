@@ -3,453 +3,184 @@
 		<title> | FreshRSS</title>
 		<link>http://192.168.1.206/FreshRSS/p</link>
 		<description>RSS feed of  | FreshRSS</description>
-		<pubDate>Fri, 19 Dec 2025 15:01:56 -0700</pubDate>
-		<lastBuildDate>Fri, 19 Dec 2025 22:01:56 GMT</lastBuildDate>
+		<pubDate>Sat, 20 Dec 2025 11:06:29 -0700</pubDate>
+		<lastBuildDate>Sat, 20 Dec 2025 18:06:29 GMT</lastBuildDate>
 		<atom:link href="/i/?a=rss&amp;state=2" rel="self" type="application/rss+xml" />
 				<item>
-			<title>The Most Dangerous Man</title>
-			<link>https://nikhil.bearblog.dev/the-most-dangerous-man/</link>
+			<title>Cute little Pokemon-esque Roottrees-alike</title>
+			<link>https://blog.lauramichet.com/cute-little-pokemon-esque-roottrees-alike/</link>
+						<dc:creator>lauram</dc:creator>
+			<category>deduction_games</category>
+			<category>games</category>
+			<description><![CDATA[<p>This cute little narrative deduction game, <a href="https://celia14.itch.io/my-friends-the-monster-trainers">My Friends the Monster Trainers,</a>is a short (for me, 20-minute) browser-based deduction puzzle where you have to deduce the type, moves, habitat, and art for a set of Pokemon-like monsters, using only a set of letters describing children getting into battles with them.</p>
+<p>The game lacks Obra Dinn style guess banking, so it's a bit more possible to brute force than other games in this genre... but it's short and each creature has a LOT of different qualities you must deduce from the letters, so it doesn't seem like it really merited guess banking.</p>
+<p>There's a devlog about it <a href="https://celia14.itch.io/my-friends-the-monster-trainers/devlog/1149334/pokemon-x-deduction-the-development-of-my-friends-the-monster-trainers">here</a> which gets into its background as a 72 hour game jam game, as well as some of the reasoning behind its puzzle design. There's even a little bit in here about why the devs avoided the Obra Dinn style guess banking and what they did instead to add some friction to brute-forcing gameplay. I really enjoyed reading it!</p>]]></description>
+			<pubDate>Sat, 20 Dec 2025 10:59:00 -0700</pubDate>
+			<guid isPermaLink="false">1766253891949230</guid>
+		</item>
+		<item>
+			<title>rise</title>
+			<link>https://tacitexposure.bearblog.dev/rise/</link>
+						<dc:creator>tacitexposure</dc:creator>
+			<category>poetry</category>
+			<description><![CDATA[<p><em>rise and rise until you die</em><br>
+<em>kill yourself a thousand times</em></p>
+<p><a href="https://tacitexposure.bearblog.dev/taboo" title="Embracing the taboo" data-sanitized-class="previous-post">Previous</a> </p>]]></description>
+			<pubDate>Sat, 20 Dec 2025 10:48:00 -0700</pubDate>
+			<guid isPermaLink="false">1766253891949229</guid>
+		</item>
+		<item>
+			<title>#AdventJukebox 20: Merry Xmas Everybody by Slade</title>
+			<link>https://thomasrigby.com/posts/adventjukebox-20-merry-xmas-everybody-slade/</link>
+						<dc:creator>Thomas Rigby</dc:creator>
+			<description><![CDATA[<p><a href="https://song.link/y/88WsYBGmrjI"><em>"Merry Xmas Everybody"</em></a> by <strong>Slade</strong></p>
+<p>There's a line in this song that says “Does Granny always tell you the old songs are the best?” which is funny because now <em>this</em> is the "old song" my kids' Granny thinks is best.</p>
+<p>Anyway, is it really Christmas if you haven't heard Noddy Holder screaming "It's Christmas!" like a Midlands hard rock banshee?</p>]]></description>
+			<pubDate>Sat, 20 Dec 2025 09:55:59 -0700</pubDate>
+			<guid isPermaLink="false">1766253891949228</guid>
+		</item>
+		<item>
+			<title>The Traveler and the Tourist</title>
+			<link>https://nikhil.bearblog.dev/the-traveler-and-the-tourist/</link>
 						<dc:creator>nikhil</dc:creator>
-			<description><![CDATA[<p>We have heard it countless times in movies, stories, and proverbs: the man who has nothing to lose is the most lethal of all. There are no inhibitions left to restrain him. There is no fear of failure, because that fear usually arises when there is something still left to protect. There is no self-doubt left to shackle his feet, for doubt too survives only when there is something at stake. When you are truly down and out, you often become someone with nothing to lose.</p>
-<p>But what if we cultivated this state of mind permanently? What if we lived like this, thought like this, and acted as though we had nothing to lose? What if we believed we had nothing to lose—and nothing to gain? The fear of losing is deeply rooted in our desire to acquire or preserve an identity. Once that desire dissolves, the fear attached to it dissolves as well.</p>
-<p>Imagine a way of living where you have nothing to prove. You do things because they are the right things to do. You follow your own internal compass of right and wrong, moral and immoral. There is no hunger to be proven right, and no fear of being proven wrong. No craving for accolades. No shame in criticism. You discover joy in the act itself rather than in the outcome of the act. The inevitable question then arises: how does one attain such a state? After all, it seems impossible to live a life entirely free of desire.</p>
-<p>Every desire germinates from a seed—a thought. Thoughts arise from emotions, and emotions arise from how you experience the world around you. The goal is not to be numb to your surroundings, but to observe them without being consumed by them. Your ambitions, aspirations, insecurities, and even your need for love and security all originate from a single thought. Whichever thought you water the most eventually grows into a tree. And once it has grown tall, it becomes extremely difficult to uproot with mere rationality. When you believe it is impossible to be free from desire, it is because you are staring at that fully grown tree, knowing deep down that cutting it down will be arduous.</p>
-<p>But isn’t thinking a part of being alive? Isn’t feeling what makes us human? Partly true. But you are not your thoughts. Thoughts arise within you; they are not you. You are the one who thinks—the thought is simply the result of engaging in that act. You are the one who desires things; you are not your desires. You may want a great deal of money in life, but can a pile of money be called you? Learn to observe your thoughts and desires from a distance. Watch how they form, how they evolve, and in doing so you will begin to understand how every desire took shape within you.</p>
-<p>The next time you feel bored, or just before you fall asleep, lie down and simply observe every thought that arises in your mind. Let them come—freely, abundantly, and with full intensity. A child has no ambitions in the way adults do. They do what feels right in the moment. They chase curiosity until exhaustion. Because they lack the capacity to turn fleeting thoughts into rigid desires, they are largely free from adult-like cravings—and are therefore often happier than us.</p>
-<p>Your only objective is to remain present: to do what needs to be done, in the way it ought to be done. A man who does the right thing because it is the right thing to do cannot be defeated. Defeat does not exist for someone who has no desire to win. For someone who finds joy in the act itself, outcomes like victory and loss become irrelevant. Where there is no desire to win, there is no fear of losing.</p>
-<p>If there were no fear of loss and no shame in criticism, how would you live? Would you act differently? Would your morality erode? Or would you perform your tasks with even greater clarity and efficiency?</p>
-<p>That is why those who have nothing to gain and nothing to lose are the hardest to defeat. Life cannot keep them down because they do not view it through the narrow lens of success and failure. There are no emotions left to trigger anxiety, because there is no fear of uncertainty. In their mind, success and failure do not exist—only the task at hand does.</p>
-<p>One may argue that desire is essential, that it fuels the fire within us. That emotional fire can indeed push people to achieve the unthinkable and overcome insurmountable challenges. But these achievements are byproducts of self-belief, not desire. Belief in your ability to face and solve problems is very different from being attached to favourable outcomes or feeling crushed by unfavourable ones.</p>
-<p>The fire to prove your critics wrong often comes from a desire to be seen as worthy—to earn validation, respect, and superiority. On some days, you will win, and you will feel jubilant. On other days, you will lose, and you will feel desolate. That desolation turns into frustration, frustration into anger, and anger into a loss of mental clarity—the most essential quality for a peaceful life.</p>
-<p>The only way to become truly powerful is to stop seeking power altogether. The one who cannot be bought, cannot be shamed, cannot be bullied, and cannot be moulded is a man who can never be defeated. Even in loss, he remains undefeated. Stop chasing every desire that arises in your mind. Instead, focus on the task before you—do it with equanimity, uphold your moral standards, do it well, do it efficiently, and then let go of whatever follows.</p>]]></description>
-			<pubDate>Fri, 19 Dec 2025 07:42:00 -0700</pubDate>
-			<guid isPermaLink="false">1766180125421739</guid>
+			<description><![CDATA[<p>With the rise of social media, especially after COVID, we have seen a sharp increase in global tourism. People want to see the world. They want to fulfill a checklist—a checklist they created not organically, but by watching others maintain similar lists in their lives. They want to tick everything off because everyone else seems to be doing the same.</p>
+<p>This mindset gave rise to indulgence in all kinds of experiences. You travel to places so visually stunning that you feel compelled to record them on camera and share them with the world. What was once meant to be <em>experienced</em> has now become an <em>event</em> to be broadcast. Spots that were once secluded and untouched were pushed into the spotlight because more and more people craved novelty—novelty they could display. Merely sharing an experience is no longer enough. That experience must be unique, rare, and impressive enough to invite admiration.</p>
+<p>This is why the word “tourist” has taken on a negative connotation. Tourists are often perceived as people who visit a place, click a few pictures, litter the surroundings, and return home. They show little concern for the place itself. They have no interest in its history or culture. They do not wish to learn—only to see, capture, and announce to the world that they were there.</p>
+<p>A traveler, however, is different from a tourist. He visits a place because it genuinely interests him. He learns about the culture. He attempts to blend into the environment. He explores the people by observing their routines, enduring the hardships they endure, and living through the joys they find meaningful. In return, he discovers places that are isolated yet breathtaking. Ironically, it is these travelers who first uncover such niche and secluded spots—only for them to later become fodder for tourists to exploit in the name of novelty.</p>
+<p>The traveler lives in many places, and those places, in turn, live within him. They transform him. They humble him. He may document his experiences through a blog post or an insightful video, but for him, it is never about a checklist. There is no checklist. He stays long enough to understand the rhythm of the place—to feel how it breathes.</p>
+<p>Have you ever visited a thousand-year-old structure, like a temple? There are many such temples in India. You will usually find two kinds of people there. The first kind studies the intricate detailing, observes the geometry, and tries to map history onto the structure itself. The second kind stands in front of the same architectural marvel clicking pictures of themselves—images curated for attention and validation. They frame the architecture as a backdrop rather than a subject. Nobody enjoys the company of the second kind. Everyone gravitates toward the first. The reason is obvious.</p>
+<p>The second one has the photos; the first one has the story.</p>
+<p>The same holds true in the mountains. You will again find two kinds of people. One breathes in the cold air, absorbs the vastness through his eyes, and lets the silence settle within him. The other is busy calculating angles—drone shots, tripod setups, selfies, panoramas. Always capturing, rarely experiencing. Nobody likes the second kind of people.</p>
+<p>Ultimately, it comes down to this: are you undergoing a new experience, or are you merely collecting proof that you were there? The former initiates transformation. It offers a new perspective. You begin to realize how trivial many of your worries are—how your thoughts have inflated simple problems into overwhelming burdens. That is how you truly refresh yourself. That is how you feel rejuvenated. That is how you actually feel the time off you took.</p>
+<p>You can feel refreshed even by traveling just 100 kilometers over a weekend—if your intention is to experience a new reality rather than tick off a checklist or collect photos. There is nothing wrong with clicking pictures. The problem lies in the objective. Experience first. And if something truly resonates with you, capture it—not for others, but as a reminder of a moment where you felt peace. That is why we collect souvenirs. Social media has flipped this objective upside down.</p>
+<p>The true reason we should travel is to free ourselves from the mental baggage we carry. This baggage is born out of the routines and realities we inhabit daily. By stepping into a new reality and adopting a new routine—even briefly—we create space to relax and reset. Distancing yourself from the mundane is how you detach from your old reality and reconnect with your inner self through a new one, even if only for a few days. This separation allows you to see life in a new light.</p>
+<p>The next time you travel, try something different. Ask yourself how you would survive in that place using only the amenities available there. You cannot bring anything with you. How would you adapt to new technologies in a remote yet scenic location? How would you manage daily chores in freezing winters or humid tropical climates? Try to follow the local routine as closely as possible. Learn a new skill while living there. Think about the problems people face—not from empathy or pity, but from lived experience.</p>
+<p>Your shortcomings will surface in such realities. Identify them. Then introspect. Ask yourself whether those shortcomings stem from your personality or from the environment. Whether you need to change your surroundings—or change yourself. Most problems arise when your personality is in constant conflict with the reality you inhabit.</p>
+<p>And that is why they say: to travel is to discover yourself.</p>]]></description>
+			<pubDate>Sat, 20 Dec 2025 07:42:00 -0700</pubDate>
+			<guid isPermaLink="false">1766253891949227</guid>
 		</item>
 		<item>
-			<title>Looking Like Christmas</title>
-			<link>https://glory2godforallthings.com/2025/12/19/looking-like-christmas-3/</link>
-						<dc:creator>Fr. Stephen</dc:creator>
-			<category>Beauty</category>
-			<category>Knowledge of God</category>
-			<description><![CDATA[<!-- FULLCONTENT start //--><div data-sanitized-class="entry-content ticss-b1e11967 wp-elements-44be291a56953b44ef92bc77710bf248 wp-block-post-content has-text-color has-contrast-color has-global-padding is-layout-constrained wp-block-post-content-is-layout-constrained"><p><img data-recalc-dims="1" src="https://i0.wp.com/glory2godforallthings.com/wp-content/uploads/2023/09/IMG_2830.jpeg?resize=2448%2C2448&amp;ssl=1" alt="" width="2448" height="2448" data-sanitized-class="aligncenter size-full wp-image-21000"></p>
-<p>One of the most striking features of the Gospels is the frequent response of the Disciples after the resurrection of Christ: doubt. I have always been sympathetic to the doubts and hesitations that accompanied the Disciples’ experience during the ministry of Christ. They are almost endearing in their inability to grasp what Christ is all about. However, the same inability to grasp things <em>after</em> the resurrection seems to carry with it all kinds of difficulties. What was it about the resurrection that they could not or did not believe? A man dies and is buried. Then he is <em>not</em> buried and is not simply a resusitated man, but manifests an entirely new form of existence. Call it <em>resurrection</em> or what have you – but apparently Christ had mentioned this coming reality more than once before it happened. What was the problem for the disciples?</p>
-<p>The problem seems to go to the very heart of things both then <em>and now</em>. Had the resurrection belonged to the classification of events that everyone <em>can</em> see, measure, study, reach “scientific” agreement about, there would surely have been no trouble. But the resurrection does not belong to some general classification. It is<em> sui generis,</em> its own classification.  There are many who want to speak about the resurrection as if it were a car wreck down at the corner drugstore. Whatever it was (is), it is very much <em>more</em>, even, indeed, something completely different – not like anything else.</p>
-<p>And it is here, that the continuing problem of <em>vision</em> is made manifest. Orthodox Christian writers are wont to utter things like, “God will save the world through beauty” (Dostoevsky), or “Icons will save the world” (recently in <em>First Things</em>) all of which makes some people want to run away. But at their heart, such statements are trying to say something about the nature of the resurrection and its action in our world.</p>
-<p>The resurrection of Christ is something completely new. It is a manifestation of God unlike anything we have ever known. It is Truth made manifest in the flesh – not the truth to be found in an average living man. I am 72 and I look very unlike what I did at 10. I look decidedly unlike what I will in another 100 years (you probably wouldn’t like to see that). Thus we never normally see anything in an eternal state. But the resurrection is just that. It does not belong exactly to the classification of “things created,” for it is the “uncreated” before our eyes.</p>
-<p>And thus the Church paints the things that pertain to the resurrection in an <em>iconic</em> fashion – not like portraiture or the “truth” that lies before our eyes. Icons paint the Truth in a manner that intends to point to the resurrection. By the same token, the Church does not write about the resurrection in the way we write about other things, for the resurrection is not one of the other things but a thing that is unlike anything else. Thus the Fathers of the Church said that “icons do with color what Scripture does with words.”</p>
-<p>And both have something to do with vision. The Gospel tells us: “Blessed are the pure in heart, for they shall see God.” I am not pure in heart but I think I may have encountered such a person. At the least, I have read stories about such a person and I know that such persons see what I cannot and they see in a manner that as yet I do not.</p>
-<p>But this goes to the point of salvation. Salvation is not how to get people like me (or like you) into some place safe from the fires of hell. That is a transportation problem at best, or a legal problem, at worst. The point of salvation is how to <em>change</em> people like me (and you). It is about changing us such that seeing the resurrection becomes possible.</p>
-<p>In this sense, God will indeed save the world through Beauty. The problem is that so few if any of us have ever seen Beauty. If you had seen Beauty, then you would not disagree with the statement. Its obvious character would be, well, <em>obvious</em>. That people want to argue with it (or with icons) only means that they do not or cannot see. And neither do I, most of the time.</p>
-<p>If I could see as I am meant to see then my eyes would not see enemies nor the like. Not that others might not intend to be my enemies or want evil for me – but there are eyes that see beyond all of that and see the Truth of a person. Had I the eyes to see, love would not be an insurmountable problem but as tangible as the Resurrection itself.</p>
-<p>And so we draw ever nearer to the Feast of the Lord’s Nativity. Every heart should prepare Him room. More than that, every heart should beg to see the Beauty, to read the Icon of the Gospel of the Nativity, to see what daily escapes our vision and leaves us blind – leading the blind.</p>
-<div data-sanitized-class="sharedaddy sd-sharing-enabled"><div data-sanitized-class="robots-nocontent sd-block sd-social sd-social-icon-text sd-sharing"><h3 data-sanitized-class="sd-title">Share this:</h3><div data-sanitized-class="sd-content"><ul><li data-sanitized-class="share-facebook"><a data-shared="sharing-facebook-26000" href="https://glory2godforallthings.com/2025/12/19/looking-like-christmas-3/?share=facebook" aria-labelledby="sharing-facebook-26000" data-sanitized-class="share-facebook sd-button share-icon">
-				<span hidden data-sanitized-id="sharing-facebook-26000">Click to share on Facebook (Opens in new window)</span>
-				<span>Facebook</span>
-			</a></li><li data-sanitized-class="share-x"><a data-shared="sharing-x-26000" href="https://glory2godforallthings.com/2025/12/19/looking-like-christmas-3/?share=x" aria-labelledby="sharing-x-26000" data-sanitized-class="share-x sd-button share-icon">
-				<span hidden data-sanitized-id="sharing-x-26000">Click to share on X (Opens in new window)</span>
-				<span>X</span>
-			</a></li><li data-sanitized-class="share-end"></ul></div></div></div></div><!-- FULLCONTENT end //-->]]></description>
-			<pubDate>Fri, 19 Dec 2025 07:26:15 -0700</pubDate>
-			<guid isPermaLink="false">1766180125421738</guid>
+			<title>Waking up in an airport hotel room with a runway view.</title>
+			<link>https://adactio.com/notes/22314</link>
+						<description><![CDATA[<img src="https://adactio.com/images/uploaded/22314/small.jpg" alt="Waking up in an airport hotel room with a runway view.">
+<p>Waking up in an airport hotel room with a runway view.</p>]]></description>
+			<pubDate>Sat, 20 Dec 2025 07:13:09 -0700</pubDate>
+			<guid isPermaLink="false">1766253891949226</guid>
 		</item>
 		<item>
-			<title>A small fix</title>
-			<link>https://jamesg.blog/2025/12/19/a-small-fix/</link>
-						<dc:creator>James' Coffee Blog</dc:creator>
-			<description><![CDATA[<p>I have a page on my site, <a href="https://editor.jamesg.blog/post">/post</a>, which lists all of my blog posts. For at least the last year, the HTML document title used on the page has been <code>Posts in the Post Category</code>. This is because the page uses the same template as my other category pages. <code>Posts in the Coffee Category</code> make sense; <code>Posts in the Post Category</code> – which encompasses all of my posts – makes less sense.</p><p>I hadn’t changed the title in large part because I wasn’t sure how to do it easily, but today I figured out a way to create an exception such that /post could have its own title. The solution I came up with, adding an <code>if</code> statement to the category template, only took a minute or so. The solution is obvious in retrospect, but isn’t that always the case? Sometimes it takes a year to figure out how to make a change.</p><p>Now the /post page has the title <code>My Blog Posts</code>. That’s better! Oh! <a href="https://jamesg.blog/2024/03/04/incremental-website-improvements-joy">the joy of incremental website improvements</a>.</p>]]></description>
-			<pubDate>Fri, 19 Dec 2025 07:11:36 -0700</pubDate>
-			<guid isPermaLink="false">1766180125421737</guid>
+			<title>Why do people leave comments on OpenBenches?</title>
+			<link>https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/</link>
+						<dc:creator>@edent</dc:creator>
+			<category>/etc/</category>
+			<category>OpenBenches</category>
+			<category>web</category>
+			<description><![CDATA[<p>I'm still a believer in the promise of Web 2.0. The idea that giving people a curated space to chat produces tiny sparks of magic.</p>
+
+<p>My wife Liz and I have been running the <a href="https://openbenches.org/">OpenBenches project</a> for about 8 years - it's a crowd-sourced repository of memorial benches. People take a geotagged photo of a bench's plaque, upload it to our site, and we share it with the world.  Might sound a bit niche, but we have around thirty-nine <em>thousand</em> benches catalogued from all over the world.</p>
+
+<p>From the start, we had a comment form under each bench. Of course, we pre-moderate any comments. That <a href="https://www.openbenches.org/blog/online-safety-act/">helps with our Online Safety Act obligations</a> and prevents spam from being published. We don't collect any personal data, to reduce our GDPR exposure. Our comments are self-hosted using the excellent <a href="https://commentics.com/">Commentics</a> - which means we don't send people's data off to a 3rd party.</p>
+
+<p>We <em>thought</em> that this would be used to tell us that an inscription was wrong, or if a bench had moved, or something like that.</p>
+
+<p>We were completely wrong!</p>
+
+<p>People use OpenBenches comments for all sorts of things. Of course, there are a few which provide details about the bench itself:</p>
+
+<p><a href="https://openbenches.org/bench/33640"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/removed.webp" alt="This bench was removed after the river flooded and majorly eroded the bank earlier this year (spring 2025), and now two new benches are in approximately the same place but a little further back from the river." width="1248" height="402" data-sanitized-class="aligncenter size-full wp-image-64159"></a></p>
+
+<p>Other provide a little context about the person:
+<a href="https://openbenches.org/bench/38738"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/info.webp" alt="
+She competed under her birth name, Zsuzsa Nádor:
+https://en.wikipedia.org/wiki/Zsuzsa_Nádor
+There's a Wikipedia article about Roman, too:
+https://en.wikipedia.org/wiki/Roman_Halter" width="1248" height="402" data-sanitized-class="aligncenter size-full wp-image-64161"></a></p>
+
+<p>But those sorts of comments are hardly the majority.  The comments break down (roughly) into these categories:</p>
+
+<h2 data-sanitized-id="i-want-to-know-more-about-this-person"><a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/#i-want-to-know-more-about-this-person">I want to know more about this person</a></h2>
+
+<p><a href="https://openbenches.org/bench/3225"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/grandson.webp" alt="I am the grandson of Janet Constance Hardie, who had a sister Ethel Hardie. Ethel Hardie married Harry Macinnes and then died in 1961. Ethel and Harry had a daughter named Ethel Elvery Macinnes. Is the Ethel Hardie, who is remembered on this bench related to the above Hardies of my family ? Best Regards, Neil Rowlandson" width="1248" height="582" data-sanitized-class="aligncenter size-full wp-image-64163"></a></p>
+
+<h2 data-sanitized-id="i-sat-on-this-bench-searched-for-the-inscription-and-found-this-site-i-want-to-share-my-feelings"><a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/#i-sat-on-this-bench-searched-for-the-inscription-and-found-this-site-i-want-to-share-my-feelings">I sat on this bench, searched for the inscription and found this site. I want to share my feelings</a></h2>
+
+<p><a href="https://openbenches.org/bench/13312"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/devon.webp" alt="Sounds like she was an inspirational woman. Clearly gone to soon. Sat on her bench today whilst visiting from Devon." width="1248" height="282" data-sanitized-class="aligncenter size-full wp-image-64164"></a></p>
+
+<h2 data-sanitized-id="thank-you-for-putting-a-bench-here"><a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/#thank-you-for-putting-a-bench-here">Thank you for putting a bench here</a></h2>
+
+<p><a href="https://openbenches.org/bench/38259"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/peace.webp" alt="A peaceful spot on the banks of the river Orwell. Thanks for those that funded it." width="1248" height="222" data-sanitized-class="aligncenter size-full wp-image-64165"></a></p>
+
+<h2 data-sanitized-id="this-has-moved-me"><a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/#this-has-moved-me">This has moved me</a></h2>
+
+<p><a href="https://openbenches.org/bench/37741"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/amy.webp" alt="I'm sat on the bench now i didn't know the lady but so sad to pass at such a young age by what i have found on the internet she was liked loved and respected my thoughts with all the family even though it's been almost 4 years since her I'm sure she will never be forgotten. Someone has placed a bunch of yellow flowers on the bench that is what first made me stop and look RIP Amy" width="1248" height="642" data-sanitized-class="aligncenter size-full wp-image-64166"></a></p>
+
+<h2 data-sanitized-id="my-heart-has-broken"><a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/#my-heart-has-broken">My heart has broken</a></h2>
+
+<p><a href="https://openbenches.org/bench/39228"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/miss.webp" alt="I love you. I miss you. I so long to see you." width="1248" height="224" data-sanitized-class="aligncenter size-full wp-image-64167"></a></p>
+
+<h2 data-sanitized-id="i-cant-visit-this-bench-but-im-glad-someone-has-shared-a-photo"><a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/#i-cant-visit-this-bench-but-im-glad-someone-has-shared-a-photo">I can't visit this bench, but I'm glad someone has shared a photo</a></h2>
+
+<p><a href="https://openbenches.org/bench/13023"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/mary.webp" alt="Mary was my best friend, from primary school until she died. I have not visited her bench but hope those who sit there in that beautiful place will also have experienced wonderful friendships as I did." width="1248" height="402" data-sanitized-class="aligncenter size-full wp-image-64170"></a></p>
+
+<h2 data-sanitized-id="thank-you-for-adding-a-photo"><a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/#thank-you-for-adding-a-photo">Thank you for adding a photo</a></h2>
+
+<p><a href="https://openbenches.org/bench/26373"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/thanks.webp" alt="This is my father’s memorial bench on half penny pier thank you to the person who took the photos x" width="1248" height="282" data-sanitized-class="aligncenter size-full wp-image-64169"></a></p>
+
+<h2 data-sanitized-id="i-dont-know-the-person-this-bench-commemorates-but-i-want-to-let-them-know-theyre-still-loved-and-remembered"><a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/#i-dont-know-the-person-this-bench-commemorates-but-i-want-to-let-them-know-theyre-still-loved-and-remembered">I don't know the person this bench commemorates, but I want to let them know they're still loved and remembered</a></h2>
+
+<p><a href="https://openbenches.org/bench/35294"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/mum.webp" alt="My mum and her girlfriends sat on the bench today and told your father stories about how they were visiting this place many decades ago. They hope your father was listening. All the best to you" width="1248" height="402" data-sanitized-class="aligncenter size-full wp-image-64171"></a></p>
+
+<h2 data-sanitized-id="thats-nice"><a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/#thats-nice">That's nice</a></h2>
+
+<p>Hundreds of people sharing connections. Wanting to express their feelings. Understanding the terrible pain of loss and the hope that, someday, someone will think fondly of us.</p>
+
+<p>You can <a href="https://openbenches.org/comments">view all the comments on OpenBenches.org</a>.</p>]]></description>
+			<pubDate>Sat, 20 Dec 2025 05:34:14 -0700</pubDate>
+			<guid isPermaLink="false">1766253891949225</guid>
 		</item>
 		<item>
-			<title>It’s Beginning to Look a Lot Like Christmas</title>
-			<link>https://musingsfromatangledmind.com/2025/12/19/its-beginning-to-look-a-lot-like-christmas/</link>
-						<dc:creator>Musings from a Tangled Mind</dc:creator>
-			<category>Everyday Musings</category>
-			<category>christmas</category>
-			<category>life</category>
-			<category>humor</category>
-			<category>musings</category>
-			<category>holidays</category>
-			<category>lifestyle</category>
-			<category>holiday stress</category>
-			<category>holiday self-care</category>
-			<category>festive season</category>
-			<media:content url="https://0.gravatar.com/avatar/31ec7a2e33056eb9b17551f99a60a9ba20d8b41e7681ea12d7fe7911294c5215?s=96&amp;d=identicon&amp;r=G" medium="image"><media:title type="html">surojabu11</media:title></media:content>
-			<description><![CDATA[<p>Every time I scroll social media, someone is “grinding at 4 AM,” “crushing their goals,” or “living at 1000%.” It’s exhausting. First of all, I can’t even live at 85% unless caffeine is involved and no one has spoken to me yet. I might get up to 89% by noon.</p>
-<p>And now it’s the holidays, so the pressure has <em>seasonal flair</em>. Suddenly everyone is thriving <em>festively</em>. As if joy is a deliverable with a deadline and you’ve gotta meet that year-end goal.</p>
-<p>They’re not just hustling. They’re hustling in coordinated neutrals, with handcrafted ornaments made from reclaimed wood and childhood trauma. They’re wrapping gifts in handmade paper they apparently pulped themselves using vibes and a mortar and pestle they definitely got from Williams Sonoma. They’ve DIY’d a garland out of dried oranges, cinnamon sticks, and a moral superiority I do not possess.</p>
-<p>Every influencer has “a cozy holiday morning routine” where they wake up glowing, light a soy candle they poured by hand, and gently sip something warm while snow falls outside like a goddamn Hallmark movie.</p>
-<p>What they don’t show you is that only one half of the room looks like that.</p>
-<p>The other half is a pile of Amazon boxes, unfolded laundry, and a single sad shoe. It’s basically a sound stage. They move the ring light six inches to the left and suddenly it’s <em>wholesome magic</em>. Turn it off and it’s just a normal adult panic den with children screaming somewhere in the distance. “Mooommmm! Katie’s eating the tinsel again! Moooommm!”</p>
-<p>And those perfectly wrapped gifts? Target. They’re from Target. As for the handmade wrapping paper? Um, not so much. More like Aspen and Arlo’s vintage collection.</p>
-<p>But when you see curated perfection enough, it messes with your head.</p>
-<p>You start thinking you’re not doing enough. Not decorating enough. Not <em>joying</em> hard enough. Like if you’re not hand-stitching stockings while simmering something cinnamon-y on the stove and smiling softly into the middle distance, you’re failing December.</p>
-<p>Meanwhile, I’m over here drinking mulled cider out of a cracked cup, watching my cat climb the Christmas tree like he’s trying to escape our suburban paradise via the ceiling, and honestly?</p>
-<p>It’s peaceful as hell. Imperfection is straight-up bliss. No aesthetic. No matching pajamas. No handmade wrapping paper made from recycled expectations. Just mild chaos and hope.</p>
-<p>Here’s the thing they don’t tell you… whether it’s hustle culture or holiday perfection, living at 1000% is unsustainable. It’s exhausting. It’s also boring. It’s just sprinting through your life while narrating it for strangers.</p>
-<p>It’s also make-believe.</p>
-<p>Nobody, and I mean nobody, is doing burpees at sunrise, running a business, journaling, meditating, hand-making ornaments, baking bread, AND not crying quietly in their car at some point.</p>
-<p>I don’t trust anyone who doesn’t occasionally lie face-down on the couch and question every decision they’ve ever made.</p>
-<p>So if you’re functioning at like… 42% this holiday season?</p>
-<p>Welcome.</p>
-<p>Have some cider. Let the tree lean. Use a gift bag. Stop trying to keep up with people who are faking their entire lifestyle.</p>
-<p>You’re doing just fine.</p>
-<p><span>.</span></p>]]></description>
-			<pubDate>Fri, 19 Dec 2025 07:00:19 -0700</pubDate>
-			<guid isPermaLink="false">1766180125421736</guid>
-		</item>
-		<item>
-			<title>Going to Arizona. brb</title>
-			<link>https://adactio.com/notes/22313</link>
-						<description><![CDATA[<p>Going to Arizona. brb</p>]]></description>
-			<pubDate>Fri, 19 Dec 2025 06:45:44 -0700</pubDate>
-			<guid isPermaLink="false">1766180125421735</guid>
-		</item>
-		<item>
-			<title>Kathleen Fisher</title>
-			<link>https://manuelmoreale.com/interview/kathleen-fisher</link>
-						<dc:creator>hello@manuelmoreale.com (Manuel Moreale)</dc:creator>
-			<description><![CDATA[<p>This week on the People and Blogs series we have an interview with Kathleen Fisher, whose blog can be found at <a href="https://www.aspeckledtrout.com/">aspeckledtrout.com</a>.</p>
-        <p>Tired of RSS? <a href="https://manuelmoreale.com/interview/kathleen-fisher">Read this in your browser</a> or <a href="https://buttondown.com/peopleandblogs">sign up for the newsletter</a>.</p>
-        <p>The People and Blogs series is supported by <a href="https://blog.x-way.org/">x-way</a> and the other 127 members of my <em>"One a Month"</em> club.</p>
-        <p>If you enjoy P&amp;B, <a href="https://ko-fi.com/manuelmoreale">consider becoming one</a> for as little as 1 dollar a month.</p>
-        <hr>
-        <h2>Let's start from the basics: can you introduce yourself?</h2>
-<p>My name is Kathleen and I am a Kansas City resident for over thirty years. I came to this area when my late husband was offered a job as a biochemistry professor at a university medical center. The initial plan was that this would be a 5-10 year stay before moving on to another opportunity. We had moved from the DC area and everyday living seemed so much easier which was a welcome change. We were both raised in the Chicago area and I still have traces of an accent and bouts of homesickness – most often in the summer when the Cubs are winning. </p>
-<p>For the last five years I have been working for an interior design firm. We do residential design and I work on the admin side. It’s a combination of accounting work as well as doing all the edits on invoicing for designers’ billable hours. I love that part of my job. Designers write a brief description of what they’ve done for a client and I clean up the wording and grammar for billing purposes. I’m not sure that any of our clients look at it outside of the total but I am proud of the work I put into it and believe it has made me a better writer.</p>
-<p>I have three grown kids – a daughter who is a school librarian and married mom of three, a son who is an interior designer, and my youngest daughter who is getting her masters in clinical psychology. They have weathered some tough storms due to their dad’s death and have maintained their kindness, their humor, and their empathy and are, without a doubt, my favorite people. </p>
-<h2>What's the story behind your blog?</h2>
-<p>When we made our move to Kansas City from DC, we needed to let people know our new address and so we sent out Christmas cards with the dreaded newsletter. I wrote it as a spoof of what most people typically get and everyone loved it so it became an annual thing. I loved writing it and from there decided to start a blog. </p>
-<p>For years I was on Blogspot and switched to Wordpress seven years ago. It was at that time that my husband ended his life. We had been married for 35 years and dated five years prior to that. It was devastating and a shock to everyone who knew him. He was my biggest cheerleader when it came to writing so it made sense that I would write the eulogy for his funeral and then read it in front of hundreds of people. To date there is no piece of writing that I am more proud of than that one. After that I kept writing and writing to try to process the all-consuming grief. What started as a light-hearted and fun blog became a real-time look into the life of someone whose entire life had been crushed beyond repair. I didn’t sugarcoat any of it and I think for many people it gave their own sorrow validity.</p>
-<h2>What does your creative process look like when it comes to blogging?</h2>
-<p>I spend a lot of time in my head thinking about a story and how I want to write it before I actually sit down and do the work. The best laid plans, however, can take unexpected detours. I think artistic people tend to be very observant to life and their surroundings so when I see something that touches or surprises me I file it away. It’s usually when I’m doing something mundane like walking the dog or driving to work. I have no idea why it has meaning or why I can’t stop thinking about it but I trust that it will be revealed when I’m writing. It nearly always is part of the detour and I have learned to get out of my own way, shelve my pre-conceived notions of how the story was supposed to go, and follow the fork in the road.</p>
-<h2>Do you have an ideal creative environment? Also do you believe the physical space influences your creativity?</h2>
-<p>When my kids grew up and moved out of the house, I turned one of their bedrooms into a writing studio. It was a very creative environment and I rarely used it.</p>
-<p>For the past two years I have been in a relationship with another scientist (a colleague of my late husband). He was building a house four blocks from the one I lived in for decades. When things got serious between us and before the house was even finished, we walked in each of the upstairs bedrooms and he asked me which room I wanted for my writing. To this day the memory of that night still touches me, how he wanted to make space for me, how he knew this was important. We took one of the bigger bedrooms and made it a dual office space. I rarely use that space either. I’m writing this at the kitchen island where the windows are big and the light is good which seems is the best creative environment for me.</p>
-<h2>A question for the techie readers: can you run us through your tech stack?</h2>
-<p>As I previously mentioned, I have been on Wordpress for several years. Blogspot was easy for a beginner but I then learned they owned the content and knew I needed to switch. A friend did it for me and it has been a learning curve that has been incredibly frustrating at times. At one point all of my posts were switched to private so nobody could read them and my experience has been that their tech support is non-existent. Then my blog was hacked so it was a stressful few months to get everything worked out. That being said, I am considering moving to Substack based on reviews from other friends who are writers.</p>
-<h2>Given your experience, if you were to start a blog today, would you do anything differently?</h2>
-<p>The only thing I would do differently is I would have started sooner. I took a creative writing class in high school where the teacher read a piece she’d written about eating watermelon on a hot, summer day. I was mesmerized and wanted to write like that, to be transformed into another place for a brief moment. There is so much self-doubt when you’re putting your work into the world. You daily think that you absolutely suck as a writer but if you keep at it you find your voice and if it’s authentic it will resonate and you will find your audience.</p>
-<h2>Financial question since the Web is obsessed with money: how much does it cost to run your blog? Is it just a cost, or does it generate some revenue? And what's your position on people monetising personal blogs?</h2>
-<p>I pay about $70 a year for my domain. I don’t generate any revenue from it mainly because that has never been in my wheelhouse. As far as people monetizing their blog, I’m okay with that. I’m always taken aback when people complain that something is behind a paywall as if access to all creative work should be free. </p>
-<h2>Time for some recommendations: any blog you think is worth checking out? And also, who do you think I should be interviewing next?</h2>
-<p><a href="https://orlandosoria.substack.com/">Orlando Soria</a> is a freelance interior designer who writes often about the field he’s in, financial upheaval, and observations about life. I love his writing for its authenticity and humor.</p>
-<p><a href="https://aninchofgray.blogspot.com/">Anna Whiston Donaldson</a> was my first introduction to writing about grief. She lost her son suddenly and her blog was a chronicle of that time when it was so raw and devastating. She doesn’t write as often now and I miss her voice. She made me unafraid to write about my own grief when my husband died. </p>
-<p><a href="https://porkchopsandpravda.net/">Tom Pochapsky</a> is a scientist and was one of my husband’s dearest friends. He’s a fabulous writer and his take on current events is spot on.</p>
-<h2>Final question: is there anything you want to share with us?</h2>
-<p>It has been my goal for a very long time to turn my blog work into a book. After my husband’s death I literally felt like I was losing my mind. Writing helped me in so many ways and I have found that most people are grieving something. We learn as we go how to carry our losses and my blog has shown me that there is an audience that is desperate to be understood. I hope I can shed a small light on them. </p>
-<p>Secondly, we are living through such dark times so whatever your creative outlet is bring it out into the open. The arts help us make sense of the world. Become part of that company – you are desperately needed.</p>
-<p>Lastly, thank you, Manu, for reaching out to me and inviting me into this club. I had to read your email three times to make sure it was legit because who does this sort of thing? Highlights blog writers? My sincere thanks to you. What a gift to be able to do this.</p>        <hr>
-        <h3>Keep exploring</h3>
-        <p>Now that you're done reading the interview, <a href="https://www.aspeckledtrout.com/">go check the blog</a> and <a href="https://www.aspeckledtrout.com/feed/">subscribe to the RSS feed</a>.</p>
-        <p>If you're looking for more content, go read one of the previous <a href="https://peopleandblogs.com/">120 interviews</a>.</p>
-        <p>Make sure to also say thank you to <a href="https://numericcitizen.me/">Numeric Citizen</a> and the other 127 supporters for making this series possible.</p>]]></description>
-			<pubDate>Fri, 19 Dec 2025 05:00:00 -0700</pubDate>
-			<guid isPermaLink="false">1766180125421734</guid>
-		</item>
-		<item>
-			<title>Challenging fate with goodwill (and a holiday sale)</title>
-			<link>https://www.baldurbjarnason.com/2025/challenging-fate/</link>
-						<dc:creator>Baldur Bjarnason</dc:creator>
-			<description><![CDATA[<p>Over the 2025 holiday season, the ebook editions of <a href="https://payhip.baldurbjarnason.com/b/34qSg"><em>The Intelligence Illusion: Why generative models are bad for business</em></a> and <a href="https://payhip.baldurbjarnason.com/b/skbMv"><em>Out of the Software Crisis: Systems-thinking for software projects</em></a> will be on sale for only €25 EUR (a €10 EUR discount).</p>
-<p><a href="https://payhip.baldurbjarnason.com/b/34qSg" data-sanitized-class="Buy">Buy <em>The Intelligence Illusion: Why generative models are bad for business</em> for  <strong><del>€35</del> €25 EUR</strong></a></p>
-<p><a href="https://payhip.baldurbjarnason.com/b/skbMv" data-sanitized-class="Buy">Buy <em>Out of the Software Crisis: Systems-thinking for software projects</em> for  <strong><del>€35</del> €25 EUR</strong></a></p>
-<p>When I post on social media, regret isn’t that unusual an emotion. Most of the time it’s momentary and near-immediate. I regret my poor impulse control. Or, I worry about a silly statement getting reposted into a strange audience that might take it too seriously. Sometimes my anger gets the better of me.</p>
-<p>Sometimes I’m not angry <em>enough</em> in the post, and people foolishly mistake patience for approval.</p>
-<p>Very, <em>very</em> occasionally that regret hits you, months later. Something poorly thought-out gets noticed and you have to go and post something like: “yeah, that was super dumb, I’m sorry. Won’t do that again.”</p>
-<p>But for the first time I’ve had a social media post simmer into regret – like a pot of aromatic ingredients that first cooks into a tasty stew but later stews into something outright bilious. Vile, even.</p>
-<p>Not because of what I wrote or the sentiment I expressed, but because it would become a reminder of something I’d lost.</p>
-<p>It <a href="https://toot.cafe/@baldur/112127447270321395">was originally a note of joy</a>, of a habit that helps you see a larger world. Something fun.</p>
-<blockquote>
-<p>I’ll let you in on a secret: I love sporadically updated weblogs. I subscribe to over 1200 feeds and most of them are sporadic or even technically “inactive”. Months often pass between updates</p>
-<p>It means that every post published was important to the writer</p>
-<p>Back in the days of snail mail, letters that began with “It’s been a while since I last wrote to you” were the ones people cherished the most</p>
-<p>You don’t need to post every day or even every week to have a blog that matters</p>
-</blockquote>
-<p>Following a large number of sporadically updated blogs – my “it’s been a while since” reads – is a habit I’ve had since the very first days of RSS. I’ve exported and imported the OPML of the feeds I follow for over two decades, collecting an ad hoc community of strangers to read.</p>
-<p>Very, very few of them post daily. A few are weekly or monthly. Most of them only publish a few times a year. Every now and then a blog blips back into existence after years of silence for a single blog post.</p>
-<p>Going through my feed reader and picking out things to read has been my morning routine since my PhD days, over twenty years ago.</p>
-<p>That routine today is during my morning coffee, but for the longest time it was the moment I had my strong lapsang souchong tea, no milk, no sugar, and the two are so strongly associated in my mind that I can smell the smoky aroma of the tea when I’m reading my feeds.</p>
-<p>But the smell has been fading.</p>
-<p>The feeds have always skewed tech. People in publishing and comics fell out of the blog habit early on. Most of those who have the patience to keep a weblog for years even if they update it only a few times tend to work in tech. Many of them are programmers of varying stripes.</p>
-<p>A lot of web developers.</p>
-<p>It first began with a few inactive blogs that surged to life again.</p>
-<p>This happens regularly when a domain lapses and gets taken over by spammers. All of a sudden a stale tech blog begins to post about online gambling sites or affiliate marketing. Or, starts to publish dozens of posts in Chinese every day.</p>
-<p>It happens. You unsubscribe and move on.</p>
-<p>But these were clearly the same blog, same blogger, just more active.</p>
-<p>And more <em>bland</em>.</p>
-<p>Suddenly they were fond of “AI”.</p>
-<p>Like mold on a damp wall, “AI” boosterism has spread one by one throughout my “it’s been a while” reads.</p>
-<p>They don’t all start spewing slop. Some stay the same in tone and style, except the <em>topic</em> is now all “AI is great” all the time.</p>
-<p>Gone is any hint of talk about design, problem-solving, making, or creating. It’s all about how to shunt things off onto the “robot”.</p>
-<p>Some of them have to use it at work and are just making the most of it, but even those end up recruited into tech’s latest glorious vision of the future.</p>
-<p>Reading my feeds used to make me feel like I was a part of a community. It was a counterweight to the big corporate, “dev-rel” slant that filled much of the programming, coding, and software dev web.</p>
-<p>“People like me outnumber people like them.”</p>
-<p>Not any more.</p>
-<p>I’ve been watching my field leave me for something that makes worse software, is ethically compromised at it’s very foundation, environmentally suspect at best, and is an integral part of the right-wing political project to reshape our society.</p>
-<p>And many of them seem happy about it.</p>
-<p>English has the idiom “to tempt fate”, implying that hubris can tempt or provoke destiny into turning against you.</p>
-<p>The Icelandic version is “storka örlögunum” or “to challenge fate”, implying a defiance that challenges the fates directly, practically demanding that they teach you a lesson.</p>
-<p>I guess there’s defiance in celebrating a decades old faith in the long tail of the field of software development.</p>
-<p>That long tail is still there, just much smaller. Much of it is people writing about wanting to get out of tech – a desire to work in an industry that isn’t actively trying to destroy society. A few continue to write about solid work and practices, but they are the exceptions now. A few in publishing, comics, and the like have been returning to blogging. They call it a “newsletter”, but it has reverse-chronological archives and an RSS feed, which means it’s just a genre of blog.</p>
-<p>It’s not all bad, but the fount of unpredictable joy that was seeing a random dev in the middle of the US suddenly write a blog post about some esoteric database problem is all but gone.</p>
-<p>I feel a bit abandoned and it’s genuinely difficult to try and maintain some positivity about the industry at the moment, even as other fields seem to be drawing together in opposition to the tech takeover of their industries.</p>
-<p>I don’t know how long this bubble will last, or if any of them will return from the “AI” weeds after it pops, but I do know that it’s taken much of the fun out of opening my feed reader, getting momentarily reminded of the smoky smell of lapsang souchong, and swiping through a series of oddball blog posts about curiosities and edge cases.</p>
-<p>I don’t know what will happen, how this will evolve, but I am disappointed.</p>
-<p>For the first time in years I’m thinking of truly cleaning house and weeding my feed list of the ad hoc tech community of strangers that used to dominate it.</p>
-<hr>
-<p>Again, just a reminder that for the 2025 holiday season, the ebook editions of <a href="https://payhip.baldurbjarnason.com/b/34qSg"><em>The Intelligence Illusion: Why generative models are bad for business</em></a> and <a href="https://payhip.baldurbjarnason.com/b/skbMv"><em>Out of the Software Crisis: Systems-thinking for software projects</em></a> will be on sale for only €25 EUR (a €10 EUR discount).</p>
-<p><a href="https://payhip.baldurbjarnason.com/b/34qSg" data-sanitized-class="Buy">Buy <em>The Intelligence Illusion: Why generative models are bad for business</em> for  <strong><del>€35</del> €25 EUR</strong></a></p>
-<p><a href="https://payhip.baldurbjarnason.com/b/skbMv" data-sanitized-class="Buy">Buy <em>Out of the Software Crisis: Systems-thinking for software projects</em> for  <strong><del>€35</del> €25 EUR</strong></a></p>
-<hr>]]></description>
-			<pubDate>Fri, 19 Dec 2025 03:21:00 -0700</pubDate>
-			<guid isPermaLink="false">1766180125421733</guid>
-		</item>
-		<item>
-			<title>Is Firefox Firefucked?</title>
-			<link>https://kevquirk.com/blog/is-firefox-firefucked/</link>
-						<dc:creator>Kev Quirk</dc:creator>
-			<description><![CDATA[<p>I've been using Firefox for over 20 years at this point, but after a stream of cock-ups, I'm thinking about moving on.</p>
-
-<p>I’ve been using Firefox since 2005, so not long after it was first released. I distinctly remember the first time I heard about it - I was on a training course with the Army and the instructor was using Firefox. Netscape was effectively dead, and <em>everyone</em> was using Internet Explorer, but I’ve always been a magpie for the new shiny, so when I saw his browser, I asked him about it.</p>
-
-<p>He told me about it being a fork of Netscape (which was my browser of choice when I first started using the Internet), so I jumped on board and have been happily using Firefox ever since.</p>
-
-<p>Well, I <em>was</em> happy up until the last few years.</p>
-
-<h2 data-sanitized-id="slow-decline">Slow decline</h2>
-
-<p>I first wrote about my concerns with Firefox’s direction <a href="https://kevquirk.com/blog/whats-the-alternative-to-firefox/">back in 2022</a> where I talked about the ever increasing CEO salary, despite their ever decreasing market share, their teaming up with Meta on <em>Interoperable Private Attribution (IPA)</em>, them shilling cryptocurrencies, and of course the fact they’re pretty much entirely funded by Google.</p>
-
-<p>Well, over the last 3 years, things haven’t gotten any better and my concerns around the direction Mozilla is taking Firefox have continued to rise.</p>
-
-<p>On top of the few concerns I had back in 2022, there’s a bloody list of additional concerns I’ve picked up since then:</p>
-
+			<title>Things that make me go yay!</title>
+			<link>https://thomasrigby.com/posts/things-that-make-me-go-yay-2025-12/</link>
+						<dc:creator>Thomas Rigby</dc:creator>
+			<description><![CDATA[<p>I can be a bit of a curmudgeon and focus on the negatives when I feel the pressure. I know it's not good for me to get into that negativity spiral so reflecting like this is important.</p>
+<p>So, without further ado, here are some things I have been enjoying lately.</p>
 <ul>
-  <li><strong>Privacy Preserving Attribution (PPA)</strong> - In Sept 2024, Mozilla <a href="https://ppc.land/mozilla-faces-criticism-over-new-firefox-tracking-feature/">rolled out this new PPA feature</a> that was enabled by default and helped advertisers measure performance without traditional tracking.</li>
-  <li><strong>Adjusted telemetry in mobile app</strong> - Firefox mobile versions shipped with a third-party telemetry SDK (Adjust) that sent usage and install data without prominent user disclosure. After pushback, <a href="https://www.techzine.eu/news/privacy-compliance/123726/mozilla-removes-telemetry-service-adjust-from-mobile-firefox-versions/">this was later removed</a> [slow clap].</li>
-  <li><strong>Buying an Ad firm</strong> - yes, that’s right, dear reader. Everyone’s favourite FOSS web browser decided to <a href="https://www.theregister.com/2024/06/18/mozilla_buys_anonym_betting_privacy/">buy an ad firm</a>, because, you know, <em>“privacy-centric adverts”</em>.</li>
-  <li><strong>We won’t sell you data, pinky promise…</strong> - in early 2025 a formal Firefox <a href="https://www.theregister.com/2025/03/02/mozilla_introduces_terms_of_use/">Terms of Use was introduced</a>, which included a clause granting Mozilla a <em>“non-exclusive, royalty-free, worldwide licence”</em> to use user-entered data. At the same time, they quietly removed explicit <em>“never sell user data”</em> language from privacy messaging. Brilliant.</li>
-  <li><strong>What’s the strategy?</strong> - as we move to mid-2025 it started to become clear that <a href="https://www.theregister.com/2025/07/08/firefox_isnt_dead/">Firefox’s leadership is out of touch with their users</a>.</li>
-  <li><strong>Firefox to evolve into an AI browser</strong> - that’s right, <a href="https://blog.mozilla.org/en/mozilla/leadership/mozillas-next-chapter-anthony-enzor-demeo-new-ceo/">according to their new CEO</a> Firefox is set to <em>“evolve into a modern AI browser”</em>.</li>
-</ul>
-
-<h2 data-sanitized-id="mozillas-strategy-problem-and-why-ai-is-just-a-symptom">Mozilla’s strategy problem (and why AI is just a symptom)</h2>
-
-<p>Mozilla have been getting a lot of shit for the last few days about the whole <em>modern AI browser</em> comment their new CEO made. And rightly so, I think. To me, there’s a clear difference between a browser that has AI capabilities embedded in it, like an AI chat bot, and an <em>AI browser</em>.</p>
-
-<p>The latter aren’t browsers. They’re an abstraction layer between you (the user) and the web, summarising, filtering, and rewriting it before you ever see the original, and I have no desire to be a part of that mess.</p>
-
-<p>I don’t mind having a browser with a chat bot embedded in it, as long as it can be switched off. I’d prefer for it to be opt-in, but meh, if it’s only a rocker switch in settings, while annoying, I can live with it.</p>
-
-<p>But having this layer of abstraction between me and the web that I know and love? No thank you.</p>
-
-<p>I’m worried about the direction Firefox is headed in. Not just because of their AI strategy; I actually think that’s a symptom, not the root cause.</p>
-
-<p>The root cause, as I see it, is that the leadership team at Mozilla has no fucking clue how to make Firefox a sustainable business, so they’re just throwing shit at the wall and hoping something sticks. All while giving their CEO larger and larger salaries.</p>
-
-<p>Because Mozilla has been suckling on Google’s teat since the very early days, they’ve never had to make a sustainable business. Google <a href="https://edition.cnn.com/2025/09/02/tech/google-antitrust-ruling-chrome-android">dodged the bullet</a> and wasn’t ultimately forced to sell Chrome, but it exposed just how dependent Mozilla still is on Google’s money, and now it looks like they’re scrambling to invent a strategy of their own.</p>
-
-<p>But it’s shit, and as a long-term user of Firefox, it feels almost user-hostile at this point.</p>
-
-<h2 data-sanitized-id="so-what-now">So what now?</h2>
-
-<p>Honestly, I don’t know. I’ve been dabbling in other browsers, but haven’t found anything I like as much as Firefox.</p>
-
-<p data-sanitized-class="notice">While I appreciate the sentiment, I’m not looking for browser recommendations. So please don’t contact me with recommendations. By all means contact me with your opinions on all this though.</p>
-
-<p>Vivaldi has too many bells and whistles for my liking, plus there’s a number of <a href="https://fosstodon.org/@kev/115616198864012292">UI inconsistencies</a> that annoy me. Brave has all the crypto nonsense embedded, but it can be switched off. Then there’s forks like Librewolf and Waterfox, but they’re intrinsically tied to upstream Firefox, and they don’t have mobile apps. So I’m not sure they’re a good option, either.</p>
-
-<p><strong>Correction from future Kev:</strong> Waterfox does in fact have an <a href="https://play.google.com/store/apps/details?id=net.waterfox.android.release">Android app</a>.</p>
-
-<p>Firefox won’t be changing to <em>a modern AI browser</em> any time soon, so there’s no rush for me to jump right now. So I’m planning to continue testing alternatives and just hope that the Mozilla leadership team have a course correction. But if the last few years have taught me anything, it’s that a course correction is unlikely to happen.</p>
-
-
-<div data-sanitized-class="email-hidden">
-  <hr>
-  <p>Thanks for reading this post via RSS. RSS is great, and you're great for using it. ❤️</p>
-  <p>
-    <a href="mailto:72ja@qrk.one?subject=Is%20Firefox%20Firefucked?">Reply to this post by email</a>
-  </p>
-</div>]]></description>
-			<pubDate>Fri, 19 Dec 2025 03:07:00 -0700</pubDate>
-			<guid isPermaLink="false">1766180125421732</guid>
+<li>Peppermint hot chocolate after a walk in the cold</li>
+<li>Hosting Christmas for our extended family</li>
+<li>How cosy the house looks when it's dark out and all the lamps are on</li>
+<li>Hearing the cows in the field mooing to each other early in the morning</li>
+<li>Lily Allen's new album</li>
+<li>Christmas fantasy romance films</li>
+</ul>]]></description>
+			<pubDate>Sat, 20 Dec 2025 05:23:12 -0700</pubDate>
+			<guid isPermaLink="false">1766253891949224</guid>
 		</item>
 		<item>
-			<title>real vs flawless</title>
-			<link>https://mikkolaksola.com/real-vs-flawless/</link>
+			<title>the brave coward</title>
+			<link>https://mikkolaksola.com/the-brave-coward/</link>
 						<dc:creator>mikkolaksola</dc:creator>
-			<description><![CDATA[<p>In case this is the first time you've read anything written by me: English is <em>not</em> my native language.</p>
-<p>Yesterday, I was having a tough time with how to structure a certain sentence correctly to convey what I was trying to. As with many other problems, I asked for help from AI. And, as usual, it gave me solid feedback on how to improve and why.</p>
-<p>But, being the philosophical overthinker that I am, it also got me thinking deeply about what I was really trying to achieve.</p>
-<p>Is my goal to appear as a flawless writer in my second language?</p>
-<p>Or is it to convey <em>my</em> voice in the form of writing?</p>
-<p>To me, it's definitely the latter.</p>
-<p>Sure, I'd like to avoid unnecessary typos and mistakes that make the thing needlessly difficult to read. I want to write as well as I can, with the skills I have. I also want to keep improving those skills and <em>become</em> a better writer.</p>
-<p>But more than anything, I want my writing to sound like <em>me</em>.</p>
-<p>That's why, to me, this feels like a slippery slope. Asking for feedback is OK. But having someone (or something) tell you how you should write your sentences instead? Feels like a line drawn on water. Because I value authenticity over appearing competent, I think I'll stay at a safe distance from it for now.</p>
-<p>There are probably enough skilled English writers out there already, if that's what the reader is looking for.</p>
-<p><u>The number of <em>mes</em> (and <em>yous</em>) is 1. As it should be.</u></p>]]></description>
-			<pubDate>Fri, 19 Dec 2025 02:09:00 -0700</pubDate>
-			<guid isPermaLink="false">1766180125421731</guid>
+			<description><![CDATA[<p>I was asked at a job interview yesterday to describe the bravest thing I've ever done.</p>
+<p>I'm not going to lie, it caught me a bit off guard. Not surprisingly, my first thoughts were hilariously bad, especially compared to better answers that came to me later — while driving back home.</p>
+<p>Anyway.</p>
+<p>My initial answer and following discussion eventually led me to highlight some simple, seemingly boring everyday situations where one might put themselves out there and be vulnerable: starting a difficult conversation, asking that person out, revealing your true feelings, asking for a promotion or a raise, or trying anything new in public.</p>
+<p>I started to feel OK-ish about my answer at this point.</p>
+<p>But my brain wasn't done and kept going — out loud, of course.</p>
+<p>Actually, I wasn't sure those were acts of bravery after all, despite seeming like such on the outside. When I really think about it, I didn't do any of them because I'm so brave and overcame the fear. It's actually quite cowardly. I did them because I <em>fear</em> the alternative much, much more.</p>
+<p>Regret.</p>
+<p>The possibility of <em>that</em> is so much scarier than any rejection could ever be.</p>
+<p>You want to be <em>really</em> brave? To stare fear into the eyes and not flinch?</p>
+<p>Just do nothing and face the consequences.</p>
+<p>I'm happily a coward.</p>
+<p><u>Putting yourself out there and going for it <em>is</em> the safe option.</u></p>]]></description>
+			<pubDate>Sat, 20 Dec 2025 04:51:00 -0700</pubDate>
+			<guid isPermaLink="false">1766253891949223</guid>
 		</item>
 		<item>
-			<title>december 18 etc</title>
-			<link>https://combatdavey.net/december-18-etc/</link>
-						<dc:creator>combatdavey</dc:creator>
-			<category>breakfast</category>
-			<category>chinatown</category>
-			<category>christmas</category>
-			<category>diner</category>
-			<category>etc</category>
-			<category>montreal</category>
-			<category>tbbs</category>
-			<category>vancouver</category>
-			<category>victoria</category>
-			<description><![CDATA[<p>So I'm meeting a buddy of mine for breakfast tomorrow morning and earlier today he recommended that we go to a place that based on his words and tone miiiiight be a little bit sketch:</p>
-<blockquote>
-<p>A real adventure would be Bon's off Broadway <br><br>
-$3 breakfast<br><br>I hear the tables are sticky lol</p>
-</blockquote>
-<p>Then he sent a pic and I got really excited about going for reasons that will be obvious if you have known me for more than fifteen minutes:</p>
-<p><img src="https://bear-images.sfo2.cdn.digitaloceanspaces.com/combatdavey/bons_vancouver.webp" alt="bons_vancouver"></p>
-<p>Like, not only does this look like a place that serves you $3 breakfast on sticky tables, it looks glorious.</p>
-<p><a href="https://combatdavey.net/december-17-etc/">Yesterday</a> I outed myself as a Vancouver hater while also suggesting that I was open to having my mind changed. Places like what I think Bon's go a long way towards establishing a city's soul.</p>
-<p>When I moved to Montreal in the late 1990s, <a href="https://www.instagram.com/greenspot1947/">Greenspot</a> (which we called the G Spot because of course we did) was a place like that. It was charming but not fancy, friendly but not obsequious, and reliably inexpensive. For 18- and 19-year-old college kids, it was a great place to go for breakfast and brunch while also serving as cheap place to pre-game and/or post-game and/or drink enough coffee to turn your heart into a grenade with the pin pulled for like $1.25. And, when the great ice storm of 1998 happened and everything in Montreal closed down, the G Spot stayed open by way of generators that left a lingering greenish gray mist in the air. We didn't care. We were young and beautiful and indestructible.</p>
-<p>Greenspot was immediately comfortable for me. It reminded me of the  Greek diner in the plaza near my first high school that we used to frequent to drink coffee and smoke cigarettes instead of going to class. It also reminded me of a legendary Scarborough spot called <a href="https://www.blogto.com/eat_drink/2024/12/teds-restaurant-toronto/">the Amazing Ted's</a> which you have undoubtedly seen in shows and movies like Reacher, The Handmaid's Tale, Orphan Black, American Gods, and Pushing Tin.</p>
-<p>For the Torontonians, I feel like Bon's is going to feel like a cross between Billy's, the greasy spoon/breakfast spot at Bloor/Dovercourt and <a href="https://www.sneakydees.com/">Sneaky Dee's</a>, which I have never loved as much as most Torontonians. It's not that I hate Sneaks, where I have seen a ton of good shows and last call-ed more than a few times, it's just that putting lettuce on nachos is a war crime and I will always, always hold it down for the nachos at <a href="https://www.brydens.ca/">Bryden's</a>.</p>
-<p>At any rate it is 11:46pm PT and I have to up early to attend a meeting that is at a normal time (9am)in my actual time zone but which will start at 6am in the time zone I am currently in.</p>
-<p>Vancouver places I visited, patronized, or otherwise enjoyed today:</p>
-<p><a href="https://chinatownbbq.com/">Chinatown BBQ</a>: Incredible spot. The food, service, and decor was on point and the vibes were immaculate.</p>
-<p><a href="https://www.instagram.com/breezebaryvr/">Breeze Bar</a>: Located inside Twisted Fork, a breakfast/brunch place with <a href="https://forkandfriends.ca/brunch-menu">an impressive menu</a>, Breeze boasts a fantastic wine list (I'm sober but I wasn't always sober and 25+ years of wine knowledge and related snobbery doesn't just go away), an excellent service staff, and a cosy kind of cool that reminds me of the late 1990s.</p>
-<p>More tomorrow. Maybe.</p>
-<p>🌲 gonna <br>
-🌼 go <br>
-🌱 <del>touch</del> to <br>
-🌳 <del>grass</del> sleep <br>
-🌷 now</p>
-<p>Be good to yourself.</p>
-<p><mark>If you enjoyed this post, click the little up arrow chevron thinger below the tags to help it rank in Bear's <a href="https://bearblog.dev/discover/">Discovery feed</a> and maybe consider sharing it with a friend or on your socials.</mark></p>]]></description>
-			<pubDate>Fri, 19 Dec 2025 00:59:00 -0700</pubDate>
-			<guid isPermaLink="false">1766180125421730</guid>
-		</item>
-		<item>
-			<title>Filtered for conspiracy theories</title>
-			<link>https://interconnected.org/home/2025/12/19/filtered</link>
-						<description><![CDATA[<div>
-<h3>1.</h3>
-<p><a href="https://jamiefreeman.news/why-were-all-the-bells-in-the-world-removed-the-forgotten-power-of-sound-and-frequency/">Why Were All the Bells in the World Removed? The Forgotten Power of Sound and Frequency</a> (Jamie Freeman).</p>
-<p>Church bells: <em>"something strange happened in the 19th and 20th centuries: nearly all of the world’s ancient bells were removed, melted down, or destroyed."</em></p>
-<p>(I don’t know whether that’s true, but go with it for a second.)</p>
-<blockquote>
-<p>Why? Mainstream historians attribute this mass removal to wars and the need for metal, but when you dig deeper, the story doesn’t add up.</p>
-</blockquote>
-<p>An explanation:</p>
-<blockquote>
-<p>Some theorists believe that these bells were part of a Tartarian energy grid, designed to harmonise human consciousness, balance electromagnetic fields, and even generate free energy. Removing the bells would have disrupted this energy network, cutting us off from an ancient technology we no longer understand.</p>
-</blockquote>
-<p>Tartarian?</p>
-<p><a href="https://en.wikipedia.org/wiki/Tartarian_Empire">Tartarian Empire</a> (Wikipedia):</p>
-<blockquote>
-<p>Tartary, or Tartaria, is a historical name for Central Asia and Siberia. Conspiracy theories assert that Tartary, or the Tartarian Empire, was a lost civilization with advanced technology and culture.</p>
-</blockquote>
-<h3>2.</h3>
-<p><a href="https://www.ancient-origins.net/ancient-places-asia/risky-wealth-would-you-dare-open-mysterious-sealed-door-padmanabhaswamy-temple-021616">Risky Wealth: Would You Dare to Open the Mysterious Sealed Door of Padmanabhaswamy Temple?</a> (Ancient Origins).</p>
-<p><em>"The Padmanabhaswamy Temple is a Hindu temple situated in Thiruvananthapuram, Kerala, a province on the southwestern coast of India."</em></p>
-<p>It has a mysterious <em>Vault B</em> with an as-yet-unopened sealed door.</p>
-<blockquote>
-<p>One of the legends surrounding Vault B is that it is impossible at present to open its door. It has been claimed that the door of the vault is magically sealed by sound waves from a secret chant that is now lost. In addition, it is claimed that only a holy man with the knowledge of this chant would be capable of opening the vault’s door.</p>
-</blockquote>
-<p>Maybe the chant was intended to tap Tartarian energies.</p>
-<h3>3.</h3>
-<p><a href="https://www.rmit.edu.au/news/factlab-meta/claims-us-military-project-manipulating-weather-are-nonsense">Claims that former US military project is being used to manipulate the weather are “nonsense”</a> (RMIT University).</p>
-<blockquote>
-<p>HAARP is a US research program that uses radio waves to study the ionosphere (Earth’s upper atmosphere) and cannot manipulate weather systems.</p>
-</blockquote>
-<p>PREVIOUSLY:</p>
-<p><a href="https://interconnected.org/home/2020/06/30/space_and_weather">Artificial weather as a military technology</a> (2020), discussing a 1996 study from the US military, <em>"Weather as a Force Multiplier: Owning the Weather in 2025."</em></p>
-<h3>4.</h3>
-<p><a href="https://tomstafford.substack.com/p/what-conspiracy-theorists-get-right">What conspiracy theorists get right</a> (Reasonable People #42, Tom Stafford).</p>
-<p>Stafford lists 4 “epistemic virtues” of conspiracy theorists:</p>
-<ul>
-<li><em>"Listening to other people"</em></li>
-<li><em>"A healthy skepticism towards state power"</em></li>
-<li><em>"Being sensitive to hidden coalitions"</em></li>
-<li><em>"Willing to believe the absurd"</em></li>
-</ul>
-<p>As traits in a search for new truths, these are good qualities!</p>
-<p>Where is goes wrong is <em>"the vices of conspiracy theory seem only to be the virtues carried to excess."</em></p>
-<p>Let’s try to keep the right side of the line folks.</p>
-
-
-
-</div>]]></description>
-			<pubDate>Fri, 19 Dec 2025 00:31:00 -0700</pubDate>
-			<guid isPermaLink="false">1766180125421729</guid>
-		</item>
-		<item>
-			<title>On Reading, End of Year Reflections</title>
-			<link>https://mirroredworld.bearblog.dev/on-reading-end-of-year-reflections/</link>
-						<dc:creator>mirroredworld</dc:creator>
-			<category>musings</category>
-			<description><![CDATA[<p>Many people seem to think that they lose a great deal of critical discourse outlet once they are out of college. I'm lucky not to feel this way. While I haven't stepped into a classroom for a while, I'm still in touch with the people I used to have a lot of discussion with, so we still regularly debate random topics or exchange reviews of books and media. We'd have to be satisfied with conversations happening asynchronously now though, instead of the lively on the spot back-and-forth we could have all day long. As far as mental nourishment goes, it's not a terribly bad tradeoff to contend with.</p>
-<p>It's also the reason I no longer do media reviews online. I've had the thought to post my reading log and impressions here on my blog, but in the end the itch was just not there once I talked about the book at length with my group. They know me and my viewpoints. I wouldn't have to self-censor or overexplain my grounds. However much I'd like to pretend I'm capable of public mea culpa, and as much as public learning sounds tantalizing, I'm afraid that any attempt on a public hobby tracker would make it feel performative. Would I be tempted to pick a book to be perceived a certain way? Would I be tempted to catch the feverish pace of "a true reader"? Are you a true reader if you don't finish X book a year? So much of our life already feels like this. I'd like to keep it my private selfish indulgence, after all.</p>
-<p>But the one thing I do miss, and I only realize this as I'm auditing my reading list this year, is serendipitious reading. I haven't been in a library or a public reading room for as many years I stopped attending college classes, so everything I've read since I left college was something I picked personally. They revolved around topics or authors I explored at a given time, every single one of them felt like things I would read. I would blame the algorithm, but the blame for this level of self-curation doesn't lay entirely on the internet. When I was in school, I could saunter into a library or a student lounge, see random stuff on the shelves, and pick something interesting I wouldn't have thought to check out. I'm not on social media, so for the large part my current reading is informed by lists written by people in the particular fields I pick. Clearly, I should broaden my selection a bit.</p>
-<p>It's also a good reminder that I should probably stretch my legs and visit a library more often. I still live a stone's throw away from where I used to live as a student, so even the ol' college libraries are technically within reach. I used to rely on physical libraries for the endless supply of reading materials. The increase in disposable income and the ease to procure books either physically or digitally (including digital/virtual libraries) have erased this need. These interfaces aren't good for random browsing, so I tend to make use of the search capabilty, narrowing the possibility space of discovery.</p>
-<p>I suspect there's more factor at play here. Back then, even if I wanted to go down the rabbit hole, I was limited by the amount of books available on the subject. I exhausted all the libraries in my K-12 years. I even pleaded with the librarians to be allowed access to the teachers' bookcases because I simply ran out of things to read in the student section. Now, I could binge read dozens of books on the same topic. Downloading them to my Kindle takes a couple minutes at most. Not willing to shell out any money? Academic book prices too obscene? There's Project Gutenberg and The Internet Archive and, if you feel especially unscrupulous, some other...shadowy archives and libraries.</p>
-<p>Note to self, next time I should try pulling random books from a shop or a database and see if something catches my eye.</p>]]></description>
-			<pubDate>Thu, 18 Dec 2025 22:30:00 -0700</pubDate>
-			<guid isPermaLink="false">1766180125421728</guid>
-		</item>
-		<item>
-			<title>Introducing GPT-5.2-Codex</title>
-			<link>https://simonwillison.net/2025/Dec/19/introducing-gpt-52-codex/#atom-everything</link>
-						<dc:creator>Simon Willison</dc:creator>
-			<category>ai</category>
-			<category>openai</category>
-			<category>generative-ai</category>
-			<category>llms</category>
-			<category>pelican-riding-a-bicycle</category>
-			<category>llm-release</category>
-			<category>codex-cli</category>
-			<category>gpt-codex</category>
-			<description><![CDATA[<p><strong><a href="https://openai.com/index/introducing-gpt-5-2-codex/">Introducing GPT-5.2-Codex</a></strong></p>
-The latest in OpenAI's <a href="https://simonwillison.net/tags/gpt-codex/">Codex family of models</a> (not the same thing as their Codex CLI or Codex Cloud coding agent tools).
-<blockquote>
-<p>GPT‑5.2-Codex is a version of <a href="https://openai.com/index/introducing-gpt-5-2/">GPT‑5.2⁠</a> further optimized for agentic coding in Codex, including improvements on long-horizon work through context compaction, stronger performance on large code changes like refactors and migrations, improved performance in Windows environments, and significantly stronger cybersecurity capabilities.</p>
-</blockquote>
-<p>As with some previous Codex models this one is available via their Codex coding agents now and will be coming to the API "in the coming weeks". Unlike previous models there's a new invite-only preview process for vetted cybersecurity professionals for "more permissive models".</p>
-<p>I've been very impressed recently with GPT 5.2's ability to <a href="https://simonwillison.net/2025/Dec/15/porting-justhtml/">tackle multi-hour agentic coding challenges</a>. 5.2 Codex scores 64% on the Terminal-Bench 2.0 benchmark that GPT-5.2 scored 62.2% on. I'm not sure how concrete that 1.8% improvement will be!</p>
-<p>I didn't hack API access together this time (see <a href="https://simonwillison.net/2025/Nov/9/gpt-5-codex-mini/">previous attempts</a>), instead opting to just ask Codex CLI to "Generate an SVG of a pelican riding a bicycle" while running the new model (effort medium). <a href="https://tools.simonwillison.net/codex-timeline?url=https://gist.githubusercontent.com/simonw/10ad81e82889a97a7d28827e0ea6d768/raw/d749473b37d86d519b4c3fa0892b5e54b5941b38/rollout-2025-12-18T16-09-10-019b33f0-6111-7840-89b0-aedf755a6e10.jsonl#tz=local&amp;q=&amp;type=all&amp;payload=all&amp;role=all&amp;hide=1&amp;truncate=1&amp;sel=3">Here's the transcript</a> in my new Codex CLI timeline viewer, and here's the pelican it drew:</p>
-<p><img alt="Alt text by GPT-5.2-Codex: A minimalist illustration of a white pelican with a large orange beak riding a teal bicycle across a sandy strip of ground. The pelican leans forward as if pedaling, its wings tucked back and legs reaching toward the pedals. Simple gray motion lines trail behind it, and a pale yellow sun sits in the top‑right against a warm beige sky." src="https://static.simonwillison.net/static/2025/5.2-codex-pelican.png">
-
-
-    </p><p>Tags: <a href="https://simonwillison.net/tags/ai">ai</a>, <a href="https://simonwillison.net/tags/openai">openai</a>, <a href="https://simonwillison.net/tags/generative-ai">generative-ai</a>, <a href="https://simonwillison.net/tags/llms">llms</a>, <a href="https://simonwillison.net/tags/pelican-riding-a-bicycle">pelican-riding-a-bicycle</a>, <a href="https://simonwillison.net/tags/llm-release">llm-release</a>, <a href="https://simonwillison.net/tags/codex-cli">codex-cli</a>, <a href="https://simonwillison.net/tags/gpt-codex">gpt-codex</a></p>]]></description>
-			<pubDate>Thu, 18 Dec 2025 22:21:17 -0700</pubDate>
-			<guid isPermaLink="false">1766180125421727</guid>
-		</item>
-		<item>
-			<title>📺 Watched The Morning Show (2019)</title>
-			<link>https://www.michaelponders.com/2025/12/watched-morning-show-2019.html</link>
-						<dc:creator>Michael</dc:creator>
-			<category>review</category>
-			<category>streaming</category>
-			<category>tv</category>
-			<description><![CDATA[<p>⚠️ <strong>SPOILER WARNING:</strong> MINOR SPOILERS</p>
-
-<div><img src="https://media.mitchelltribe.xyz/images/2025/12/da64923f_tmdb_fb9f93f40a65.jpg" alt="Promotional poster for &quot;The Morning Show&quot; featuring two women in black outfits standing back-to-back with a cityscape background and the show's title in bold yellow letters at the bottom." title="Promotional poster for &quot;The Morning Show&quot; featuring two women in black outfits standing back-to-back with a cityscape background and the show's title in bold yellow letters at the bottom."></div>
-
-<p><em>Power and resilience shine through in the dynamic duo leading 'The Morning Show,' ready to face the bustling challenges of media life.</em></p>
-
-<strong>My Rating:</strong> ⭐ (1/5 stars)
-
-<strong>Episodes:</strong> 1-10 | <strong>Aired:</strong> September 17, 2025 through November 19, 2025
-
-<p>I thoroughly enjoyed Season 1, found Season 2 to be decent, and thought Season 3 was lackluster but bearable. However, Season 4 was a disappointment, and I struggled to finish it. I didn't find it engaging and thought the plot was forced and unrealistic. I'm hesitant about watching Season 5, if it happens. Also, my free month of AppleTV has just expired.</p>
-
-<div><div><img src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_short-8e7b30f73a4020692ccca9c88bafe5dcb6f8a62a4c6bc55cd9ba82bb2cd95f6c.svg" alt="TMDb"></div><div>This product uses the TMDb API but is not endorsed or certified by <a href="https://www.themoviedb.org/">TMDb</a>.</div></div>]]></description>
-			<pubDate>Thu, 18 Dec 2025 21:45:21 -0700</pubDate>
-			<guid isPermaLink="false">1766180125421726</guid>
+			<title>let's give it a sniff: Bits and Bops</title>
+			<link>https://itwont.work/blog/lets-give-it-a-sniff-bits-and-bops</link>
+						<description><![CDATA[<p>let's give it a sniff: Bits and Bops</p>]]></description>
+			<pubDate>Fri, 19 Dec 2025 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">1766253891949222</guid>
 		</item>
 
 	</channel>
