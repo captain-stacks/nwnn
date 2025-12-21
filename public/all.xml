@@ -3,184 +3,317 @@
 		<title> | FreshRSS</title>
 		<link>http://192.168.1.206/FreshRSS/p</link>
 		<description>RSS feed of  | FreshRSS</description>
-		<pubDate>Sat, 20 Dec 2025 11:06:29 -0700</pubDate>
-		<lastBuildDate>Sat, 20 Dec 2025 18:06:29 GMT</lastBuildDate>
+		<pubDate>Sun, 21 Dec 2025 05:12:28 -0700</pubDate>
+		<lastBuildDate>Sun, 21 Dec 2025 12:12:28 GMT</lastBuildDate>
 		<atom:link href="/i/?a=rss&amp;state=2" rel="self" type="application/rss+xml" />
 				<item>
-			<title>Cute little Pokemon-esque Roottrees-alike</title>
-			<link>https://blog.lauramichet.com/cute-little-pokemon-esque-roottrees-alike/</link>
-						<dc:creator>lauram</dc:creator>
-			<category>deduction_games</category>
-			<category>games</category>
-			<description><![CDATA[<p>This cute little narrative deduction game, <a href="https://celia14.itch.io/my-friends-the-monster-trainers">My Friends the Monster Trainers,</a>is a short (for me, 20-minute) browser-based deduction puzzle where you have to deduce the type, moves, habitat, and art for a set of Pokemon-like monsters, using only a set of letters describing children getting into battles with them.</p>
-<p>The game lacks Obra Dinn style guess banking, so it's a bit more possible to brute force than other games in this genre... but it's short and each creature has a LOT of different qualities you must deduce from the letters, so it doesn't seem like it really merited guess banking.</p>
-<p>There's a devlog about it <a href="https://celia14.itch.io/my-friends-the-monster-trainers/devlog/1149334/pokemon-x-deduction-the-development-of-my-friends-the-monster-trainers">here</a> which gets into its background as a 72 hour game jam game, as well as some of the reasoning behind its puzzle design. There's even a little bit in here about why the devs avoided the Obra Dinn style guess banking and what they did instead to add some friction to brute-forcing gameplay. I really enjoyed reading it!</p>]]></description>
-			<pubDate>Sat, 20 Dec 2025 10:59:00 -0700</pubDate>
-			<guid isPermaLink="false">1766253891949230</guid>
+			<title>Best of 2025</title>
+			<link>https://so1o.xyz/blog/best-of-2025</link>
+						<dc:creator>@thatso1oguy</dc:creator>
+			<description><![CDATA[<p>
+        Do you miss the good old days, the old internet, those who once had the genuine passion for talking about hobbies and sharing it online?
+        I want to stay away from the negativity for now; rather, to celebrate the goodness and to savour it.
+        Let the joyous moments linger in the air.
+
+        Near end of the year is here.
+        This time around, I want to roll my own “best ofs” awards.
+        And, yo, happy winter solstice.
+      </p>
+      <a href="https://so1o.xyz/blog/best-of-2025">Read post</a>]]></description>
+			<pubDate>Sun, 21 Dec 2025 05:07:33 -0700</pubDate>
+			<guid isPermaLink="false">1766318854133034</guid>
 		</item>
 		<item>
-			<title>rise</title>
-			<link>https://tacitexposure.bearblog.dev/rise/</link>
-						<dc:creator>tacitexposure</dc:creator>
-			<category>poetry</category>
-			<description><![CDATA[<p><em>rise and rise until you die</em><br>
-<em>kill yourself a thousand times</em></p>
-<p><a href="https://tacitexposure.bearblog.dev/taboo" title="Embracing the taboo" data-sanitized-class="previous-post">Previous</a> </p>]]></description>
-			<pubDate>Sat, 20 Dec 2025 10:48:00 -0700</pubDate>
-			<guid isPermaLink="false">1766253891949229</guid>
+			<title>Meeting people</title>
+			<link>https://robertbirming.com/meeting-people/</link>
+						<dc:creator>robert</dc:creator>
+			<description><![CDATA[<p>I listened to an interview with Anders Petersen, often described as one of Sweden’s most important and internationally acclaimed photographers.</p>
+<p>One of his most well-known works comes from Café Lehmitz, a bar in Hamburg. He spent almost three years there, photographing people. The portraits are incredible, so alive that it almost feels like you know what the people are feeling and thinking.</p>
+<p>When asked about his work, he says:</p>
+<blockquote>
+<p>The photographs come second. What really matters is the meeting. If I don’t go deep enough in the meeting, the images just become pictures.</p>
+</blockquote>
+<p>I think that’s beautifully put. And I also think it’s true about life in general.</p>
+<p>It’s so obvious when someone sees you as a person, a fellow human being, rather than a worker, a customer, or a useful connection. In those moments, it’s more about them than about you. You’re reduced to a means to an end.</p>
+<p>It’s sad.</p>
+<p>A <em>real</em> meeting has value in so many ways. It’s less about giving and receiving, and more about unity. It’s about recognizing ourselves in others, and through that recognition, we grow as human beings.</p>
+<p>In the interview, the last question Anders is asked is what goes through his mind when he looks back at all the photos, his life’s work. He replies:</p>
+<p>“I mostly think about the people. How they are doing. If they are still alive.”</p>]]></description>
+			<pubDate>Sun, 21 Dec 2025 04:38:45 -0700</pubDate>
+			<guid isPermaLink="false">1766318854133033</guid>
 		</item>
 		<item>
-			<title>#AdventJukebox 20: Merry Xmas Everybody by Slade</title>
-			<link>https://thomasrigby.com/posts/adventjukebox-20-merry-xmas-everybody-slade/</link>
+			<title>Howard</title>
+			<link>https://thomasrigby.com/posts/howard/</link>
 						<dc:creator>Thomas Rigby</dc:creator>
-			<description><![CDATA[<p><a href="https://song.link/y/88WsYBGmrjI"><em>"Merry Xmas Everybody"</em></a> by <strong>Slade</strong></p>
-<p>There's a line in this song that says “Does Granny always tell you the old songs are the best?” which is funny because now <em>this</em> is the "old song" my kids' Granny thinks is best.</p>
-<p>Anyway, is it really Christmas if you haven't heard Noddy Holder screaming "It's Christmas!" like a Midlands hard rock banshee?</p>]]></description>
-			<pubDate>Sat, 20 Dec 2025 09:55:59 -0700</pubDate>
-			<guid isPermaLink="false">1766253891949228</guid>
+			<description><![CDATA[<p><picture><source type="image/webp"><img src="https://thomasrigby.com/images/R77oDBz5iO-600.jpeg" alt="the name Howard spray painted in giant letters throw-up style on the cylindrical white wall of a university campus building. the black and white film photograph skews heavily white with sparse shadow accents" width="900" height="602" data-sanitized-class=""></picture><br>
+<br>
+</p>
+<p>I've photographed a few "Howard" tags around Manchester and always wondered who he was.</p>
+<p>The Mill recently ran a piece about the fascinating history behind this simple graffiti.</p>
+<p><a href="https://manchestermill.co.uk/howards-name-is-plastered-all-over-manchester-but-no-one-knows-who-he-is/"><em>"Howard’s name is plastered all over Manchester. But no one knows who he is"</em></a></p>]]></description>
+			<pubDate>Sun, 21 Dec 2025 01:35:30 -0700</pubDate>
+			<guid isPermaLink="false">1766318854133032</guid>
 		</item>
 		<item>
-			<title>The Traveler and the Tourist</title>
-			<link>https://nikhil.bearblog.dev/the-traveler-and-the-tourist/</link>
-						<dc:creator>nikhil</dc:creator>
-			<description><![CDATA[<p>With the rise of social media, especially after COVID, we have seen a sharp increase in global tourism. People want to see the world. They want to fulfill a checklist—a checklist they created not organically, but by watching others maintain similar lists in their lives. They want to tick everything off because everyone else seems to be doing the same.</p>
-<p>This mindset gave rise to indulgence in all kinds of experiences. You travel to places so visually stunning that you feel compelled to record them on camera and share them with the world. What was once meant to be <em>experienced</em> has now become an <em>event</em> to be broadcast. Spots that were once secluded and untouched were pushed into the spotlight because more and more people craved novelty—novelty they could display. Merely sharing an experience is no longer enough. That experience must be unique, rare, and impressive enough to invite admiration.</p>
-<p>This is why the word “tourist” has taken on a negative connotation. Tourists are often perceived as people who visit a place, click a few pictures, litter the surroundings, and return home. They show little concern for the place itself. They have no interest in its history or culture. They do not wish to learn—only to see, capture, and announce to the world that they were there.</p>
-<p>A traveler, however, is different from a tourist. He visits a place because it genuinely interests him. He learns about the culture. He attempts to blend into the environment. He explores the people by observing their routines, enduring the hardships they endure, and living through the joys they find meaningful. In return, he discovers places that are isolated yet breathtaking. Ironically, it is these travelers who first uncover such niche and secluded spots—only for them to later become fodder for tourists to exploit in the name of novelty.</p>
-<p>The traveler lives in many places, and those places, in turn, live within him. They transform him. They humble him. He may document his experiences through a blog post or an insightful video, but for him, it is never about a checklist. There is no checklist. He stays long enough to understand the rhythm of the place—to feel how it breathes.</p>
-<p>Have you ever visited a thousand-year-old structure, like a temple? There are many such temples in India. You will usually find two kinds of people there. The first kind studies the intricate detailing, observes the geometry, and tries to map history onto the structure itself. The second kind stands in front of the same architectural marvel clicking pictures of themselves—images curated for attention and validation. They frame the architecture as a backdrop rather than a subject. Nobody enjoys the company of the second kind. Everyone gravitates toward the first. The reason is obvious.</p>
-<p>The second one has the photos; the first one has the story.</p>
-<p>The same holds true in the mountains. You will again find two kinds of people. One breathes in the cold air, absorbs the vastness through his eyes, and lets the silence settle within him. The other is busy calculating angles—drone shots, tripod setups, selfies, panoramas. Always capturing, rarely experiencing. Nobody likes the second kind of people.</p>
-<p>Ultimately, it comes down to this: are you undergoing a new experience, or are you merely collecting proof that you were there? The former initiates transformation. It offers a new perspective. You begin to realize how trivial many of your worries are—how your thoughts have inflated simple problems into overwhelming burdens. That is how you truly refresh yourself. That is how you feel rejuvenated. That is how you actually feel the time off you took.</p>
-<p>You can feel refreshed even by traveling just 100 kilometers over a weekend—if your intention is to experience a new reality rather than tick off a checklist or collect photos. There is nothing wrong with clicking pictures. The problem lies in the objective. Experience first. And if something truly resonates with you, capture it—not for others, but as a reminder of a moment where you felt peace. That is why we collect souvenirs. Social media has flipped this objective upside down.</p>
-<p>The true reason we should travel is to free ourselves from the mental baggage we carry. This baggage is born out of the routines and realities we inhabit daily. By stepping into a new reality and adopting a new routine—even briefly—we create space to relax and reset. Distancing yourself from the mundane is how you detach from your old reality and reconnect with your inner self through a new one, even if only for a few days. This separation allows you to see life in a new light.</p>
-<p>The next time you travel, try something different. Ask yourself how you would survive in that place using only the amenities available there. You cannot bring anything with you. How would you adapt to new technologies in a remote yet scenic location? How would you manage daily chores in freezing winters or humid tropical climates? Try to follow the local routine as closely as possible. Learn a new skill while living there. Think about the problems people face—not from empathy or pity, but from lived experience.</p>
-<p>Your shortcomings will surface in such realities. Identify them. Then introspect. Ask yourself whether those shortcomings stem from your personality or from the environment. Whether you need to change your surroundings—or change yourself. Most problems arise when your personality is in constant conflict with the reality you inhabit.</p>
-<p>And that is why they say: to travel is to discover yourself.</p>]]></description>
-			<pubDate>Sat, 20 Dec 2025 07:42:00 -0700</pubDate>
-			<guid isPermaLink="false">1766253891949227</guid>
+			<title>Two and half years of blogging</title>
+			<link>https://blueberrylemonade.pika.page/posts/two-and-half-years-of-blogging</link>
+						<description><![CDATA[<div data-sanitized-class="trix-content">
+  <p>It’s been roughly two and half years since I started long-form blogging. First on Cohost, then here on my personal blog. Thanks for reading, especially anyone who is following via RSS or email. I hope you’ve been enjoying it so far.</p>
+<p>I’m probably addicted to posting, but I felt that doing it long-form would be better than always spitting it out onto social media sites. I feel like that was the right choice.</p>
+<p>You’d think I’d run out of things to talk about on here but there’s still so many topics I want to get to.</p>
+<p>Not only that, but there’s still topics I want to write about that I feel like I haven’t found the words (and/or courage?) to properly explain how I feel.</p>
+<p>It’s easy to say “Well just go for it, just let it out, just write it all down, it’s your own personal blog anyway” but I feel like part of the process of improving as a writer is knowing when to shut up, knowing when to pick your words carefully, knowing exactly how you want to frame the thing you’re trying to say.</p>
+<p>I already feel like I have a bad track record when it comes to conveying the nuance of the things I’m trying to say. Even without a character limit, it’s so easy to misspeak. Even about your own opinion and experiences.</p>
+<p>Instead of talking vaguely, I’ll just give a specific example of a future post that I’ve been stewing on.</p>
+
+<hr>
+<h2 data-sanitized-id="a-specific-example-of-a-future-post-ive-been-stewing-on">
+<a href="https://blueberrylemonade.pika.page/posts/two-and-half-years-of-blogging#a-specific-example-of-a-future-post-ive-been-stewing-on" title="Link to this heading" data-sanitized-class="anchor"></a>A specific example of a future post I’ve been stewing on…</h2>
+<p>There are ways in which I feel like I’ve been “holding back” in my creative work, especially drawing.</p>
+<p>I know that if I channel more of myself into the drawings/designs, they would come out significantly better, so to speak.</p>
+<p>But I hold back on purpose, and it makes my art worse.</p>
+<div data-sanitized-class="attachment-gallery"><figure data-sanitized-class="attachment attachment--preview attachment--png">
+
+
+
+    <img height="1080" width="1920" data-zoom-src="https://cdn.u.pika.page/sKc9GRxo6xbHrc-KuTkL6eipr9-p8zPcvwc3oAEaHSI/s:3840:3840/fn:image/plain/s3://pika-production/99ozbhnwwd31ikgrkzts6kvdd2yx" data-original-src="https://cdn.u.pika.page/HngEqqVQx89PNxf0XLEuc1XRP-5pi-XAWAKm2HdJfTs/fn:image/plain/s3://pika-production/99ozbhnwwd31ikgrkzts6kvdd2yx" alt="" src="https://cdn.u.pika.page/6qfMdN-w192J8Vb-dpGCiATWl4idVN5HYOqiCQCwFq8/s:1800:1400/fn:image/plain/s3://pika-production/99ozbhnwwd31ikgrkzts6kvdd2yx">
+
+</figure></div>
+<p>If you’ll forgive the clumsy metaphors (you’ll see what I mean when I said I can’t “find the right words”)…it’s like there’s locks around my heart and I refuse to open them, even though I know it would make my creative work better.</p>
+<p>There's this feeling that I could easily tap into something more evocative and more powerful, but I'm scared to do it. I choose not to, and choose intentionally to make "bland art" instead. Because doing that feels safer and more comfortable for me.</p>
+<p>It’s something I want to be able to explain in a blog post at some point but for now I don’t know if I can communicate exactly what I mean. So I guess for now we can just chew on how I attempted to explain it in the previous paragraphs, lol.</p>
+</div>]]></description>
+			<pubDate>Sat, 20 Dec 2025 22:48:06 -0700</pubDate>
+			<guid isPermaLink="false">1766318854133031</guid>
 		</item>
 		<item>
-			<title>Waking up in an airport hotel room with a runway view.</title>
-			<link>https://adactio.com/notes/22314</link>
-						<description><![CDATA[<img src="https://adactio.com/images/uploaded/22314/small.jpg" alt="Waking up in an airport hotel room with a runway view.">
-<p>Waking up in an airport hotel room with a runway view.</p>]]></description>
-			<pubDate>Sat, 20 Dec 2025 07:13:09 -0700</pubDate>
-			<guid isPermaLink="false">1766253891949226</guid>
+			<title>Quoting Shriram Krishnamurthi</title>
+			<link>https://simonwillison.net/2025/Dec/21/shriram-krishnamurthi/#atom-everything</link>
+						<dc:creator>Simon Willison</dc:creator>
+			<category>teaching</category>
+			<description><![CDATA[<blockquote cite="https://parentheticallyspeaking.org/articles/pedagogy-recommendations/"><p>Every time you are inclined to use the word “teach”, replace it with “learn”. That is, instead of saying, “I teach”, say “They learn”. It’s very easy to determine what you teach; you can just fill slides with text and claim to have taught. Shift your focus to determining how you know whether they learned what you claim to have taught (or indeed anything at all!). That is <em>much</em> harder, but that is also the real objective of any educator.</p></blockquote>
+<p data-sanitized-class="cite">— <a href="https://parentheticallyspeaking.org/articles/pedagogy-recommendations/">Shriram Krishnamurthi</a>, Pedagogy Recommendations</p>
+
+    <p>Tags: <a href="https://simonwillison.net/tags/teaching">teaching</a></p>]]></description>
+			<pubDate>Sat, 20 Dec 2025 22:26:09 -0700</pubDate>
+			<guid isPermaLink="false">1766318854133030</guid>
 		</item>
 		<item>
-			<title>Why do people leave comments on OpenBenches?</title>
-			<link>https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/</link>
-						<dc:creator>@edent</dc:creator>
-			<category>/etc/</category>
-			<category>OpenBenches</category>
-			<category>web</category>
-			<description><![CDATA[<p>I'm still a believer in the promise of Web 2.0. The idea that giving people a curated space to chat produces tiny sparks of magic.</p>
-
-<p>My wife Liz and I have been running the <a href="https://openbenches.org/">OpenBenches project</a> for about 8 years - it's a crowd-sourced repository of memorial benches. People take a geotagged photo of a bench's plaque, upload it to our site, and we share it with the world.  Might sound a bit niche, but we have around thirty-nine <em>thousand</em> benches catalogued from all over the world.</p>
-
-<p>From the start, we had a comment form under each bench. Of course, we pre-moderate any comments. That <a href="https://www.openbenches.org/blog/online-safety-act/">helps with our Online Safety Act obligations</a> and prevents spam from being published. We don't collect any personal data, to reduce our GDPR exposure. Our comments are self-hosted using the excellent <a href="https://commentics.com/">Commentics</a> - which means we don't send people's data off to a 3rd party.</p>
-
-<p>We <em>thought</em> that this would be used to tell us that an inscription was wrong, or if a bench had moved, or something like that.</p>
-
-<p>We were completely wrong!</p>
-
-<p>People use OpenBenches comments for all sorts of things. Of course, there are a few which provide details about the bench itself:</p>
-
-<p><a href="https://openbenches.org/bench/33640"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/removed.webp" alt="This bench was removed after the river flooded and majorly eroded the bank earlier this year (spring 2025), and now two new benches are in approximately the same place but a little further back from the river." width="1248" height="402" data-sanitized-class="aligncenter size-full wp-image-64159"></a></p>
-
-<p>Other provide a little context about the person:
-<a href="https://openbenches.org/bench/38738"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/info.webp" alt="
-She competed under her birth name, Zsuzsa Nádor:
-https://en.wikipedia.org/wiki/Zsuzsa_Nádor
-There's a Wikipedia article about Roman, too:
-https://en.wikipedia.org/wiki/Roman_Halter" width="1248" height="402" data-sanitized-class="aligncenter size-full wp-image-64161"></a></p>
-
-<p>But those sorts of comments are hardly the majority.  The comments break down (roughly) into these categories:</p>
-
-<h2 data-sanitized-id="i-want-to-know-more-about-this-person"><a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/#i-want-to-know-more-about-this-person">I want to know more about this person</a></h2>
-
-<p><a href="https://openbenches.org/bench/3225"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/grandson.webp" alt="I am the grandson of Janet Constance Hardie, who had a sister Ethel Hardie. Ethel Hardie married Harry Macinnes and then died in 1961. Ethel and Harry had a daughter named Ethel Elvery Macinnes. Is the Ethel Hardie, who is remembered on this bench related to the above Hardies of my family ? Best Regards, Neil Rowlandson" width="1248" height="582" data-sanitized-class="aligncenter size-full wp-image-64163"></a></p>
-
-<h2 data-sanitized-id="i-sat-on-this-bench-searched-for-the-inscription-and-found-this-site-i-want-to-share-my-feelings"><a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/#i-sat-on-this-bench-searched-for-the-inscription-and-found-this-site-i-want-to-share-my-feelings">I sat on this bench, searched for the inscription and found this site. I want to share my feelings</a></h2>
-
-<p><a href="https://openbenches.org/bench/13312"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/devon.webp" alt="Sounds like she was an inspirational woman. Clearly gone to soon. Sat on her bench today whilst visiting from Devon." width="1248" height="282" data-sanitized-class="aligncenter size-full wp-image-64164"></a></p>
-
-<h2 data-sanitized-id="thank-you-for-putting-a-bench-here"><a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/#thank-you-for-putting-a-bench-here">Thank you for putting a bench here</a></h2>
-
-<p><a href="https://openbenches.org/bench/38259"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/peace.webp" alt="A peaceful spot on the banks of the river Orwell. Thanks for those that funded it." width="1248" height="222" data-sanitized-class="aligncenter size-full wp-image-64165"></a></p>
-
-<h2 data-sanitized-id="this-has-moved-me"><a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/#this-has-moved-me">This has moved me</a></h2>
-
-<p><a href="https://openbenches.org/bench/37741"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/amy.webp" alt="I'm sat on the bench now i didn't know the lady but so sad to pass at such a young age by what i have found on the internet she was liked loved and respected my thoughts with all the family even though it's been almost 4 years since her I'm sure she will never be forgotten. Someone has placed a bunch of yellow flowers on the bench that is what first made me stop and look RIP Amy" width="1248" height="642" data-sanitized-class="aligncenter size-full wp-image-64166"></a></p>
-
-<h2 data-sanitized-id="my-heart-has-broken"><a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/#my-heart-has-broken">My heart has broken</a></h2>
-
-<p><a href="https://openbenches.org/bench/39228"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/miss.webp" alt="I love you. I miss you. I so long to see you." width="1248" height="224" data-sanitized-class="aligncenter size-full wp-image-64167"></a></p>
-
-<h2 data-sanitized-id="i-cant-visit-this-bench-but-im-glad-someone-has-shared-a-photo"><a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/#i-cant-visit-this-bench-but-im-glad-someone-has-shared-a-photo">I can't visit this bench, but I'm glad someone has shared a photo</a></h2>
-
-<p><a href="https://openbenches.org/bench/13023"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/mary.webp" alt="Mary was my best friend, from primary school until she died. I have not visited her bench but hope those who sit there in that beautiful place will also have experienced wonderful friendships as I did." width="1248" height="402" data-sanitized-class="aligncenter size-full wp-image-64170"></a></p>
-
-<h2 data-sanitized-id="thank-you-for-adding-a-photo"><a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/#thank-you-for-adding-a-photo">Thank you for adding a photo</a></h2>
-
-<p><a href="https://openbenches.org/bench/26373"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/thanks.webp" alt="This is my father’s memorial bench on half penny pier thank you to the person who took the photos x" width="1248" height="282" data-sanitized-class="aligncenter size-full wp-image-64169"></a></p>
-
-<h2 data-sanitized-id="i-dont-know-the-person-this-bench-commemorates-but-i-want-to-let-them-know-theyre-still-loved-and-remembered"><a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/#i-dont-know-the-person-this-bench-commemorates-but-i-want-to-let-them-know-theyre-still-loved-and-remembered">I don't know the person this bench commemorates, but I want to let them know they're still loved and remembered</a></h2>
-
-<p><a href="https://openbenches.org/bench/35294"><img src="https://shkspr.mobi/blog/wp-content/uploads/2025/11/mum.webp" alt="My mum and her girlfriends sat on the bench today and told your father stories about how they were visiting this place many decades ago. They hope your father was listening. All the best to you" width="1248" height="402" data-sanitized-class="aligncenter size-full wp-image-64171"></a></p>
-
-<h2 data-sanitized-id="thats-nice"><a href="https://shkspr.mobi/blog/2025/12/why-do-people-leave-comments-on-openbenches/#thats-nice">That's nice</a></h2>
-
-<p>Hundreds of people sharing connections. Wanting to express their feelings. Understanding the terrible pain of loss and the hope that, someday, someone will think fondly of us.</p>
-
-<p>You can <a href="https://openbenches.org/comments">view all the comments on OpenBenches.org</a>.</p>]]></description>
-			<pubDate>Sat, 20 Dec 2025 05:34:14 -0700</pubDate>
-			<guid isPermaLink="false">1766253891949225</guid>
+			<title>Focustivity - December 21, 2025 00:02</title>
+			<link>https://focustivity.blog/leadership</link>
+						<category>leadership</category>
+			<description><![CDATA[<blockquote>It doesn't make sense to hire smart people and tell them what to do; we hire smart people so they tell us what to do. - Steve Jobs</blockquote>]]></description>
+			<pubDate>Sat, 20 Dec 2025 22:02:00 -0700</pubDate>
+			<guid isPermaLink="false">1766318854133029</guid>
 		</item>
 		<item>
-			<title>Things that make me go yay!</title>
-			<link>https://thomasrigby.com/posts/things-that-make-me-go-yay-2025-12/</link>
-						<dc:creator>Thomas Rigby</dc:creator>
-			<description><![CDATA[<p>I can be a bit of a curmudgeon and focus on the negatives when I feel the pressure. I know it's not good for me to get into that negativity spiral so reflecting like this is important.</p>
-<p>So, without further ado, here are some things I have been enjoying lately.</p>
+			<title>Palace of Culture and Science</title>
+			<link>https://sigmarootpi.com/snap/palace-of-culture-and-science/</link>
+						<dc:creator>Rishabh</dc:creator>
+			<description><![CDATA[<p></p><div data-sanitized-class="blog-posts">
+<img src="https://sigmarootpi.com/assets/images/photo_posts/2025-12-21-IMG_1417.jpeg">
+</div><p></p>
+<p>📍Warsaw, Poland.</p>]]></description>
+			<pubDate>Sat, 20 Dec 2025 17:00:00 -0700</pubDate>
+			<guid isPermaLink="false">1766318854133028</guid>
+		</item>
+		<item>
+			<title>Performance trick : optimistic vs pessimistic checks</title>
+			<link>https://lemire.me/blog/2025/12/20/performance-trick-optimistic-vs-pessimistic-checks/</link>
+						<dc:creator>Daniel Lemire</dc:creator>
+			<description><![CDATA[<img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2025/12/Capture-decran-le-2025-12-20-a-18.25.46-150x150.png" alt="" data-sanitized-class="webfeedsFeaturedVisual wp-post-image"><p>Strings in programming are often represented as arrays of 8-bit words. The string is ASCII if and only if all 8-bit words have their most significant bit unset. In other words, the byte values must be no larger than 127 (or <code>0x7F</code> in hexadecimal).</p>
+<p>A decent C function to check that the string is ASCII is as follows.</p>
+<div data-sanitized-class="highlight">
+<pre><code><span>bool</span> <span>is_ascii_pessimistic</span><span>(</span><span>const</span> <span>char</span> <span>*</span><span>data</span><span>,</span> <span>size_t</span> <span>length</span><span>)</span> <span>{</span>
+  <span>for</span> <span>(</span><span>size_t</span> <span>i</span> <span>=</span> <span>0</span><span>;</span> <span>i</span> <span>&lt;</span> <span>length</span><span>;</span> <span>i</span><span>++</span><span>)</span> <span>{</span>
+    <span>if</span> <span>(</span><span>static_cast</span><span>&lt;</span><span>unsigned</span> <span>char</span><span>&gt;</span><span>(</span><span>data</span><span>[</span><span>i</span><span>])</span> <span>&gt;</span> <span>0x7F</span><span>)</span> <span>{</span>
+      <span>return</span> <span>false</span><span>;</span>
+    <span>}</span>
+  <span>}</span>
+  <span>return</span> <span>true</span><span>;</span>
+<span>}</span>
+</code></pre>
+</div>
+<p>We go over each character, we compare it with <code>0x7F</code> and continue if the value is no larger than <code>0x7F</code>. If you have scanned the entire string and all tests have passed, you know that your string is ASCII.</p>
+<p>Notice how I called this function <code>pessimistic</code>. What do I mean? I mean that it expects, in some sense, that it will find some non-ASCII character. If so, the best option is to immediately return and not scan the whole string.</p>
+<p>What if you expect the string to almost always be ASCII? An alternative then is to effectively do a bitwise OR reduction of the string: you OR all characters together and you check just once that the result is bounded by <code>0x7F</code>. If any character has its most significant bit set, then the bitwise OR of all characters will also have its most significant bit set. So you might write your function as follows.</p>
+<div data-sanitized-class="highlight">
+<pre><code><span>bool</span> <span>is_ascii_optimistic</span><span>(</span><span>const</span> <span>char</span> <span>*</span><span>data</span><span>,</span> <span>size_t</span> <span>length</span><span>)</span> <span>{</span>
+  <span>unsigned</span> <span>char</span> <span>result</span> <span>=</span> <span>0</span><span>;</span>
+  <span>for</span> <span>(</span><span>size_t</span> <span>i</span> <span>=</span> <span>0</span><span>;</span> <span>i</span> <span>&lt;</span> <span>length</span><span>;</span> <span>i</span><span>++</span><span>)</span> <span>{</span>
+    <span>result</span> <span>|=</span> <span>static_cast</span><span>&lt;</span><span>unsigned</span> <span>char</span><span>&gt;</span><span>(</span><span>data</span><span>[</span><span>i</span><span>]);</span>
+  <span>}</span>
+  <span>return</span> <span>result</span> <span>&lt;=</span> <span>0x7F</span><span>;</span>
+<span>}</span>
+</code></pre>
+</div>
+<p>If you have strings that are all pure ASCII, which function will be fastest? Maybe surprisingly, the optimistic might be several times faster. <a href="https://github.com/lemire/Code-used-on-Daniel-Lemire-s-blog/tree/master/2025/12/20/optimistic">I wrote a benchmark</a> and ran it with GCC 15 on an Intel Ice Lake processor. I get the following results.</p>
+<table>
+<thead>
+<tr>
+<th>function</th>
+<th>speed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>pessimistic</td>
+<td> 1.8 GB/s</td>
+</tr>
+<tr>
+<td>optimistic</td>
+<td> 13 GB/s</td>
+</tr>
+</tbody>
+</table>
+<p>Why is the optimistic faster? Mostly because the compiler is better able to optimize it. Among other possibilities, it can use autovectorization to automatically use data-level parallelization (e.g., SIMD instructions).</p>
+<p>Which function is best depends on your use case.</p>
+<p>What if you would prefer a pessimistic function, that is, one that returns early when non-ASCII characters are encountered, but you still want high speed? Then you can use <a href="https://github.com/simdutf/simdutf">a dedicated library like simdutf</a> where we have hand-coded the logic. In simdutf, the pessimistic function is called <code>validate_ascii_with_errors</code>. Your results will vary but I got that it has the same speed as optimistic function.</p>
+<table>
+<thead>
+<tr>
+<th>function</th>
+<th>speed</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>pessimistic</td>
+<td> 1.8 GB/s</td>
+</tr>
+<tr>
+<td>pessimistic (simdutf)</td>
+<td> 14 GB/s</td>
+</tr>
+<tr>
+<td>optimistic</td>
+<td> 13 GB/s</td>
+</tr>
+</tbody>
+</table>
+<p>So it is possible to combine the benefits of pessimism and optimism although it requires a bit of care.</p>]]></description>
+			<pubDate>Sat, 20 Dec 2025 16:26:09 -0700</pubDate>
+			<guid isPermaLink="false">1766318854133027</guid>
+		</item>
+		<item>
+			<title>JSON-complete data formats and programming languages</title>
+			<link>https://lemire.me/blog/2025/12/20/json-complete-data-format-and-programming-languages/</link>
+						<dc:creator>Daniel Lemire</dc:creator>
+			<description><![CDATA[<img width="150" height="150" src="https://lemire.me/blog/wp-content/uploads/2025/12/Capture-decran-le-2025-12-20-a-16.24.01-150x150.png" alt="" data-sanitized-class="webfeedsFeaturedVisual wp-post-image"><p>Much of the data on the Internet is shared using a simple format called JSON. JSON is made of two composite types (arrays and key-value maps) and a small number of primitive types (64-bit floating-point numbers, strings, null, Booleans). That JSON became ubiquitous despite its simplicity is telling.</p>
+<pre data-sanitized-class="code_syntax"><span data-sanitized-class="line_wrapper"><span>{</span></span>
+<span data-sanitized-class="line_wrapper"> <span>"</span><span>name</span><span>"</span><span>:</span> <span>"</span><span>Nova Starlight</span><span>"</span><span>,</span></span>
+<span data-sanitized-class="line_wrapper"> <span>"</span><span>age</span><span>"</span><span>:</span> <span>28</span><span>,</span></span>
+<span data-sanitized-class="line_wrapper"> <span>"</span><span>powers</span><span>"</span><span>:</span> <span>[</span><span>"</span><span>telekinesis</span><span>"</span><span>,</span> <span>"</span><span>flight</span><span>"</span><span>,</span><span>"</span><span>energy blasts</span><span>"</span><span>]</span></span>
+<span data-sanitized-class="line_wrapper"><span>}</span></span></pre>
+<p>Interestingly, JSON matches closely the data structures provided by default in the popular language Go. Go gives you arrays/slices and maps… in addition to the standard primitive types. It is a bit more than C which does not provide maps by default. But it is significantly simpler than Java, C++, C#, and many other programming languages where the standard library covers much of the data structures found in textbooks.</p>
+<p>There is at least one obvious data structure that is missing in JSON, and in Go, the set. Because objects are supposed to have no duplicate keys, you can implement a set of strings by assigning keys to an arbitrary value like true.</p>
+<pre data-sanitized-class="code_syntax"><span data-sanitized-class="line_wrapper"><span>{</span><span>"</span><span>element1</span><span>"</span><span>:</span> true<span>,</span> <span>"</span><span>element2</span><span>"</span><span>:</span> true<span>}</span></span></pre>
+<p>But I believe that it is a somewhat unusual pattern. Most times, when we mean to represent a set of objects, an array suffices. We just need to handle the duplicates somehow.</p>
+<p>There have been many attempts at adding more concepts to JSON, more complexity, but none of them have achieved much traction. I believe that it reflects the fact that JSON is good enough as a data format.</p>
+<p>I refer to any format that allows you to represent JSON data, such as YAML, as a JSON-complete data format. If it is at least equivalent to JSON, it is rich enough for most problems.</p>
+<p>Similarly, I suggest that new programming languages should aim to be JSON-complete: they should provide a map with key-value pairs, arrays, and basic primitive types. In this light, the C and the Pascal programming languages are not JSON-complete.</p>]]></description>
+			<pubDate>Sat, 20 Dec 2025 14:24:33 -0700</pubDate>
+			<guid isPermaLink="false">1766318854133026</guid>
+		</item>
+		<item>
+			<title>what has changed since quitting the dead web</title>
+			<link>https://blog.absurdpirate.com/what-has-changed-since-quitting-the-dead-web/</link>
+						<dc:creator>absurdpirate</dc:creator>
+			<category>2025</category>
+			<category>personal</category>
+			<category>socialmedia</category>
+			<description><![CDATA[<p>Ahoy there.</p>
+<p>For about a year now, I have been anti-social media, I've deleted all my accounts and really only use Reddit as a resource for niche subjects (best game in XYZ series to start with, etc.)</p>
+<p>I've been trying to figure out what to call this sect of the internet, the clear web, the normie web, the dead web, the corpo web. I'll stick with the dead web for now since I view that space as, well dead. The term to encompass the corporatized parts of the internet.</p>
+<p>I wanted to catalog some of the personal changes I've noticed in myself since quitting all social medias earlier this year</p>
+<h1 data-sanitized-id="becoming-re-sensitized">becoming re-sensitized.</h1><p><strong>CW:</strong> mentions of suicide and violence. If not in a good head space, I recommend skipping to the next section.</p>
+<p>I've notice that my sensitivity to things has increased. I used to be someone who wouldn't even flinch at a beheading video. Gore, violence, porn, distressing encounters, and other forms of hyper-stimulus on the internet were ultimately nothing to me for a while.</p>
+<p>Since quitting, I've regained a certain sense of disgust or emotion towards things I see online again. For example, I was watching a micro-documentary on YouTube about MySpace, and in it was talking about a teenage girl who hung herself due to cyberbullying that stemmed from the platform. The documentary showed the audio from the 911 call from the mom; hearing the agony in her voice knowing the scene she witnessed sent a chill down my body that I haven't felt in a very long time.</p>
+<p>The offing of ol' Chuckie Kirk was something I normally wouldn't have flinched at, but against my better judgment I watched the video and it fucked me up for a while. If I saw this video 2 years ago, I probably woulda went "damn!" then moved on.</p>
+<p>I now am acutely aware that I <em>do</em> feel things again for what I see online and take steps to avoid it. It's interesting seeing how much my attitude has changed about seeing things that are particularly distressing.</p>
+<h1 data-sanitized-id="less-mental-dread">less mental dread.</h1><p>For a while, when I was on social media frequently, I would get inundated with all the worst. Every day I was reading of what the Dipshit in Chief was doing this time, some tragedy unfolding, some human rights violation. It was taking a toll on me.</p>
+<p>There is little to gain from being THIS aware to what is going on in the world. I didn't lose my awareness that things suck in the world right now, but it's also not healthy to be constantly reminded of it every day.</p>
+<h1 data-sanitized-id="tighter-sense-community">tighter sense community.</h1><p>I feel a greater sense of community in online spaces, niche/indie web circles feel close. I cherish my friends at the Gazette, and it's truly amazing what even this little community does.</p>
+<p>The discord server for it has grown so much with so much fun things to interact with (question of the day channel, a hall of fame channel for when one of us says something funny, other stuff, a file sharing system, etc.). I have never met these guys in real life (hell I barely know what 90% of them look like), but I consider them just as much my friends as anyone else I know IRL.</p>
+<p>Since quitting social media, I've found these niche spaces the best places to connect with other people. As much as I wish my IRL friends lived closer to me, I am content with my "European friends" (as I say shorthandedly when explaining who I'm talking to to my wife) and my friends in other spaces (like my classic Halo group).</p>
+<h1 data-sanitized-id="remembering-humanity">remembering humanity.</h1><p>Another thing I've noticed since quitting social media is how... normal people are? Like, you see online and it's just endless talk about politics this and drama that. When you step outside and talk to people, there's a surprising amount of people who are seemingly just as removed from this other world as I am. They have their opinions, sure, but it rarely ever comes up.</p>
+<p>Politically, people IRL are much more moderate. If you base your view on say conservatives from what you see on the conservative subreddit, you'd think they're a bunch of blundering morons. However, I know quite a number of conservatives (often by proxy of them being parents of friends) and they seem just as pissed at the current administration as I am. Hell, my best friend's dad, a lifelong Republican, went to No Kings and it wasn't to counter protest.</p>
+<p>It can be almost jarring seeing how stark of a contrast reality seems compared to what you see online, then it hit me. The internet is mostly bots now. So, it's hard to tell if the really stupid things people are saying on reddit or youtube comment sections ever came from actual people. Every now and then I see the cracks even in these echo chambers. Going back to the conservative subreddit, there are some that believe Trump had little to do with Epstein's trafficking (as foolish as I think it is). However, they're admitting that it's harder and harder to hold on to that with each day.</p>
+<p>It makes me hopeful that these people will eventually come around. Even if they don't it still at least makes it seem like people are waking up a little bit. The red hat-wearing MAGA nut is becoming a smaller and smaller minority. Even my next-door neighbor who flew a Trump flag every day outside his house and even had a cutout of Trump on his lawn has taken down both and they have stayed down.</p>
+<p>In all this, I think it's important to remember that real life isn't the internet. People are so much more varied than we might think from these comment sections from hyper-curated feeds.</p>
+<h1 data-sanitized-id="final-notes">final notes.</h1><p>I feel different, happier, now than I did prior to quitting the corporatized web. I don't really miss any of it. It took way more from me than it ever gave. Even when it claimed to connect people, it was far from that.</p>
+<p>I do somewhat miss social media, at least how it started and the idealized vision of what it could have been. I remember playing CarTown with my dad on Facebook, and posting stupid stuff to my Facebook profile. I could see what mundane things my classmates were doing.</p>
+<p>It's funny, we used to mock people for posting the most mundane aspects of their life on social media, but nowadays it seems like we are craving that level of uninteresting content in the midst of chaos.</p>
+<p>In a world where you are seeing the war-torn faces of children and the evil of modern geopolitics, it makes you yearn to see someone's boring dinner in your feed.</p>
+<hr>
+<p><strong>Pirate is wearing</strong> Bluey pajama bottoms and shirt<br>
+<strong>Pirate is feeling</strong> relaxed<br>
+<strong>Pirate is reading</strong> Careless People by Sarah Wynn-Williams<br>
+<strong>Pirate is playing</strong> Gears of War 2</p>
+<hr>
+<p><a href="https://blog.absurdpirate.com/enjoying-holidays-again" title="learning how to enjoy the holidays again" data-sanitized-class="previous-post">Previous</a> | </p>
+<blockquote>
+<p>Reply via email: <a href="mailto:me@absurdpirate.com">me@absurdpirate.com</a></p>
+</blockquote>]]></description>
+			<pubDate>Sat, 20 Dec 2025 14:12:00 -0700</pubDate>
+			<guid isPermaLink="false">1766318854133025</guid>
+		</item>
+		<item>
+			<title>action breeds motivation</title>
+			<link>https://imperfect.bearblog.dev/action-breeds-motivation/</link>
+						<dc:creator>imperfect</dc:creator>
+			<description><![CDATA[<p>In <a href="https://classidential.bearblog.dev/motivation-404/">Motivation 404</a>, [Redacted] wrote about having no career ambitions nor motivation to make time for work-related exam studies. While making time is possible and career progression is nice, cherishing your leisure time and job role are key. All work and no play makes Jack a dull boy. You don't have to rise up or even remain in your existing vertical just because someone tells you to.</p>
+<p>On ambition, this Tyler Cowen quote from Parker Conley's <a href="https://parconley.substack.com/p/tyler-cowen-learning-history-and">Tyler Cowen – Learning, History, and Investing in Ideas</a> (found from Etan's <a href="https://etan.bearblog.dev/tyler-cowen-on-compound-personal-growth/">Tyler Cowen on compound personal growth</a>) seems pertinent:</p>
+<blockquote>
+<p>You just have to do what interests you because there’s higher compound returns when you stay involved through, you know, these pretty selfish reasons that you’re enjoying it.</p>
+</blockquote>
+<p>On motivation, reverse the formula. Find motivation <em>from</em> actions. A ball at rest remains. A ball in motion keeps moving. It's as Theseus says in <a href="https://theseus.bearblog.dev/i-frequently-sit-in/">i frequently sit in...</a>:</p>
+<blockquote>
+<p>I frequently sit in front of an empty canvas uninspired to make the first step. Then as soon as I've made the first step, everything sort of falls into place.</p>
+</blockquote>
+<p>If you have have very little internal and external pressure upon you like [Redacted] does, what better time is there to act in honor of your interests?</p>
+<hr>
+<p>Want to reach out? Connect with me however you prefer:</p>
 <ul>
-<li>Peppermint hot chocolate after a walk in the cold</li>
-<li>Hosting Christmas for our extended family</li>
-<li>How cosy the house looks when it's dark out and all the lamps are on</li>
-<li>Hearing the cows in the field mooing to each other early in the morning</li>
-<li>Lily Allen's new album</li>
-<li>Christmas fantasy romance films</li>
+<li><a href="mailto:yoursimperfect@proton.me?subject=re:%20action%20breeds%20motivation">Email me via your mail client</a></li>
+<li>Copy my email address or remember it for later: <code>yoursimperfect@proton.me</code></li>
+<li><a href="https://letterbird.co/imperfect">Email me via Letterbird contact form</a> or <a href="https://letterbird.co/imperfect">open it in a new tab</a></li>
 </ul>]]></description>
-			<pubDate>Sat, 20 Dec 2025 05:23:12 -0700</pubDate>
-			<guid isPermaLink="false">1766253891949224</guid>
+			<pubDate>Sat, 20 Dec 2025 13:30:00 -0700</pubDate>
+			<guid isPermaLink="false">1766318854133024</guid>
 		</item>
 		<item>
-			<title>the brave coward</title>
-			<link>https://mikkolaksola.com/the-brave-coward/</link>
-						<dc:creator>mikkolaksola</dc:creator>
-			<description><![CDATA[<p>I was asked at a job interview yesterday to describe the bravest thing I've ever done.</p>
-<p>I'm not going to lie, it caught me a bit off guard. Not surprisingly, my first thoughts were hilariously bad, especially compared to better answers that came to me later — while driving back home.</p>
-<p>Anyway.</p>
-<p>My initial answer and following discussion eventually led me to highlight some simple, seemingly boring everyday situations where one might put themselves out there and be vulnerable: starting a difficult conversation, asking that person out, revealing your true feelings, asking for a promotion or a raise, or trying anything new in public.</p>
-<p>I started to feel OK-ish about my answer at this point.</p>
-<p>But my brain wasn't done and kept going — out loud, of course.</p>
-<p>Actually, I wasn't sure those were acts of bravery after all, despite seeming like such on the outside. When I really think about it, I didn't do any of them because I'm so brave and overcame the fear. It's actually quite cowardly. I did them because I <em>fear</em> the alternative much, much more.</p>
-<p>Regret.</p>
-<p>The possibility of <em>that</em> is so much scarier than any rejection could ever be.</p>
-<p>You want to be <em>really</em> brave? To stare fear into the eyes and not flinch?</p>
-<p>Just do nothing and face the consequences.</p>
-<p>I'm happily a coward.</p>
-<p><u>Putting yourself out there and going for it <em>is</em> the safe option.</u></p>]]></description>
-			<pubDate>Sat, 20 Dec 2025 04:51:00 -0700</pubDate>
-			<guid isPermaLink="false">1766253891949223</guid>
+			<title>The indie web in 2030</title>
+			<link>https://jamesg.blog/2025/12/20/the-indie-web-in-2030/</link>
+						<dc:creator>James' Coffee Blog</dc:creator>
+			<description><![CDATA[<p>In 2030, my greatest hope for the indie web is that it is a place where people feel free to create, to experiment, and to always be able to ask – and act on the answers to – the question “what do I want this place to be?”</p><p>To enable this, the indie web must be open both technically and have a culture that supports discussion, exploration, and discourse, where we – everyone – looks at the web we have now and asks what we like, what we don’t like, and what we want, and move in the directions that let us build better futures.</p><p>We should avoid being prescriptive (you must have a website, a website must have [feature], must be made in [this] way, or your identity must use [this] protocol, and so on), and instead be as open minded as we can be. Rather, I invite us to embrace all that is in the spirit of the indie web, whatever that means to each of us.</p><p>How many exciting parts of the indie web are yet to be created that are built upon ideas that have not yet been imagined? This very question imbues a sense of promise about what the indie web could be, and the answers will be evermore fruitful if people feel confident that they are able to shape the web in the way they want.</p><p>A further question to entertain is the extent to which one is a member of the indie web if they prefer to read rather than create. If I read blogs or follow accounts on the fediverse but do not myself create, am I on the indie web?</p><p>⁂⁂⁂</p><p>Being invited to answer the question “where do you want the indie web to be in 2030?” and being able to answer the question on my website feels like the epitome of indie web – we’re discussing and making the culture with its own medium, the web; a place where many voices can be part of the discussion. I love reading others’ perspectives of the indie web. Contrary to the vision imposed by corporate platforms that there are but few shapes for the web, and we need to wait for those platforms to define those shapes, on the indie web we’re all making our web together.</p><p>One of the most freeing parts of having a website – which I consider to be one way of the many ways to participate in the indie web – is being able to create my own place on the web; one that’s truly mine. I can create my own design. I can choose my own typography. I can choose how things link together. I can have a sidebar navigation. I can create a list of links to other websites I love – other homes on the web – in the way that I want. And, importantly, so can you, too, do all of this and more on your own personal website. You can turn your image of a home on the web that’s right for you into a reality, and use that space as a place to connect (if connecting with others is indeed what you want; you may just want to make a web page for fun and that’s okay too!).</p><p>⁂⁂⁂</p><p>When I think about how to get more people on the indie web, I ask myself “why would someone want to join?” What is the merit in there being more people with personal websites? I think this question needs due consideration. I can say confidently that I love having a personal website, but does that mean other people will? Having a website can be a lot of work, and there aren’t the social benefits; to really “own” your presence on the web, there is often a monetary cost, too – a domain name, hosting, etc.</p><p>Whether someone sees the benefit of having a website or not, the infrastructure, tooling, and culture should be in place such that you are both able to set one up, and feel like you can get something out of it. You should be able to _try_ having a website and see what it’s like – to be able to create and find and share and explore spaces that interest you. And I think this only works if we build a culture of open-mindedness of what the indie web can be.</p><p>Already with social media platforms, people have made their own spaces – communities are built with and congregate on many social platforms. But think of what people could do if people had more control over those spaces. What could be created, both technologically and culturally? I’m sure the answer to that question would surpass my imagination. The web makes it possible to dream big – the idea of giant public squares on centralised social platforms narrowed the field of vision, but we can broaden our horizons once again by asking “what could be?”</p><p>⁂⁂⁂</p><p>More tools don’t necessarily make a richer indie web – rather, people do. Of all the moments in the indie web I have had over the last year, the best parts have been meeting and talking with people, through both blogs, events, and communities. </p><p>Of course, we will need more tools, both creative ones and also ones that address concerns that are as yet not as well explored technologically but are essential for people to feel safe. For instance: how do we make a private indie web where communities can group together without having everything public? What are the privacy implications of the indie web, and where does technology fit in? How have our perceptions of the indie web changed with the advent of scraping by generative text tools?</p><p>If the indie web grants us freedom to make our sites in the way we want, we are able to challenge some of the properties that have emerged from social media. Do we really want scale? Do we really want like buttons and reactions? What does a post that is designed to be ephemeral look like? How do we assure trust? How do we ensure we don’t rely too heavily on privacy by obscurity? How do we want to curate our own content? What new forms of collaborative creation could exist?</p><p>Decentralisation, alone, will not make the web a better place. We need to ask fundamental questions about what we want from the web, and use the power of the web – to create, collaborate, connect, share, discuss, and debate – to make something we really want.</p><p>⁂⁂⁂</p><p>In writing this, part of me feels like I am giving a non-answer – that my dream for the future of the indie web is for us to keep asking questions and to avoid homogeneity in defining what the indie web should be. I seem to have more questions than answers. The essence of this sentiment, however, is that asking questions keeps the community open and alive, and that essence is exactly what is needed for the idea of having a personal website to reach more people.</p><p>More concretely: I want an open, welcoming web. I want a web where people can share their ideas. I want a social web that supports private discussion. I want a web where people can build new things. I want a web where people can be themselves. And I want a web where it is clear these things are all possible – where the reason for setting up a website is not to “have a website” but because having a website is a means to the end of connecting, as it is for me and so many others.</p><p>I hope that, one day, the indie web will be a constellation of communities – maybe there will be an “art web” of writers on art (who are likely already out there!), a “student web” of students who blog about their experiences. Communities may overlap to varying extents, just as publics do on social media – indeed, connecting with others should be the essence of an indie web. If there can be a “BookTok”, there can be an indie web equivalent. (I’d argue, even, there already is: surely there are many book blogs out there already!)</p><p>I love having a blog. I love reading others’ blogs. I think having a personal website is cool. I think it is empowering. My website gives me a voice. I love my website being a place for my words, and I enjoy using it as a playground to experiment with web design. I enjoy finding ways to bring in little bits of joy to my website, to the extent that my home page has, for at least the last year, welcomed readers with “I hope this website can bring a little bit of joy into your day.”</p><p>I hope others, in trying out having a website, realise the potential of the indie web to give them a voice on the web, then ask: “now that I have my own space on the web, what do I want to do with it?” The world wide web is your oyster.</p><p><em>This post is my contribution to the December 2025 IndieWeb Carnival hosted by V.H. Belvadi on the topic "</em><a href="https://vhbelvadi.com/indieweb-carnival-future"><em>where do you see the IndieWeb in 2030?</em></a><em>"</em></p>]]></description>
+			<pubDate>Sat, 20 Dec 2025 11:22:23 -0700</pubDate>
+			<guid isPermaLink="false">1766318854133023</guid>
 		</item>
 		<item>
-			<title>let's give it a sniff: Bits and Bops</title>
-			<link>https://itwont.work/blog/lets-give-it-a-sniff-bits-and-bops</link>
-						<description><![CDATA[<p>let's give it a sniff: Bits and Bops</p>]]></description>
+			<title>I have become more of a writing utensil snob</title>
+			<link>https://cassidoo.co/post/writing-utensil-snob-part-2/</link>
+						<description><![CDATA[<p>It’s Blogvent, day 20, where I blog daily in December!</p>
+<p>Last year, almost exactly a year ago today, I wrote that I was becoming <a href="https://cassidoo.co/post/writing-utensil-snob/">a minor writing utensil snob</a>.</p>
+<p>Unfortunately for my wallet, I don’t think I can call myself a minor snob anymore. I’m approaching the big leagues.</p>
+<p>I write daily in a physical leather journal (<a href="https://byrenacer.shop/product/journal/">specifically from here</a> that I highly recommend, I can swap paper notebooks in and out of it and it’s way more affordable than other leather journal brands) now. I have two, one more for day-to-day tasks and notes at my desk, and another smaller one for travel.</p>
+<p>Last year I said, “I’m not a hardcore fountain pen nerd <em>yet</em>,” and now I have a literal fountain pen stand at my desk.</p>
+<p>Here’s the writing utensils I’m now using (if you look at last year’s post, you can see which ones survived the year), in general order of how often I use them:</p>
+<ul>
+<li>Caran D’ache 849™ fountain pen (red)</li>
+<li>Kakimori aluminum ballpoint pen (black)</li>
+<li>Pilot Kakuno fountain pen (translucent aqua)</li>
+<li>Benu Briolette fountain pen (Starlit Oasis colorway)</li>
+<li>Uni Kurutoga Standard mechanical pencil</li>
+<li>OHTO MS01 all-metal drafting pencil</li>
+<li>LAMY Pico ballpoint pen</li>
+</ul>
+<p>In addition to these, I have some nice accessories now like the Tohkin Metal Pencil Extender to use with my regular pencils, the Mitsubishi Pencil Co. KH-20 pencil sharpener, and I’m playing around with different erasers (the latest brand I’m trying is Milan).</p>
+<p>I haven’t gotten deep into the world of inks yet. I am hoping I don’t have an update post again in the future. But you never know.</p>
+<p>…I went in too deep y’all. It’s bad. But it’s so, so fun.</p>]]></description>
 			<pubDate>Fri, 19 Dec 2025 17:00:00 -0700</pubDate>
-			<guid isPermaLink="false">1766253891949222</guid>
+			<guid isPermaLink="false">1766318854133022</guid>
 		</item>
 
 	</channel>
